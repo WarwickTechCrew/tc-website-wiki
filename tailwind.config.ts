@@ -9,6 +9,9 @@ const config: Config = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      cabin: ['Cabin', 'sans-serif'],
+    },
     screens: {
       '2xs': '440px',
       xs: '520px',
@@ -20,6 +23,6 @@ const config: Config = {
     },
   },
   plugins: [],
-}
+};
 
 export default config;

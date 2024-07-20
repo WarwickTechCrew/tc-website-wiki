@@ -8,6 +8,11 @@ const config: Config = {
   tagline: 'Providing technical services at the University of Warwick',
   favicon: 'img/favicon.ico',
 
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
   // Set the production url of your site here
   url: 'https://www.warwicktechcrew.co.uk',
   // Set the /<baseUrl>/ pathname under which your site is served

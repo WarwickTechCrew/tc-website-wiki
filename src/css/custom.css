@@ -46,3 +46,7 @@ body {
 a {
   @apply text-blue-900;
 }
+
+figcaption {
+  @apply text-xs;
+}

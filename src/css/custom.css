@@ -42,3 +42,7 @@ h2 {
 body {
   @apply font-cabin;
 }
+
+a {
+  @apply text-blue-900;
+}

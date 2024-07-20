@@ -9,12 +9,6 @@ Then, clone the website through SSH. You'll need to install [Git](https://git-sc
 git clone git@github.com:WarwickTechCrew/website.git
 ```
 
-Setup env
-```bash
-cp .env .env.local
-nano .env.local
-```
-
 Install npm modules
 ```bash
 npm install

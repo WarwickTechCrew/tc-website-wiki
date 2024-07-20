@@ -37,9 +37,9 @@ const config: Config = {
       'classic',
       {
         docs: {
+          path: './wiki',
+          routeBasePath: 'wiki',
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/WarwickTechCrew/website/tree/main/',
         },

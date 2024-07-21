@@ -14,8 +14,8 @@ const config: Config = {
   },
   themes: ['@docusaurus/theme-mermaid'],
 
-  // url: 'https://www.warwicktechcrew.co.uk',
-  url: 'https://warwicktechcrew.github.io/website',
+  url: 'https://www.warwicktechcrew.co.uk',
+  // url: 'https://warwicktechcrew.github.io/website',
 
   baseUrl: '/',
   trailingSlash: false,

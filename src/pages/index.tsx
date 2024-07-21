@@ -9,15 +9,6 @@ import TechCrewCarousel, { CarouselSlide } from '@site/src/components/carousel';
 import showsCarousel from '@site/src/components/home/shows-carousel';
 import generalCarousel from '@site/src/components/home/general-carousel';
 
-/*
-<div
-          style={{
-            backgroundImage: `url("/images/general-carousel/bandsoc-joshheng.jpg")`,
-          }}
-          className="bg-fixed bg-no-repeat bg-cover bg-center w-full h-96 "
-        ></div>
-
- */
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -58,7 +49,9 @@ export default function Home(): JSX.Element {
             </div>
             <figure className="w-56 flex-shrink-0">
               <img
-                src="/images/streetcar-joshheng.jpg"
+                src={
+                  require('@site/static/images/streetcar-joshheng.jpg').default
+                }
                 alt="Streetcar"
                 className="h-auto w-full object-contain"
               />

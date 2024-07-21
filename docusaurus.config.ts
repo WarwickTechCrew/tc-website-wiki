@@ -17,7 +17,7 @@ const config: Config = {
   url: 'https://www.warwicktechcrew.co.uk',
   // url: 'https://warwicktechcrew.github.io/website',
 
-  baseUrl: '/',
+  baseUrl: '/website/',
   trailingSlash: false,
 
   organizationName: 'WarwickTechCrew',

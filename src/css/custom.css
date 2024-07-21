@@ -66,3 +66,7 @@ h2 {
 .theme-doc-markdown ol {
   @apply list-decimal ml-2;
 }
+
+.theme-doc-markdown blockquote {
+  @apply mb-2;
+}

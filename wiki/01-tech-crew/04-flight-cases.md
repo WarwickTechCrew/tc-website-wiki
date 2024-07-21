@@ -17,7 +17,15 @@ contains:
 
 ## Gibby (he/him)
 
+> don’t use flo or gibby to transport big heavy stuff ON TOP of them because they **will** tip over - Echo Vaughan, 21 
+> July 2024
+
+> and don't ever put flo/gibby on a lead and pull them around from avon because that would be irresponsible 
+> ~~[redacted]~~ - Stanley Simmons, 21 July 2024
+
 ## Flo (she/her)
+
+> Flo was used to transport the light that lit the footloose stage box during the repanel - Echo Vaughan, 21 July 2024
 
 ## Dave [the box] (he/him)
 
@@ -35,6 +43,9 @@ Uses for Boris:
 - Cutting gels on
 - Sitting on
 - Getting stuck in a doorway
+
+> ohh wait is boris the big rectangle one that i always put my gel cutting board on to cut gels - Dallon Costello, 
+> 21 July 2024
 
 ## Warwick Arts Centre Flight Cases
 

@@ -1,3 +1,0 @@
-# Tech Crew
-
-Hi

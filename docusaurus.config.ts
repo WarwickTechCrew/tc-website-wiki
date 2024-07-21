@@ -43,9 +43,8 @@ const config: Config = {
         docs: {
           path: './wiki',
           routeBasePath: 'wiki',
-          sidebarPath: './sidebars.ts',
-          editUrl:
-            'https://github.com/WarwickTechCrew/website/tree/main/',
+          sidebarPath: './sidebar.ts',
+          editUrl: 'https://github.com/WarwickTechCrew/website/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -66,7 +65,7 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'wiki',
           position: 'left',
           label: 'Wiki',
         },

@@ -35,10 +35,6 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-h2 {
-  @apply font-bold text-xl;
-}
-
 body {
   @apply font-cabin;
 }
@@ -49,4 +45,24 @@ a {
 
 figcaption {
   @apply text-xs;
+}
+
+.theme-doc-markdown h1 {
+  @apply text-2xl font-bold !mb-2;
+}
+
+h2 {
+  @apply font-bold text-xl;
+}
+
+.theme-doc-markdown h3 {
+  @apply font-bold text-lg;
+}
+
+.theme-doc-markdown ul {
+  @apply list-disc ml-2;
+}
+
+.theme-doc-markdown ol {
+  @apply list-decimal ml-2;
 }

@@ -8,21 +8,20 @@ const config: Config = {
   tagline: 'Providing technical services at the University of Warwick',
   favicon: 'img/favicon.ico',
 
+
   markdown: {
     mermaid: true,
   },
   themes: ['@docusaurus/theme-mermaid'],
 
-  // Set the production url of your site here
-  url: 'https://www.warwicktechcrew.co.uk',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  // url: 'https://www.warwicktechcrew.co.uk',
+  url: 'https://warwicktechcrew.github.io/website',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'WarwickTechCrew', // Usually your GitHub org/user name.
-  projectName: 'website', // Usually your repo name.
+  baseUrl: '/',
+  trailingSlash: false,
+
+  organizationName: 'WarwickTechCrew',
+  projectName: 'website', // repo name
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

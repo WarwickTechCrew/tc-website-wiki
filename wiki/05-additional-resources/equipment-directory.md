@@ -11,6 +11,7 @@ we don't have. Similarly, they regularly rent our radio mics.
 
 * Big PA
 * Moving lights
+* 2 ETC ColorSource PARs
 * **Staging (LiteDeck, with 1ft or 3ft legs)**
 * ATEM Mini Pro ISO
 * Blackmagic Pocket Cinema Camera 4K
@@ -34,6 +35,12 @@ with enough notice.
 
 Can offer power hookups and assorted distribution in various outdoor locations around campus, and sometimes generators
 too when needed if you're lucky.
+
+### Music Centre
+
+The Music Centre has a bunch of various equipment, both technical and non technical. They have lots of music stands,
+keyboards, amps etc. that can be borrowed, as well as a Midas M32R mixer. Also of note is the music production studio
+with recording and editing facilities (which could be useful for voiceovers in shows, or sound design).
 
 ### Warwick Arts Centre
 

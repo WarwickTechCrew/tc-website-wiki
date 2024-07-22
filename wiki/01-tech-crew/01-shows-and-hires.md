@@ -28,4 +28,5 @@ More about hires
 While _technically_ hires, this category contains larger scale events that require an amount of preparation and
 involvement closer to shows. They often involve hiring equipment from elsewhere, and are good fun from a tech
 perspective without necessarily requiring the huge ongoing time commitment shows can have.
-Events in this category include WSAF and Pride.
+
+Events in this category include [WSAF](/wiki/case-studies/wsaf-2024.md) and Pride.

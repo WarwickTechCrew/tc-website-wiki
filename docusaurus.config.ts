@@ -8,13 +8,12 @@ const config: Config = {
   tagline: 'Providing technical services at the University of Warwick',
   favicon: 'img/favicon.ico',
 
-
   markdown: {
     mermaid: true,
   },
   themes: ['@docusaurus/theme-mermaid'],
 
-  url: 'https://www.warwicktechcrew.co.uk',
+  url: 'https://dev.warwicktechcrew.co.uk',
   // url: 'https://warwicktechcrew.github.io/website',
 
   baseUrl: '/website/',

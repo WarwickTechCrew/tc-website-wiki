@@ -28,7 +28,11 @@ access to the rooms' hard patching to save running cables everywhere.
 
 ### IT Services
 
-Can offer setting up networking and patching ports for internet access around campus (including outdoors) if emailed
+In the library, IT services offer
+[loans of some equipment](https://warwick.ac.uk/services/it-students/computers/laptop-loans/) such as laptops and quite
+usefully short-term iPad loans if you need an extra control surface.
+
+They can also offer setting up networking and patching ports for internet access around campus (including outdoors) if emailed
 with enough notice.
 
 ### Estates

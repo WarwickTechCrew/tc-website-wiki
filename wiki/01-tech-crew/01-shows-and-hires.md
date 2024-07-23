@@ -17,16 +17,32 @@ a project basis, with members applying to roles on each project using our intern
 
 ## Shows
 
-More about shoes
+Shows follow a standard process within Warwick Drama, which is documented [here](../warwick-drama/shows). This will
+typically consist of joining a show team to write the technical elements of a show **pack** and presenting this at
+**panel**. If the show passes panel, the tech team will then plan for the show, communicating with Warwick Arts Centre
+through regular meetings and submitting a **technical rider** before show week. Show week then consists of getting into
+the space, setting everything up, running a technical and dress rehearsal, completing the show and resetting the venue
+for the next event, followed by a debrief.
+
+Examples of shows include Godspell (Music Theatre Warwick), Carmen (Opera Warwick) & The Tempest (Warwick University
+Drama Society X ShakeSoc).
 
 ## Hires
 
-More about hires
+Hires are any other project we do that isn't a show. These are requested by another society or group through our
+**Hires Form**, which the **Hires Manager** manages. Most hires are considered **wet** (as opposed to a *dry* hire),
+where the society will ask for operators to run their event. In this case, the opportunity is advertised to our members
+who can apply and sign up like for a show.
 
-## Special Events
+Examples of hires include PantoSoc pantomimes, The Improv Musical (Music Theatre Warwick) & The Warwick Economics
+Summit.
+
+### Special Events
 
 While _technically_ hires, this category contains larger scale events that require an amount of preparation and
 involvement closer to shows. They often involve hiring equipment from elsewhere, and are good fun from a tech
-perspective without necessarily requiring the huge ongoing time commitment shows can have.
+perspective without necessarily requiring the huge ongoing time commitment shows can have. Whilst these are the rarest
+event that we have in a year, we are hoping that as we partner with more university departments this can become more of
+a regular occurrence.
 
-Events in this category include [WSAF](/wiki/case-studies/wsaf-2024.md) and Pride.
+Examples of special invents include [WSAF](/wiki/case-studies/wsaf-2024.md) and Pride 2023.

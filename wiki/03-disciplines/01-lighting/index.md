@@ -12,7 +12,7 @@ Gels are also used by sound designers! The [RAT music stands](https://www.ratsta
 [Tech crew gel stock:](https://www.warwicktechcrew.co.uk/lx-catalogue/gels/)
 <iframe
   src="https://www.warwicktechcrew.co.uk/lx-catalogue/gels/"
-  width="80%"
+  width="100%"
   height="600">
 </iframe>
 
@@ -22,6 +22,6 @@ Gobos are thin metal plates with designs cut into them. They are put in front of
 [Tech crew gobo stock:](https://www.warwicktechcrew.co.uk/lx-catalogue/gobos/)
 <iframe
   src="https://www.warwicktechcrew.co.uk/lx-catalogue/gobos/"
-  width="80%"
+  width="100%"
   height="600">
 </iframe>

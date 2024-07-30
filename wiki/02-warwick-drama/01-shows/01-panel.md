@@ -14,4 +14,8 @@ Resources:
 
 ## Pack
 
+This is the document shows send to the Productions manager of their society, in their bid for the slot.
+
+
+
 ## Panel

@@ -26,7 +26,7 @@ export default function Home(): JSX.Element {
           <div className="max-w-screen-xl mx-auto text-white h-full">
             <div className="flex flex-col xs:flex-row gap-2 xs:gap-4 xs:items-center h-full">
               <img
-                src="/logo-light.svg"
+                src="/logo-dark.svg"
                 alt="Tech Crew Logo"
                 className="w-20 md:w-24 lg:w-32 h-auto"
               />
@@ -46,7 +46,7 @@ export default function Home(): JSX.Element {
 
       <main className="-mt-16 2xs:-mt-12 xs:-mt-28 sm:-mt-32">
         <section className="relative my-4 mx-8 sm:mx-12 md:mx-16">
-          <div className="max-w-screen-xl mx-auto p-6 bg-gray-200 flex gap-4 flex-wrap">
+          <div className="max-w-screen-xl mx-auto p-6 dark:bg-neutral-800 bg-gray-200 flex gap-4 flex-wrap">
             <div className="w-80 flex-grow">
               <AboutUs />
             </div>
@@ -128,7 +128,7 @@ export default function Home(): JSX.Element {
             }}
           >
             <div className="px-4 pt-8 sm:pt-16 pb-16 sm:pb-24 max-w-screen-2xl mx-auto flex flex-col">
-              <div className="max-w-screen-xl mx-auto p-4 sm:p-6 bg-gray-200 gap-4 content-styling w-full">
+              <div className="max-w-screen-xl mx-auto p-4 sm:p-6 dark:bg-neutral-800 bg-gray-200 gap-4 content-styling w-full">
                 <Shows />
                 <div className="flex gap-4 flex-wrap">
                   <CaptionedImage

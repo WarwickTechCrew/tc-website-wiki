@@ -12,10 +12,7 @@ import CaptionedImage from '@site/src/components/captioned-image';
 
 export default function Home(): JSX.Element {
   return (
-    <Layout
-      title="Home"
-      description="Welcome to Warwick Tech Crew, the society for anyone interested in technical theatre or entertainment."
-    >
+    <Layout description="Welcome to Warwick Tech Crew, the society for anyone interested in technical theatre or entertainment.">
       <header className="relative">
         <div>
           <TechCrewCarousel

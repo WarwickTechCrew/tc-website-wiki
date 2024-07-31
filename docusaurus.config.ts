@@ -5,8 +5,9 @@ import tailwindPlugin from './plugins/tailwind-plugin';
 
 const config: Config = {
   title: 'Warwick Tech Crew',
-  tagline: 'Providing technical services at the University of Warwick',
-  favicon: 'img/favicon.ico',
+  tagline:
+    'Welcome to Warwick Tech Crew, the technical theatre and entertainment society at the University of Warwick.',
+  favicon: '/logo-dark.svg',
 
   markdown: {
     mermaid: true,
@@ -53,13 +54,12 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: '/logo-light.png',
     navbar: {
       title: 'Warwick Tech Crew',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Warwick Tech Crew Logo',
+        src: '/logo-light.svg',
       },
       items: [
         {
@@ -67,11 +67,6 @@ const config: Config = {
           sidebarId: 'wiki',
           position: 'left',
           label: 'Wiki',
-        },
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
         },
       ],
     },

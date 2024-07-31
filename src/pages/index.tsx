@@ -20,23 +20,25 @@ export default function Home(): JSX.Element {
         <div>
           <TechCrewCarousel
             slides={showsCarousel}
-            slideClasses="opacity-60"
+            slideClasses="opacity-40 xs:opacity-60"
             bottomRightCaption
           />
         </div>
 
-        <div className="absolute top-8 right-8 bottom-32 left-8">
+        <div className="absolute top-12 right-16 2xs:right-20 sm:right-24 bottom-32 left-16 2xs:left-20 sm:left-24">
           <div className="max-w-screen-xl mx-auto text-white h-full">
-            <div className="flex gap-4 items-center h-full">
+            <div className="flex flex-col xs:flex-row gap-2 xs:gap-4 xs:items-center h-full">
               <img
                 src="/logo-light.svg"
                 alt="Tech Crew Logo"
-                className="w-32 h-auto"
+                className="w-20 md:w-24 lg:w-32 h-auto"
               />
               <div>
-                <p className="text-xl">Welcome to</p>
-                <h1 className="text-5xl font-bold">Warwick Tech Crew</h1>
-                <p className="text-lg font-medium">
+                <p className="2xs:text-lg lg:text-xl -mb-2">Welcome to</p>
+                <h1 className="text-xl 2xs:text-2xl md:text-4xl lg:text-5xl font-bold">
+                  Warwick Tech Crew
+                </h1>
+                <p className="text-sm 2xs:text-base lg:text-lg font-medium">
                   Providing technical services at the University of Warwick
                 </p>
               </div>
@@ -45,10 +47,10 @@ export default function Home(): JSX.Element {
         </div>
       </header>
 
-      <main className="-mt-32">
-        <section className="relative my-4 mx-16">
-          <div className="max-w-screen-xl mx-auto p-6 bg-gray-200 flex gap-4">
-            <div>
+      <main className="-mt-16 2xs:-mt-12 xs:-mt-28 sm:-mt-32">
+        <section className="relative my-4 mx-8 sm:mx-12 md:mx-16">
+          <div className="max-w-screen-xl mx-auto p-6 bg-gray-200 flex gap-4 flex-wrap">
+            <div className="w-80 flex-grow">
               <AboutUs />
             </div>
             <CaptionedImage
@@ -58,13 +60,14 @@ export default function Home(): JSX.Element {
               }
               alt="Streetcar"
               caption="A Streetcar Named Desire, WUDS, 2024. Photo © Josh Heng"
+              width="w-56"
             />
           </div>
         </section>
-        <div className="flex max-w-screen-2xl mx-auto content-styling">
+        <div className="grid grid-cols-1 lg:grid-cols-2 max-w-screen-2xl mx-auto content-styling px-2 sm:px-4">
           <section className="p-4">
             <Hires />
-            <div className="flex gap-4 justify-between">
+            <div className="flex flex-wrap gap-4">
               <CaptionedImage
                 src={
                   require('@site/static/images/home/improvmusical-joshheng.jpg')
@@ -92,7 +95,7 @@ export default function Home(): JSX.Element {
           </section>
           <section className="p-4">
             <GetInvolved />
-            <div className="flex gap-4 justify-between">
+            <div className="flex flex-wrap gap-4">
               <CaptionedImage
                 src={
                   require('@site/static/images/home/dccupboard-kishansharma.jpg')
@@ -127,10 +130,10 @@ export default function Home(): JSX.Element {
               backgroundImage: `url('${require('@site/static/images/home/company-kishansharma.jpg').default}')`,
             }}
           >
-            <div className="px-4 pt-16 pb-24 max-w-screen-2xl mx-auto flex flex-col">
-              <div className="max-w-screen-xl mx-auto p-6 bg-gray-200 gap-4 content-styling">
+            <div className="px-4 pt-8 sm:pt-16 pb-16 sm:pb-24 max-w-screen-2xl mx-auto flex flex-col">
+              <div className="max-w-screen-xl mx-auto p-4 sm:p-6 bg-gray-200 gap-4 content-styling w-full">
                 <Shows />
-                <div className="flex gap-4 justify-between">
+                <div className="flex gap-4 flex-wrap">
                   <CaptionedImage
                     src={
                       require('@site/static/images/home/anoblegame-joshheng.jpg')

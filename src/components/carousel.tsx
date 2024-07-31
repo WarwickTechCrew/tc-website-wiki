@@ -59,21 +59,21 @@ export default function TechCrewCarousel({
       }
     >
       {slides.map((slide, i) => (
-        <figure key={i}>
+        <figure key={i} className="flex flex-col h-full">
           {bottomRightCaption || (
-            <figcaption className="mb-1">{slide.caption}</figcaption>
+            <figcaption className="mb-1 mt-auto">{slide.caption}</figcaption>
           )}
 
           <div className="bg-black">
             <img
               src={slide.src}
               alt={slide.caption}
-              className={`object-contain ${slideClasses}`}
+              className={`object-cover h-auto min-h-[18rem] ${slideClasses}`}
             />
           </div>
 
           {bottomRightCaption && (
-            <figcaption className="text-right mt-1 mr-1">
+            <figcaption className="absolute 4xl:static right-1 top-1 text-white 4xl:text-black text-xs text-right ml-auto mt-1 mr-1 max-w-96 pl-4">
               {slide.caption}
             </figcaption>
           )}

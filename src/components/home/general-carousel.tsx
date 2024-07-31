@@ -2,29 +2,30 @@ import { CarouselSlide } from '@site/src/components/carousel';
 
 const carousel: CarouselSlide[] = [
   {
-    src: require('@site/static/images/general-carousel/bandsoc-joshheng.jpg')
+    src: require('@site/static/images/home/general-carousel/bandsoc-joshheng.jpg')
       .default,
-    caption: 'Godspell, Music Theatre Warwick, 2024. Photo © Josh Heng',
+    caption: 'BandSoc Showcase, 2023. Photo © Josh Heng',
   },
   {
-    src: require('@site/static/images/general-carousel/fringeimprov-joshheng.jpg')
+    src: require('@site/static/images/home/general-carousel/fringeimprov-joshheng.jpg')
       .default,
-    caption: 'Godspell, Music Theatre Warwick, 2024. Photo © Josh Heng',
+    caption:
+      'The Improv Musical at Edinburgh Fringe, Music Theatre Warwick, 2023. Photo © Josh Heng',
   },
   {
-    src: require('@site/static/images/general-carousel/interuni-joshheng.jpg')
+    src: require('@site/static/images/home/general-carousel/interuni-joshheng.jpg')
       .default,
-    caption: 'Godspell, Music Theatre Warwick, 2024. Photo © Josh Heng',
+    caption: 'InterUni, Music Theatre Warwick, 2023. Photo © Josh Heng',
   },
   {
-    src: require('@site/static/images/general-carousel/wonder-joshheng.jpg')
+    src: require('@site/static/images/home/general-carousel/wonder-joshheng.jpg')
       .default,
-    caption: 'Godspell, Music Theatre Warwick, 2024. Photo © Josh Heng',
+    caption: 'Wonder, Warwick Christian Union, 2024. Photo © Josh Heng',
   },
   {
-    src: require('@site/static/images/general-carousel/wsaf-joshheng.jpg')
+    src: require('@site/static/images/home/general-carousel/wsaf-joshheng.jpg')
       .default,
-    caption: 'Godspell, Music Theatre Warwick, 2024. Photo © Josh Heng',
+    caption: 'Warwick Student Arts Festival, 2024. Photo © Josh Heng',
   },
 ];
 

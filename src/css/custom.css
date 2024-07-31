@@ -70,3 +70,7 @@ h2 {
 .theme-doc-markdown blockquote {
   @apply mb-2;
 }
+
+.theme-doc-markdown p, .content-styling p {
+  @apply mb-3;
+}

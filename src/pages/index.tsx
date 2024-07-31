@@ -8,17 +8,21 @@ import Shows from '@site/src/components/home/shows.mdx';
 import TechCrewCarousel, { CarouselSlide } from '@site/src/components/carousel';
 import showsCarousel from '@site/src/components/home/shows-carousel';
 import generalCarousel from '@site/src/components/home/general-carousel';
+import CaptionedImage from '@site/src/components/captioned-image';
 
 export default function Home(): JSX.Element {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title="Home"
+      description="Welcome to Warwick Tech Crew, the society for anyone interested in technical theatre or entertainment."
     >
       <header className="relative">
         <div>
-          <TechCrewCarousel slides={showsCarousel} />
+          <TechCrewCarousel
+            slides={showsCarousel}
+            slideClasses="opacity-60"
+            bottomRightCaption
+          />
         </div>
 
         <div className="absolute top-8 right-8 bottom-32 left-8">
@@ -47,35 +51,139 @@ export default function Home(): JSX.Element {
             <div>
               <AboutUs />
             </div>
-            <figure className="w-56 flex-shrink-0">
-              <img
-                src={
-                  require('@site/static/images/streetcar-joshheng.jpg').default
-                }
-                alt="Streetcar"
-                className="h-auto w-full object-contain"
-              />
-              <figcaption>
-                A Streetcar Named Desire, WUDS, 2024. Photo &copy; Josh Heng
-              </figcaption>
-            </figure>
+            <CaptionedImage
+              src={
+                require('@site/static/images/home/streetcar-joshheng.jpg')
+                  .default
+              }
+              alt="Streetcar"
+              caption="A Streetcar Named Desire, WUDS, 2024. Photo © Josh Heng"
+            />
           </div>
         </section>
-        <div className="flex max-w-screen-2xl mx-auto">
+        <div className="flex max-w-screen-2xl mx-auto content-styling">
           <section className="p-4">
             <Hires />
+            <div className="flex gap-4 justify-between">
+              <CaptionedImage
+                src={
+                  require('@site/static/images/home/improvmusical-joshheng.jpg')
+                    .default
+                }
+                alt="The Improv Musical"
+                caption="The Improv Musical, Music Theatre Warwick, 2023. Photo © Josh Heng"
+              />
+              <CaptionedImage
+                src={
+                  require('@site/static/images/home/snowwhite-echovaughan.jpg')
+                    .default
+                }
+                alt="Snow White"
+                caption="Show White, Warwick Panto, 2023. Photo © Echo Vaughan"
+              />
+              <CaptionedImage
+                src={
+                  require('@site/static/images/home/wsaf-joshheng.jpg').default
+                }
+                alt="Warwick Student Arts Festival"
+                caption="Warwick Student Arts Festival, 2024. Photo © Josh Heng"
+              />
+            </div>
           </section>
           <section className="p-4">
             <GetInvolved />
+            <div className="flex gap-4 justify-between">
+              <CaptionedImage
+                src={
+                  require('@site/static/images/home/dccupboard-kishansharma.jpg')
+                    .default
+                }
+                alt="DC Cupboard"
+                caption="The DC Cupboard, 2024. Photo © Kishan Sharma"
+              />
+              <CaptionedImage
+                src={
+                  require('@site/static/images/home/soundtraining-unknown.jpg')
+                    .default
+                }
+                alt="Sound Training"
+                caption="Sound Training, 2022. Photo © Unknown"
+              />
+              <CaptionedImage
+                src={
+                  require('@site/static/images/home/wacstudiobridges-kishansharma.jpg')
+                    .default
+                }
+                alt="Warwick Arts Centre Studio Bridges"
+                caption="Warwick Arts Centre Studio Bridges. Photo © Kishan Sharma"
+              />
+            </div>
           </section>
         </div>
-        <section className="p-4">
-          <TechCrewCarousel slides={generalCarousel} />
+        <section>
+          <div
+            className="bg-fixed bg-center bg-cover"
+            style={{
+              backgroundImage: `url('${require('@site/static/images/home/company-kishansharma.jpg').default}')`,
+            }}
+          >
+            <div className="px-4 pt-16 pb-24 max-w-screen-2xl mx-auto flex flex-col">
+              <div className="max-w-screen-xl mx-auto p-6 bg-gray-200 gap-4 content-styling">
+                <Shows />
+                <div className="flex gap-4 justify-between">
+                  <CaptionedImage
+                    src={
+                      require('@site/static/images/home/anoblegame-joshheng.jpg')
+                        .default
+                    }
+                    alt="A Noble Game Get-in"
+                    caption="A Noble Game, WUDS, 2023. Photo © Josh Heng"
+                  />
+                  <CaptionedImage
+                    src={
+                      require('@site/static/images/home/manon-joshheng.jpg')
+                        .default
+                    }
+                    alt="Manon Get-in"
+                    caption="Manon, Warwick Opera, 2023. Photo © Josh Heng"
+                  />
+                  <CaptionedImage
+                    src={
+                      require('@site/static/images/home/godspell-echovaughan.jpg')
+                        .default
+                    }
+                    alt="Godspell Get-in"
+                    caption="Godspell, Music Theatre Warwick, 2023. Photo © Echo Vaughan"
+                  />
+                  <CaptionedImage
+                    src={
+                      require('@site/static/images/home/fame-joshheng.jpg')
+                        .default
+                    }
+                    alt="FAME Get-in"
+                    caption="FAME, Music Theatre Warwick, 2023. Photo © Josh Heng"
+                  />
+                  <CaptionedImage
+                    src={
+                      require('@site/static/images/home/anythinggoes-chrismiles.jpg')
+                        .default
+                    }
+                    alt="Anything Goes Get-in"
+                    caption="Anything Goes, Music Theatre Warwick, 2016. Photo © Chris Miles"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <figcaption className="text-center mt-1">
+            Company, Music Theatre Warwick, 2024. Photo &copy; Kishan Sharma
+          </figcaption>
+        </section>
+        <section className="mt-4 mb-12 p-4 max-w-screen-2xl mx-auto">
           <TheExec />
         </section>
-        <section className="p-4 max-w-screen-2xl mx-auto">
-          <Shows />
-        </section>
+
+        <TechCrewCarousel slides={generalCarousel} />
       </main>
     </Layout>
   );

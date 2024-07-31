@@ -1,12 +1,6 @@
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
-import {
-  FiArrowLeftCircle,
-  FiArrowRightCircle,
-  FiChevronLeft,
-  FiChevronRight,
-} from 'react-icons/fi';
-import { AnimationHandlerResponse } from 'react-responsive-carousel/lib/ts/components/Carousel/types';
+import { FiChevronLeft, FiChevronRight } from 'react-icons/fi';
 
 export type CarouselSlide = {
   src: string;
@@ -38,8 +32,12 @@ function ArrowButton({
 
 export default function TechCrewCarousel({
   slides,
+  slideClasses,
+  bottomRightCaption,
 }: {
   slides: CarouselSlide[];
+  slideClasses?: string;
+  bottomRightCaption?: boolean;
 }) {
   return (
     <Carousel
@@ -61,13 +59,24 @@ export default function TechCrewCarousel({
       }
     >
       {slides.map((slide, i) => (
-        <figure key={i} className="bg-black">
-          <img
-            src={slide.src}
-            alt={slide.caption}
-            className="object-contain opacity-60"
-          />
-          <figcaption>{slide.caption}</figcaption>
+        <figure key={i}>
+          {bottomRightCaption || (
+            <figcaption className="mb-1">{slide.caption}</figcaption>
+          )}
+
+          <div className="bg-black">
+            <img
+              src={slide.src}
+              alt={slide.caption}
+              className={`object-contain ${slideClasses}`}
+            />
+          </div>
+
+          {bottomRightCaption && (
+            <figcaption className="text-right mt-1 mr-1">
+              {slide.caption}
+            </figcaption>
+          )}
         </figure>
       ))}
     </Carousel>

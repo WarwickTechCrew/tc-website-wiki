@@ -20,7 +20,7 @@ we don't have. Similarly, they regularly rent our radio mics.
 
 The University's AV services offer a range of equipment to borrow
 [on their website](https://warwick.ac.uk/services/its/servicessupport/av/bbav/equipment), most of which isn't very
-releavant to Tech Crew on a regular basis.
+relevant to Tech Crew on a regular basis.
 
 However, they do sometimes have other kit to borrow on request, and can be especially helpful for hires and conferences
 in centrally timetabled rooms (such as WES) where they can provide additional mics and equipment, as well as direct
@@ -67,7 +67,7 @@ for dry hire. If you say you're from Tech Crew hiring things for a student event
 
 One of the big national hire companies, based in Milton Keynes. We've used them for an event or two, their particular
 strength is having a great website with a full list of equipment and prices. The delivery and collection price can be
-fairly brutal though for the quanities of equipment we use, so this is best if there's a car available to drive there.
+fairly brutal though for the quantities of equipment we use, so this is best if there's a car available to drive there.
 
 ## Societies
 

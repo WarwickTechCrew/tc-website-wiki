@@ -14,7 +14,7 @@ Rows A to D are made up of three columns of removable bleachers. These can be ta
 ## Studio CAD
 
 ### Section View
-The public drive has a [CAD file](https://drive.google.com/file/d/14TwSrr7mwapPVbPDDN8Pqs9k-5upM8-4/view?usp=drive_link) of the studio, which can be uploaded to this [online CAD viewer](https://viewer.autodesk.com/) so you can inspect and mesure the space yourself.
+The public drive has a [CAD file](https://drive.google.com/file/d/14TwSrr7mwapPVbPDDN8Pqs9k-5upM8-4/view?usp=drive_link) of the studio, which can be uploaded to this [online CAD viewer](https://viewer.autodesk.com/) so you can inspect and measure the space yourself.
 
 ![studio section](/images/studio/studio-section.jpg)
 

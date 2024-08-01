@@ -60,6 +60,7 @@ const config: Config = {
       logo: {
         alt: 'Warwick Tech Crew Logo',
         src: '/logo-light.svg',
+        srcDark: '/logo-dark.svg',
       },
       items: [
         {
@@ -92,6 +93,11 @@ const config: Config = {
         {
           href: 'https://www.warwicksu.com/societies-sports/societies/techcrew/',
           label: 'Warwick SU',
+          position: 'right',
+        },
+        {
+          href: 'mailto: exec@warwicktechcrew.co.uk',
+          label: 'Contact',
           position: 'right',
         },
       ],

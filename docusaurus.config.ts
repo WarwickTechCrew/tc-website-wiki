@@ -68,6 +68,16 @@ const config: Config = {
           position: 'left',
           label: 'Wiki',
         },
+        {
+          to: '/hires',
+          label: 'Hires',
+          position: 'left',
+        },
+        {
+          to: '/opportunities',
+          label: 'Get Involved',
+          position: 'left',
+        },
       ],
     },
     prism: {

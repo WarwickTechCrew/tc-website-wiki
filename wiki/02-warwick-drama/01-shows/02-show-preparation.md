@@ -5,7 +5,7 @@ description: Getting ready for the show.
 
 ## Tech Read-Through
 
-This is the initial sit-down meeting between the production team and the tech. It involves going through the script page by page, penciling in each place the prod team would like a cue. This will probably be the first time you get your script, exiting! The meeting usualy involves the designers and core prod team, so: LX designer, Sound designer, Techical Manager, Producers, Director, and optionally: Music director, Video designer, DSM, ect.
+This is the initial sit-down meeting between the production team and the tech. It involves going through the script page by page, penciling in each place the prod team would like a cue. This will probably be the first time you get your script, exiting! The meeting usually involves the designers and core prod team, so: LX designer, Sound designer, Technical Manager, Producers, Director, and optionally: Music director, Video designer, DSM, etc.
 
 ## WAC Meetings
 

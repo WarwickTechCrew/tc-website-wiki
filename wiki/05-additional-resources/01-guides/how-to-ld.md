@@ -23,7 +23,7 @@ So, you've been assigned an LD position. What next?
 The first step is to talk to the prod team. They'll usually have some kind of vision for the show which will provide a
 good starting point for you.
 
-> NB: One key thing to remember thoughout is that you're the Lighting *Designer*, not Lighting *Implementer*. While your
+> NB: One key thing to remember throughout is that you're the Lighting *Designer*, not Lighting *Implementer*. While your
 > design should fit in with the directorial vision, you're free to come up with whatever design you thing would work
 > well in the bounds of that - though if it's a Tech Crew co-production, you'll have even more freedom than this.
 >
@@ -34,7 +34,7 @@ good starting point for you.
 Try to get a feel for the show by turning up to rehearsals, reading the script, or even watching past productions
 online. Once you know the show and know what kind of vibe you're going for you can start designing the lighting!
 
-I'll also add something to remember thoughout - if you're ever unsure about something, just ask! You've got your TM, the
+I'll also add something to remember throughout - if you're ever unsure about something, just ask! You've got your TM, the
 Tech Crew Exec, other people in the society, and our contacts in the Arts Centre who are all more than happy to give
 advice, or past examples to reference.
 
@@ -103,7 +103,7 @@ happens in each one.
 
 A helpful thing to do is come up with a numbering system that leaves plenty of room for adding more cues in between
 existing ones in a neat way as you go along. For example, starting each scene on a new multiple of 10, and only
-assinging even numbers (adjust to scale with your design!)
+assigning even numbers (adjust to scale with your design!)
 
 ## Putting it on paper (or a computer)
 
@@ -182,7 +182,7 @@ week, hopefully giving you less stress around the show.
 
 On some simpler shows, it might be ok to do this during show week, but you'll very time limited, so in most cases you'll
 want to do at least some of the process beforehand. Fortunately, the Eos software is free to run on both Windows and Mac
-(as long as you're not actually outputing any control signal) so you don't need anything special to get started.
+(as long as you're not actually outputting any control signal) so you don't need anything special to get started.
 
 At its most simple, you want to build all the cues you expect to need into the file, with the rough brightness you want
 for each light. You have already assigned channel numbers to each light in the plan, so you can do this without actually
@@ -249,7 +249,7 @@ The dress run is just like a normal show, just without an audience. If there are
 after. Unlike during the tech run, the show should keep going as it would on the night.
 
 It's worth getting someone else to operate the lighting for the dress run so you have the chance to watch the show from
-an audience persective, which can be quite different.
+an audience perspective, which can be quite different.
 
 There is usually some time after the show where you'll get and share any feedback for a variety of people, to improve
 your design further. There'll then be some more time you can act on that feedback before an actual show.
@@ -262,7 +262,7 @@ can operate the show yourself if you like, or offer up the operator position for
 
 ### Get-out
 
-Immediately after the last show, we have the get-out (in industry, preceeded by the "strike", the opposite to the "fit
+Immediately after the last show, we have the get-out (in industry, preceded by the "strike", the opposite to the "fit
 up"). Usually lighting doesn't have too much to do, but in general you'll have to return the space to how it was before
 the get-in, depending on the Arts Centre's needs.
 

@@ -14,7 +14,7 @@ Our SQ5 does not yet have a dante expansion card! So you'll need to stick to USB
 
 ### [DiGiCi S21](https://digico.biz/consoles/s21/)
 
-This is the desk found all over WAC. 48 channels, 16 onboard preamps, 12 outputs. You can reqest for one with a Dante card. See its [datasheet](https://digico.biz/wp-content/uploads/2020/04/DiGiCo-S21-Data-Sheet-1.pdf)!
+This is the desk found all over WAC. 48 channels, 16 onboard preamps, 12 outputs. You can request for one with a Dante card. See its [datasheet](https://digico.biz/wp-content/uploads/2020/04/DiGiCo-S21-Data-Sheet-1.pdf)!
 
 ## Glossary 
 
@@ -26,12 +26,12 @@ The number of *preamps* on a desk/stagebox is the number of weak, unamplified, "
 
 :::note
 
-The number of preamps on the desk is normally much lower than the total number of channels a desk can handle! For example, once you've used up the 16 SQ5 onboard preamps, you'll have to find other ways (stagebox's preamp, soundcard, ect) to provide line level signal to the remaining 32 channels. 
+The number of preamps on the desk is normally much lower than the total number of channels a desk can handle! For example, once you've used up the 16 SQ5 onboard preamps, you'll have to find other ways (stagebox's preamp, soundcard, etc) to provide line level signal to the remaining 32 channels. 
 
 :::
 
 :::info
 
-The signal from a microphone is produced by movement in a tiny diaphram that vibrates due to the sound pressure waves from the source. This signal is weak and contains background noise, it isnt able to unable to undergo processing (fx, compression ect) from a sound desk unless it is first brought up to a higher amplitude by a preamp.
+The signal from a microphone is produced by movement in a tiny diaphram that vibrates due to the sound pressure waves from the source. This signal is weak and contains background noise, it isn't able to unable to undergo processing (fx, compression etc) from a sound desk unless it is first brought up to a higher amplitude by a preamp.
 
 :::

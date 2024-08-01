@@ -95,6 +95,14 @@ export default function Home(): JSX.Element {
             <div className="flex flex-wrap gap-4">
               <CaptionedImage
                 src={
+                  require('@site/static/images/home/bandsoc-joshheng.jpg')
+                    .default
+                }
+                alt="BandSoc Showcase"
+                caption="BandSoc Showcase, 2023. Photo © Josh Heng"
+              />
+              <CaptionedImage
+                src={
                   require('@site/static/images/home/dccupboard-kishansharma.jpg')
                     .default
                 }
@@ -108,14 +116,6 @@ export default function Home(): JSX.Element {
                 }
                 alt="Sound Training"
                 caption="Sound Training, 2022. Photo © Unknown"
-              />
-              <CaptionedImage
-                src={
-                  require('@site/static/images/home/wacstudiobridges-kishansharma.jpg')
-                    .default
-                }
-                alt="Warwick Arts Centre Studio Bridges"
-                caption="Warwick Arts Centre Studio Bridges. Photo © Kishan Sharma"
               />
             </div>
           </section>

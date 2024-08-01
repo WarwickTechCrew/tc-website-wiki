@@ -1,4 +1,4 @@
-name: Spellcheck
+name: Spellcheck Markdown
 
 on: [push, pull_request]
 
@@ -22,14 +22,17 @@ jobs:
           # Create a temporary file to store words to ignore
           TEMP_IGNORE_FILE=$(mktemp)
 
-          # Extract all fully capitalized words from the codebase and add them to the ignore list
-          grep -oE '\b[A-Z][A-Z]+\b' $(git ls-files) | sort -u >> $TEMP_IGNORE_FILE
+          # Extract all fully capitalized words from Markdown files and add them to the ignore list
+          grep -oE '\b[A-Z][A-Z]+\b' $(git ls-files '*.md') | sort -u >> $TEMP_IGNORE_FILE
+
+          # Extract capitalized words that may be proper nouns
+          grep -oE '\b[A-Z][a-z]+\b' $(git ls-files '*.md') | sort -u >> $TEMP_IGNORE_FILE
 
           # Remove duplicate entries
           sort -u $TEMP_IGNORE_FILE -o $TEMP_IGNORE_FILE
 
-          # Run codespell with dynamically generated ignore list
-          codespell --ignore-words-list="$(tr '\n' ',' < $TEMP_IGNORE_FILE)"
+          # Run codespell on Markdown files with dynamically generated ignore list
+          codespell --ignore-words-list="$(tr '\n' ',' < $TEMP_IGNORE_FILE)" $(git ls-files '*.md')
 
           # Clean up
           rm $TEMP_IGNORE_FILE

@@ -1,21 +1,35 @@
-# https://github.com/marketplace/actions/github-spellcheck
-# https://github.com/igsekor/pyspelling-any
-
-# This is workflow for spell checking using PySpelling lib (https://pypi.org/project/pyspelling/)
 name: Spellcheck
 
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+on: [push, pull_request]
 
 jobs:
-  build:
+  spellcheck:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: igsekor/pyspelling-any@v0.0.2
-        name: Spellcheck
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install codespell
+        run: pip install codespell
+
+      - name: Filter files and run codespell
+        run: |
+          # Create a temporary file to store words to ignore
+          TEMP_IGNORE_FILE=$(mktemp)
+
+          # Extract all fully capitalized words from the codebase and add them to the ignore list
+          grep -oE '\b[A-Z][A-Z]+\b' $(git ls-files) | sort -u >> $TEMP_IGNORE_FILE
+
+          # Remove duplicate entries
+          sort -u $TEMP_IGNORE_FILE -o $TEMP_IGNORE_FILE
+
+          # Run codespell with dynamically generated ignore list
+          codespell --ignore-words-list="$(tr '\n' ',' < $TEMP_IGNORE_FILE)"
+
+          # Clean up
+          rm $TEMP_IGNORE_FILE

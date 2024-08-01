@@ -9,7 +9,7 @@ import CaptionedImage from '@site/src/components/captioned-image';
 export default function Hires(): JSX.Element {
   return (
     <Layout title="Hires">
-      <header className="max-w-screen-2xl mx-auto">
+      <header className="max-w-screen-2xl mx-auto px-4">
         <h1 className="text-3xl font-bold my-2">Tech Crew Hires</h1>
       </header>
       <main>
@@ -33,6 +33,7 @@ export default function Hires(): JSX.Element {
                 src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__mfC2PNUMjRJTTRVOU5aQVBFTkZDN08zQ0hESUdSVy4u&embed=true"
                 className="border-0 w-full min-h-full h-[40rem] max-h-screen"
                 allowFullScreen
+                loading="eager"
               ></iframe>
             </div>
           </div>

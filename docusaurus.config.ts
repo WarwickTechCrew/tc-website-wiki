@@ -78,6 +78,22 @@ const config: Config = {
           label: 'Get Involved',
           position: 'left',
         },
+        // TODO: use icons for these
+        {
+          href: 'https://discord.com/invite/QnQJew8BkP',  // i dont have perms to make a new invite link 
+          label: 'Discord',
+          position: 'right',
+        },
+        {
+          href: 'https://instagram.com/warwicktechcrew',
+          label: 'Instagram',
+          position: 'right',
+        },
+        {
+          href: 'https://www.warwicksu.com/societies-sports/societies/techcrew/',
+          label: 'Warwick SU',
+          position: 'right',
+        },
       ],
     },
     prism: {

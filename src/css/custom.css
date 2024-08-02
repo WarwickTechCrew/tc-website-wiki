@@ -40,7 +40,7 @@ body {
 }
 
 a {
-  @apply text-blue-900 dark:text-cyan-600;
+  @apply text-blue-900 hover:text-blue-600 dark:text-cyan-600 dark:hover:text-cyan-500;
 }
 
 figcaption {

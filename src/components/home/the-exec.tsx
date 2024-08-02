@@ -63,7 +63,10 @@ export default function TheExec() {
       </p>
       <div className="flex flex-wrap gap-2 mt-2">
         {exec.map((member) => (
-          <article className="overflow-hidden rounded-xl flex w-32 flex-grow sm:flex-grow-0 sm:w-44 max-w-44 flex-col dark:border-white border-black border-2">
+          <article
+            key={member.name}
+            className="overflow-hidden rounded-xl flex w-32 flex-grow sm:flex-grow-0 sm:w-44 max-w-44 flex-col dark:border-white border-black border-2"
+          >
             <header className="bg-black h-10 flex justify-center items-center">
               <div className="rounded-2xl w-12 h-3 mt-0.5 bg-white" />
             </header>

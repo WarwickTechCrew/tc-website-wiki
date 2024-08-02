@@ -2,6 +2,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import tailwindPlugin from './plugins/tailwind-plugin';
+import { getGitContributors } from './src/lib/git';
 
 const config: Config = {
   title: 'Warwick Tech Crew',
@@ -11,6 +12,21 @@ const config: Config = {
 
   markdown: {
     mermaid: true,
+    parseFrontMatter: async (params) => {
+      const result = await params.defaultParseFrontMatter(params);
+      const authors = await getGitContributors(
+        params.filePath,
+        result.frontMatter,
+      );
+
+      return {
+        ...result,
+        frontMatter: {
+          ...result.frontMatter,
+          authors,
+        },
+      };
+    },
   },
   themes: ['@docusaurus/theme-mermaid'],
 

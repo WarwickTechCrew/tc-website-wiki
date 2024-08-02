@@ -50,3 +50,16 @@ npm run lint:fix
 ```
 
 If you are using an editor such as IntelliJ or VSCode, I'd recommend setting your editor to automatically run this whenever you save, and fix any issues.
+
+## Wiki Authors
+
+By default, the site will show the name of all Git authors for each page. This can be overridden with the following 
+front matter:
+```
+---
+additional_authors: <comma separated list>
+override_authors: <comma separated list>
+---
+```
+
+Names can be overridden in `src/lib/git.ts`.

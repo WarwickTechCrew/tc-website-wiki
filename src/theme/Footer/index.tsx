@@ -61,6 +61,7 @@ function Footer(): JSX.Element {
             />
             <a
               href="https://www.warwicksu.com/societies-sports/societies/techcrew/"
+              target="_blank"
               rel="noopener noreferrer"
             >
               Warwick SU
@@ -70,6 +71,7 @@ function Footer(): JSX.Element {
             <FiInstagram className="mr-1.5" />
             <a
               href="https://www.instagram.com/warwicktechcrew"
+              target="_blank"
               rel="noopener noreferrer"
             >
               Instagram

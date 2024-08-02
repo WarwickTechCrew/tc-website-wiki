@@ -1,16 +1,15 @@
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import AboutUs from '@site/src/components/home/about-us.mdx';
 import Hires from '@site/src/components/home/hires.mdx';
 import GetInvolved from '@site/src/components/home/get-involved.mdx';
 import TheExec from '@site/src/components/home/the-exec';
 import Shows from '@site/src/components/home/shows.mdx';
-import TechCrewCarousel, { CarouselSlide } from '@site/src/components/carousel';
+import TechCrewCarousel from '@site/src/components/carousel';
 import showsCarousel from '@site/src/components/home/shows-carousel';
 import generalCarousel from '@site/src/components/home/general-carousel';
 import CaptionedImage from '@site/src/components/captioned-image';
 
-export default function Home(): JSX.Element {
+export default function Home() {
   return (
     <Layout description="Welcome to Warwick Tech Crew, the society for anyone interested in technical theatre or entertainment.">
       <header className="relative">

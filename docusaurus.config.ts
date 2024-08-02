@@ -88,6 +88,11 @@ const config: Config = {
           label: 'Wiki',
         },
         {
+          to: '/shows',
+          label: 'Shows',
+          position: 'left',
+        },
+        {
           to: '/hires',
           label: 'Hires',
           position: 'left',

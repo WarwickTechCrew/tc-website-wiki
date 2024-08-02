@@ -1,5 +1,5 @@
 import gitlog from 'gitlog';
-import { authorNames } from '@site/src/lib/author-names';
+import { authorNames } from './author-names';
 
 type AuthorFrontMatter = {
   additional_authors?: string;

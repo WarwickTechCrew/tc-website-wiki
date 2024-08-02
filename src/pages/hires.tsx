@@ -6,7 +6,7 @@ import Equipment from '@site/src/components/hires/equipment.md';
 import PreviousHires from '@site/src/components/hires/previous-hires.md';
 import CaptionedImage from '@site/src/components/captioned-image';
 
-export default function Hires(): JSX.Element {
+export default function Hires() {
   return (
     <Layout title="Hires">
       <header className="max-w-screen-2xl mx-auto px-4">

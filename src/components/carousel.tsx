@@ -68,7 +68,7 @@ export default function TechCrewCarousel({
             <img
               src={slide.src}
               alt={slide.caption}
-              className={`object-cover h-auto min-h-[18rem] ${slideClasses}`}
+              className={`object-cover h-auto min-h-[20rem] ${slideClasses}`}
             />
           </div>
 

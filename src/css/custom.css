@@ -79,3 +79,23 @@ h2 {
 svg {
   @apply inline;
 }
+
+.navbar__items--right {
+  @apply hidden 2xs:flex;
+}
+
+.navbar-home {
+  @apply sm:fixed left-0 right-0 duration-300 transition-all;
+}
+
+.navbar-home-top {
+  @apply sm:bg-transparent sm:shadow-none;
+}
+
+.navbar-home-top .navbar__items--right {
+  @apply sm:opacity-0 sm:4xl:opacity-100;
+}
+
+.navbar-home-top .navbar__link, .navbar-home-top .navbar__title, .navbar-home-top .navbar__toggle, .navbar-home-top .navbar__items {
+  @apply sm:text-white;
+}

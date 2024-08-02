@@ -22,7 +22,7 @@ export default function Home(): JSX.Element {
           />
         </div>
 
-        <div className="absolute top-12 right-16 2xs:right-20 sm:right-24 bottom-32 left-16 2xs:left-20 sm:left-24">
+        <div className="absolute top-14 xs:top-20 right-16 2xs:right-20 sm:right-24 bottom-32 left-16 2xs:left-20 sm:left-24">
           <div className="max-w-screen-xl mx-auto text-white h-full">
             <div className="flex flex-col xs:flex-row gap-2 xs:gap-4 xs:items-center h-full">
               <img
@@ -44,7 +44,7 @@ export default function Home(): JSX.Element {
         </div>
       </header>
 
-      <main className="-mt-16 2xs:-mt-12 xs:-mt-28 sm:-mt-32">
+      <main className="-mt-16 2xs:-mt-12 xs:-mt-24 sm:-mt-28">
         <section className="relative my-4 mx-8 sm:mx-12 md:mx-16">
           <div className="max-w-screen-xl mx-auto p-6 dark:bg-neutral-800 bg-gray-200 flex gap-4 flex-wrap">
             <div className="w-80 flex-grow">

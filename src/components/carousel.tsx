@@ -73,7 +73,7 @@ export default function TechCrewCarousel({
           </div>
 
           {bottomRightCaption && (
-            <figcaption className="absolute 4xl:static right-1 top-1 text-white 4xl:text-black text-xs text-right ml-auto mt-1 mr-1 max-w-96 pl-4">
+            <figcaption className="absolute 4xl:static right-1 top-1 text-white 4xl:text-black dark:text-white text-xs text-right ml-auto mt-1 mr-1 max-w-96 pl-4">
               {slide.caption}
             </figcaption>
           )}

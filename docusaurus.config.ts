@@ -45,6 +45,8 @@ const config: Config = {
           routeBasePath: 'wiki',
           sidebarPath: './sidebar.ts',
           editUrl: 'https://github.com/WarwickTechCrew/website/tree/main/',
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
         },
         theme: {
           customCss: './src/css/custom.css',

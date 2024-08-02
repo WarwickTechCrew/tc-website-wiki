@@ -1,9 +1,5 @@
 import gitlog from 'gitlog';
-
-// You can update your Git author name to your proper name here!
-const authorNames: Record<string, string> = {
-  kishan: 'Kishan Sharma',
-};
+import { authorNames } from '@site/src/lib/author-names';
 
 type AuthorFrontMatter = {
   additional_authors?: string;

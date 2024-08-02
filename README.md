@@ -62,4 +62,4 @@ override_authors: <comma separated list>
 ---
 ```
 
-Names can be overridden in `src/lib/git.ts`.
+Names can be overridden in `src/lib/author-names.ts`.

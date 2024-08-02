@@ -6,6 +6,7 @@ import type { Props } from '@theme/EditMetaRow';
 import LastUpdated from '@theme/LastUpdated';
 import styles from './styles.module.css';
 import { useDoc } from '@docusaurus/theme-common/internal';
+import { authorNames } from '@site/src/lib/author-names';
 
 export default function EditMetaRow({
   className,
@@ -15,8 +16,9 @@ export default function EditMetaRow({
 }: Props): JSX.Element {
   const doc = useDoc();
   const authors = (doc.frontMatter as any).authors || [];
+  const lastUpdatedByName = authorNames[lastUpdatedBy] || lastUpdatedBy;
   const additionalAuthors = authors.filter(
-    (name: string) => name !== lastUpdatedBy,
+    (name: string) => name !== lastUpdatedByName,
   );
 
   let additionalAuthorsString = '';
@@ -33,7 +35,7 @@ export default function EditMetaRow({
         {(lastUpdatedAt || lastUpdatedBy) && (
           <LastUpdated
             lastUpdatedAt={lastUpdatedAt}
-            lastUpdatedBy={lastUpdatedBy}
+            lastUpdatedBy={lastUpdatedByName}
           />
         )}
         {additionalAuthorsString && (

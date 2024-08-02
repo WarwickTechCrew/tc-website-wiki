@@ -81,7 +81,7 @@ const config: Config = {
         },
         // // TODO: use icons for these
         // {
-        //   href: 'https://discord.com/invite/QnQJew8BkP',  // i dont have perms to make a new invite link 
+        //   href: 'https://discord.com/invite/QnQJew8BkP',  // i dont have perms to make a new invite link
         //   label: 'Discord',
         //   position: 'right',
         // },

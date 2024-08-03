@@ -10,6 +10,8 @@ To contribute, you will need to a GitHub account. You can then edit the files di
 using the instructions below. Alternatively, contact someone familiar with the website (such
 as Josh Heng to make the changes for you).
 
+You can find more information about formatting [here](https://docusaurus.io/docs/markdown-features).
+
 ### Wiki Authors
 By default, the site will show the name of all the contributors for each page. This is determined from the name you use
 on GitHub/the name you have configured in Git. These names can be overridden in the file `src/lib/author-names.ts`.

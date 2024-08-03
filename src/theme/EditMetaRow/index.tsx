@@ -17,29 +17,24 @@ export default function EditMetaRow({
   const doc = useDoc();
   const authors = (doc.frontMatter as any).authors || [];
   const lastUpdatedByName = authorNames[lastUpdatedBy] || lastUpdatedBy;
-  const additionalAuthors = authors.filter(
-    (name: string) => name !== lastUpdatedByName,
-  );
 
-  let additionalAuthorsString = '';
-  for (let i = 0; i < additionalAuthors.length; i++) {
-    additionalAuthorsString += additionalAuthors[i];
-    if (i + 2 === additionalAuthors.length) additionalAuthorsString += ' and ';
-    else if (i + 2 < additionalAuthors.length) additionalAuthorsString += ', ';
+  let authorsString = '';
+  for (let i = 0; i < authors.length; i++) {
+    authorsString += authors[i];
+    if (i + 2 === authors.length) authorsString += ' and ';
+    else if (i + 2 < authors.length) authorsString += ', ';
   }
 
   return (
     <div className={clsx('row', className)}>
       <div className="col">{editUrl && <EditThisPage editUrl={editUrl} />}</div>
       <div className={clsx('col', styles.lastUpdated)}>
+        <p>Contributors: {authorsString}</p>
         {(lastUpdatedAt || lastUpdatedBy) && (
           <LastUpdated
             lastUpdatedAt={lastUpdatedAt}
             lastUpdatedBy={lastUpdatedByName}
           />
-        )}
-        {additionalAuthorsString && (
-          <p>Additional Contributors: {additionalAuthorsString}</p>
         )}
       </div>
     </div>

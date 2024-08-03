@@ -99,3 +99,11 @@ svg {
 .navbar-home-top .navbar__link, .navbar-home-top .navbar__title, .navbar-home-top .navbar__toggle, .navbar-home-top .navbar__items {
   @apply sm:text-white;
 }
+
+.navbar-home #header-logo-dark {
+  @apply block;
+}
+
+.navbar-home-top #header-logo-dark {
+  @apply sm:opacity-100;
+}

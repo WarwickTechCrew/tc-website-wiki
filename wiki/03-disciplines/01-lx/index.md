@@ -1,7 +1,8 @@
 # Lighting (LX)
 
-There is a guide on being and LD for a WAC show
-[in the guides section](wiki/05-additional-resources/01-guides/how-to-ld.md)
+:::info
+Adam has written a guide on being an LD for a WAC show [here](/wiki/disciplines/lx/how-to-ld).
+:::
 
 ## Gels
 

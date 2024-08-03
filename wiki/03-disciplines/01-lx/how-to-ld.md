@@ -1,5 +1,5 @@
 ---
-title: How to be a Lighting Designer
+title: "Guide: How to be a Lighting Designer"
 description: A step by step guide to the role of LD on a WAC show
 ---
 

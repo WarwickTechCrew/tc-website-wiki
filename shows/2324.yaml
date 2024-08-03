@@ -1,0 +1,109 @@
+year: 2023 / 2024
+
+terms:
+- name: Term 1
+  shows:
+    - name: Hedda Gabler
+      society: WUDS
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Technical Manager
+          name: Anis Tam
+        - role: Lighting Designer
+          name: Ella Horne
+        - role: Sound Designer
+          name: Kishan Sharma
+        - role: Stage Manager
+          name: Casper Hawkins
+        - role: Deputy Stage Manager
+          name: Cat Heald
+- name: Term 2
+  shows:
+    - name: A Streetcar Named Desire
+      society: WUDS
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Technical Manager
+          name: Jon Kowalski
+        - role: Lighting Designer
+          name: Dallon Costello
+        - role: Sound Designer
+          name: Kishan Sharma
+        - role: Stage Manager
+          name: Tango Tang
+        - role: Deputy Stage Manager
+          name: Josh Heng
+    - name: Carmen
+      society: Warwick Opera
+      venue: Warwick Arts Centre Theatre
+      people:
+        - role: Lighting Designer
+          name: Adam Skrzymowski and Alasdair King
+        - role: Sound Designer
+          name: Josh Heng
+        - role: Stage Manager
+          name: Danny Turner
+        - role: Set Designer
+          name: Kit Calvert
+        - role: Deputy Stage Manager
+          name: Cat Heald and Jon Kowalski
+    - name: Company
+      society: MTW
+      venue: Warwick Arts Centre Theatre
+      people:
+        - role: Technical Manager
+          name: Ella Horne
+        - role: Lighting Designer
+          name: Ben Hammond
+        - role: Sound Designer
+          name: Ethan Graham
+        - role: Stage Manager
+          name: Ellie Dickens
+        - role: Set Designer
+          name: Anis Tam
+        - role: Deputy Stage Manager
+          name: Alex Morrison
+    - name: Electra
+      society: WUDS
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Lighting Designer
+          name: Layah Rothen
+        - role: Sound Designer
+          name: Amanda Fleming and Danny Turner
+        - role: Stage Manager
+          name: Neera Cheung
+        - role: Deputy Stage Manager
+          name: Dae Pomeroy
+- name: Term 3
+  shows:
+    - name: Godspell
+      society: MTW
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Technical Manager
+          name: Ben Hammond and Ellie Dickens
+        - role: Lighting Designer
+          name: Ben Hammond
+        - role: Sound Designer
+          name: Josh Heng and Kishan Sharma 
+        - role: Stage Manager
+          name: Neera Cheung
+        - role: Deputy Stage Manager
+          name: Connie Locker
+        - role: Followspot
+          name: Ethan Graham and Stan Simmons
+    - name: The Tempest
+      society: Shakesoc x WUDS
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Lighting Designer
+          name: Dallon Costello
+        - role: Sound Designer
+          name: Freya Cox 
+        - role: Sound 1
+          name: Rebecca Smith
+        - role: Stage Manager
+          name: Georgi Gibbons
+        - role: Deputy Stage Manager
+          name: Tango Tang

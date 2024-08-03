@@ -1,0 +1,158 @@
+year: 2016 / 2017
+
+terms:
+- name: Term 1
+  shows:
+  - name: Absurd Person Singular
+    society: Freshblood
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Ciara Shrager
+    - role: Lighting Designer
+      name: Amanda Fleming
+    - role: Sound Designer
+      name: Will Mayne
+    - role: Set Designer
+      name: Doug Cairns
+    - role: Stage Manager
+      name: Freya Jefferies
+  - name: As You Like It
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Eliott Bloomer
+    - role: Lighting Designer
+      name: Ciara Shrager
+    - role: Set Designer
+      name: Doug Cairns
+    - role: Stage Manager
+      name: Freya Jefferies
+
+- name: Term 2
+  shows:
+  - name: Die Fledermaus
+    society: Opera Warwick
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Tech Managers
+      name: Chris Miles and James Fitzpatrick
+    - role: Lighting Designer
+      name: James Fitzpatrick
+    - role: Set Designer
+      name: Tommy Plummer-Harvey
+    - role: Sound Designers
+      name: Amanda Fleming and Will Mayne
+    - role: Stage Manager
+      name: Ciara Shrager
+    - role: Deputy Stage Manager
+      name: Hannah Jameson
+  - name: Noughts and Crosses
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Amanda Fleming
+    - role: Lighting Designer
+      name: Danny Vavrecka
+    - role: Sound Designer
+      name: Amanda Fleming
+    - role: Set Designer
+      name: Ciara Shrager
+    - role: Stage Manager
+      name: Ciara Shrager
+  - name: Follies
+    society: MTW
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Tech Manager
+      name: Chris Miles
+    - role: Lighting Designer
+      name: Eliott Bloomer
+    - role: Set Designer
+      name: Doug Cairns
+    - role: Sound Designer
+      name: Jonathan Winfield
+    - role: Sound Technician
+      name: Matt Coster
+    - role: Stage Manager
+      name: Fran Cattaneo
+    - role: Deputy Stage Manager
+      name: Amanda Fleming
+  - name: Mess
+    society: Freshblood
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Doug Cairns
+    - role: Lighting Designer
+      name: Benji Levine
+    - role: Set Designer
+      name: Marta Cappozzo
+    - role: Stage Manager
+      name: Freya Jefferies
+
+- name: Term 3
+  shows:
+  - name: Jerusalem
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Doug Cairns
+    - role: Lighting Designer
+      name: Danny Vavrecka
+    - role: Sound Designer
+      name: Ciara Shrager
+    - role: Set Designer
+      name: Natalie Doyle
+    - role: Stage Manager
+      name: Ciara Shrager
+  - name: Little Shop of Horrors
+    society: MTW
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Eliott Bloomer
+    - role: Lighting Designer
+      name: Danny Vavrecka and Jenny Collett
+    - role: Set Designer
+      name: Doug Cairns
+    - role: Sound Designer
+      name: Ciara Shrager
+    - role: Stage Manager
+      name: Fran Cattaneo
+    - role: Deputy Stage Manager
+      name: Amanda Fleming
+  - name: Trainspotting
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Ciara Shrager and Eliott Bloomer
+    - role: Lighting Designer
+      name: Alex Coveney
+    - role: Sound Designer
+      name: Amanda Fleming
+    - role: Set Designer
+      name: Doug Cairns
+    - role: Stage Manager
+      name: Izzie Vayoni
+  - name: Pirates of Penzance
+    society: Opera Warwick
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Chris Miles
+    - role: Lighting Designer
+      name: Danny Vavrecka
+    - role: Sound Designer
+      name: Xiying Chu
+    - role: Set Designer
+      name: DeDe Cullum
+    - role: Stage Manager
+      name: Ellie Fitzgerald
+    - role: Deputy Stage Manager
+      name: Ciara Shrager
+

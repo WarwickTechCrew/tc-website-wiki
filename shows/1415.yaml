@@ -1,0 +1,166 @@
+year: 2014 / 2015
+
+terms:
+- name: Term 1
+  shows:
+  - name: East
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Adam Coppard
+    - role: Lighting Designer
+      name: Chris Miles
+    - role: Set Designer
+      name: Hattie Collins
+  - name: Souvenirs
+    society: Codpiece
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Adam Coppard
+    - role: Lighting Designer
+      name: Adam Coppard
+    - role: Set Designer
+      name: Thisakyia Dias & David Morgan
+    - role: Stage Manager
+      name: Rozzy Knox
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2014-productions/souvenirs/
+
+- name: Term 2
+  shows:
+  - name: Carmen
+    society: Opera Warwick
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Tech Manager
+      name: Adam Coppard
+    - role: Lighting Designer
+      name: Chris Miles
+    - role: Set Designer
+      name: Emily Brown
+    - role: Sound Designer
+      name: Adam Coppard
+    - role: Stage Manager
+      name: Doug Cairns
+    - role: Deputy Stage Manager
+      name: Siobhan Brennan
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2015-2/carmen-dress-rehearsal/
+  - name: The Glass Menagerie
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Chris Miles
+    - role: Set Designer
+      name: Hattie Collins
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2015-2/the-glass-menagerie/
+  - name: Into The Woods
+    society: MTW
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Tech Manager
+      name: Adam Coppard
+    - role: Lighting Designer
+      name: Georgie Reece
+    - role: Set Designer
+      name: Alex Webster
+    - role: Sound Designer
+      name: Adam Lockett
+    - role: Stage Manager
+      name: Siobhan Brennan
+    - role: Deputy Stage Manager
+      name: Anna Richardson
+    - role: Pyrotechnics
+      name: Adam Coppard
+  - name: Seven Lears
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Chris Miles
+    - role: Lighting Designer
+      name: Iain Galpin
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2015-2/seven-lears/
+
+- name: Term 3
+  shows:
+  - name: Troilus & Cressida
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Stephanie Engel
+    - role: Lighting Designer
+      name: Iain Galpin
+    - role: Set Designer
+      name: Oscar Owen
+    - role: Stage Manager
+      name: Amanda Fleming, Carl Mok, Anna Richardson
+  - name: Avenue Q
+    society: MTW
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Adam Coppard & Chris Miles
+    - role: Lighting Designer
+      name: Chris Miles
+    - role: Set Designer
+      name: Maud Haddon
+    - role: Sound Designer
+      name: Adam Coppard
+    - role: Stage Manager
+      name: Doug Cairns
+    - role: Deputy Stage Manager
+      name: Amanda Fleming
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2015-2/avenue-q/
+  - name: Masterpieces
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Chris Miles
+    - role: Lighting Designer
+      name: Amanda Fleming
+    - role: Set Designer
+      name: Alex Webster
+    - role: Sound Designer
+      name: Hannah Batt
+    - role: Stage Manager
+      name: Maud Haddon & Freya Jefferies
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2015-2/masterpieces-dress-rehearsal/
+  - name: The Merry Widow
+    society: Opera Warwick
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Adam Coppard
+    - role: Lighting Designer
+      name: Doug Cairns
+    - role: Set Designer
+      name: Doug Cairns
+    - role: Sound Designer
+      name: Adam Coppard
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2015-2/the-merry-widow/
+

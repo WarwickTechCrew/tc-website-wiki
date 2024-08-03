@@ -1,0 +1,125 @@
+year: 2022 / 2023
+
+terms:
+- name: Term 1
+  shows:
+  - name: 35mm
+    society: MTW
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Technical Manager
+      name: Bryce McHugh
+    - role: Lighting Designer
+      name: Ed Price
+    - role: Sound Designer
+      name: Jon Kowalski
+    - role: Video Designer
+      name: Ethan Graham
+    - role: Stage Manager
+      name: Cat Heald
+    - role: Deputy Stage Manager
+      name: Maddie Cotton
+  - name: Entertaining Mr. Sloane
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Technical Manager
+      name: Ed Price
+    - role: Lighting Designer
+      name: Chris Davis
+    - role: Sound Designer
+      name: Vincci Chung
+    - role: Set Designer
+      name: Adam Skrzymowski
+    - role: Stage Manager
+      name: James Mays
+    - role: Deputy Stage Manager
+      name: Cat Heald
+- name: Term 2
+  shows:
+  - name: AssemblyWoman
+    society: Warwick Classics
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Lighting Designer
+      name: Adam Skrzymowski
+    - role: Sound Designer
+      name: Ethan Graham
+    - role: Deputy Stage Manager
+      name: Cat Heald
+  - name: Fame
+    society: MTW x Tech Crew
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Co-Technical Managers
+      name: Ed Price & Adam Skrzymowski
+    - role: Lighting Designer
+      name: Chris Davis
+    - role: Sound Designer
+      name: Jon Kowalski
+    - role: Set Designer
+      name: Harry Knight
+    - role: Stage Manager
+      name: Anis Tam
+    - role: Deputy Stage Manager
+      name: Maddie Cotton
+  - name: A Noble Game
+    society: Freshblood
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Technical Manager
+      name: Bryce McHugh and Ella Horne
+    - role: Lighting Designer
+      name: Cat Heald and Ella Horne
+    - role: Sound Designer
+      name: Josh Heng
+    - role: Set Designer
+      name: Sophia Hollingworth and Saumya Shah
+    - role: Stage Manager
+      name: Ellie Dickens and Freya Cox
+  - name: Manon
+    society: Warwick Opera
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Technical Manager
+      name: Edwin Price
+    - role: Lighting Designer
+      name: Rowan Mather and Saskia Jessop
+    - role: Sound Designer
+      name: Vincci Chung and James Mays
+    - role: Set Designer
+      name: Emily Napier and Sofia Kolb
+    - role: Stage Manager
+      name: Olivia Baird
+    - role: Deputy Stage Manager
+      name: Sabina Bonciu
+ 
+- name: Term 3
+  shows:
+  - name: Curtain Call
+    society: MTW
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Lighting Designer
+      name: Ed Price
+    - role: Sound Designer
+      name: Adam Skrzymowski
+    - role: Stage Manager
+      name: Freya Cox
+  - name: Downpour
+    society: Codpiece
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Technical Manager
+      name: Ella Horne
+    - role: Lighting Designer
+      name: Chris Davis and Ben Hammond
+    - role: Sound Designer
+      name: Freya Cox
+    - role: Set Designer
+      name: Ed Price
+    - role: Stage Manager
+      name: Ellie Woolston
+    - role: Deputy Stage Manager
+      name: Josh Heng
+

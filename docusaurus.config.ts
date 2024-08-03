@@ -50,7 +50,7 @@ const config: Config = {
     locales: ['en'],
   },
 
-  plugins: [tailwindPlugin],
+  plugins: [tailwindPlugin, './src/plugins/shows.ts'],
 
   presets: [
     [

@@ -1,0 +1,119 @@
+year: 2021 / 2022
+
+terms:
+- name: Term 1
+  shows:
+  - name: Small Fish
+    society: Fresblood New Writing
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Tash Boret
+    - role: Lighting Designer
+      name: Dan Collier
+    - role: Sound Designer
+      name: Bryce McHugh
+    - role: Set Designers
+      name: Anwar Jouhary and Helga Haiman
+    - role: Stage Manager
+      name: Kummi Sandrasagren
+    - role: Deputy Stage Manager
+      name: Jon Kowalski
+  - name: Through Thick and Thin
+    society: Tech Crew & Codpiece
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Bryce McHugh
+    - role: Lighting Designer
+      name: Tash Boret
+    - role: Sound Designer
+      name: Ben Hubner
+    - role: Set Designer
+      name: Jon-Luke Goodman
+    - role: Stage Manager
+      name: El Southwell
+    - role: Deputy Stage Manager
+      name: Anis Tam
+
+- name: Term 2
+  shows:
+  - name: Constellations
+    society: WUDS
+    venue: FAB Studio 1
+    people:
+    - role: Tech Manager
+      name: Dan Collier
+    - role: Lighting Designer
+      name: Chris Davis
+    - role: Sound Designer
+      name: Jon Kowalski
+    - role: Set Designer
+      name: Harry Knight
+    - role: Stage Manager
+      name: Alexandra Keaney
+  - name: Tonight Belongs to You
+    society: Charity Event
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Tech Manager
+      name: Tash Boret
+    - role: Lighting Designer
+      name: Dan Collier
+    - role: Sound Designer
+      name: Jon Kowalski
+    - role: Stage Manager
+      name: El Southwell
+  - name: Legally Blonde
+    society: Tech Crew & MTW
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Tech Manager
+      name: Tash Boret
+    - role: Lighting Designer
+      name: Dan Collier
+    - role: Sound Designer
+      name: Bryce McHugh
+    - role: Set Designers
+      name: Harry Knight & Chloe Hutchinson
+    - role: Stage Manager
+      name: El Southwell
+    - role: Deputy Stage Manager
+      name: Anis Tam
+
+- name: Term 3
+  shows:
+  - name: The Glass Wall
+    society: Codpiece & Tech Crew
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Dan Collier
+    - role: Assistant Tech Manager
+      name: Ed Price
+    - role: Lighting Designer
+      name: Chris Davis
+    - role: Sound Designer
+      name: Vincci Chung
+    - role: Set Designer
+      name: Holly Kennedy
+    - role: Video Designer
+      name: Adam Skrzymowski
+    - role: Stage Manager
+      name: Elena Wolfson
+    - role: Deputy Stage Manager
+      name: Tash Boret
+  - name: The Marksman
+    society: Opera Warwick
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Sound Designer
+      name: Jon Kowalski
+    - role: Lighting Designer
+      name: Natasha Boret
+    - role: Set Designer
+      name: Casilda Serrano Villalobos
+    - role: Stage Manager
+      name: El Southwell
+    - role: Deputy Stage Manager
+      name: Antonio Brito

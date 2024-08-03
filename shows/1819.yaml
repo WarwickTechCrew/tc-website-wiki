@@ -1,0 +1,174 @@
+year: 2018 / 2019
+
+terms:
+- name: Term 1
+  shows:
+  - name: Lip Service
+    society: Freshblood New Writing
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Managers
+      name: Danny Vavrecka and Harry Halliday
+    - role: Lighting Designer
+      name: Danny Vavrecka
+    - role: Sound Designer
+      name: Harry Halliday
+    - role: Set Designer
+      name: Grace Lovegrove
+    - role: Stage Manager
+      name: Marianne Steggall
+    - role: Deputy Stage Manager
+      name: Jacob Buckley
+  - name: Woyzeck
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Laura Cairns
+    - role: Lighting Designer
+      name: Tash Boret
+    - role: Sound Designer
+      name: Maria Dunkley
+    - role: Set Designer
+      name: Calum Martineau
+    - role: Stage Manager
+      name: Cat Buck
+    - role: Deputy Stage Manager
+      name: Joanna Woznicka
+
+- name: Term 2
+  shows:
+  - name: X
+    society: Tech Crew & WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Harry Halliday
+    - role: Lighting Designer
+      name: Danny Vavrecka
+    - role: Sound Designer
+      name: Cat Buck
+    - role: Set Designer
+      name: Grace Lovegrove
+    - role: Stage Manager
+      name: Tash Boret
+    - role: Deputy Stage Manager
+      name: Lucy Millard
+  - name: La Vie Parisienne
+    society: Opera Warwick
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Tech Manager
+      name: Harry Halliday
+    - role: Lighting Designer
+      name: Todd Olive
+    - role: Sound Designer
+      name: Cat Buck
+    - role: Set Designer
+      name: Marta Cappozzo
+    - role: Stage Manager
+      name: Laura Cairns
+    - role: Deputy Stage Manager
+      name: Jacob Buckley
+  - name: The Pillowman
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: James Fitzpatrick
+    - role: Lighting Designer
+      name: Danny Vavrecka
+    - role: Sound Designer
+      name: Imi Francis
+    - role: Set Designer
+      name: Meg Colborne
+    - role: Stage Manager
+      name: Tash Boret
+    - role: Deputy Stage Manager
+      name: Kate Marron
+  - name: Guys and Dolls
+    society: MTW
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Tech Manager
+      name: Danny Vavrecka and Harry Halliday
+    - role: Lighting Designer
+      name: Danny Vavrecka
+    - role: Sound Designer
+      name: Harry Halliday
+    - role: Set Designer
+      name: Grace Lovegrove
+    - role: Stage Manager
+      name: Katherine Wilson Jarvis
+    - role: Technical Stage Manager
+      name: Laura Cairns
+    - role: Deputy Stage Manager
+      name: Jacob Buckley
+
+- name: Term 3
+  shows:
+  - name: A Normal Heart
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Tash Boret
+    - role: Lighting Designer
+      name: Elli Henson
+    - role: Sound Designer
+      name: Eduardo Jara
+    - role: Set Designer
+      name: Imi Francis
+    - role: Stage Manager
+      name: Ed Kilcawley and Jacob Buckley
+    - role: Deputy Stage Manager
+      name: Katherine Wilson-Jarvis
+  - name: Dogfight
+    society: MTW
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Laura Cairns and James Tattersall
+    - role: Lighting Designer
+      name: Danny Vavrecka
+    - role: Sound Designer
+      name: Cat Buck
+    - role: Set Designer
+      name: Grace Lovegrove
+    - role: Stage Manager
+      name: Lucy Millard
+    - role: Deputy Stage Manager
+      name: Ed Kilcawley
+  - name: The Beggar's Opera
+    society: Opera Warwick
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Tash Boret and Cat Buck
+    - role: Lighting Designer
+      name: Todd Olive
+    - role: Sound Designer
+      name: Thomas Bruce
+    - role: Set Designer
+      name: Bethany Inglesby-Wood
+    - role: Stage Manager
+      name: Azilis Denigot
+    - role: Deputy Stage Manager
+      name: Kate Marron
+  - name: A Chorus of Disapproval
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Laura Cairns and Cat Buck
+    - role: Lighting Designer
+      name: Harry Halliday
+    - role: Sound Designer
+      name: Ed Kilcawley
+    - role: Set Designer
+      name: Imi Francis
+    - role: Stage Manager
+      name: Amelia Moore
+    - role: Deputy Stage Manager
+      name: Lucy Millard
+

@@ -1,0 +1,154 @@
+year: 2013 / 2014
+
+terms:
+- name: Term 1
+  shows:
+  - name: The Positive Hour
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Olly Levett
+    - role: Lighting Designer
+      name: Olly Levett
+    - role: Set Designer
+      name: Emma Digby
+    - role: Stage Manager
+      name: Maddy Murray
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2013-productions/positive-hour/
+  - name: Road
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Olly Levett
+    - role: Lighting Designer
+      name: Olly Levett
+    - role: Set Designer
+      name: Eimhin Walker
+    - role: Sound Designer
+      name: Tom Bolger
+    - role: Stage Manager
+      name: Robbie Foulston
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2013-productions/road-photo-call/
+
+- name: Term 2
+  shows:
+  - name: Don Giovanni
+    society: Opera Warwick
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Tech Manager
+      name: Olly Levett
+    - role: Lighting Designer
+      name: Tom Gillespy
+    - role: Sound Designer
+      name: Adam Coppard
+    - role: Stage Manager
+      name: Hannah Fullelove
+    - role: Deputy Stage Manager
+      name: Anne Le Fur
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2014-productions/don-giovanni-dress-rehearsal/
+  - name: Antigone
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Olly Levett
+    - role: Lighting Designer
+      name: Sam Doughty
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2014-productions/antigone-dress-rehearsal/
+  - name: Sweeney Todd
+    society: MTW
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Tech Manager
+      name: Olly Levett
+    - role: Lighting Designer
+      name: Sam Doughty
+    - role: Set Designer
+      name: Billie Shepherd
+    - role: Sound Designer
+      name: Adam Lockett
+    - role: Stage Manager
+      name: Lottie Mills
+    - role: Deputy Stage Manager
+      name: Holly Mirams
+  - name: Mammals
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Tom Gillespy
+    - role: Lighting Designer
+      name: Adam Coppard
+
+- name: Term 3
+  shows:
+  - name: The Hairy Ape
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Adam Coppard
+    - role: Lighting Designer
+      name: Adam Coppard
+  - name: Guys & Dolls
+    society: MTW
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Adam Coppard & Olly Levett
+    - role: Lighting Designer
+      name: Olly Levett
+    - role: Set Designer
+      name: Tom Canning
+    - role: Sound Designer
+      name: Adam Coppard
+    - role: Stage Manager
+      name: Hannah Fullelove
+    - role: Deputy Stage Manager
+      name: Anna Richardson
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2014-productions/guys-and-dolls-dress/
+  - name: The Coronation of Poppea
+    society: Opera Warwick
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Adam Coppard
+    - role: Lighting Designer
+      name: Olly Levett
+    - role: Set Designer
+      name: Eimhin Walker
+    - role: Stage Manager
+      name: Hannah Fullelove
+    - role: Deputy Stage Manager
+      name: Anne Le Fur
+  - name: The Trial
+    society: Freshblood
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Adam Coppard
+    - role: Lighting Designer
+      name: Chris Miles
+    - role: Set Designer
+      name: Eimhin Walker
+    - role: Stage Manager
+      name: Marianne Matusz
+

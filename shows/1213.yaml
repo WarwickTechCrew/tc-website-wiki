@@ -1,0 +1,162 @@
+year: 2012 / 2013
+
+terms:
+- name: Term 1
+  shows:
+  - name: Twelfth Night
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Jonathan Moss
+    - role: Lighting Designer
+      name: Olly Levett
+    - role: Sound Designer
+      name: Kieren Lucas
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2012-productions/twelfth-night/
+  - name: Pornography
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Jonathan Moss
+    - role: AV
+      name: Joey Henshaw & Tom Gillespy
+    - role: Lighting Designer
+      name: Olly Levett
+    - role: Sound Designer
+      name: Jonathan Moss
+    - role: Stage Manager
+      name: Lottie Mills
+    - role: Deputy Stage Manager
+      name: Holly Mirams
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2012-productions/pornography-dress-rehearsal/
+
+- name: Term 2
+  shows:
+  - name: Cinderella
+    society: Opera Warwick
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Tech Manager
+      name: Rob Morton
+    - role: AV
+      name: Joey Henshaw
+    - role: Lighting Designer
+      name: Olly Levett
+    - role: Sound Designer
+      name: Jonathan Moss
+    - role: Stage Manager
+      name: Anne Le Fur
+    - role: Deputy Stage Manager
+      name: Holly Mirams
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2013-productions/cinderella-dress-rehearsal/
+  - name: The Last Days of Judas Iscariot
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Tom Gillespy
+    - role: Lighting Designer
+      name: Lizzie Drapper
+    - role: Sound Designer
+      name: Kieren Lucas
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2013-productions/judas-dress-rehearsal/
+  - name: Richard III
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Rob Morton
+    - role: Lighting Designer
+      name: Lizzy Leech
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2013-productions/richard-iii-dress-rehearsal/
+  - name: Thoroughly Modern Millie
+    society: MTW
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Tech Manager
+      name: Rob Morton
+    - role: AV
+      name: Joey Henshaw
+    - role: Lighting Designer
+      name: Olly Levett
+    - role: Sound Designer
+      name: Jonathan Moss
+    - role: Stage Manager
+      name: Lottie Mills
+    - role: Deputy Stage Manager
+      name: Anne Le Fur
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2013-productions/tmm-dress-rehearsal/
+
+- name: Term 3
+  shows:
+  - name: Lysistrata
+    society: Freshblood
+    venue: Warwick Arts Centre Helen Martin Studio
+    people:
+    - role: Tech Manager
+      name: Olly Levett
+    - role: Lighting Designer
+      name: Olly Levett
+    - role: Sound Designer
+      name: Rob Morton
+    - role: Stage Manager
+      name: Gayatri Chanrai
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2013-productions/lysistrata-dress/
+  - name: Rent
+    society: MTW
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Jonathan Moss
+    - role: Lighting Designer
+      name: Olly Levett
+    - role: Sound Designer
+      name: Jonathan Moss
+    - role: Stage Manager
+      name: Lottie Mills
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2013-productions/rent-dress-rehearsal/
+  - name: Capital
+    society: Freshblood
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Olly Levett
+    - role: Lighting Designer
+      name: Olly Levett
+    - role: Sound Designer
+      name: Rob Morton
+    - role: Stage Manager
+      name: Lizzy Leech
+    - role: Deputy Stage Manager
+      name: Holly Mirams
+    links:
+    - name: Images
+      label: Darkling Images Gallery
+      url: http://darklingimages.com/gallery/2013-productions/capital/
+

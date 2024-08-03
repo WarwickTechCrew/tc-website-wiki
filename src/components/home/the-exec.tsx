@@ -61,7 +61,7 @@ export default function TheExec() {
         </a>
         . For the year {YEAR}, the TechXec are:
       </p>
-      <div className="flex flex-wrap gap-2 mt-2">
+      <div className="flex flex-wrap gap-2 mt-2 justify-center sm:justify-start">
         {exec.map((member) => (
           <article
             key={member.name}

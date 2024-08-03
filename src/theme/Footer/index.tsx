@@ -29,6 +29,9 @@ function Footer(): JSX.Element {
             <a href="/wiki">Tech Crew Wiki</a>
           </li>
           <li>
+            <a href="/shows">Shows</a>
+          </li>
+          <li>
             <a href="/hires">Hires</a>
           </li>
           <li>

@@ -164,11 +164,11 @@ export default function Home() {
                   />
                   <CaptionedImage
                     src={
-                      require('@site/static/images/home/anythinggoes-chrismiles.jpg')
+                      require('@site/static/images/home/fame-2-joshheng.jpg')
                         .default
                     }
-                    alt="Anything Goes Get-in"
-                    caption="Anything Goes, Music Theatre Warwick, 2016. Photo © Chris Miles"
+                    alt="FAME Control Room"
+                    caption="FAME, Music Theatre Warwick, 2023. Photo © Josh Heng"
                   />
                 </div>
               </div>

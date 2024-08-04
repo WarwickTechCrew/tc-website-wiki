@@ -35,7 +35,7 @@ function Footer(): JSX.Element {
             <a href="/hires">Hires</a>
           </li>
           <li>
-            <a href="/get-involved">Get Involved</a>
+            <a href="/opportunities">Get Involved</a>
           </li>
         </ul>
 

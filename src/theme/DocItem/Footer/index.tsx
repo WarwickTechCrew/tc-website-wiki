@@ -24,7 +24,6 @@ export default function DocItemFooter(): JSX.Element | null {
     metadata.next &&
     metadata.next.permalink.startsWith(metadata.permalink) &&
     metadata.id !== 'index';
-  console.log(isIndexPage);
 
   return (
     <footer

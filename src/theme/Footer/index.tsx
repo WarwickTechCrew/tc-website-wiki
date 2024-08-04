@@ -13,11 +13,13 @@ function Footer(): JSX.Element {
     >
       <div className="p-4 max-w-screen-2xl mx-auto text-sm mb-2">
         <p className="mb-1">Warwick Tech Crew</p>
-        <img
-          src="/logo-dark.svg"
-          alt="Tech Crew Logo"
-          className="w-20 h-auto mx-auto"
-        />
+        <a href="/" className="block w-fit mx-auto">
+          <img
+            src="/logo-dark.svg"
+            alt="Tech Crew Logo"
+            className="w-20 h-auto mx-auto"
+          />
+        </a>
       </div>
 
       <div className="max-w-screen-md mx-auto grid grid-cols-1 sm:grid-cols-3 gap-4 mb-4 text-sm">
@@ -35,7 +37,7 @@ function Footer(): JSX.Element {
             <a href="/hires">Hires</a>
           </li>
           <li>
-            <a href="/get-involved">Get Involved</a>
+            <a href="/opportunities">Get Involved</a>
           </li>
         </ul>
 

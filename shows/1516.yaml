@@ -1,174 +1,160 @@
 year: 2015 / 2016
 
 terms:
-- name: Term 1
-  shows:
-  - name: The Faithless Healer
-    society: Freshblood
-    venue: Warwick Arts Centre Studio
-    people:
-    - role: Tech Manager
-      name: Chris Miles
-    - role: Tech Assistant
-      name: Libby Baker
-    - role: Lighting Designer
-      name: Chris Miles
-    - role: Set Designer
-      name: Hattie Collins
-    - role: Stage Manager
-      name: Kathryn Graff
-    links:
-    - name: Images
-      label: Darkling Images Gallery
-      url: http://darklingimages.com/gallery/2015-2/the-faithless-healer/
-  - name: Hay Fever
-    society: WUDS
-    venue: Warwick Arts Centre Studio
-    people:
-    - role: Tech Manager
-      name: Chris Miles
-    - role: Lighting Designer
-      name: Amanda Fleming
-    - role: Set Designer
-      name: Alice Byrne
-    - role: Stage Manager
-      name: Freya Jefferies
-    links:
-    - name: Images
-      label: Darkling Images Gallery
-      url: http://darklingimages.com/gallery/2015-2/hay-fever-2/
+  - name: Term 1
+    shows:
+      - name: The Faithless Healer
+        society: Freshblood
+        venue: Warwick Arts Centre Studio
+        people:
+          - role: Tech Manager
+            name: Chris Miles
+          - role: Tech Assistant
+            name: Libby Baker
+          - role: Lighting Designer
+            name: Chris Miles
+          - role: Set Designer
+            name: Hattie Collins
+          - role: Stage Manager
+            name: Kathryn Graff
 
-- name: Term 2
-  shows:
-  - name: The Marriage of Figaro
-    society: Opera Warwick
-    venue: Warwick Arts Centre Theatre
-    people:
-    - role: Tech Manager
-      name: Chris Miles
-    - role: Set Designers
-      name: Amanda Fleming and Eleanor Blackley
-    - role: Sound Designer
-      name: Amanda Fleming
-    - role: Stage Manager
-      name: Eleanor Blackley
-    - role: Props Manager
-      name: Freya Jefferies
-    - role: Deputy Stage Manager
-      name: Ollie Base
-    links:
-    - name: Images
-      label: Darkling Images Gallery
-      url: http://darklingimages.com/2016-2/the-marriage-of-figaro/
-  - name: Posh
-    society: WUDS
-    venue: Warwick Arts Centre Studio
-    people:
-    - role: Tech Manager
-      name: Amanda Fleming
-    - role: Lighting Designer
-      name: Amaka Ejizu
-    - role: Sound Designer
-      name: Amaka Ejizu
-    - role: Set Designer
-      name: Maud Haddon
-    - role: Stage Manager
-      name: Freya Jefferies
-  - name: Anything Goes
-    society: MTW
-    venue: Warwick Arts Centre Theatre
-    people:
-    - role: Tech Manager
-      name: Chris Miles
-    - role: Lighting Designer
-      name: Iain Galpin
-    - role: Lighting Consultant
-      name: Georgie Reece
-    - role: Set Designer
-      name: Doug Cairns
-    - role: Sound Designer
-      name: Jonathan Winfield
-    - role: Sound Technician
-      name: Matt Coster
-    - role: Stage Manager
-      name: Ellie Smith
-    - role: Deputy Stage Manager
-      name: Amanda Fleming
-    links:
-    - name: Images
-      label: Darkling Images Gallery
-      url: http://darklingimages.com/2016-2/anything-goes-dress-rehearsal/
-  - name: Wuthering Heights
-    society: WUDS
-    venue: Warwick Arts Centre Studio
-    people:
-    - role: Tech Manager
-      name: Iain Galpin
-    - role: Lighting Designer
-      name: James Fitzpatrick
-    - role: Set Designer
-      name: Kim Fennell
-    - role: Stage Manager
-      name: Freya Jefferies
+      - name: Hay Fever
+        society: WUDS
+        venue: Warwick Arts Centre Studio
+        people:
+          - role: Tech Manager
+            name: Chris Miles
+          - role: Lighting Designer
+            name: Amanda Fleming
+          - role: Set Designer
+            name: Alice Byrne
+          - role: Stage Manager
+            name: Freya Jefferies
 
-- name: Term 3
-  shows:
-  - name: Eurydice
-    society: WUDS
-    venue: Warwick Arts Centre Studio
-    people:
-    - role: Tech Manager
-      name: Iain Galpin
-    - role: Lighting Designer
-      name: Eliott Bloomer
-    - role: Sound Designer
-      name: Amanda Fleming
-    - role: Set Designer
-      name: Hope McGee
-    - role: Stage Manager
-      name: Amanda Fleming
-  - name: Cabaret
-    society: MTW
-    venue: Warwick Arts Centre Studio
-    people:
-    - role: Tech Manager
-      name: Amanda Fleming
-    - role: Lighting Designer
-      name: Ciara Shrager and Eliott Bloomer
-    - role: Set Designer
-      name: Maud Haddon
-    - role: Sound Designer
-      name: Chris Miles
-    - role: Sound Technician
-      name: Matt Coster
-    - role: Stage Manager
-      name: Ciara Shrager
-    - role: Deputy Stage Manager
-      name: Georgia Nicholls
-  - name: The White Snake
-    society: Drama Collective
-    venue: Warwick Arts Centre Studio
-    people:
-    - role: Tech Manager
-      name: Doug Cairns
-    - role: Lighting Designer
-      name: Iain Galpin
-    - role: Sound Designer
-      name: Doug Cairns
-    - role: Set Designer
-      name: Beth Fleming
-    - role: Stage Manager
-      name: Greta Bendinelli
-  - name: Threepenny Opera
-    society: Opera Warwick
-    venue: Warwick Arts Centre Studio
-    people:
-    - role: Tech Manager
-      name: Chris Miles
-    - role: Lighting Designer
-      name: Amanda Fleming
-    - role: Sound Designer
-      name: Ciara Shrager and William Mayne
-    - role: Stage Manager
-      name: Alex Sikkink
+  - name: Term 2
+    shows:
+      - name: The Marriage of Figaro
+        society: Opera Warwick
+        venue: Warwick Arts Centre Theatre
+        people:
+          - role: Tech Manager
+            name: Chris Miles
+          - role: Set Designers
+            name: Amanda Fleming and Eleanor Blackley
+          - role: Sound Designer
+            name: Amanda Fleming
+          - role: Stage Manager
+            name: Eleanor Blackley
+          - role: Props Manager
+            name: Freya Jefferies
+          - role: Deputy Stage Manager
+            name: Ollie Base
 
+      - name: Posh
+        society: WUDS
+        venue: Warwick Arts Centre Studio
+        people:
+          - role: Tech Manager
+            name: Amanda Fleming
+          - role: Lighting Designer
+            name: Amaka Ejizu
+          - role: Sound Designer
+            name: Amaka Ejizu
+          - role: Set Designer
+            name: Maud Haddon
+          - role: Stage Manager
+            name: Freya Jefferies
+      - name: Anything Goes
+        society: MTW
+        venue: Warwick Arts Centre Theatre
+        people:
+          - role: Tech Manager
+            name: Chris Miles
+          - role: Lighting Designer
+            name: Iain Galpin
+          - role: Lighting Consultant
+            name: Georgie Reece
+          - role: Set Designer
+            name: Doug Cairns
+          - role: Sound Designer
+            name: Jonathan Winfield
+          - role: Sound Technician
+            name: Matt Coster
+          - role: Stage Manager
+            name: Ellie Smith
+          - role: Deputy Stage Manager
+            name: Amanda Fleming
+
+      - name: Wuthering Heights
+        society: WUDS
+        venue: Warwick Arts Centre Studio
+        people:
+          - role: Tech Manager
+            name: Iain Galpin
+          - role: Lighting Designer
+            name: James Fitzpatrick
+          - role: Set Designer
+            name: Kim Fennell
+          - role: Stage Manager
+            name: Freya Jefferies
+
+  - name: Term 3
+    shows:
+      - name: Eurydice
+        society: WUDS
+        venue: Warwick Arts Centre Studio
+        people:
+          - role: Tech Manager
+            name: Iain Galpin
+          - role: Lighting Designer
+            name: Eliott Bloomer
+          - role: Sound Designer
+            name: Amanda Fleming
+          - role: Set Designer
+            name: Hope McGee
+          - role: Stage Manager
+            name: Amanda Fleming
+      - name: Cabaret
+        society: MTW
+        venue: Warwick Arts Centre Studio
+        people:
+          - role: Tech Manager
+            name: Amanda Fleming
+          - role: Lighting Designer
+            name: Ciara Shrager and Eliott Bloomer
+          - role: Set Designer
+            name: Maud Haddon
+          - role: Sound Designer
+            name: Chris Miles
+          - role: Sound Technician
+            name: Matt Coster
+          - role: Stage Manager
+            name: Ciara Shrager
+          - role: Deputy Stage Manager
+            name: Georgia Nicholls
+      - name: The White Snake
+        society: Drama Collective
+        venue: Warwick Arts Centre Studio
+        people:
+          - role: Tech Manager
+            name: Doug Cairns
+          - role: Lighting Designer
+            name: Iain Galpin
+          - role: Sound Designer
+            name: Doug Cairns
+          - role: Set Designer
+            name: Beth Fleming
+          - role: Stage Manager
+            name: Greta Bendinelli
+      - name: Threepenny Opera
+        society: Opera Warwick
+        venue: Warwick Arts Centre Studio
+        people:
+          - role: Tech Manager
+            name: Chris Miles
+          - role: Lighting Designer
+            name: Amanda Fleming
+          - role: Sound Designer
+            name: Ciara Shrager and William Mayne
+          - role: Stage Manager
+            name: Alex Sikkink

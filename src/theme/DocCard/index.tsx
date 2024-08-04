@@ -56,10 +56,12 @@ function CardLayout({
   href,
   title,
   description,
+  emoji,
 }: {
   href: string;
   title: string;
   description?: string;
+  emoji?: string;
 }): JSX.Element {
   return (
     <CardContainer href={href}>
@@ -68,7 +70,7 @@ function CardLayout({
         className={clsx('text--truncate', styles.cardTitle)}
         title={title}
       >
-        {title}
+        {emoji} {title}
       </Heading>
       {description && (
         <p
@@ -109,17 +111,20 @@ function CardCategory({
         doc?.description ??
         categoryItemsPlural(item.items.length)
       }
+      emoji={item.customProps?.emoji as string}
     />
   );
 }
 
 function CardLink({ item }: { item: PropSidebarItemLink }): JSX.Element {
   const doc = useDocById(item.docId ?? undefined);
+
   return (
     <CardLayout
       href={item.href}
       title={item.label}
       description={item.description ?? doc?.description}
+      emoji={item.customProps?.emoji as string}
     />
   );
 }

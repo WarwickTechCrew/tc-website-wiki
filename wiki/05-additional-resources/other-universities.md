@@ -1,3 +1,8 @@
+---
+description: The technical theatre world at other universities.
+sidebar_custom_props:
+    emoji: 🎓
+---
 # University Tech and Theatre Society Directory
 
 If you enjoy going on deep dives of what other unis have, this page is for you! With all our equivalents at other

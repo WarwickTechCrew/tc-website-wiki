@@ -1,5 +1,7 @@
 ---
 description: Where is everything stored?
+sidebar_custom_props:
+  emoji: 📦
 ---
 # Storage
 

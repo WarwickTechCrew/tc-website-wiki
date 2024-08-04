@@ -1,3 +1,8 @@
+---
+description: Turn it off and on again!
+sidebar_custom_props:
+  emoji: 💡
+---
 # Lighting (LX)
 
 :::info

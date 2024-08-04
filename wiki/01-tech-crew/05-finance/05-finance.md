@@ -1,5 +1,7 @@
 ---
 description: What is an MRF, and how can I get reimbursed for my expenses?
+sidebar_custom_props:
+  emoji: 💵
 ---
 # Finance
 As part of Warwick SU, Tech Crew has a society account and must follow all the

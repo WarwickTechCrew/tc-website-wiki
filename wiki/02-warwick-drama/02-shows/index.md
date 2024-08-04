@@ -1,7 +1,12 @@
+---
+description: All about the Warwick Drama show process.
+sidebar_custom_props:
+  emoji: 📃
+---
 # Shows
 
 :::info
-These pages expalin how the Warwick Drama show process works. For general info about shows, please
+These pages explain how the Warwick Drama show process works. For general info about shows, please
 read [Shows and Hires](../tech-crew/shows-and-hires).
 :::
 

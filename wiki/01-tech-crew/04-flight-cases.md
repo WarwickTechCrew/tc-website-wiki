@@ -1,5 +1,7 @@
 ---
-description: Our portable flight cases.
+description: All about our portable flight cases.
+sidebar_custom_props:
+  emoji: 🚋
 ---
 # Flight Cases
 

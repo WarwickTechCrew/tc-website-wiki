@@ -1,6 +1,8 @@
 ---
 description: Examples of previous shows and events, and the tech involved.
 title: Case Studies
+sidebar_custom_props:
+  emoji: 📚
 ---
 # Case Studies
 

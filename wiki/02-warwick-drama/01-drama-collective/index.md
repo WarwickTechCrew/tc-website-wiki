@@ -1,3 +1,8 @@
+---
+description: What is the Drama Collective, and what societies is it made up of?
+sidebar_custom_props:
+  emoji: 🎭
+---
 # The Drama Collective (DC)
 
 ```mermaid

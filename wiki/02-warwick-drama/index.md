@@ -1,5 +1,7 @@
 ---
 description: What is considered Warwick Drama, and what societies are involved?
+sidebar_custom_props:
+  emoji: 🎭
 ---
 # Warwick Drama
 
@@ -23,7 +25,8 @@ flowchart TD
     MTW --> IM{{The Improv Musical}}
     FB --> FF{{Freshblood Festival}}
 ```
-
+## The Drama Collective (DC)
+See [Drama Collective](./warwick-drama/drama-collective).
 
 ## Music Theatre Warwick (MTW)
 

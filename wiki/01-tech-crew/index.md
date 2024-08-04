@@ -1,5 +1,7 @@
 ---
 description: Information about Tech Crew itself and how it functions.
+sidebar_custom_props:
+  emoji: 🏠
 ---
 # Tech Crew
 

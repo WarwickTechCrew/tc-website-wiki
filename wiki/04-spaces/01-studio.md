@@ -1,3 +1,8 @@
+---
+description: A black box studio in Warwick Arts Centre.
+sidebar_custom_props:
+    emoji: ⬛
+---
 # WAC Studio
 
 ![studio levels](/images/studio/studio-levels.jpg)

@@ -1,5 +1,7 @@
 ---
 description: An explanation of shows and hires, and how the society works.
+sidebar_custom_props:
+  emoji: 🎭
 ---
 # Shows and Hires
 

@@ -1,6 +1,3 @@
----
-additional_authors: Jon Kowalski
----
 # Deputy Stage Manager
 The deputy stage manager...
 
@@ -24,7 +21,7 @@ attention of the [SHOW] company"*. Back of House calls are always 5 minutes ahea
 call is given 35 minutes before the show is supposed to open, not half an hour.
 
 :::note
-The following calls are just an example, modified from the calls given for MTW Company, 2024 (Jon Kowalski) (a Music
+The following calls are just an example, modified from the calls given for MTW Company, 2024 (Jon K) (a Music
 Theatre Warwick show in the theatre). 
 :::
 

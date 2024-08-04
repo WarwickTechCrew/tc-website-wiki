@@ -13,7 +13,7 @@ function Footer(): JSX.Element {
     >
       <div className="p-4 max-w-screen-2xl mx-auto text-sm mb-2">
         <p className="mb-1">Warwick Tech Crew</p>
-        <a href="/">
+        <a href="/" className="block w-fit mx-auto">
           <img
             src="/logo-dark.svg"
             alt="Tech Crew Logo"

@@ -22,14 +22,11 @@ jobs:
           # Create a temporary file to store words to ignore
           TEMP_IGNORE_FILE=$(mktemp)
 
-          # Ignore Acronyms (all caps)
-          grep -oE '\b[A-Z][A-Z]+\b' $(git ls-files '*.md') | sort -u >> $TEMP_IGNORE_FILE
+          # Ignore Acronyms (all caps), with and without trailing punctuation
+          grep -oE '\b[A-Z][A-Z]+[^a-zA-Z]\b' $(git ls-files '*.md') | sort -u >> $TEMP_IGNORE_FILE
 
-          # Ignore Proper nouns (capitalized first letter)
-          grep -oE '\b[A-Z][a-z]+\b' $(git ls-files '*.md') | sort -u >> $TEMP_IGNORE_FILE
-
-          # Ignore bugged words
-          echo "Pointes" >> $TEMP_IGNORE_FILE
+          # Ignore Proper nouns (capitalized first letter), with and without trailing punctuation
+          grep -oE '\b[A-Z][a-z]+[^a-zA-Z]\b' $(git ls-files '*.md') | sort -u >> $TEMP_IGNORE_FILE
 
           # Remove duplicate entries
           sort -u $TEMP_IGNORE_FILE -o $TEMP_IGNORE_FILE

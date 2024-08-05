@@ -25,11 +25,13 @@ export async function getGitContributors(
     file: path,
     fields: ['authorName'],
     number: 100,
+    follow: true,
   });
 
   for (const commit of commits) {
-    if (!authors.includes(commit.authorName)) {
-      authors.push(commit.authorName);
+    const authorName = authorNames[commit.authorName] || commit.authorName;
+    if (!authors.includes(authorName)) {
+      authors.push(authorName);
     }
   }
 

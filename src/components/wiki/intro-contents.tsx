@@ -3,7 +3,9 @@ import { useDocsSidebar } from '@docusaurus/theme-common/internal';
 
 export default function IntroContents() {
   const sidebar = useDocsSidebar();
-  const items = sidebar.items.filter((item) => item.type === 'category');
+  const items = sidebar.items.filter(
+    (item) => item.type === 'category' && item.href,
+  );
 
   return <DocCardList items={items} />;
 }

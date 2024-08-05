@@ -1,9 +1,12 @@
-import DocCardList from '@theme/DocCardList';
-
-# Shows
+---
+description: All about the Warwick Drama show process.
+sidebar_custom_props:
+  emoji: 📃
+---
+# Show Process
 
 :::info
-These pages expalin how the Warwick Drama show process works. For general info about shows, please
+These pages explain how the Warwick Drama show process works. For general info about shows, please
 read [Shows and Hires](../tech-crew/shows-and-hires).
 :::
 
@@ -11,8 +14,8 @@ In Tech Crew, the term **show** is a special term referring to a project in the 
 this pack/panel process. Other 'shows' are considered [hires](../tech-crew/shows-and-hires#hires) and are generally a much
 smaller process.
 
-All shows at Warwick go through a standard submission and show process. The following flowchart shows a quick
-overview, however each section is explained in more detail below.
+All shows at Warwick go through a standard submission and show process. The following flowchart shows a [somewhat]
+quick overview, however each section is explained in more detail below.
 
 ```mermaid
 flowchart LR
@@ -50,7 +53,7 @@ flowchart LR
   getOut --> debrief[Debrief]
 ```
 
-## WAC Show slots
+## WAC Show Slots
 
 Each year, Warwick Arts Centre will allocate a fixed number of **slots** to three drama societies - these are weeks in
 the Arts Centre's programming where the society may choose to put on a show. As of 2024, these are:
@@ -78,6 +81,3 @@ member of Tech Crew exec to discuss what went well and how to improve.
 
 Tech Crew roles will often be first advertised and assigned at the pre-panel stage, so that designers have a chance to
 contribute to the pack and panel. If positions are not filled, roles can also be assigned after panel.
-
-
-<DocCardList />

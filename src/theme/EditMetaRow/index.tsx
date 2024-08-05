@@ -29,7 +29,7 @@ export default function EditMetaRow({
     <div className={clsx('row', className)}>
       <div className="col">{editUrl && <EditThisPage editUrl={editUrl} />}</div>
       <div className={clsx('col', styles.lastUpdated)}>
-        <p>Contributors: {authorsString}</p>
+        {authorsString && <p>Contributors: {authorsString}</p>}
         {(lastUpdatedAt || lastUpdatedBy) && (
           <LastUpdated
             lastUpdatedAt={lastUpdatedAt}

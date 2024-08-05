@@ -1,3 +1,8 @@
+---
+description: It always needs more reverb!
+sidebar_custom_props:
+  emoji: 🎤
+---
 # Sound
 
 ## Sound Desks

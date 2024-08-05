@@ -25,6 +25,7 @@ export async function getGitContributors(
     file: path,
     fields: ['authorName'],
     number: 100,
+    follow: true,
   });
 
   for (const commit of commits) {

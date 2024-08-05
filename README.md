@@ -12,16 +12,35 @@ as Josh Heng to make the changes for you).
 
 You can find more information about formatting [here](https://docusaurus.io/docs/markdown-features).
 
+### Front Matter
+Each doc file should have front matter at the top of the page that defines its description and emoji (e.g. for embeds):
+```yaml
+description: [Description of the page]
+sidebar_custom_props:
+  emoji: 🎭
+```
+
 ### Wiki Authors
 By default, the site will show the name of all the contributors for each page. This is determined from the name you use
 on GitHub/the name you have configured in Git. These names can be overridden in the file `src/lib/author-names.ts`.
 
 It is also possible to add additional contributors or override all the contributors for a wiki page by adding the
 following front matter to the top of each doc file:
-```
+```yaml
 ---
 additional_authors: <comma separated list>
 override_authors: <comma separated list>
+---
+```
+
+### Resources
+You can add resources with the following frontmatter:
+```yaml
+---
+resources:
+  - name: [Resource name]
+    url: [Resource URL]
+    author: [Optional - resource author]
 ---
 ```
 

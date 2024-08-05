@@ -2,16 +2,15 @@
 description: Gathering the team, writing the pack and preparing for panel.
 sidebar_custom_props:
   emoji: 📃
+resources:
+  - name: Panel Submission Guide
+    url: https://drive.google.com/file/d/1oS8e_dzPQJfP6rUt0wl2VLzc-Tn8Qo9h/view?usp=sharing
+    author: Warwick Arts Centre
+  - name: TC Pack and Panel Guidance v4
+    url: https://drive.google.com/file/d/1ih-t18dePIXU0bwLxeMtsTQXcmAy_QRH/view?usp=sharing
+    author: Warwick Arts Centre
 ---
 # Pack & Panel
-
-:::note
-Resources:
-* [Panel Submission Guide](https://drive.google.com/file/d/1oS8e_dzPQJfP6rUt0wl2VLzc-Tn8Qo9h/view?usp=sharing) - 
-  Warwick Arts Centre
-* [TC Pack and Panel Guidance v4](https://drive.google.com/file/d/1ih-t18dePIXU0bwLxeMtsTQXcmAy_QRH/view?usp=sharing) -
-  Warwick Arts Centre
-:::
 
 ```mermaid
 flowchart LR

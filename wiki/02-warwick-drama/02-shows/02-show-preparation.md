@@ -2,13 +2,11 @@
 description: Getting ready for the show.
 sidebar_custom_props:
   emoji: 📜
+resources:
+  - name: Working with Tech Crew
+    url: https://drive.google.com/file/d/164x5gLOl5e7rA4bZLgeOUALD5Iwn-_PC/view?usp=sharing
 ---
 # Show Preparation
-
-:::note
-Resources:
-* [Working with Tech Crew](https://drive.google.com/file/d/164x5gLOl5e7rA4bZLgeOUALD5Iwn-_PC/view?usp=sharing)
-:::
 
 ```mermaid
 flowchart LR

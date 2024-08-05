@@ -30,6 +30,9 @@ jobs:
 
           # Remove duplicate entries
           sort -u $TEMP_IGNORE_FILE -o $TEMP_IGNORE_FILE
+          
+          # Cat ignore file for debugging
+          cat $TEMP_IGNORE_FILE
 
           # Run codespell on Markdown files with dynamically generated ignore list
           codespell --ignore-words-list="$(tr '\n' ',' < $TEMP_IGNORE_FILE)" $(git ls-files '*.md')

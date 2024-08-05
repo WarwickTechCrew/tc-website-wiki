@@ -3,7 +3,7 @@ description: All about the Warwick Drama show process.
 sidebar_custom_props:
   emoji: 📃
 ---
-# Shows
+# Show Process
 
 :::info
 These pages explain how the Warwick Drama show process works. For general info about shows, please

@@ -32,6 +32,15 @@ Pack and panel are the first stages of a show at Warwick Drama, consisting of cr
 production. Generally, most of the tech team will be allocated at this stage, allowing designers to be involved from
 the very start and allowing them to give a realistic idea of the tech and its budget to the production team.
 
+:::info
+**Pre-Panel Responsibilities**:
+* **📃 Producer**: Add the tech team to relevant groups and chats (we recommend [Discord](https://discord.com/)) and
+  discuss the show with the tech team, including budget limitations.
+* **🎬 Director**: Discuss with the tech team about the show and your vision.
+* **🧑‍💼 Technical Manager**: Liaise with the WAC and tech team to organise meetings and help the tech team where
+  required.
+* **💡🎤🎨 Designers**: Design the show and contribute to the pack.
+:::
 
 ## Pack
 The **pack** is the document that the production team creates to bid for the slot. This is then sent to the respective
@@ -59,6 +68,11 @@ After panel, there can be three outcomes (which are emailed to the Producer):
 * **Successful with conditions**: The show was accepted, but with some conditions that need to be met before the show 
   can go ahead.
 * **Successful**: The show was accepted and can go ahead as planned.
+
+:::info
+**Post-Panel Responsibilities**:
+* **📃 Producer**: Let the tech team and Tech Crew Exec know the outcome and any feedback from panel ASAP.
+:::
 
 ## WAC Meetings and Communication
 Throughout the process, it is important to regularly get in contact with our technical representatives at the

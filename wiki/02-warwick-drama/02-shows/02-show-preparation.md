@@ -26,11 +26,23 @@ flowchart LR
 
 Your show has been accepted - now what? It's now time to properly start preparing for the show...
 
+During this stage, Tech Crew may assign additional members to the show if necessary or if roles were not filled
+pre-panel. These are often smaller non-designer or assistant roles such as Deputy Stage Manager (DSM), followspot 
+operators and sound assistants (sound 2s).
+
 ## Tech Read-Through
 This is the initial sit-down meeting between the production team and the tech. It involves going through the script
 page by page, penciling in each place the prod team would like a cue. This will probably be the first time you get your
 script, exiting! The meeting usually involves the designers and core prod team, so: LX designer, Sound designer,
 Technical Manager, Producers, Director, and optionally: Music director, Video designer, DSM, etc.
+
+:::info
+**Tech Read-Through Responsibilities**:
+* **🧑‍💼📃 TM/Producer**: Organise the tech read-through.
+* **🎬 Director**: Communicate the final, firm vision.
+* **📃 Producer**: Iron out any safety concerns with the TM/SM and bring printed scripts/libs.
+* **💡🎤🎨 Designers**: Attend the tech read-through.
+:::
 
 ## WAC Meetings and Communication
 As mentioned [previously](panel), email Phil and Amanda at the Warwick Arts Centre to touch base about your thoughts on
@@ -63,8 +75,8 @@ An example of a good rider from FAME can be found here:
 
 ## Paper Tech
 The paper tech will normally take place on the weekend before show week, and is where the tech team runs through the
-script telling the DSM where the designers want to be cued. The DSM will mark up their script in pencil for the first
-time here.
+script telling the DSM where the designers want to be cued. Here, the DSM will mark up their script in pencil for the 
+first time.
 
 :::warning
 The paper tech and tech read-through are different things!

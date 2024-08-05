@@ -14,8 +14,8 @@ In Tech Crew, the term **show** is a special term referring to a project in the 
 this pack/panel process. Other 'shows' are considered [hires](../tech-crew/shows-and-hires#hires) and are generally a much
 smaller process.
 
-All shows at Warwick go through a standard submission and show process. The following flowchart shows a quick
-overview, however each section is explained in more detail below.
+All shows at Warwick go through a standard submission and show process. The following flowchart shows a [somewhat]
+quick overview, however each section is explained in more detail below.
 
 ```mermaid
 flowchart LR
@@ -53,7 +53,7 @@ flowchart LR
   getOut --> debrief[Debrief]
 ```
 
-## WAC Show slots
+## WAC Show Slots
 
 Each year, Warwick Arts Centre will allocate a fixed number of **slots** to three drama societies - these are weeks in
 the Arts Centre's programming where the society may choose to put on a show. As of 2024, these are:

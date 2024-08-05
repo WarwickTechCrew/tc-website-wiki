@@ -19,22 +19,25 @@ flowchart TD
     FB --> FF{{Freshblood Festival}}
 ```
 
-The [DC is a society](https://www.warwicksu.com/societies-sports/societies/dramacollective/) that was formed to be a larger negotiating body for its consitutent societies.
+The [Drama Collective (DC)](https://www.warwicksu.com/societies-sports/societies/dramacollective/) is a society that 
+was formed to be a larger negotiating body for its constituent societies.
 For example:
 
 - [WAC allocates 2 show slots](../warwick-drama/shows#wac-show-slots) to the DC each term. Without the DC, none of the constituent societies would have the resources to put on 2 shows a term themselves. The DC production manager runs a panel for each of these slots. Show teams can submit packs to DC panel, once they get backing from one of the DC societies.
 - The DC also provide "cupboard manager" exec roles to organise and upkeep its two storage locations, the [DC cupboard](../tech-crew/storage#the-dc-cupboard) in WAC, and the [Avon cupboard](../tech-crew/storage#the-avon-cupboard).
 - The DC has a [constitution](https://www.warwicksu.com/resources/dramacollective/Drama-Collective-Constitution-updated-2023/) that all its societies are meant to follow.
+- The DC often put on a joint ball at the end of the year, in term 3.
 
 :::info
-
-If you have tech crew membership, you are automatically a member of the DC! (Or if you have membership of any of its other child societies)
-
+If you have Tech Crew membership (or membership of any of its other child societies), you are automatically a member of
+the DC and can officially join on the [SU website](https://www.warwicksu.com/societies-sports/societies/dramacollective/)
+for free! This is useful to be able to vote for or against DC motions.
 :::
 
 ## [Codpiece](https://www.warwicksu.com/societies-sports/societies/codpiecetheatre/)
 
-Codpiece is the "devised theatre" society at Warwick. Devised theatre is when the script originates not from a writer, but from collaborative, often improvisatory, work by the performers themselves.
+Codpiece is the "devised theatre" society at Warwick. Devised theatre is when the script originates not from a writer,
+but from collaborative, often improvisatory, work by the performers themselves.
 
 ## [Shakesoc](https://www.warwicksu.com/societies-sports/societies/shakespeare/)
 
@@ -42,12 +45,17 @@ Shakespear society joined the DC in the academic year 22/23, through an AGM moti
 
 ## [WUDS](https://www.warwicksu.com/societies-sports/societies/wuds/)
 
-Warwick University Drama Society focusses on performing established published plays.
+Warwick University Drama Society focuses on performing established published plays.
 
 ## [Freshblood](https://www.warwicksu.com/societies-sports/societies/freshbloodtheatre/)
 
-Freshblood new writing specialise in performing student written shows. They run Freshblood Festival, showcasing short student-written plays. They also run FreshFund, to provide support to new scripts and bring warwick written shows to life.
+Freshblood new writing specialise in performing student written shows. They run Freshblood Festival, showcasing short,
+student-written plays. They also run FreshFund, to provide support to new scripts and bring warwick written shows to
+life.
 
 ## [Tech Crew](https://www.warwicksu.com/societies-sports/societies/techcrew/)
 
 Tech crew has a [wiki](../) you should check out :D
+
+As of 2024, they also put on the [Warwick Student Arts Festival](/wiki/case-studies/wsaf-2024), although this may be
+made into its own society in future years.

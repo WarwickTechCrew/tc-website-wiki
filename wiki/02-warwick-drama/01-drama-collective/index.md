@@ -2,6 +2,10 @@
 description: What is the Drama Collective, and what societies is it made up of?
 sidebar_custom_props:
   emoji: 🎭
+resources:
+  - name: DC Constitution
+    url: https://www.warwicksu.com/resources/dramacollective/Drama-Collective-Constitution-updated-2023/
+    author: Drama Collective
 ---
 # The Drama Collective (DC)
 

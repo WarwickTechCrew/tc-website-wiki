@@ -2,6 +2,16 @@
 description: What is an MRF, and how can I get reimbursed for my expenses?
 sidebar_custom_props:
   emoji: 💵
+resources:
+   - name: Finance Forms
+     url: https://www.warwicksu.com/societies-sports/exec-resources/finance/financeforms/
+     author: Warwick SU
+   - name: Payment Guide
+     url: https://www.warwicksu.com/societies-sports/exec-resources/finance/sgfsystem/
+     author: Warwick SU
+   - name: Guidelines & Rules
+     url: https://www.warwicksu.com/societies-sports/exec-resources/finance/guidelines/
+     author: Warwick SU
 ---
 # Finance
 As part of Warwick SU, Tech Crew has a society account and must follow all the

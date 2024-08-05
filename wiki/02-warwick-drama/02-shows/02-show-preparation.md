@@ -5,6 +5,7 @@ sidebar_custom_props:
 resources:
   - name: Working with Tech Crew
     url: https://drive.google.com/file/d/164x5gLOl5e7rA4bZLgeOUALD5Iwn-_PC/view?usp=sharing
+    author: Tech Crew
 ---
 # Show Preparation
 

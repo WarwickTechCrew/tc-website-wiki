@@ -3,7 +3,7 @@ description: Sources for various equipment Tech Crew doesn't have!
 sidebar_custom_props:
     emoji: 📃
 ---
-# Equipment Directory
+# Equipment & Services Directory
 
 Sources for various equipment Tech Crew doesn't have!
 
@@ -96,6 +96,17 @@ Warwick SU Operations can sometimes provide tables and chairs for outdoor events
 availability.
 
 Contact: email Steve Russell (Warwick SU Commercial/Ops) at steve.russell@warwicksu.com.
+
+### Digital Signage Team
+The digital signage team manage the Big Screen in the Piazza and most of the screens around campus. Content can be
+uploaded to these using the
+[Online Form](https://warwick.ac.uk/services/engagementgroup/marketing/digitalengagement/screens/), which may take up to
+two weeks to be processed.
+
+With enough notice and availability, it is also possible to livestream to the Big Screen from a service such as YouTube.
+Both the Digital Signage Team and AV Team (Andrew Maddison) need to be contacted for this to take place. Additionally,
+custom dynamic content can be added to digital signage provided even more advance notice and knowledge of HTML/CSS/JS.
+Email Digital Signage at digitalscreens@warwick.ac.uk for this, and they should direct you to the right person (Ed!).
 
 ## Hire Companies
 

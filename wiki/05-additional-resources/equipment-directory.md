@@ -91,6 +91,12 @@ The department that does the tech for Warwick Conferences has a good range of eq
 desks (they have a range of A&H SQ series desks with Dante) for a training before, and I'm sure they'd be willing to
 hire other equipment if asked nicely like the WAC.
 
+### Warwick SU Operations
+Warwick SU Operations can sometimes provide tables and chairs for outdoor events if asked nicely and pending
+availability.
+
+Contact: email Steve Russell (Warwick SU Commercial/Ops) at steve.russell@warwicksu.com.
+
 ## Hire Companies
 
 ### Marklew Productions

@@ -29,8 +29,9 @@ export async function getGitContributors(
   });
 
   for (const commit of commits) {
-    if (!authors.includes(commit.authorName)) {
-      authors.push(commit.authorName);
+    const authorName = authorNames[commit.authorName] || commit.authorName;
+    if (!authors.includes(authorName)) {
+      authors.push(authorName);
     }
   }
 

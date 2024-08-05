@@ -14,22 +14,47 @@ Sources for various equipment Tech Crew doesn't have!
 We often work with SU tech services on special events, as they have a lot of equipment more suited for live events that
 we don't have. Similarly, they regularly rent our radio mics.
 
-* Big PA
-* Moving lights
-* 2 ETC ColorSource PARs
+* Sound:
+  * [L Acoustics 112p Tops](https://terrytew.co.uk/product/l-acoustics-112p-powered-loudspeaker/) (x2)
+  * [L Acoustics SB15p Subs](https://www.adlib.co.uk/product/l-acoustics-sb15p) (x2)
+  * More big PA
+* LX:
+  * Moving lights: [Chauvet Rogue R3 Wash](https://www.chauvetprofessional.com/products/rogue-r3-wash/) (x4),
+    [Robe Pointes](https://www.robe.cz/pointe) (x4), [Robe Spikie+](https://www.robe.cz/spikie) (x4)
+  * Intelligent lights:
+    [ETC ColorSource CE PARs](https://www.etcconnect.com/Products/Entertainment-Fixtures/ColorSource-PAR/Features.aspx) (x2)
+    [Chauvet COLORdash Par H7IP](https://www.chauvetprofessional.com/products/colordash-par-h7ip/) (x2)
+  * Desks: [Avolites Tiger Touch II](https://www.avolites.com/product/the-tiger-touch-ii/), ChamSys MagicQ USB
+  * Manfrotto Wind-up LX Stands
+* Video:
+  * [Acer H5380BD Projector](https://www.projectorcentral.com/Acer-H5380BD.htm) (x2),
+    [Acer Pro8530HDL HD Projector](https://www.viewsonic.com/uk/products/projectors/Pro8530HDL)
+  * 8x6ft Fastfold Screen (x2)
+  * ATEM Mini Pro ISO
+  * Blackmagic Pocket Cinema Camera 4K
+  * Minicams
+  * Video tripods
+* **Power Distribution** (note - does not stock 63A 3-phase cables):
+  * 63A 3-phase to Socapex distro
+  * Socapex cables and adapters
+  * 16A to 13A distro
 * **Staging (LiteDeck, with 1ft or 3ft legs)**
-* ATEM Mini Pro ISO
-* Blackmagic Pocket Cinema Camera 4K
+* Ethercon 30m reel
+
+Contact: email Jack Denton at TechServices@warwicksu.com.
 
 ### AV Services
 
 The University's AV services offer a range of equipment to borrow
 [on their website](https://warwick.ac.uk/services/its/servicessupport/av/bbav/equipment), most of which isn't very
-relevant to Tech Crew on a regular basis.
+relevant to Tech Crew on a regular basis. Kit can only be borrowed to staff, although staff can borrow equipment on
+behalf of students.
 
 However, they do sometimes have other kit to borrow on request, and can be especially helpful for hires and conferences
 in centrally timetabled rooms (such as WES) where they can provide additional mics and equipment, as well as direct
 access to the rooms' hard patching to save running cables everywhere.
+
+Contact: form on [website](https://warwick.ac.uk/services/its/servicessupport/av/bbav/equipment).
 
 ### IT Services
 
@@ -40,10 +65,14 @@ usefully short-term iPad loans if you need an extra control surface.
 They can also offer setting up networking and patching ports for internet access around campus (including outdoors) if emailed
 with enough notice.
 
+Contact: form on [website](https://warwick.ac.uk/services/it-students/computers/laptop-loans/) or in-person at the library.
+
 ### Estates
 
-Can offer power hookups and assorted distribution in various outdoor locations around campus, and sometimes generators
-too when needed if you're lucky.
+Can offer power hookups and assorted distribution in various outdoor locations around campus. Also has a 63A 3-phase
+generator which can sometimes be used.
+
+Contact: service desk.
 
 ### Music Centre
 
@@ -53,7 +82,8 @@ with recording and editing facilities (which could be useful for voiceovers in s
 
 ### Warwick Arts Centre
 
-Obviously in regular use for shows, they can sometimes offer equipment hire outside the WAC if asked nicely.
+Obviously in regular use for shows, they can sometimes offer equipment hire outside the WAC if asked nicely. This can,
+however, often be quite expensive.
 
 ### Event Production (Warwick Conferences)
 
@@ -68,11 +98,21 @@ hire other equipment if asked nicely like the WAC.
 We regularly use Marklew Productions for hiring Ayrton Ghibli moving heads for shows, but they have a big range of tech
 for dry hire. If you say you're from Tech Crew hiring things for a student event they usually give a great price!
 
-### IPS
+Website: https://www.marklewproductions.com
+
+### Impact Production Services (IPS)
 
 One of the big national hire companies, based in Milton Keynes. We've used them for an event or two, their particular
 strength is having a great website with a full list of equipment and prices. The delivery and collection price can be
 fairly brutal though for the quantities of equipment we use, so this is best if there's a car available to drive there.
+
+Website: https://www.ips.co.uk
+
+### DCRS
+We used DCRS for hiring radios for WSAF 2024. They have good relations with Warwick SU so are generally able to offer
+a good discount.
+
+Website: https://www.dcrs.co.uk
 
 ## Societies
 
@@ -97,13 +137,23 @@ UWCS have video stuff aimed at livestreaming talks and their annual WASD speedru
 * RØDE Wireless GO II radio mics (2 transmitters)
 * Behringer XR-18 digital mixer
 
+Contact: email techteam@uwcs.co.uk or message on [Discord](https://discord.uwcs.co.uk).
+
 ### CU (Christian Union)
 
-The CU have weekly services with live music, and have assorted equipment to support this that can be useful:
+The CU have weekly meetings with live music and have assorted equipment to support this that can be useful:
 
-* Music and instrument stands
+* Music, instrument and mic stands
 * A pair of Sennheiser XSW handheld radio mics
+* Some other handheld and lapel radio mics of debatable quality
+* Spirit LX7 16-channel sound mixer
 * SRM 350v3 PA
+* Roland cube street monitor
+* Amplifiers
+* Microphones (including those for a cajon) and DIs
+* Fire extinguishers
+
+Contact: email tech@warwickcu.org.
 
 ### TEDx
 

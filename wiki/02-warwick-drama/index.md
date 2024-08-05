@@ -26,14 +26,14 @@ flowchart TD
     MTW --> IM{{The Improv Musical}}
     FB --> FF{{Freshblood Festival}}
 ```
-## [The Drama Collective (DC)](/warwick-drama/drama-collective)
-The Drama Collective are a group of smaller societies that group together to share [show slots](/warwick-drama/shows)
+## [The Drama Collective (DC)](/wiki/warwick-drama/drama-collective)
+The Drama Collective are a group of smaller societies that group together to share [show slots](/wiki/warwick-drama/shows)
 in the Warwick Arts Centre. As this is quite complex, they have
-[their own page on the wiki](/warwick-drama/drama-collective).
+[their own page on the wiki](/wiki/warwick-drama/drama-collective).
 
 ## [Music Theatre Warwick (MTW)](https://www.warwicksu.com/societies-sports/societies/musictheatrewarwick/)
 Music Theatre Warwick, as the name suggests, handles musical theatre productions. They are perhaps the most frequent
-society that Tech Crew works with as they put on a lot of [shows](/warwick-drama/shows) each year, often with scope for
+society that Tech Crew works with as they put on a lot of [shows](/wiki/warwick-drama/shows) each year, often with scope for
 a larger tech team and vision - MTW productions typically use lots of lights and our radio mics.
 
 MTW also run The Improv Musical, an improvised musical show where each show is completely different. This operates as
@@ -48,5 +48,5 @@ studio. This often involves trying to fit as many people as possible in the orch
 
 ## [Warwick Pantomime Society](https://www.warwicksu.com/societies-sports/societies/pantomime/)
 Warwick Pantomime Society is a much newer and smaller society, often working with Tech Crew as a
-[hire](/tech-crew/shows-and-hires) rather than a full show. They often put on a pantomime each term, which are always
+[hire](/wiki/tech-crew/shows-and-hires) rather than a full show. They often put on a pantomime each term, which are always
 great fun and a much lower commitment than a show with one of the other societies in Warwick Drama.

@@ -16,12 +16,12 @@ resources:
 
 # WAC Theatre
 
-# 360 Camera View
+## 360 Camera View
 
 <iframe src="https://my.matterport.com/show/?m=gyBcoRB4m7u&play=1&qs=1&hl=0&brand=0&sr=-.26,.39&ss=706" width="100%" height="600" ></iframe>
 
 
-# Seating
+## Seating
 
 <div style={{ display: 'flex', justifyContent: 'space-around' }}>
   <img src="/images/theatre/theatre-section.jpg" alt="Image 1" style={{ width: '45%' }} />

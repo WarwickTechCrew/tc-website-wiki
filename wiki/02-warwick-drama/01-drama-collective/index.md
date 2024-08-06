@@ -45,7 +45,7 @@ but from collaborative, often improvisatory, work by the performers themselves.
 
 ## [Shakesoc](https://www.warwicksu.com/societies-sports/societies/shakespeare/)
 
-Shakespear society joined the DC in the academic year 22/23, through an AGM motion in the DC Annual General Meeting.
+Shakespeare society joined the DC in the academic year 22/23, through an AGM motion in the DC Annual General Meeting.
 
 ## [WUDS](https://www.warwicksu.com/societies-sports/societies/wuds/)
 

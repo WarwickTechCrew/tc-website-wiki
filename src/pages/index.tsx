@@ -63,7 +63,7 @@ export default function Home() {
         <div className="grid grid-cols-1 lg:grid-cols-2 max-w-screen-2xl mx-auto content-styling px-2 sm:px-4">
           <section className="p-4">
             <Hires />
-            <div className="flex flex-wrap gap-4">
+            <div className="flex flex-wrap gap-4 justify-center">
               <CaptionedImage
                 src={
                   require('@site/static/images/home/improvmusical-joshheng.jpg')
@@ -91,7 +91,7 @@ export default function Home() {
           </section>
           <section className="p-4">
             <GetInvolved />
-            <div className="flex flex-wrap gap-4">
+            <div className="flex flex-wrap gap-4 justify-center">
               <CaptionedImage
                 src={
                   require('@site/static/images/home/bandsoc-joshheng.jpg')
@@ -129,7 +129,7 @@ export default function Home() {
             <div className="px-4 pt-8 sm:pt-16 pb-16 sm:pb-24 max-w-screen-2xl mx-auto flex flex-col">
               <div className="max-w-screen-xl mx-auto p-4 sm:p-6 dark:bg-neutral-800 bg-gray-200 gap-4 content-styling w-full">
                 <Shows />
-                <div className="flex gap-4 flex-wrap">
+                <div className="flex gap-4 flex-wrap justify-center">
                   <CaptionedImage
                     src={
                       require('@site/static/images/home/anoblegame-joshheng.jpg')

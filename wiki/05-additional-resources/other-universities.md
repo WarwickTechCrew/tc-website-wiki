@@ -11,13 +11,16 @@ universities (that I've come across at least, I'm sure there are many more).
 ## [York TechSoc](https://yorktechsoc.org/)
 
 Probably the society that's closest in what we do. AdamRMS was originally written for them, and we totally didn't steal
-the idea for a Docusaurus based website from them either (as well as the idea of hires assistants)! They have a whole
-drama studio with dressing rooms and storage to themselves on the York campus, which is very cool.
+the idea for a [Docusaurus based website](https://yorktechsoc.org/docs/category/where-we-work) from them either
+(as well as the idea of hires assistants)! They have a whole drama studio with dressing rooms and storage to themselves
+on the York campus, which is very cool.
 
 ## [York DramaSoc](https://www.yorkdramasoc.com/)
 
 York's drama society have up to 48 shows a year, in their very own "Drama Barn" space. Their website doesn't exist at
-the time of writing but there's the "Barn Bible" in their linktree which explains how they work, kind of like this wiki!
+the time of writing but there's the
+["Barn Bible"](https://docs.google.com/document/d/1O3b3ZFxVWKakrXMquYUU2sQv9_lJz9XNJIYo6r1l-Rk/edit?usp=sharing) in
+their [linktree](https://linktr.ee/uoydramasoc) which explains how they work, kind of like this wiki!
 
 ## [Nottingham New Theatre](https://newtheatre.org.uk/)
 

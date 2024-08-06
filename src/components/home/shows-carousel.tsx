@@ -22,11 +22,6 @@ const carousel: CarouselSlide[] = [
     caption: 'The Marksman, Warwick Opera, 2022. Photo © Unknown',
   },
   {
-    src: require('@site/static/images/home/shows-carousel/anythinggoes-chrismiles.jpg')
-      .default,
-    caption: 'Anything Goes, Music Theatre Warwick, 2016. Photo © Chris Miles',
-  },
-  {
     src: require('@site/static/images/home/shows-carousel/improv-joshheng.jpg')
       .default,
     caption:

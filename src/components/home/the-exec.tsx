@@ -32,12 +32,12 @@ const exec: ExecMember[] = [
   },
   {
     name: 'Kit Calvert',
-    roles: ['Socials and Publicity Secretary', 'Welfare Officer'],
+    roles: ['Socials & Publicity Secretary', 'Welfare Officer'],
     image: require('@site/static/images/home/exec/kit.jpg').default,
   },
   {
     name: 'Danny Turner',
-    roles: ['Socials and Publicity Secretary', 'Equal Opportunities Officer'],
+    roles: ['Socials & Publicity Secretary', 'Equal Opportunities Officer'],
     image: require('@site/static/images/home/exec/danny.jpg').default,
   },
 ];
@@ -48,11 +48,59 @@ type ExecMember = {
   image: string;
 };
 
+function GroupedExecCards({ members }: { members: ExecMember[] }) {
+  if (members.length <= 3) {
+    return (
+      <div className="flex flex-wrap gap-2 justify-center flex-grow">
+        {members.map((member) => (
+          <ExecCard key={member.name} member={member} />
+        ))}
+      </div>
+    );
+  } else {
+    const middle = Math.floor(members.length / 2);
+    return (
+      <div className="flex flex-wrap gap-2 justify-center flex-grow">
+        <GroupedExecCards members={members.slice(0, middle)} />
+        <GroupedExecCards members={members.slice(middle)} />
+      </div>
+    );
+  }
+}
+
+function ExecCard({ member }: { member: ExecMember }) {
+  return (
+    <article
+      key={member.name}
+      className="overflow-hidden rounded-xl flex w-40 flex-grow flex-col dark:border-white border-black border-2"
+    >
+      <header className="bg-black h-10 flex justify-center items-center">
+        <div className="rounded-2xl w-12 h-3 mt-0.5 bg-white" />
+      </header>
+      <div className="flex-grow flex flex-col px-2 py-3 text-black bg-white">
+        <img
+          src={member.image}
+          alt={`Image of ${member.name}`}
+          className="mx-auto mb-2 w-28 h-auto"
+        />
+        <ul className="text-center text-xs">
+          {member.roles.map((role) => (
+            <li key={role}>{role}</li>
+          ))}
+        </ul>
+      </div>
+      <footer className="bg-black text-white text-center uppercase font-bold px-2 py-2">
+        {member.name}
+      </footer>
+    </article>
+  );
+}
+
 export default function TheExec() {
   return (
     <div>
       <h2>The TechXec</h2>
-      <p>
+      <p className="mb-2">
         The <a href="/wiki/tech-crew/the-exec">Tech Crew Exec</a> are a group of
         members elected to oversee the society and its operations and can be
         contacted at{' '}
@@ -61,33 +109,7 @@ export default function TheExec() {
         </a>
         . For the year {YEAR}, the TechXec are:
       </p>
-      <div className="flex flex-wrap gap-2 mt-2 justify-center sm:justify-start">
-        {exec.map((member) => (
-          <article
-            key={member.name}
-            className="overflow-hidden rounded-xl flex w-32 flex-grow sm:flex-grow-0 sm:w-44 max-w-44 flex-col dark:border-white border-black border-2"
-          >
-            <header className="bg-black h-10 flex justify-center items-center">
-              <div className="rounded-2xl w-12 h-3 mt-0.5 bg-white" />
-            </header>
-            <div className="flex-grow flex flex-col px-2 py-3 text-black bg-white">
-              <img
-                src={member.image}
-                alt={`Image of ${member.name}`}
-                className="mx-auto mb-2 w-28 h-auto"
-              />
-              <ul className="text-center text-xs">
-                {member.roles.map((role) => (
-                  <li key={role}>{role}</li>
-                ))}
-              </ul>
-            </div>
-            <footer className="bg-black text-white text-center uppercase font-bold px-2 py-2">
-              {member.name}
-            </footer>
-          </article>
-        ))}
-      </div>
+      <GroupedExecCards members={exec} />
     </div>
   );
 }

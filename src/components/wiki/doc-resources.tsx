@@ -16,7 +16,7 @@ export default function DocResources({ isMobile }: { isMobile?: boolean }) {
   if (!frontMatter.resources || frontMatter.resources.length === 0) return null;
   return (
     <div
-      className={`bg-gray-100 p-2 rounded-lg my-2 ${isMobile ? 'min-[997px]:hidden' : ''}`}
+      className={`dark:bg-neutral-800 bg-gray-100 p-2 rounded-lg my-2 ${isMobile ? 'min-[997px]:hidden' : ''}`}
     >
       <h2 className="text-sm uppercase mb-1 pl-1">Resources</h2>
       <ul className={isMobile ? '' : 'text-sm'}>
@@ -32,7 +32,7 @@ export default function DocResources({ isMobile }: { isMobile?: boolean }) {
               <div>
                 <span className="group-hover:underline">{resource.name}</span>
                 {resource.author && (
-                  <span className="block uppercase text-xs font-bold text-neutral-600 !no-underline">
+                  <span className="block uppercase text-xs font-bold dark:text-neutral-400 text-neutral-600 !no-underline">
                     {resource.author}
                   </span>
                 )}

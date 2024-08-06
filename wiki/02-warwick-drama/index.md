@@ -13,7 +13,6 @@ flowchart TD
     WD --> MTW([Music Theatre Warwick\nMTW])
     WD --> Opera([Opera Warwick])
     WD --> DC[(Drama Collective\nDC)]
-    WD --> Panto([Warwick Pantomime Society])
     subgraph \n
         DC --> SS([Shakesoc])
         DC --> WUDS([WUDS])
@@ -25,6 +24,7 @@ flowchart TD
     MTW --> SF{{Stagefest}}
     MTW --> IM{{The Improv Musical}}
     FB --> FF{{Freshblood Festival}}
+    PO([Warwick Pantomime Society])
 ```
 ## [The Drama Collective (DC)](/wiki/warwick-drama/drama-collective)
 The Drama Collective are a group of smaller societies that group together to share [show slots](/wiki/warwick-drama/shows)
@@ -46,7 +46,10 @@ In Term 3, MTW also put on Stagefest, a week-long festival full of smaller music
 Warwick Opera mainly produce an opera in the WAC theatre in Term 2, in addition to sometimes smaller shows in the
 studio. This often involves trying to fit as many people as possible in the orchestra pit below the stage!
 
-## [Warwick Pantomime Society](https://www.warwicksu.com/societies-sports/societies/pantomime/)
+## Additional Societies
+These societies also perform drama at Warwick, but aren't generally considered part of 'Warwick Drama'.
+
+### [Warwick Pantomime Society](https://www.warwicksu.com/societies-sports/societies/pantomime/)
 Warwick Pantomime Society is a much newer and smaller society, often working with Tech Crew as a
 [hire](/wiki/tech-crew/shows-and-hires) rather than a full show. They often put on a pantomime each term, which are always
 great fun and a much lower commitment than a show with one of the other societies in Warwick Drama.

@@ -4,7 +4,7 @@ sidebar_custom_props:
   emoji: 📦
 resources:
   - name: Dock & COSHH Cupboard Guidance
-    link: https://drive.google.com/file/d/1AcdqaJpShk4jQxCUUjZx8MoNIsk50tnC/view
+    url: https://drive.google.com/file/d/1AcdqaJpShk4jQxCUUjZx8MoNIsk50tnC/view
     author: Tech Crew
 ---
 # Storage

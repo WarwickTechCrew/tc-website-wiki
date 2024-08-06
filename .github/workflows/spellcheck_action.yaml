@@ -28,8 +28,8 @@ jobs:
           # Ignore Proper nouns (capitalized first letter), with and without trailing punctuation
           grep --no-filename -oE '\b[A-Z][a-z]+\b' $(git ls-files '*.md') | sort -u >> $TEMP_IGNORE_FILE
 
-          # Ignore spellings in http links
-          grep --no-filename -oE 'http[s]?://[^ ]+' $(git ls-files '*.md') | sort -u >> $TEMP_IGNORE_FILE
+          # Ignore words that start and end with . because they are likely to be in http links
+          grep --no-filename -oE '\b\.[a-z]+\.\b' $(git ls-files '*.md') | sort -u >> $TEMP_IGNORE_FILE
 
           # Remove duplicate entries
           sort -u $TEMP_IGNORE_FILE -o $TEMP_IGNORE_FILE

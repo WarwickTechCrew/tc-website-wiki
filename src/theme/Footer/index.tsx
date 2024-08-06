@@ -12,7 +12,16 @@ function Footer(): JSX.Element {
       className={`bg-black text-white pt-4 pb-8 px-8 text-center ${styles.footer}`}
     >
       <div className="p-4 max-w-screen-2xl mx-auto text-sm mb-2">
-        <p className="mb-1">Warwick Tech Crew</p>
+        <p className="-mb-0.5">Warwick Tech Crew</p>
+        <p className="mb-2">
+          <a
+            href="mailto:exec@warwicktechcrew.co.uk"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            exec@warwicktechcrew.co.uk
+          </a>
+        </p>
         <a href="/" className="block w-fit mx-auto">
           <img
             src="/logo-dark.svg"

@@ -6,6 +6,9 @@ resources:
   - name: Health & Safety Information Sheet
     url: https://warwick.ac.uk/services/estates/h_and_s/externalhazardreports/benefactors_place_and_the_piazza.pdf
     author: Warwick Estates
+  - name: Piazza Booking Form & Info
+    url: https://warwick.ac.uk/services/foodgroup/about/spaces/
+    author: Warwick Food Group
 ---
 # Piazza / Benefactors Place
 The Piazza is the outdoor space in front of the Rootes Building, and Benefactors Place is the area next to it with the

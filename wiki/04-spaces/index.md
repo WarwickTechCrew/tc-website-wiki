@@ -6,7 +6,7 @@ resources:
     - url: https://warwick.ac.uk/services/sg/spa/centraltimetabling/roominformation
       name: Central Timetabling Website
       author: Central Timetabling Office
-    - url: https://abs.warwick.ac.uk/wrb2324/default.aspx
+    - url: https://warwick.ac.uk/roombooking 
       name: Web Room Booking System
       author: Central Timetabling Office
 ---
@@ -19,7 +19,8 @@ The WAC hire fee takes up a large portion of the show budget! So for smaller ind
 
 ## Centrally Timetabled Rooms
 
-To book a performance space, log into the [Web Room Booking System](https://abs.warwick.ac.uk/wrb2324/default.aspx) with your Uni ID (`uXXXXXXX` where the `X`'s are your ID number) and your Warwick ITS password.
+To book a performance space, log into the [Web Room Booking System](https://warwick.ac.uk/roombooking)
+with your Uni ID (`uXXXXXXX` where the `X`'s are your ID number) and your Warwick ITS password.
 
 :::warning
 

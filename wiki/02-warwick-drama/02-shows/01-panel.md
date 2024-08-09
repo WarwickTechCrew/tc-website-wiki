@@ -34,12 +34,12 @@ the very start and allowing them to give a realistic idea of the tech and its bu
 
 :::info
 **Pre-Panel Responsibilities**:
-* **📃 Producer**: Add the tech team to relevant groups and chats (we recommend [Discord](https://discord.com/)) and
-  discuss the show with the tech team, including budget limitations.
-* **🎬 Director**: Discuss with the tech team about the show and your vision.
 * **🧑‍💼 Technical Manager**: Liaise with the WAC and tech team to organise meetings and help the tech team where
   required.
 * **💡🎤🎨 Designers**: Design the show and contribute to the pack.
+* **📃 Producer**: Add the tech team to relevant groups and chats (we recommend [Discord](https://discord.com/)) and
+  discuss the show with the tech team, including budget limitations.
+* **🎬 Director**: Discuss with the tech team about the show and your vision.
 :::
 
 ## Pack
@@ -79,3 +79,10 @@ Throughout the process, it is important to regularly get in contact with our tec
 Warwick Arts Centre as they have a wealth of experience and advice. Generally, this is Phil for anything regarding set,
 and Amanda for anything else - and if they don't know the answer, they'll know who to forward it to. They can be
 contacted via email, however it is often better to schedule regular meetings with them.
+
+:::info
+**WAC Meeting Responsibilities**:
+* **🧑‍💼 Technical Manager**: Collect availability and organise the meetings.
+* **💡🎤🎨 Designers**: Attend the meetings and share and discuss your ideas.
+* **🎬 Director**: Attend the meeting to clarify any questions.
+:::

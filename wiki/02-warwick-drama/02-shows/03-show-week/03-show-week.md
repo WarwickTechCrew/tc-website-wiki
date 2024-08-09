@@ -6,6 +6,9 @@ resources:
   - name: Working with Tech Crew
     url: https://drive.google.com/file/d/164x5gLOl5e7rA4bZLgeOUALD5Iwn-_PC/view?usp=sharing
     author: Tech Crew
+  - name: FAME Schedule
+    url: https://drive.google.com/file/d/1JpbLyqmiclhpFADqI87xo9ZBldQQrjsI/view?usp=sharing
+    author: Ed Price
 ---
 # Show Week
 
@@ -42,6 +45,11 @@ which they have already discussed with the Technical Manager. Get-ins will gener
 of Tech Crew, and is a great opportunity to get involved with a show you're not on the team for - they are one of the
 best ways to gain experience!
 
+The following is an
+[example get-in schedule from FAME](https://drive.google.com/file/d/1JpbLyqmiclhpFADqI87xo9ZBldQQrjsI/view?usp=sharing):
+
+![FAME Get-in Schedule](fame-getin-schedule.jpg)
+
 ## Technical Rehearsal
 The technical rehearsal will typically take place in the afternoon of the second day (with the morning dedicated to
 the final parts of the Get-in). This is the first time the cast will be on stage with all the tech and can potentially
@@ -58,6 +66,11 @@ A member of WAC staff (typically Amanda) will watch the dress and give the tech 
 auditorium.
 
 ## Shows
+
+The following is an
+[example show schedule from FAME](https://drive.google.com/file/d/1JpbLyqmiclhpFADqI87xo9ZBldQQrjsI/view?usp=sharing):
+
+![FAME Show Schedule](fame-show-schedule.jpg)
 
 ### Showcial
 The last show of the run is often called the *"showcial"*, and will be advertised to all members of Tech Crew. Tech

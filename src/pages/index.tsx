@@ -156,11 +156,11 @@ export default function Home() {
                   />
                   <CaptionedImage
                     src={
-                      require('@site/static/images/home/fame-joshheng.jpg')
+                      require('@site/static/images/home/themarksman-ethangraham.jpg')
                         .default
                     }
                     alt="FAME Get-in"
-                    caption="FAME, Music Theatre Warwick, 2023. Photo © Josh Heng"
+                    caption="The Marksman,Warwick Opera, 2022. Photo © Ethan Graham"
                   />
                   <CaptionedImage
                     src={

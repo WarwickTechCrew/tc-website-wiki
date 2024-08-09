@@ -7,6 +7,11 @@ const carousel: CarouselSlide[] = [
     caption: 'BandSoc Showcase, 2023. Photo © Josh Heng',
   },
   {
+    src: require('@site/static/images/home/general-carousel/pride-adamskrzymowski.jpg')
+      .default,
+    caption: 'Pride, 2022. Photo © Adam Skrzymowski',
+  },
+  {
     src: require('@site/static/images/home/general-carousel/fringeimprov-joshheng.jpg')
       .default,
     caption:

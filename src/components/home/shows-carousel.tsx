@@ -17,6 +17,12 @@ const carousel: CarouselSlide[] = [
     caption: 'Carmen, Warwick Opera, 2024. Photo © Josh Heng',
   },
   {
+    src: require('@site/static/images/home/shows-carousel/improv-adamskrzymowski.jpg')
+      .default,
+    caption:
+      'The Improv Musical @ Edinburgh Fringe, Music Theatre Warwick, 2022. Photo © Adam Skrzymowski',
+  },
+  {
     src: require('@site/static/images/home/shows-carousel/themarksman-unknown.jpg')
       .default,
     caption: 'The Marksman, Warwick Opera, 2022. Photo © Unknown',

@@ -1,4 +1,7 @@
-import { useDoc, DocContextValue } from '@docusaurus/theme-common/internal';
+import {
+  useDoc,
+  DocContextValue,
+} from '@docusaurus/plugin-content-docs/client';
 import type { DocFrontMatter } from '@docusaurus/plugin-content-docs';
 import { FiLink } from 'react-icons/fi';
 

@@ -5,7 +5,7 @@ import {
   findFirstSidebarItemLink,
   useDocById,
   useDocsVersion,
-} from '@docusaurus/theme-common/internal';
+} from '@docusaurus/plugin-content-docs/client';
 import { usePluralForm } from '@docusaurus/theme-common';
 import { translate } from '@docusaurus/Translate';
 

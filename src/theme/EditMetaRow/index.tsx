@@ -5,7 +5,7 @@ import type { Props } from '@theme/EditMetaRow';
 
 import LastUpdated from '@theme/LastUpdated';
 import styles from './styles.module.css';
-import { useDoc } from '@docusaurus/theme-common/internal';
+import { useDoc } from '@docusaurus/plugin-content-docs/client';
 import { authorNames } from '@site/src/lib/author-names';
 
 export default function EditMetaRow({

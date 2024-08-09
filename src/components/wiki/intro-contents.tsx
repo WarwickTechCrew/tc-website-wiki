@@ -1,5 +1,5 @@
 import DocCardList from '@theme/DocCardList';
-import { useDocsSidebar } from '@docusaurus/theme-common/internal';
+import { useDocsSidebar } from '@docusaurus/plugin-content-docs/client';
 
 export default function IntroContents() {
   const sidebar = useDocsSidebar();

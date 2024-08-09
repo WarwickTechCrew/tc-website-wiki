@@ -24,7 +24,7 @@ export default function Hires() {
             width="w-96"
           />
         </div>
-        <div className="max-w-screen-2xl mx-auto flex flex-wrap-reverse mb-4">
+        <div className="max-w-screen-2xl mx-auto flex flex-wrap-reverse mb-6">
           <div className="p-4 w-[40rem] flex-grow">
             <div className="h-full">
               <iframe
@@ -38,23 +38,23 @@ export default function Hires() {
             </div>
           </div>
 
-          <div className="p-4 content-styling w-[32rem] flex-grow">
-            <Equipment />
+          <div className="p-4 content-styling w-[32rem] flex-grow space-y-4">
+            <div>
+              <Equipment />
+            </div>
+            <div>
+              <PreviousHires />
+            </div>
+            <CaptionedImage
+              src={
+                require('@site/static/images/hires/stagefest-joshheng.jpg')
+                  .default
+              }
+              alt="Music Theatre Warwick Stagefest"
+              caption="MTW Stagefest, 2023. Photo © Josh Heng"
+              width="w-80"
+            />
           </div>
-        </div>
-        <div className="max-w-screen-2xl mx-auto px-4 content-styling mb-4 content-styling flex gap-4 flex-wrap-reverse">
-          <div className="w-96 flex-grow">
-            <PreviousHires />
-          </div>
-          <CaptionedImage
-            src={
-              require('@site/static/images/hires/stagefest-joshheng.jpg')
-                .default
-            }
-            alt="Music Theatre Warwick Stagefest"
-            caption="MTW Stagefest, 2023. Photo © Josh Heng"
-            width="w-80"
-          />
         </div>
 
         <TechCrewCarousel slides={generalCarousel} />

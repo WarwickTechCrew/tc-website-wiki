@@ -1,6 +1,6 @@
 ## Previous Hires
 
-Our previous hires include the following, some of which are displayed on the photo carousel below:
+Our previous hires include the following, some of which are displayed on the photo carousel at the bottom of the page:
 
 * **Based in Warwick Arts Centre:** BandSoc Showcase, Music Theatre Warwick InterUni competition
 * **Drama Societies:** Music Theatre Warwick: The Improv Musical, Warwick Pantomime Shows

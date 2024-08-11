@@ -8,7 +8,7 @@ sidebar_custom_props:
 We currently stock the following inventory, pending availability. If there's something you need that isn't listed, 
 please also check the internal equipment/pricing list if you are a Tech Crew Member. Equipment can also be sourced
 externally - we have a list of places for this in the
-[Equipment & Services Directory](/wiki/additional-resources/equipment-directory).
+[Equipment & Services Directory](/wiki/resources/equipment-directory).
 
 :::info
 Are you external to Tech Crew and looking to hire equipment? Please see our [Hires Page](/hires) for more information

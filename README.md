@@ -2,7 +2,7 @@
 > This is the public website for Warwick Tech Crew, written using [Docusaurus](https://docusaurus.io).
 
 ## Contributing to the Wiki
-The [wiki](https://dev.warwicktechcrew.co.uk/wiki) is a collection of information that may be useful to Tech Crew
+The [wiki](https://warwicktechcrew.co.uk/wiki) is a collection of information that may be useful to Tech Crew
 members and is open for everyone to see and contribute to. Docs are written using Markdown (a simple text format
 similar to that used in Discord and Whatsapp), and are stored in the `/wiki` directory.
 

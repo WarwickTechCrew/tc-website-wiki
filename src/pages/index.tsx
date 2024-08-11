@@ -50,10 +50,7 @@ export default function Home() {
               <AboutUs />
             </div>
             <CaptionedImage
-              src={
-                require('@site/static/images/home/streetcar-joshheng.jpg')
-                  .default
-              }
+              img={require('@site/static/images/home/streetcar-joshheng.jpg')}
               alt="Streetcar"
               caption="A Streetcar Named Desire, WUDS, 2024. Photo © Josh Heng"
               width="w-56"
@@ -65,25 +62,17 @@ export default function Home() {
             <Hires />
             <div className="flex flex-wrap gap-4 justify-center">
               <CaptionedImage
-                src={
-                  require('@site/static/images/home/improvmusical-joshheng.jpg')
-                    .default
-                }
+                img={require('@site/static/images/home/improvmusical-joshheng.jpg')}
                 alt="The Improv Musical"
                 caption="The Improv Musical, Music Theatre Warwick, 2023. Photo © Josh Heng"
               />
               <CaptionedImage
-                src={
-                  require('@site/static/images/home/snowwhite-echovaughan.jpg')
-                    .default
-                }
+                img={require('@site/static/images/home/snowwhite-echovaughan.jpg')}
                 alt="Snow White"
                 caption="Show White, Warwick Panto, 2023. Photo © Echo Vaughan"
               />
               <CaptionedImage
-                src={
-                  require('@site/static/images/home/wsaf-joshheng.jpg').default
-                }
+                img={require('@site/static/images/home/wsaf-joshheng.jpg')}
                 alt="Warwick Student Arts Festival"
                 caption="Warwick Student Arts Festival, 2024. Photo © Josh Heng"
               />
@@ -93,26 +82,17 @@ export default function Home() {
             <GetInvolved />
             <div className="flex flex-wrap gap-4 justify-center">
               <CaptionedImage
-                src={
-                  require('@site/static/images/home/bandsoc-joshheng.jpg')
-                    .default
-                }
+                img={require('@site/static/images/home/bandsoc-joshheng.jpg')}
                 alt="BandSoc Showcase"
                 caption="BandSoc Showcase, 2023. Photo © Josh Heng"
               />
               <CaptionedImage
-                src={
-                  require('@site/static/images/home/dccupboard-kishansharma.jpg')
-                    .default
-                }
+                img={require('@site/static/images/home/dccupboard-kishansharma.jpg')}
                 alt="DC Cupboard"
                 caption="The DC Cupboard, 2024. Photo © Kishan Sharma"
               />
               <CaptionedImage
-                src={
-                  require('@site/static/images/home/soundtraining-unknown.jpg')
-                    .default
-                }
+                img={require('@site/static/images/home/soundtraining-unknown.jpg')}
                 alt="Sound Training"
                 caption="Sound Training, 2022. Photo © Unknown"
               />
@@ -131,42 +111,27 @@ export default function Home() {
                 <Shows />
                 <div className="flex gap-4 flex-wrap justify-center">
                   <CaptionedImage
-                    src={
-                      require('@site/static/images/home/anoblegame-joshheng.jpg')
-                        .default
-                    }
+                    img={require('@site/static/images/home/anoblegame-joshheng.jpg')}
                     alt="A Noble Game Get-in"
                     caption="A Noble Game, WUDS, 2023. Photo © Josh Heng"
                   />
                   <CaptionedImage
-                    src={
-                      require('@site/static/images/home/manon-joshheng.jpg')
-                        .default
-                    }
+                    img={require('@site/static/images/home/manon-joshheng.jpg')}
                     alt="Manon Get-in"
                     caption="Manon, Warwick Opera, 2023. Photo © Josh Heng"
                   />
                   <CaptionedImage
-                    src={
-                      require('@site/static/images/home/godspell-echovaughan.jpg')
-                        .default
-                    }
+                    img={require('@site/static/images/home/godspell-echovaughan.jpg')}
                     alt="Godspell Get-in"
                     caption="Godspell, Music Theatre Warwick, 2023. Photo © Echo Vaughan"
                   />
                   <CaptionedImage
-                    src={
-                      require('@site/static/images/home/themarksman-ethangraham.jpg')
-                        .default
-                    }
+                    img={require('@site/static/images/home/themarksman-ethangraham.jpg')}
                     alt="FAME Get-in"
                     caption="The Marksman,Warwick Opera, 2022. Photo © Ethan Graham"
                   />
                   <CaptionedImage
-                    src={
-                      require('@site/static/images/home/fame-2-joshheng.jpg')
-                        .default
-                    }
+                    img={require('@site/static/images/home/fame-2-joshheng.jpg')}
                     alt="FAME Control Room"
                     caption="FAME, Music Theatre Warwick, 2023. Photo © Josh Heng"
                   />

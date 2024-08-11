@@ -18,7 +18,7 @@ export default function Hires() {
             <Introduction />
           </div>
           <CaptionedImage
-            src={require('@site/static/images/hires/wsaf-joshheng.jpg').default}
+            img={require('@site/static/images/hires/wsaf-joshheng.jpg')}
             alt="Tech tent at Warwick Student Arts Festival"
             caption="Warwick Student Arts Festival Tech Tent, 2024. Photo © Josh Heng"
             width="w-96"
@@ -46,10 +46,7 @@ export default function Hires() {
               <PreviousHires />
             </div>
             <CaptionedImage
-              src={
-                require('@site/static/images/hires/stagefest-joshheng.jpg')
-                  .default
-              }
+              img={require('@site/static/images/hires/stagefest-joshheng.jpg')}
               alt="Music Theatre Warwick Stagefest"
               caption="MTW Stagefest, 2023. Photo © Josh Heng"
               width="w-80"

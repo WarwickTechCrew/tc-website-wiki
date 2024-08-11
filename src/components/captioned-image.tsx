@@ -1,11 +1,13 @@
+import Image, { SrcImage } from '@theme/IdealImage';
+
 export default function CaptionedImage({
-  src,
+  img,
   alt,
   caption,
   width,
   maxWidth,
 }: {
-  src: string;
+  img: SrcImage;
   alt: string;
   caption: string;
   width?: string;
@@ -15,10 +17,10 @@ export default function CaptionedImage({
     <figure
       className={`${width || 'w-56 flex-grow'} flex-shrink-0 ${maxWidth || 'max-w-[45rem]'}`}
     >
-      <img
-        src={src}
+      <Image
+        img={img}
         alt={alt}
-        className={`h-auto w-full object-contain ${maxWidth || 'max-w-full'}`}
+        className={`mb-[4px] h-auto w-full object-contain ${maxWidth || 'max-w-full'}`}
       />
       <figcaption>{caption}</figcaption>
     </figure>

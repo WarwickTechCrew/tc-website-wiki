@@ -49,7 +49,20 @@ const config: Config = {
     locales: ['en'],
   },
 
-  plugins: [tailwindPlugin, './src/plugins/shows.ts'],
+  plugins: [
+    tailwindPlugin,
+    './src/plugins/shows.ts',
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        quality: 75,
+        max: 3000,
+        min: 320,
+        steps: 5,
+        disableInDev: false,
+      },
+    ],
+  ],
 
   presets: [
     [

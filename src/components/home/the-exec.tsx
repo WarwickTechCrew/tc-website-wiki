@@ -1,51 +1,53 @@
+import Image, { SrcImage } from '@theme/IdealImage';
+
 const YEAR = '2024/2025';
 const exec: ExecMember[] = [
   {
     name: 'Ben Hammond',
     roles: ['President'],
-    image: require('@site/static/images/home/exec/ben.jpg').default,
+    image: require('@site/static/images/home/exec/ben.jpg'),
   },
   {
     name: 'Stan Simmons',
     roles: ['Hires Manager', 'Vice President'],
-    image: require('@site/static/images/home/exec/stan.jpg').default,
+    image: require('@site/static/images/home/exec/stan.jpg'),
   },
   {
     name: 'Josh Heng',
     roles: ['Treasurer'],
-    image: require('@site/static/images/home/exec/josh.jpg').default,
+    image: require('@site/static/images/home/exec/josh.jpg'),
   },
   {
     name: 'Kishan Sharma',
     roles: ['Secretary'],
-    image: require('@site/static/images/home/exec/kishan.jpg').default,
+    image: require('@site/static/images/home/exec/kishan.jpg'),
   },
   {
     name: 'Freya Cox',
     roles: ['Training Manager'],
-    image: require('@site/static/images/home/exec/freya.jpg').default,
+    image: require('@site/static/images/home/exec/freya.jpg'),
   },
   {
     name: 'Ethan Graham',
     roles: ['Equipment Manager', 'Safety Officer'],
-    image: require('@site/static/images/home/exec/ethan.jpg').default,
+    image: require('@site/static/images/home/exec/ethan.jpg'),
   },
   {
     name: 'Kit Calvert',
     roles: ['Socials & Publicity Secretary', 'Welfare Officer'],
-    image: require('@site/static/images/home/exec/kit.jpg').default,
+    image: require('@site/static/images/home/exec/kit.jpg'),
   },
   {
     name: 'Danny Turner',
     roles: ['Socials & Publicity Secretary', 'Equal Opportunities Officer'],
-    image: require('@site/static/images/home/exec/danny.jpg').default,
+    image: require('@site/static/images/home/exec/danny.jpg'),
   },
 ];
 
 type ExecMember = {
   name: string;
   roles: string[];
-  image: string;
+  image: SrcImage;
 };
 
 function GroupedExecCards({ members }: { members: ExecMember[] }) {
@@ -78,10 +80,10 @@ function ExecCard({ member }: { member: ExecMember }) {
         <div className="rounded-2xl w-12 h-3 mt-0.5 bg-white" />
       </header>
       <div className="flex-grow flex flex-col px-2 py-3 text-black bg-white">
-        <img
-          src={member.image}
+        <Image
+          img={member.image}
           alt={`Image of ${member.name}`}
-          className="mx-auto mb-2 w-28 h-auto"
+          className="mx-auto mb-2 w-28 h-auto mb-[4px]"
         />
         <ul className="text-center text-xs">
           {member.roles.map((role) => (

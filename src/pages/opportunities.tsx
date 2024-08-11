@@ -14,10 +14,7 @@ export default function Opportunities() {
             <Introduction />
           </div>
           <CaptionedImage
-            src={
-              require('@site/static/images/opportunities/improvmusical-kishansharma.jpg')
-                .default
-            }
+            img={require('@site/static/images/opportunities/improvmusical-kishansharma.jpg')}
             alt="The Improv Musical"
             caption="The Improv Musical, MTW, 2024. Photo © Kishan Sharma"
             width="w-52"

@@ -1,9 +1,10 @@
+import Image, { SrcImage } from '@theme/IdealImage';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import { FiChevronLeft, FiChevronRight } from 'react-icons/fi';
 
 export type CarouselSlide = {
-  src: string;
+  img: SrcImage;
   caption: string;
 };
 
@@ -65,10 +66,10 @@ export default function TechCrewCarousel({
           )}
 
           <div className="bg-black">
-            <img
-              src={slide.src}
+            <Image
+              img={slide.img}
               alt={slide.caption}
-              className={`object-cover h-auto min-h-[20rem] ${slideClasses}`}
+              className={`object-cover h-auto min-h-[20rem] mb-[4px] ${slideClasses}`}
             />
           </div>
 

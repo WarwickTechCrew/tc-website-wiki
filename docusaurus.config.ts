@@ -55,6 +55,10 @@ const config: Config = {
     [
       'classic',
       {
+        gtag: {
+          trackingID: 'G-FW2CD6P70C',
+          anonymizeIP: true,
+        },
         docs: {
           path: './wiki',
           routeBasePath: 'wiki',

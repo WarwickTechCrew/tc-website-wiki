@@ -15,9 +15,9 @@ Gels are thin transparent coloured film that are placed in front of a light sour
 
 Gels are also used by sound designers! The [RAT music stands](https://www.ratstands.com/product/shop-opera-stand/) (music stands with lights) are often too bright, so we gel them with a light blue colour. This makes their appearance less harsh while still allowing musicians to read their sheet music.
 
-[Tech crew gel stock:](https://www.warwicktechcrew.co.uk/lx-catalogue/gels/)
+[Tech crew gel stock:](https://lx-catalogue.warwicktechcrew.co.uk/gels/)
 <iframe
-  src="https://www.warwicktechcrew.co.uk/lx-catalogue/gels/"
+  src="https://lx-catalogue.warwicktechcrew.co.uk/gels/"
   width="100%"
   height="600">
 </iframe>
@@ -25,9 +25,9 @@ Gels are also used by sound designers! The [RAT music stands](https://www.ratsta
 ## Gobos
 Gobos are thin metal plates with designs cut into them. They are put in front of spotlights to project that image onto the set. 
 
-[Tech crew gobo stock:](https://www.warwicktechcrew.co.uk/lx-catalogue/gobos/)
+[Tech crew gobo stock:](https://lx-catalogue.warwicktechcrew.co.uk/gobos/)
 <iframe
-  src="https://www.warwicktechcrew.co.uk/lx-catalogue/gobos/"
+  src="https://lx-catalogue.warwicktechcrew.co.uk/gobos/"
   width="100%"
   height="600">
 </iframe>

@@ -41,6 +41,7 @@ export default function NavbarLayout({ children }: Props): JSX.Element {
   } = useThemeConfig();
   const location = useLocation();
   const isHome = location?.pathname === '/';
+  const isWiki = location?.pathname.startsWith('/wiki');
 
   const mobileSidebar = useNavbarMobileSidebar();
   const { transparentNavbar } = useTransparentNavbar(isHome);
@@ -58,6 +59,7 @@ export default function NavbarLayout({ children }: Props): JSX.Element {
         'navbar-sidebar--show': mobileSidebar.shown,
         'navbar-home': isHome,
         'navbar-home-top': isHome && transparentNavbar,
+        'navbar-wiki': isWiki,
       })}
     >
       {children}

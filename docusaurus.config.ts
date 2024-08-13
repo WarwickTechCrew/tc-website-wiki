@@ -123,9 +123,11 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
     algolia: {
-      appId: '3WK3DA9XFA',
-      apiKey: '054ee884002fe8177823d4eb9bb9d4b9',
-      indexName: 'wiki',
+      appId: '5STUTZ5KN2',
+      apiKey: 'f7185f5b9c2d2d34bcf3d330f7c63f51',
+      indexName: 'warwicktechcrew-co',
+      insights: true,
+      searchPagePath: '/wiki/search',
     },
   } satisfies Preset.ThemeConfig,
 };

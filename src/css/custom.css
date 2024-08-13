@@ -93,7 +93,7 @@ svg {
 }
 
 .navbar-home-top .navbar__items--right {
-  @apply sm:opacity-0 sm:4xl:opacity-100;
+  @apply sm:opacity-0 4xl:opacity-100;
 }
 
 .navbar-home-top .navbar__link, .navbar-home-top .navbar__title, .navbar-home-top .navbar__toggle, .navbar-home-top .navbar__items {
@@ -106,4 +106,20 @@ svg {
 
 .navbar-home-top #header-logo-dark {
   @apply sm:opacity-100;
+}
+
+.navbar .DocSearch-Button {
+  @apply hidden;
+}
+
+.navbar-wiki .navbar__items--right {
+  @apply flex;
+}
+
+.navbar-wiki .navbar__items--right .navbar__item {
+  @apply hidden md:flex;
+}
+
+.navbar-wiki .DocSearch-Button {
+  @apply flex;
 }

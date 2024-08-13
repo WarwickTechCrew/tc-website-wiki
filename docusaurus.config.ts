@@ -3,6 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import tailwindPlugin from './plugins/tailwind-plugin';
 import { getGitContributors } from './src/lib/git';
+import { redirectLinks } from './redirects';
 
 const config: Config = {
   title: 'Warwick Tech Crew',
@@ -49,7 +50,11 @@ const config: Config = {
     locales: ['en'],
   },
 
-  plugins: [tailwindPlugin, './src/plugins/shows.ts'],
+  plugins: [
+    tailwindPlugin,
+    './src/plugins/shows.ts',
+    ['@docusaurus/plugin-client-redirects', { redirects: redirectLinks }],
+  ],
 
   presets: [
     [

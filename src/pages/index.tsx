@@ -152,7 +152,7 @@ export default function Home() {
                         .default
                     }
                     alt="Godspell Get-in"
-                    caption="Godspell, Music Theatre Warwick, 2023. Photo © Echo Vaughan"
+                    caption="Godspell, Music Theatre Warwick, 2024. Photo © Echo Vaughan"
                   />
                   <CaptionedImage
                     src={

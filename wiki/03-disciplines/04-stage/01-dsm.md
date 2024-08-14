@@ -1,7 +1,7 @@
-# Deputy Stage Manager
+# Deputy Stage Manager (DSM)
 The deputy stage manager...
 
-## Example Schedule
+## Example DSM Schedule
 | Time                 | Activity                                                          |
 |----------------------|-------------------------------------------------------------------|
 | 35m before show open | Show calls                                                        |
@@ -10,7 +10,7 @@ The deputy stage manager...
 | Interval end         | Request clearance from FoH <br />Start show<br />Restart timer    |
 | Show end             | Write down time and stop timer                                    |
 
-## Calls
+## DSM Calls
 
 Calls refer to PA announcements made by the DSM (or another technician such as the TM in lieu of a DSM). These are made
 to either Front of House (FOH) (all public areas in the WAC, including the toilets and just outside) or Back of House

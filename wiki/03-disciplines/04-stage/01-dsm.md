@@ -1,3 +1,8 @@
+---
+description: What the Deputy Stage Manager does, including an example list of calls.
+sidebar_custom_props:
+  emoji: 🎤
+---
 # Deputy Stage Manager (DSM)
 The deputy stage manager...
 

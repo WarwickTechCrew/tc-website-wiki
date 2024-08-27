@@ -23,11 +23,6 @@ const carousel: CarouselSlide[] = [
     caption: 'InterUni, Music Theatre Warwick, 2023. Photo © Josh Heng',
   },
   {
-    src: require('@site/static/images/home/general-carousel/wonder-joshheng.jpg')
-      .default,
-    caption: 'Wonder, Warwick Christian Union, 2024. Photo © Josh Heng',
-  },
-  {
     src: require('@site/static/images/home/general-carousel/wsaf-joshheng.jpg')
       .default,
     caption: 'Warwick Student Arts Festival, 2024. Photo © Josh Heng',

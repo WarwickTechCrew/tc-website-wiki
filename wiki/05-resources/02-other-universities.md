@@ -54,3 +54,13 @@ nuclear reactor), but unfortunately its all being a login gate.
 
 Like many other drama societies, they have their own space in the Imperial Union Concert Hall, which they share with
 Imperial Cinema.
+
+## [Manchester Universities Technical Theatre Society](https://mutts.org.uk/)
+
+MUTTS was founded in 2013 and provides technical support and equipment hire for societies and organisations around
+Manchester, working in the
+[SU Theatre](https://manchesterstudentsunion.com/room-booking/theatre)/[Theatre Lounge](https://manchesterstudentsunion.com/room-booking/theatre-lounge)
+and storing all equipment in a storage facility known as The Arch. They meet every Tuesday and have frequent trainings
+and socials, and also seem to stock a lot of equipment including intelligent lighting, truss, steel deck and power
+distro (and a lot of flight cases!). Whilst they have a [wiki](https://wiki.mutts.org.uk), most of this is only 
+available to members.

@@ -12,6 +12,9 @@ as Josh Heng to make the changes for you).
 
 You can find more information about formatting [here](https://docusaurus.io/docs/markdown-features).
 
+You can also find more information about contributing on the
+[Contributing Guide](https://warwicktechcrew.co.uk/wiki/resources/contributing).
+
 ### Front Matter
 Each doc file should have front matter at the top of the page that defines its description and emoji (e.g. for embeds):
 ```yaml

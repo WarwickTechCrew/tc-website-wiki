@@ -72,9 +72,6 @@ const config: Config = {
           editUrl: 'https://github.com/WarwickTechCrew/website/tree/main/',
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
-          rehypePlugins: [
-            require('./src/plugins/rehype-wrap-adjacent-images.ts'),
-          ],
         },
         theme: {
           customCss: './src/css/custom.css',

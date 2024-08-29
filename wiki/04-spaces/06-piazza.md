@@ -33,7 +33,9 @@ the wall in the Piazza and in the floor on Benefactors Place, with larger 63A 3-
 distribution boxes.
 
 Tech Crew only has a limited number of equipment to handle 16A to 13A conversion, and does not have any equipment for
-63A - so you'll need to hire this from an external company, the SU or Estates.
+63A - so you'll need to hire this from an external company, the
+[SU](/wiki/resources/equipment-directory#warwick-su-tech-services) or
+[Estates](/wiki/resources/equipment-directory#estates).
 
 
 ## Overnight Security
@@ -42,6 +44,6 @@ and secured indoors, unless rigged high out of reach. Another option is to have 
 can be difficult to arrange.
 
 ## Tables and Chairs
-Another thing to consider when outside is the need for tables and chairs, as these aren't as accessible. The SU
-Operations team can sometimes help with this if enough notice is provided, however these are also used for POP and
-circling so should be wiped down before use.
+Another thing to consider when outside is the need for tables and chairs, as these aren't as accessible. The 
+[SU Operations team](/wiki/resources/equipment-directory#warwick-su-operations) can sometimes help with this if enough
+notice is provided, however these are also used for POP and circling so should be wiped down before use.

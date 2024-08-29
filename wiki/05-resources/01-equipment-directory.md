@@ -65,14 +65,15 @@ usefully short-term iPad loans if you need an extra control surface.
 They can also offer setting up networking and patching ports for internet access around campus (including outdoors) if emailed
 with enough notice.
 
-Contact: form on [website](https://warwick.ac.uk/services/it-students/computers/laptop-loans/) or in-person at the library.
+Contact: for device loans: form on [website](https://warwick.ac.uk/services/it-students/computers/laptop-loans/) or in-person at the library. For networking help:
+[Service-Now Service Desk](https://warwick.service-now.com/sp)
 
 ### Estates
 
 Can offer power hookups and assorted distribution in various outdoor locations around campus. Also has a 63A 3-phase
 generator which can sometimes be used.
 
-Contact: service desk.
+Contact: [Estates Service Desk](https://helpdesk.estate.warwick.ac.uk/helpdesk) or Estates.Servicedesk@warwick.ac.uk.
 
 ### Music Centre
 
@@ -109,6 +110,8 @@ custom dynamic content can be added to digital signage provided even more advanc
 Email Digital Signage at digitalscreens@warwick.ac.uk for this, and they should direct you to the right person (Ed!).
 
 ## Hire Companies
+When using hire companies, note that these may often require a higher lead time with advance payment or deposit. You
+will also need to consider delivery/collection costs, or be able to organise alternative transport.
 
 ### Marklew Productions
 
@@ -130,6 +133,12 @@ We used DCRS for hiring radios for WSAF 2024. They have good relations with Warw
 a good discount.
 
 Website: https://www.dcrs.co.uk
+
+### BE Event Hire
+BE Event Hire can supply furniture (e.g. tables and chairs) for events. Chairs start at £1.40 exc. VAT per week, and
+tables at £7.00 exc. VAT per week. All items and prices are listed on their website.
+
+Website: https://www.beeventhire.co.uk
 
 ## Societies
 

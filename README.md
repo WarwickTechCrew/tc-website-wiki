@@ -44,6 +44,27 @@ resources:
 ---
 ```
 
+### Images
+Images can be added in the following Markdown format:
+```md
+![Alt Text](file-name.txt)
+```
+
+These can be made into a gallery format (i.e. showing them side by side) by wrapping them in a `img-gallery` class div:
+```md
+<div class="img-gallery">
+    ![Alt Text](file-name.txt)
+    ![Alt Text](file-name.txt)
+</div>
+```
+
+These can be made full width by wrapping them in a `img-full` class div:
+```md
+<div class="img-full">
+    ![Alt Text](file-name.txt)
+</div>
+```
+
 ## Updating Shows
 Shows are stored in annual YAML files in `shows/`.
 

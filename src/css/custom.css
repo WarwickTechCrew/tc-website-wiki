@@ -76,6 +76,22 @@ h2 {
   @apply mb-3;
 }
 
+.content-styling .img-gallery p {
+  @apply flex gap-x-2 flex-wrap max-w-full;
+}
+
+.content-styling .img-gallery img {
+  @apply xs:h-72 xs:w-auto;
+}
+
+.content-styling img {
+  @apply object-contain max-w-full w-[32rem] h-auto my-1;
+}
+
+.content-styling .img-full img {
+  @apply w-full h-auto;
+}
+
 svg {
   @apply inline;
 }

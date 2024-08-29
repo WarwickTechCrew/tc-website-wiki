@@ -26,10 +26,9 @@ The WAC provides a 360 view of all its venues on its
 <iframe src="https://my.matterport.com/show/?m=gyBcoRB4m7u&play=1&qs=1&hl=0&brand=0&sr=-.26,.39&ss=706" width="100%" height="600" ></iframe>
 
 ### Seating
-
-<div style={{ display: 'flex', justifyContent: 'space-around' }}>
-  <img src="/images/theatre/theatre-section.jpg" alt="Image 1" style={{ width: '45%' }} />
-  <img src="/images/theatre/seating_plan.jpg" alt="Image 2" style={{ width: '45%' }} />
+<div class="img-gallery">
+![WAC Theatre Section Plan](theatre-section.jpg)
+![WAC Theatre Seating Plan](seating_plan.jpg)
 </div>
 
 ## Working in the Space
@@ -49,8 +48,10 @@ A [list of all the patch panel numbers](https://drive.google.com/file/d/1me_DVrE
 can be found on the wall in the sound control room, next to the patching rack. Make sure to make a note of the patching
 before changing anything, so this can be reverted during the get-out.
 
+<div class="img-gallery">
 ![Sound Rack](scr-th-001-rack.jpg)
 ![Patch Panel Numbering](sound-patch-panel-numbering.jpg)
+</div>
 
 When patching, use the black patch cables stored on the ducting next to the rack. Red patch cables should never be
 touched (where possible) - if you need to change these, make sure to revert them back during the get-out.
@@ -85,4 +86,3 @@ Note that e.g. USL stands for Upstage Left, DSC stands for Downstage Center and 
 
 When using the Front of House mixing position (SC-ST-201), you will also need to unplug the sound multipin snake from
 the sound control room (SC-ST-313).
-

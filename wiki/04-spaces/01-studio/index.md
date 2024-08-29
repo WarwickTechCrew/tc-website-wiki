@@ -28,7 +28,7 @@ The WAC provides a 360 view of all its venues on its
 </iframe>
 
 ### Levels
-<img src="/images/studio/studio-levels.jpg" alt="WAC Studio Levels" style={{ maxWidth: '30rem' }} />
+![WAC Studio Levels](studio-levels.jpg)
 
 There are four levels in the studio. Apart from the main floor, there is a performance balcony, tech balcony and the
 bridges. The tech balcony and bridges are only accessible to TC members (for insurance purposes) and cannot be used by
@@ -41,7 +41,7 @@ theatre so you may need to use a torch if the theatre is in use. There is also a
 through the WAC theatre, however this should be avoided if possible and cannot be used if there is a theatre show on.
 
 ### Seating
-<img src="/images/studio/seating_plan.jpg" alt="WAC Studio Seating Plan" style={{ maxWidth: '30rem' }} />
+![WAC Studio Seating Plan](seating_plan.jpg)
 
 The [seating plan](https://www.warwickartscentre.co.uk/download/file/THFUeFg2QkJSQUVseW41UDJpU3dBdz09/) can be found on 
 WAC's website. The seats in the back row can be taken out in sets of 3 - if you'd like to mix at the Front of House
@@ -56,7 +56,7 @@ dock (and additional chairs added), allowing for shows in the round/thrust or ha
 The public drive has a [CAD file](https://drive.google.com/file/d/14TwSrr7mwapPVbPDDN8Pqs9k-5upM8-4/view?usp=drive_link) of the studio, which can be uploaded to this [online CAD viewer](https://viewer.autodesk.com/) so you can
 inspect and measure the space yourself.
 
-![studio section](/images/studio/studio-section.jpg)
+![studio section](studio-section.jpg)
 
 ## Working in the Space
 
@@ -83,6 +83,7 @@ The studio comes stock with:
 - 1x DiGiCo S21 in the control room (this can be moved to Front of House for a small fee)
 
 ### Patch Panels
+![Sound Patch Panels](sound-patch-panels.jpg)
 
 A [list of all the patch panel numbers](https://drive.google.com/file/d/11x5CvrBdcfXjkRJ9nkfqovJU4wu2ljn0/view?usp=sharing)
 can be found on the wall in the control room, next to the patching rack. Make sure to make a note of the patching before
@@ -121,3 +122,4 @@ Note that e.g. USL stands for Upstage Left, DSC stands for Downstage Center and 
 
 When using the Front of House mixing position (SC-ST-203), you will also need to unplug the sound multipin snake from
 the control room (SC-ST-305).
+

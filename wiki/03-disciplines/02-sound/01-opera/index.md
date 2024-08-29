@@ -3,10 +3,6 @@ description: Traditions for the yearly Opera Warwick Theatre show.
 sidebar_custom_props:
   emoji: 🎶
 ---
-import Carmen2024Mascot from './carmen-2024-mascot.jpg';
-import Carmen2024Mascot2 from './carmen-2024-mascot-2.jpg';
-import Manon2023Mascot from './manon-2023-mascot.jpg';
-
 # Opera Warwick Traditions
 
 Opera Warwick runs a show each year in the WAC Theatre. Here are some of the traditions that have been established.
@@ -17,16 +13,18 @@ Each sound designer should bring their own mascot to the show.
 ### Carmen 2024
 > Sound Designer: Josh (Squeezy Lion)
 
-<div className="flex gap-2 flex-wrap">
-  <img src={Carmen2024Mascot} alt="Carmen 2024 Sound Mascot" style={{ width: '20rem' }} />
-  <img src={Carmen2024Mascot2} alt="Carmen 2024 Sound Mascot 2" style={{ width: '20rem' }} />
+<div class="img-gallery">
+  ![Carmen 2024 Sound Mascot](carmen-2024-mascot.jpg)
+  ![Carmen 2024 Sound Mascot 2](carmen-2024-mascot-2.jpg)
 </div>
 
 
 ### Manon 2023
 > Sound Designers: Vincci (Jellycat Devilled Egg)  & James (Waitrose Chick Plush)
 
-<img src={Manon2023Mascot} alt="Manon 2023 Sound Mascot" style={{ width: '20rem' }} />
+<div class="img-gallery">
+  ![Manon 2023 Sound Mascot](manon-2023-mascot.jpg)
+</div>
 
 
 ### The Marksman 2022

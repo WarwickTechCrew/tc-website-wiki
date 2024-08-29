@@ -1,18 +1,7 @@
 import { WikiChange } from '@site/src/lib/git';
 import { usePluginData } from '@docusaurus/core/lib/client/exports/useGlobalData';
 import { useDocsVersion } from '@docusaurus/plugin-content-docs/client';
-import type {
-  PropVersionDoc,
-  PropVersionDocs,
-} from '@docusaurus/plugin-content-docs';
-
-function formatDate(date: string) {
-  return new Date(date).toLocaleDateString('en-GB', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-  });
-}
+import type { PropVersionDocs } from '@docusaurus/plugin-content-docs';
 
 function getWikiPageFromFile(
   fileName: string,
@@ -92,7 +81,7 @@ export default function WikiChangelog() {
             href={`https://github.com/WarwickTechCrew/website/commit/${change.hash}`}
             target="_blank"
           >
-            <time dateTime={change.date}>{formatDate(change.date)}</time>
+            <time dateTime={change.date}>{change.formattedDate}</time>
             {' • '}
             {change.author}
           </a>

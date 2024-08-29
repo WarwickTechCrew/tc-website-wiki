@@ -84,6 +84,7 @@ export type WikiChange = {
   author: string;
   description: string;
   date: string;
+  formattedDate: string;
   files: string[];
 };
 
@@ -118,6 +119,11 @@ export async function getWikiChangelog(): Promise<WikiChange[]> {
     description: formatCommitSubject(commit.subject),
     author: authorNames[commit.authorName] || commit.authorName,
     date: commit.authorDate,
+    formattedDate: new Date(commit.authorDate).toLocaleDateString('en-GB', {
+      year: 'numeric',
+      month: 'short',
+      day: 'numeric',
+    }),
     files: commit.files,
   }));
 }

@@ -53,6 +53,7 @@ const config: Config = {
   plugins: [
     tailwindPlugin,
     './src/plugins/shows.ts',
+    './src/plugins/wiki-changelog.ts',
     ['@docusaurus/plugin-client-redirects', { redirects: redirectLinks }],
   ],
 

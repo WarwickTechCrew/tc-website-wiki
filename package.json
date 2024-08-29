@@ -22,6 +22,7 @@
     "@mdx-js/react": "^3.0.0",
     "autoprefixer": "^10.4.19",
     "clsx": "^2.0.0",
+    "convert-gitmoji": "^0.1.5",
     "gitlog": "^5.1.0",
     "postcss": "^8.4.39",
     "prism-react-renderer": "^2.3.0",

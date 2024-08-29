@@ -1,6 +1,5 @@
 import Layout from '@theme/Layout';
 import Introduction from '@site/src/components/shows/introduction.md';
-import CaptionedImage from '@site/src/components/captioned-image';
 import { ShowYearData } from '@site/src/lib/show';
 import { FiExternalLink } from 'react-icons/fi';
 

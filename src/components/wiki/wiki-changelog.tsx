@@ -59,28 +59,26 @@ export default function WikiChangelog() {
   const { changelog } = usePluginData('wiki-changelog-plugin') as {
     changelog: WikiChange[];
   };
-  const changelogWithPages = changelog
-    .map((change) => {
-      const pages = change.files
-        .map((file) => getWikiPageFromFile(file, version.docs))
-        .filter((page) => !!page);
+  const changelogWithPages = changelog.map((change) => {
+    const pages = change.files
+      .map((file) => getWikiPageFromFile(file, version.docs))
+      .filter((page) => !!page);
 
-      // Remove duplicates
-      const uniquePages = [];
-      const uniquePageUrls = [];
-      for (const page of pages) {
-        if (!uniquePageUrls.includes(page.url)) {
-          uniquePages.push(page);
-          uniquePageUrls.push(page.url);
-        }
+    // Remove duplicates
+    const uniquePages = [];
+    const uniquePageUrls = [];
+    for (const page of pages) {
+      if (!uniquePageUrls.includes(page.url)) {
+        uniquePages.push(page);
+        uniquePageUrls.push(page.url);
       }
+    }
 
-      return {
-        ...change,
-        pages: uniquePages,
-      };
-    })
-    .filter((change) => change.pages.length > 0);
+    return {
+      ...change,
+      pages: uniquePages,
+    };
+  });
 
   return (
     <ul className="!ml-0">

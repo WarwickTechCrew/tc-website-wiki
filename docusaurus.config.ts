@@ -9,7 +9,7 @@ const config: Config = {
   title: 'Warwick Tech Crew',
   tagline:
     'Welcome to Warwick Tech Crew, the technical theatre and entertainment society at the University of Warwick.',
-  favicon: '/logo-dark.svg',
+  favicon: '/favicon.ico',
 
   markdown: {
     mermaid: true,

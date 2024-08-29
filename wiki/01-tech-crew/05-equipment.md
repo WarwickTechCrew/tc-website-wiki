@@ -6,8 +6,10 @@ sidebar_custom_props:
 # Equipment
 
 We currently stock the following inventory, pending availability. If there's something you need that isn't listed, 
-please also check the internal equipment/pricing list if you are a Tech Crew Member. Equipment can also be sourced
-externally - we have a list of places for this in the
+please also check the internal equipment/pricing list (linked on the
+[AdamRMS dashboard](https://dash.adam-rms.com/cms/?p=25)) or the
+[AdamRMS assets page](https://dash.adam-rms.com/assets.php) if you are a Tech Crew Member. Equipment can also be
+sourced externally - we have a list of places for this in the
 [Equipment & Services Directory](/wiki/resources/equipment-directory).
 
 :::info

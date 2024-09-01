@@ -8,10 +8,17 @@ import TechCrewCarousel from '@site/src/components/carousel';
 import showsCarousel from '@site/src/components/home/shows-carousel';
 import generalCarousel from '@site/src/components/home/general-carousel';
 import CaptionedImage from '@site/src/components/captioned-image';
+import Head from '@docusaurus/core/lib/client/exports/Head';
 
 export default function Home() {
   return (
     <Layout description="Welcome to Warwick Tech Crew, the society for anyone interested in technical theatre or entertainment.">
+      <Head>
+        <meta
+          property="og:image"
+          content="https://warwicktechcrew.co.uk/logo-light-small.png"
+        />
+      </Head>
       <header className="relative">
         <div>
           <TechCrewCarousel

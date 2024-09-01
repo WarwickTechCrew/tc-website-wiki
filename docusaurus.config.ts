@@ -81,7 +81,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: '/logo-light-small.png',
     navbar: {
       title: 'Warwick Tech Crew',
       logo: {

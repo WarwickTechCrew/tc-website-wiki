@@ -21,10 +21,23 @@ ask any questions.
 The new system will be an 8-channel [EW-DX](https://www.sennheiser.com/en-gb/product-families/ew-dx-professional) EM 4
 Dante Sennheiser system. This uses 3-pin LEMO connectors instead of our existing 3.5mm jack connectors, which should
 be more reliable and less prone to damage. Out of our 12 existing MKE2 lavalier microphones, 7 will be reterminated to
-the 3-pin LEMO. We will additionally purchase 5 new MKE Essential microphones with a 3-pin LEMO connector, totalling 
-12 lavalier microphones and 8 channels.
+the 3-pin LEMO and the remaining 5 are realistically broken beyond repair. We will purchase 5 new MKE 
+Essential microphones with a 3-pin LEMO connector, totalling to 12 lavalier microphones and 8 channels.
 
-The new radio mic system will consist of the following:
+This will have the following advantages:
+* (The main advantage is that the new system won't be breaking all the time).
+* The 2 receivers are much lighter and have inbuilt power distribution compared to the heavy receiver rack we currently
+  own.
+* 3 pin LEMO connectors are more rugged, waterproof, and more reliable than the 3.5mm screw in jack.
+* The new system has Dante, which can be used in WAC (WAC are trying to move fully Dante). This reduces the number of 
+  cable runs and has a lower noise floor than XLR. *Note that the SQ5 does not currently have a Dante card, however we
+  would be able to use Dante for the WAC S21 desk.
+* Because of the lack of antenna distribution, the new system can be split up into 2 4ch systems 
+* There are lots of nice quality of life features with the newer system
+* We will likely still be able to use the existing system for some shows with hire wear and tear or if more than 8 
+  channels are required, saving the £65/mic cost to the WAC.
+
+The new radio mic system will consist of and cost the following:
 * 2x [Sennheiser EW-DX EM4 Dante Receivers](https://www.sennheiser.com/en-gb/catalog/products/wireless-systems/ew-dx-em-4-dante/ew-dx-em-4-dante-q1-9-509370)
   (4 channels each, totalling 8): 2x £2,400
 * 8x [Sennheiser EW-DX SK 3-Pin LEMO Bodypack Transmitters](https://www.sennheiser.com/en-gb/catalog/products/wireless-systems/ew-dx-sk-3-pin/ew-dx-sk-3-pin-q1-9-509398):
@@ -38,18 +51,26 @@ The new radio mic system will consist of the following:
 
 ### Current System
 The current system is an 8-channel Sennheiser EW300 G3 system, which was purchased in 2010:
-* Currently 8 channels with a theoretical maxiumum of 12 and realistic maximum of 10.
+* Currently, 8 channels with a theoretical maximum of 12 and realistic maximum of 10.
 * Fully analogue
 * Uses the unreliable 3.5mm jack connector
 * Uses fixed antennas that are complex or expensive to replace
-* Not water resistant in any way
+* Not water-resistant in any way
 * Needs a 6u flight case rack which is bulky and heavy
   * Takes up 1u of rack space per 2 channels
   * Needs the use of a distribution amplifier
 
+We will keep the current radio mic system as a backup system and to be used for environments with higher wear and tear,
+such as The Improv Musical. These will be used with the current two handheld microphones and existing 12 headset 
+microphones (mini XLR with a 3.5mm adapter). In the future, we may also purchase four 3-pin LEMO to 3.5mm adapters 
+so that the old system and new system can be used concurrently to avoid hiring from the WAC.
+
+This will likely be continued until maintenance costs become too high.
+
 ### Alternatives
 
-We have considered the following alternatives:
+Whilst we have looked at a range of systems, we have seriously considered the following alternatives due to these 
+being within budget and having our desired feature set:
 * Shure ULX-D: ULXD4, ULXD4D, ULXD4Q
 * Sennheiser EW-DX: EW-DX EM2, EW-DX EM2 DANTE, EW-DX EM 4 DANTE
 
@@ -66,8 +87,9 @@ A full feature comparison can be provided upon request, but in general Sennheise
 ## Why Now?
 
 Tech Crew have been discussing the purchase of a new radio mic system for the past few years as we've been aware of our
-current system slowly becoming less reliable and requiring more repairs. The current system was purchased in 2010, with
-an expected lifespan of 10 years.
+current system slowly becoming less reliable and requiring more repairs. During The Improv Musical at Fringe 2024, for
+example, three of the transmitters had issues towards the end of the run (pending investigation) and had to be swapped
+out with spares. The current system was purchased in 2010, with an expected lifespan of 10 years.
 
 
 
@@ -79,5 +101,21 @@ not being able to pay for other expenses or having enough reserves for repairs o
 to us having saved up for this purchase over the past few years, and due to the success of recent shows and larger 
 hires.
 
-We will likely need to increase the price of hiring the radio mic system for hires and shows, however this should not be
-too much of an extra expense and still needs to be finalised.
+### Hire Cost
+
+Currently, we charge £15/day/channel for the usage of radio mics (subject to our other discounts, such as a day rate
+for any week-long WAC show, a 3-day=1 week rate for hires and a 50% discount for self-funded society events). In the
+previous year, the following events used the radio mics, totalling to £360:
+* Company (8 channels + 4 WAC mics charged at £65/mic)
+* Carmen (8 channels)
+* Godspell (8 channels)
+
+The Improv Musical also used the radio mics for their several shows throughout the year and then for a
+month at Edinburgh Fringe (6 lavalier radio mics and 1 handheld radio mic).
+
+We will therefore likely need to increase the price of hiring the radio mic system for hires and shows, however this 
+still needs to be finalised.
+
+:::info
+Questions? Please ask in the **New Radio Mic System Purchase** in the Discord #projects channel.
+:::

@@ -91,7 +91,22 @@ current system slowly becoming less reliable and requiring more repairs. During 
 example, three of the transmitters had issues towards the end of the run (pending investigation) and had to be swapped
 out with spares. The current system was purchased in 2010, with an expected lifespan of 10 years.
 
+> What's happening to the old radio mic system - given they still work and are supported by Sennheiser (repair of a
+> transmitter is only £95 when they do occasionally die)? Seems silly to be duplicating kit especially when it's so
+> spenny!
 
+Whilst it is cost-effective to maintain, the old system will be used in conjunction with the new system when needed, 
+but as a secondary system (apart from the specific setup for The Improv Musical which will remain on the old system 
+due to the increased wear and tear).
+
+> Why don't we just wait until the old system gives up completely? Hiring is always an option in an emergency?
+
+We have budget to do it now, and the old system would probably give up in the next couple of years at a guess, at 
+any point. We don't want it to break just before we actually need them for something and then have to go through the
+whole process of getting and testing new mics (also assuming we have budget for it).
+
+Hiring with little notice may also not be an option for events like Fringe, when everything is already being hired for
+other Fringe shows.
 
 ## Finance
 
@@ -100,6 +115,14 @@ SU (although this is not guaranteed). We have enough reserves to safely purchase
 not being able to pay for other expenses or having enough reserves for repairs or floats in shows - this is mainly due
 to us having saved up for this purchase over the past few years, and due to the success of recent shows and larger 
 hires.
+
+> Shouldn't buying more lighting stuff be a bigger priority? Especially given that the last major investment TC made 
+> was the £4/5k on SQ5 and stagebox, as well as random other stuff like the PA2. The last time any real amount of 
+> money was spent on lighting was when the LEDs and FLX were bought in 2016! We constantly have to hire lighting stuff,
+> whereas with sound there's just a couple extra radio channels hired occasionally.
+
+In the current budget, we should still have £1-3k left over which could reasonably be spent on lighting equipment 
+this year. We're always open to suggestions on what equipment we could upgrade or purchase.
 
 ### Hire Cost
 
@@ -115,6 +138,16 @@ month at Edinburgh Fringe (6 lavalier radio mics and 1 handheld radio mic), tota
 
 We will therefore likely need to increase the price of hiring the radio mic system for hires and shows, however this 
 still needs to be finalised.
+
+> I think it's also important to consider for the theatre shows will this increase their tech costs and is that 
+> fair/realistic given they're already have limited budgets
+
+If (for example) we increase prices to £25/channel instead of £15/channel, this would increase the price for Company by
+£80 to TC. But, Company also had to pay for 4 additional WAC mics at £65/mic, so this would still be cheaper.
+
+For other shows, yeah there may be quite a significant price increase, but this is still much cheaper than hiring from
+WAC or externally and I think it's a cost increase that will always come at some point as the existing system won't last
+forever.
 
 :::info
 Questions? Please ask in the **New Radio Mic System Purchase** in the Discord #projects channel.

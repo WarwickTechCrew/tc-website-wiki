@@ -1,0 +1,4 @@
+# Beep boop I'm a robot
+User-agent: *
+Allow: *
+Sitemap: https://www.warwicktechcrew.co.uk/sitemap.xml

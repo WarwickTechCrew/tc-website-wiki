@@ -105,13 +105,13 @@ hires.
 
 Currently, we charge £15/day/channel for the usage of radio mics (subject to our other discounts, such as a day rate
 for any week-long WAC show, a 3-day=1 week rate for hires and a 50% discount for self-funded society events). In the
-previous year, the following events used the radio mics, totalling to £360:
-* Company (8 channels + 4 WAC mics charged at £65/mic)
+previous year, the following events used the radio mics, totalling to ~£300 to Tech Crew:
+* Company (8 channels + the show paid for 4 WAC mics at £65/mic)
 * Carmen (8 channels)
 * Godspell (8 channels)
 
 The Improv Musical also used the radio mics for their several shows throughout the year and then for a
-month at Edinburgh Fringe (6 lavalier radio mics and 1 handheld radio mic).
+month at Edinburgh Fringe (6 lavalier radio mics and 1 handheld radio mic), totalling around ~£1,500 to Tech Crew.
 
 We will therefore likely need to increase the price of hiring the radio mic system for hires and shows, however this 
 still needs to be finalised.

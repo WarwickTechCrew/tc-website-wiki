@@ -47,6 +47,10 @@ terms:
           name: Kit Calvert
         - role: Deputy Stage Manager
           name: Cat Heald and Jon Kowalski
+        - role: Followspot
+          name: Echo Vaughan
+        - role: Sound 1.4
+          name: Kishan Sharma
     - name: Company
       society: MTW
       venue: Warwick Arts Centre Theatre
@@ -63,6 +67,8 @@ terms:
           name: Anis Tam
         - role: Deputy Stage Manager
           name: Alex Morrison
+        - role: Assistant Lighting Designer & Followspot
+          name: Matt Morris
     - name: Electra
       society: WUDS
       venue: Warwick Arts Centre Studio
@@ -86,7 +92,7 @@ terms:
         - role: Lighting Designer
           name: Ben Hammond
         - role: Sound Designer
-          name: Josh Heng and Kishan Sharma 
+          name: Josh Heng and Kishan Sharma
         - role: Stage Manager
           name: Neera Cheung
         - role: Deputy Stage Manager
@@ -100,7 +106,7 @@ terms:
         - role: Lighting Designer
           name: Dallon Costello
         - role: Sound Designer
-          name: Freya Cox 
+          name: Freya Cox
         - role: Sound 1
           name: Rebecca Smith
         - role: Stage Manager

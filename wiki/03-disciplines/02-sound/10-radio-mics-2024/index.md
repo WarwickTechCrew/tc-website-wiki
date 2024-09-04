@@ -6,6 +6,10 @@ additional_authors: Ethan Graham
 ---
 # Radio Mic System Proposal 2024
 
+<div class="img-full">
+![Sennheiser EW-DX Radio Mic System](mic-system.jpg)
+</div>
+
 Tech Crew is planning to purchase a new 8-channel Sennheiser EW-DX radio mic system before the start of the 
 2024/2025 academic year for the cost of £9,500. This is due to our current system, the Sennheiser EW300 G3, 
 starting to become less reliable due to being 14 years old (with an expected lifespan of 10 years).
@@ -17,6 +21,7 @@ ask any questions.
 :::
 
 ## The System
+![Proposed new mic system](new-mic-system.png)
 
 The new system will be an 8-channel [EW-DX](https://www.sennheiser.com/en-gb/product-families/ew-dx-professional) EM 4
 Dante Sennheiser system. This uses 3-pin LEMO connectors instead of our existing 3.5mm jack connectors, which should
@@ -67,6 +72,8 @@ With the current system, we are able to send these to Sennheiser for repair or r
 [G4](https://spares.sennheiser.com/catalog/product/509521-ek-100-g4-b)).
 
 ### Current System
+![Current mic system](current-mic-system.jpg)
+
 The current system is an 8-channel Sennheiser EW300 G3 system, which was purchased in 2010:
 * Currently, 8 channels with a theoretical maximum of 12 and realistic maximum of 10.
 * Fully analogue

@@ -49,6 +49,23 @@ The new radio mic system will consist of and cost the following:
 * **Transmitter/Receiver Total: £8,000**
 * **Grand Total: £9,500**
 
+This equates to a total cost of £1,020 per channel, excluding radio mics - assuming these last another 10 years, this
+is £102 per channel per year.
+
+### Repairs, Maintenance & Insurance
+
+We will hopefully be purchasing the new system on an American Express credit card which gives us 90 days of theft or
+accidental damage protection (up to £2,500, with a £50 excess). However, this will also be covered under
+[SU insurance](https://www.warwicksu.com/societies-sports/exec-resources/administration/insurance/).
+
+The new system will also be covered under the Sennheiser 24-month warranty. After this expires, we will be able to
+send transmitters to Sennheiser for repair or replacement for
+[€135 exc. VAT](https://spares.sennheiser.com/catalog/product/509405-ew-dx-sk-3-pin-u1-5).
+
+With the current system, we are able to send these to Sennheiser for repair or replacement for €118 exc. VAT
+([G3](https://spares.sennheiser.com/catalog/product/503531-ek-100-g3-b) or
+[G4](https://spares.sennheiser.com/catalog/product/509521-ek-100-g4-b)).
+
 ### Current System
 The current system is an 8-channel Sennheiser EW300 G3 system, which was purchased in 2010:
 * Currently, 8 channels with a theoretical maximum of 12 and realistic maximum of 10.
@@ -65,7 +82,9 @@ such as The Improv Musical. These will be used with the current two handheld mic
 microphones (mini XLR with a 3.5mm adapter). In the future, we may also purchase four 3-pin LEMO to 3.5mm adapters 
 so that the old system and new system can be used concurrently to avoid hiring from the WAC.
 
-This will likely be continued until maintenance costs become too high.
+This will likely be continued until maintenance costs become too high, but the aim is that if this system fails (which
+we feel that it might), we will have something else that we can use/fall back on without having to hire in or wait for
+repairs.
 
 ### Alternatives
 
@@ -84,6 +103,19 @@ A full feature comparison can be provided upon request, but in general Sennheise
 * Daily chain networking, so no switch is required
 * Better e-ink displays for transmitters
 
+We have also compared these systems against the lower-end Shure SLX-D and Sennheiser EW-D systems but have concluded not
+to go with these for the following reasons:
+* Shure SLX-D and Sennheiser EW-D are a pure plastic construction and given what our radio mics go through (e.g. people
+  landing on them and being sat on, etc.), I don't think that's right for us.
+* Sennheiser EW-D has no controls on the transmitters so making quick changes during a show is quite difficult as the
+  packs need to be re-synced every time there is a change.
+* These systems wouldn't be much more compact or lighter than our current system, which is one of our objectives to
+  minimise.
+* EW-D doesn't have the capability to monitor levels etc. from Ethernet/data and doesn't show battery level or the
+  channel on the packs themselves. It also doesn't have a headphone listening jack on the front like our current system.
+* Neither of these have the higher density either or the option of Dante. EW-DX has everything we want in a system.
+* Shure QLX-D and ULX-D are both more expensive and are feature equivalent to EW-D and EW-DX respectively.
+
 ## Why Now?
 
 Tech Crew have been discussing the purchase of a new radio mic system for the past few years as we've been aware of our
@@ -91,22 +123,22 @@ current system slowly becoming less reliable and requiring more repairs. During 
 example, three of the transmitters had issues towards the end of the run (pending investigation) and had to be swapped
 out with spares. The current system was purchased in 2010, with an expected lifespan of 10 years.
 
-> What's happening to the old radio mic system - given they still work and are supported by Sennheiser (repair of a
+> **What's happening to the old radio mic system - given they still work and are supported by Sennheiser (repair of a
 > transmitter is only £95 when they do occasionally die)? Seems silly to be duplicating kit especially when it's so
-> spenny!
+> spenny!**
+> 
+> Whilst it is cost-effective to maintain, the old system will be used in conjunction with the new system when needed, 
+> but as a secondary system (apart from the specific setup for The Improv Musical which will remain on the old system 
+> due to the increased wear and tear).
 
-Whilst it is cost-effective to maintain, the old system will be used in conjunction with the new system when needed, 
-but as a secondary system (apart from the specific setup for The Improv Musical which will remain on the old system 
-due to the increased wear and tear).
-
-> Why don't we just wait until the old system gives up completely? Hiring is always an option in an emergency?
-
-We have budget to do it now, and the old system would probably give up in the next couple of years at a guess, at 
-any point. We don't want it to break just before we actually need them for something and then have to go through the
-whole process of getting and testing new mics (also assuming we have budget for it).
-
-Hiring with little notice may also not be an option for events like Fringe, when everything is already being hired for
-other Fringe shows.
+> **Why don't we just wait until the old system gives up completely? Hiring is always an option in an emergency?**
+>
+> We have budget to do it now, and the old system would probably give up in the next couple of years at a guess, at 
+> any point. We don't want it to break just before we actually need them for something and then have to go through the
+> whole process of getting and testing new mics (also assuming we have budget for it).
+> 
+> Hiring with little notice may also not be an option for events like Fringe, when everything is already being hired for
+> other Fringe shows.
 
 ## Finance
 
@@ -116,13 +148,13 @@ not being able to pay for other expenses or having enough reserves for repairs o
 to us having saved up for this purchase over the past few years, and due to the success of recent shows and larger 
 hires.
 
-> Shouldn't buying more lighting stuff be a bigger priority? Especially given that the last major investment TC made 
+> **Shouldn't buying more lighting stuff be a bigger priority? Especially given that the last major investment TC made 
 > was the £4/5k on SQ5 and stagebox, as well as random other stuff like the PA2. The last time any real amount of 
 > money was spent on lighting was when the LEDs and FLX were bought in 2016! We constantly have to hire lighting stuff,
-> whereas with sound there's just a couple extra radio channels hired occasionally.
-
-In the current budget, we should still have £1-3k left over which could reasonably be spent on lighting equipment 
-this year. We're always open to suggestions on what equipment we could upgrade or purchase.
+> whereas with sound there's just a couple extra radio channels hired occasionally.**
+> 
+> In the current budget, we should still have £1-3k left over which could reasonably be spent on lighting equipment 
+> this year. We're always open to suggestions on what equipment we could upgrade or purchase.
 
 ### Hire Cost
 
@@ -137,18 +169,19 @@ The Improv Musical also used the radio mics for their several shows throughout t
 month at Edinburgh Fringe (6 lavalier radio mics and 1 handheld radio mic), totalling around ~£1,500 to Tech Crew.
 
 We will therefore likely need to increase the price of hiring the radio mic system for hires and shows, however this 
-still needs to be finalised.
+still needs to be finalised. With the whole system costing around £10k, we would likely want to make at least £1,000 -
+£1,500 back per year from usage of the new system for this to recoup the costs within the mic lifespan.
 
-> I think it's also important to consider for the theatre shows will this increase their tech costs and is that 
-> fair/realistic given they're already have limited budgets
-
-If (for example) we increase prices to £25/channel instead of £15/channel, this would increase the price for Company by
+> **I think it's also important to consider for the theatre shows will this increase their tech costs and is that 
+> fair/realistic given they're already have limited budgets?**
+> 
+> If (for example) we increase prices to £25/channel instead of £15/channel, this would increase the price for Company by
 £80 to TC. But, Company also had to pay for 4 additional WAC mics at £65/mic, so this would still be cheaper.
-
-For other shows, yeah there may be quite a significant price increase, but this is still much cheaper than hiring from
+>
+> For other shows, yes there may be quite a significant price increase, but this is still much cheaper than hiring from
 WAC or externally and I think it's a cost increase that will always come at some point as the existing system won't last
 forever.
 
 :::info
-Questions? Please ask in the **New Radio Mic System Purchase** in the Discord #projects channel.
+Questions? Please ask in the **New Radio Mic System Purchase** thread in the Discord #projects channel.
 :::

@@ -19,4 +19,8 @@ export const redirectLinks: {
     from: ['/finance', '/mrf'],
     to: 'https://www.warwicksu.com/sgf/4251',
   },
+  {
+    from: ['/crew-opportunities.html', '/crew-opportunities'],
+    to: '/opportunities',
+  },
 ];

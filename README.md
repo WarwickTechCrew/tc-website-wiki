@@ -47,6 +47,14 @@ resources:
 ---
 ```
 
+### Shortlinks
+Shortlinks can be added to provide a shorter link to the wiki page. The first shortlink will be shown in the sidebar:
+```yaml
+shortlinks:
+  - mainShortlink
+  - secondary/shortlink
+```
+
 ### Images
 Images can be added in the following Markdown format:
 ```md

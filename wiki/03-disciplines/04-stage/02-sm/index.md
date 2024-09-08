@@ -9,6 +9,8 @@ resources:
   - name: How to be a SM and/or TM
     url: https://drive.google.com/file/d/1qOGenZ9DQCF5G6fVfeZwNVKep5F-inG6/view?usp=sharing
     author: Tech Crew
+shortlinks:
+  - sm
 ---
 # Stage Manager (SM)
 

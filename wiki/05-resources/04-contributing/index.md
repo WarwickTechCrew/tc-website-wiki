@@ -2,6 +2,8 @@
 description: How to contribute to the Warwick Tech Crew wiki.
 sidebar_custom_props:
     emoji: ✏️
+shortlinks:
+   - contribute
 ---
 # Contributing to the Wiki
 

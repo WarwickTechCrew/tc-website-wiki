@@ -6,6 +6,8 @@ resources:
   - name: DC Constitution
     url: https://www.warwicksu.com/resources/dramacollective/Drama-Collective-Constitution-updated-2023/
     author: Drama Collective
+shortlinks:
+  - dc
 ---
 # The Drama Collective (DC)
 

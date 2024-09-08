@@ -2,6 +2,8 @@
 description: It always needs more reverb!
 sidebar_custom_props:
   emoji: 🎤
+shortlinks:
+  - sound
 ---
 # Sound
 

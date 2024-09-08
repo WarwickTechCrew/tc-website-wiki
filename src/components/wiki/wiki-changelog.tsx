@@ -1,36 +1,19 @@
 import { WikiChange } from '@site/src/lib/git';
 import { usePluginData } from '@docusaurus/core/lib/client/exports/useGlobalData';
 import { useDocsVersion } from '@docusaurus/plugin-content-docs/client';
+import { getWikiUrlFromFileName } from '@site/src/lib/wiki';
 import type { PropVersionDocs } from '@docusaurus/plugin-content-docs';
+import useDocusaurusContext from '@docusaurus/core/lib/client/exports/useDocusaurusContext';
 
 function getWikiPageFromFile(
   fileName: string,
   docs: PropVersionDocs,
 ): { title: string; url: string } | null {
-  // Get extension
-  const extension = fileName.split('.').reverse()[0];
-  const lowercaseExtension = extension.toLowerCase();
-  if (
-    lowercaseExtension !== 'md' &&
-    lowercaseExtension !== 'mdx' &&
-    lowercaseExtension !== 'tsx'
-  )
-    return null;
+  const url = getWikiUrlFromFileName(fileName);
+  if (!url) return null;
 
-  // Strip wiki from start. Remaining id will be e.g. /03-disciplines
-  let id = fileName.slice(4);
-
-  // Remove numbers from name
-  id = id.replace(/\/[0-9]+-/g, '/');
-
-  // Remove extension
-  id = id.replace(`.${extension}`, '');
-
-  // Remove beginning slash
-  id = id.slice(1);
-
-  // Replace README with /index
-  id = id.replace('/README', '/');
+  // Strip wiki/ from start.
+  let id = url.slice(5);
 
   // Try and find doc
   let doc = docs[id];

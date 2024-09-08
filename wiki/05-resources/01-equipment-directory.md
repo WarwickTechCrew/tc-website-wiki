@@ -2,6 +2,8 @@
 description: Sources for various equipment Tech Crew doesn't have!
 sidebar_custom_props:
     emoji: 📃
+shortlinks:
+  - equipment-directory
 ---
 # Equipment & Services Directory
 

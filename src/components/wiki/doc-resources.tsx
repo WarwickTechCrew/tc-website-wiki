@@ -3,7 +3,9 @@ import {
   DocContextValue,
 } from '@docusaurus/plugin-content-docs/client';
 import type { DocFrontMatter } from '@docusaurus/plugin-content-docs';
-import { FiLink } from 'react-icons/fi';
+import { FiCheck, FiCopy, FiLink } from 'react-icons/fi';
+import useDocusaurusContext from '@docusaurus/core/lib/client/exports/useDocusaurusContext';
+import { useState } from 'react';
 
 export type Resource = {
   name: string;
@@ -11,19 +13,22 @@ export type Resource = {
   author?: string;
 };
 
-export default function DocResources({ isMobile }: { isMobile?: boolean }) {
-  const { frontMatter } = useDoc() as DocContextValue & {
-    frontMatter: DocFrontMatter & { resources?: Resource[] };
-  };
+function DocResourcesDiv({
+  isMobile,
+  resources,
+}: {
+  isMobile?: boolean;
+  resources?: Resource[];
+}) {
+  if (!resources || resources.length === 0) return null;
 
-  if (!frontMatter.resources || frontMatter.resources.length === 0) return null;
   return (
     <div
       className={`dark:bg-neutral-800 bg-gray-100 p-2 rounded-lg my-2 ${isMobile ? 'min-[997px]:hidden' : ''}`}
     >
       <h2 className="text-sm uppercase mb-1 pl-1">Resources</h2>
       <ul className={isMobile ? '' : 'text-sm'}>
-        {frontMatter.resources.map((resource) => (
+        {resources.map((resource) => (
           <li key={resource.url} className="mb-1">
             <a
               href={resource.url}
@@ -45,5 +50,66 @@ export default function DocResources({ isMobile }: { isMobile?: boolean }) {
         ))}
       </ul>
     </div>
+  );
+}
+
+function ShortlinkDiv({
+  isMobile,
+  shortlinks,
+}: {
+  isMobile?: boolean;
+  shortlinks?: string[];
+}) {
+  if (!shortlinks || shortlinks.length === 0) return null;
+
+  const context = useDocusaurusContext();
+  const url = context.siteConfig.url;
+
+  const [isCopied, setIsCopied] = useState(false);
+
+  async function copyShortlinkToClipboard() {
+    await navigator.clipboard.writeText(`${url}/${shortlinks[0]}`);
+    setIsCopied(true);
+
+    setTimeout(() => {
+      setIsCopied(false);
+    }, 3000);
+  }
+
+  return (
+    <div
+      className={`dark:bg-neutral-800 bg-gray-100 p-2 rounded-lg my-2 ${isMobile ? 'min-[997px]:hidden' : ''}`}
+    >
+      <h2 className="text-sm uppercase mb-1 pl-1">Shortlink</h2>
+      <button
+        className="flex gap-1 group text-left"
+        onClick={copyShortlinkToClipboard}
+      >
+        {isCopied ? (
+          <FiCheck className="mt-1" />
+        ) : (
+          <FiCopy className="mt-1 group-hover:text-blue-800 dark:group-hover:text-cyan-500" />
+        )}
+        <p className={isMobile ? 'select-text' : 'text-sm select-text'}>
+          {url}/<span className="font-bold">{shortlinks[0]}</span>
+        </p>
+      </button>
+    </div>
+  );
+}
+
+export default function DocResources({ isMobile }: { isMobile?: boolean }) {
+  const { frontMatter } = useDoc() as DocContextValue & {
+    frontMatter: DocFrontMatter & {
+      resources?: Resource[];
+      shortlinks?: string[];
+    };
+  };
+
+  return (
+    <>
+      <ShortlinkDiv isMobile={isMobile} shortlinks={frontMatter.shortlinks} />
+      <DocResourcesDiv isMobile={isMobile} resources={frontMatter.resources} />
+    </>
   );
 }

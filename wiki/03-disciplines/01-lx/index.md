@@ -2,6 +2,8 @@
 description: Turn it off and on again!
 sidebar_custom_props:
   emoji: 💡
+shortlinks:
+  - lx
 ---
 # Lighting (LX)
 

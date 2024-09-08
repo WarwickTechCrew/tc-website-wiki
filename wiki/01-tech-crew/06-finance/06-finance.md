@@ -12,6 +12,9 @@ resources:
    - name: Guidelines & Rules
      url: https://www.warwicksu.com/societies-sports/exec-resources/finance/guidelines/
      author: Warwick SU
+shortlinks:
+   - mrf
+   - finance
 ---
 # Finance
 As part of Warwick SU, Tech Crew has a society account and must follow all the

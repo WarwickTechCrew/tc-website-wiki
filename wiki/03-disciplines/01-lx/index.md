@@ -6,6 +6,11 @@ sidebar_custom_props:
 # Lighting (LX)
 
 :::info
+Information about a Lighting Designer's responsibilities throughout the show process can be found on the
+[Shows](/wiki/warwick-drama/shows) pages.
+:::
+
+:::info
 Adam has written a guide on being an LD for a WAC show [here](/wiki/disciplines/lx/how-to-ld).
 :::
 

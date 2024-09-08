@@ -1,10 +1,29 @@
 ---
-description: What the Deputy Stage Manager does, including an example list of calls.
+description: Runs the show, calling cues and making announcements.
 sidebar_custom_props:
   emoji: 🎤
+resources:
+  - name: Stage Management Toolkit
+    url: https://drive.google.com/drive/folders/12p6b5U1EYxyfoH8p5Y-tstqz9Gh_CBWs?usp=drive_link
+    author: Tech Crew
+  - name: How to be a SM and/or TM
+    url: https://drive.google.com/file/d/1qOGenZ9DQCF5G6fVfeZwNVKep5F-inG6/view?usp=sharing
+    author: Tech Crew
 ---
 # Deputy Stage Manager (DSM)
-The deputy stage manager...
+The Deputy Stage Manager:
+* Is in charge of running the show and should be aware of all cues.
+* Is heavily involved in the tech run, calling cues and adjusting them as required.
+* Communicates with the tech team via 'cans' headsets.
+* Times the show
+* Attends the [paper tech](/wiki/warwick-drama/shows/show-preparation#paper-tech), where they will go over the cues from
+  each department.
+* Needs to be familiar with the script so they can 'fix the show' if things go wrong (e.g. cast missing lines).
+
+:::info
+Information about a DSM's responsibilities throughout the show process can be found on the
+[Shows](/wiki/warwick-drama/shows) pages.
+:::
 
 ## Example DSM Schedule
 | Time                 | Activity                                                          |

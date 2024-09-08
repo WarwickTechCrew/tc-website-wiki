@@ -5,6 +5,11 @@ sidebar_custom_props:
 ---
 # Sound
 
+:::info
+Information about a Sound Designer's responsibilities throughout the show process can be found on the
+[Shows](/wiki/warwick-drama/shows) pages.
+:::
+
 ## Sound Desks
 
 ### [Allen&Heath SQ5](https://www.allen-heath.com/hardware/sq/)

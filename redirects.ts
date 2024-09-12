@@ -21,7 +21,7 @@ export const redirectLinks: {
     to: '/opportunities',
   },
   {
-    from: ['/linktree', 'qr'],
+    from: ['/linktree', '/qr'],
     to: 'https://linktr.ee/warwicktechcrew',
   }
 ];

@@ -32,7 +32,7 @@ the MRF instead.
 Online MRFs are typically only processed by the SU once a week, with the Societies Coordinator usually only
 approving Tech Crew MRFs on Wednesday. They must also be approved by the Treasurer, Societies
 Coordinator (SU) and Finance Office (SU) before they are paid out, so can sometimes take up to two weeks before they
-arrive in your account.
+arrive in your account. Large purchases (i.e. above £2.5k) also need to go through Manager/SU trustee approval.
 :::
 
 

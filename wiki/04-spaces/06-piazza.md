@@ -37,13 +37,32 @@ Tech Crew only has a limited number of equipment to handle 16A to 13A conversion
 [SU](/wiki/resources/equipment-directory#warwick-su-tech-services) or
 [Estates](/wiki/resources/equipment-directory#estates).
 
-
 ## Overnight Security
 If leaving equipment out overnight, security is a large concern. Typically everything should be packed away each night
 and secured indoors, unless rigged high out of reach. Another option is to have someone there awake 24/7, but that
 can be difficult to arrange.
 
+Community Safety can sometimes provide overnight security for a surcharge of around £16-20 hour, depending on
+availability.
+
+## Networking
+Whilst the Piazza has default Wi-Fi coverage, getting a wired connection is much more difficult. The nearest network
+ports are in the Big Screen AV cupboard, or on any of the lamp posts with CCTV - but these aren't close to most ideal
+stage locations, or require crossing roads.
+
+Whilst there is underground ducting under most of the Piazza (used already for power distribution), IT Services
+estimates that adding network cabling would cost above £500 due to needing to get contractors to put it in and take it
+out.
+
 ## Tables and Chairs
 Another thing to consider when outside is the need for tables and chairs, as these aren't as accessible. The 
 [SU Operations team](/wiki/resources/equipment-directory#warwick-su-operations) can sometimes help with this if enough
 notice is provided, however these are also used for POP and circling so should be wiped down before use.
+
+## Food Market
+The Piazza holds a food market every Wednesday, organised by the Warwick Food Group. Most large events can therefore
+not take place on Wednesday, and in 2024 the WSAF/Warwick Presents stage had to be packed down and moved to a close-by 
+car park during this time.
+
+It is also not permitted to serve food to the public on the Piazza (without prior advance agreement), likely because it 
+can decrease Warwick Food Group sales.

@@ -1,4 +1,7 @@
-export function getWikiUrlFromFileName(fileName: string): string | null {
+export function getWikiUrlFromFileName(
+  fileName: string,
+  keepFilenameIfDuplicate = false,
+): string | null {
   // Get extension
   const extension = fileName.split('.').reverse()[0];
   const lowercaseExtension = extension.toLowerCase();
@@ -13,23 +16,27 @@ export function getWikiUrlFromFileName(fileName: string): string | null {
   let url = fileName.replace(`.${extension}`, '');
 
   // Check for links like 06-finance/06-finance
-  const splitUrl = url.split('/');
-  if (splitUrl.length > 1) {
-    splitUrl.reverse();
-    if (splitUrl[0] === splitUrl[1]) {
-      splitUrl.splice(0, 1);
+  if (!keepFilenameIfDuplicate) {
+    const splitUrl = url.split('/');
+    if (splitUrl.length > 1) {
       splitUrl.reverse();
-      url = splitUrl.join('/');
+      if (splitUrl[0] === splitUrl[1]) {
+        splitUrl.splice(0, 1);
+        splitUrl.reverse();
+        url = splitUrl.join('/');
+      }
     }
   }
 
   // Remove numbers from name
   url = url.replace(/\/[0-9]+-/g, '/');
 
-  // Replace README with /index
-  url = url.replace('/README', '/');
+  if (!keepFilenameIfDuplicate) {
+    // Replace README with /index
+    url = url.replace('/README', '/');
 
-  url = url.replace('/index', '/');
+    url = url.replace('/index', '/');
+  }
 
   return url;
 }

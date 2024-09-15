@@ -3,21 +3,23 @@ import { usePluginData } from '@docusaurus/core/lib/client/exports/useGlobalData
 import { useDocsVersion } from '@docusaurus/plugin-content-docs/client';
 import { getWikiUrlFromFileName } from '@site/src/lib/wiki';
 import type { PropVersionDocs } from '@docusaurus/plugin-content-docs';
-import useDocusaurusContext from '@docusaurus/core/lib/client/exports/useDocusaurusContext';
 
 function getWikiPageFromFile(
   fileName: string,
   docs: PropVersionDocs,
 ): { title: string; url: string } | null {
-  const url = getWikiUrlFromFileName(fileName);
+  console.log(fileName);
+  let url = getWikiUrlFromFileName(fileName, true);
   if (!url) return null;
+
+  // Remove trailing url
+  if (url.endsWith('/')) url = url.slice(0, -1);
 
   // Strip wiki/ from start.
   let id = url.slice(5);
 
   // Try and find doc
   let doc = docs[id];
-  if (!doc) doc = docs[`${id}/index`];
   if (!doc) return null;
 
   return {

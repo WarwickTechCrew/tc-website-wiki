@@ -9,11 +9,22 @@ export function getWikiUrlFromFileName(fileName: string): string | null {
   )
     return null;
 
-  // Remove numbers from name
-  let url = fileName.replace(/\/[0-9]+-/g, '/');
-
   // Remove extension
-  url = url.replace(`.${extension}`, '');
+  let url = fileName.replace(`.${extension}`, '');
+
+  // Check for links like 06-finance/06-finance
+  const splitUrl = url.split('/');
+  if (splitUrl.length > 1) {
+    splitUrl.reverse();
+    if (splitUrl[0] === splitUrl[1]) {
+      splitUrl.splice(0, 1);
+      splitUrl.reverse();
+      url = splitUrl.join('/');
+    }
+  }
+
+  // Remove numbers from name
+  url = url.replace(/\/[0-9]+-/g, '/');
 
   // Replace README with /index
   url = url.replace('/README', '/');

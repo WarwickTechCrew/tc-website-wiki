@@ -1,5 +1,5 @@
 ---
-description: Actors are just warm props!
+description: It's time to sweep the stage again!
 sidebar_custom_props:
   emoji: 🧑‍💼
 resources:

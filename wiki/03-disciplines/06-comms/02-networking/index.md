@@ -54,6 +54,10 @@ The FLX is on the ip `192.168.2.3`. You can use the **Z Remote** or **Z Monitor*
 Google Play.
 
 ## Setting up the Network
+<div class="img-gallery">
+![Cisco 2702i Access Point](./cisco-ap-front.jpg)
+![Cisco 2702i Access Point](./cisco-ap-back.jpg)
+</div>
 
 You will need the Cisco 2702i Access Point and power adapter, plus network cables. If you would like to connect more 
 than one device to the network (i.e. both the SQ5 and FLX), you will also need a switch and switch power adapter.
@@ -61,3 +65,11 @@ than one device to the network (i.e. both the SQ5 and FLX), you will also need a
 1. Connect the desk ethernet port into the **POE** of the adapter.
 2. Plug in the power adapter and wait for the AP to start.
 3. Connect to **Warwick Tech Crew** using the instructions above.
+
+AP LED Statuses
+
+| LED            | Status                           |
+|----------------|----------------------------------|
+| Flashing Green | Starting                         |
+| Green          | Online (but no wireless clients) |
+| Blue           | Online (with wireless clients)   |

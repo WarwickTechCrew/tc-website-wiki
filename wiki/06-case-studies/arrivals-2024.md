@@ -34,3 +34,7 @@ To control the lighting we used the tech crew Zeroflx desk that also could contr
 ## Rain
 
 Watching both the [met office rainfall radar](https://www.metoffice.gov.uk/weather/maps-and-charts/rainfall-radar-forecast-map#?search=Coventry%20(West%20Midlands%20Conurbation)&slatlong=52.40648031234741%2C-1.5181946754455566&sgeohash=gcqfjkq3z&model=ukmo-ukv&layer=rainfall-rate&bbox=[[51.58901622923168,-4.155578613281251],[53.207677555890015,1.1178588867187502]]) and a [real time lightning map](https://www.lightningmaps.org/?lang=en#m=oss;t=3;s=0;o=0;b=;ts=0;) we tracked the storm that was coming in. When the rain came in, we covered the foldbacks with RCT branded tarp. Water started seeping in through the gap between the two tents dripping over our electrics. This all happened during playback of our rain playlist, with tracks such as its raining men, singing in the rain, finishing off with here comes the sun as the clouds broke. The squeegee was used!
+
+## Publicity
+
+This was the first time tech crew used a roll up banner! We had loads of people come up to the tech tent asking what we do. Our lovely publicity officers created a banner design and flyers over the summer, which were printed off and displayed around the tech tent. This was a great way to drum up attendance to our welcome week events!

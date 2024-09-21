@@ -20,7 +20,7 @@ We ran sound from the SQ5 + stagebox, using our phones/ipad as monitor mixers us
 
 ## Lighting
 
-We utilised the tech crew lights including 2 lumipars, 6 cobs, 7 battens and 2 festoons (with two bulbs broken in get in). We also hired in 2 robe spikies and 2 chauvet q wash (that definately didnt break) from the SU. 
+We utilised the tech crew lights including 2 lumipars, 6 cobs, 7 battens and 2 festoons (with two bulbs broken in get in). We also hired in 2 robe spikies and 2 chauvet q wash (that definitely didn't break) from the SU. 
 The cobs were placed across the back as backlights, flanked by 2 battens clamped to the pillars either side. 
 On the middle bar we had the q washes before they mysteriously stopped working, before replacing them with the spikies once we actually got power cables for them for the SU. 
 We used two lumipars as facelights, did a proscenium arch that was made eintirely out of festoon and had the remaining 3 battens placed at the front of the stage facing into the audience. 

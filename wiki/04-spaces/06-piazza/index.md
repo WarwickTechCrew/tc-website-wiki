@@ -15,6 +15,13 @@ The Piazza is the outdoor space in front of the Rootes Building, and Benefactors
 Wednesday food trucks. This is a much rarer space than the other indoor ones, however is a popular spot for larger
 events or festivals with the budget of an outdoor stage.
 
+## Piazza Map
+The following map shows the available power ducts and the closest networking points. If access to the network is
+required, [Warwick IT Services](/wiki/resources/equipment-directory#it-services) will need to be contacted in advance.
+<div class="img-full">
+![Piazza Tech Map](piazza-tech-map.jpg)
+</div>
+
 ## Stage
 The stage can be very variable, often being rented by the group hosting the event and not Tech Crew. For Warwick
 Presents, this is usually the [ST30 Trailer Stage](https://www.stagetecheventhire.co.uk/small-trailer-stage.html) or

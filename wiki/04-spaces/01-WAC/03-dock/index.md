@@ -18,7 +18,7 @@ To comply with these regulations, we have a locked metal cabinet in the dock tha
 
 ### What does this mean practically?
 
-Hazardous materials need to be stored in an appropriate location (the COSHH cupboard), the content of which is logged each month by WAC staff (Phil). A hazardous material will have a red diamond with a pictogram of the hazard inside. Everything in the COSHH cupboard should have a proper data listing content. Safety is everyone’s responsibility.
+Hazardous materials need to be stored in an appropriate location (the COSHH cupboard), the content of which is logged each month by the WAC Head of Workshop. A hazardous material will have a red diamond with a pictogram of the hazard inside. Everything in the COSHH cupboard should have a proper data listing content. Safety is everyone’s responsibility.
 
 :::warning
 
@@ -26,10 +26,6 @@ The bottom of the cupboard is a drip tray and cannot have things stored there!
 The bottom shelf **must** be kept clear.
 
 :::
-
-### Who is Phil?
-
-Phil is the Head of Scenic Workshop in WAC and builds the student sets. He oversees cleanliness and organisation of the workshop and the dock. Contact and liaise with Phil about your use of the dock, and what equipment you’re planning to store/leave there.
 
 ### What do we stock in the COSHH cupboard?
 
@@ -61,7 +57,7 @@ No, the consumables in the COSHH cupboard are not free. Some contents of the cup
 - If you have a palette still full of paint that you want to keep fresh for tomorrow, cover it with clingfilm, to stop it drying out.
 - If you have set with wet paint, leave a note
 - Once your show is in the venue, clear out the dock of everything for your show and relabel extra paints for other show use
-- You must confirm with Phil exactly what equipment you are planning to leave in the dock during show week, this must be arranged before your show week!
+- You must confirm with WAC Head of Workshop exactly what equipment you are planning to leave in the dock during show week, this must be arranged before your show week!
 
 ### [Hazard pictograms (symbols)](https://www.hse.gov.uk/chemical-classification/labelling-packaging/hazard-symbols-hazard-pictograms.htm)
 

@@ -15,14 +15,17 @@ shortlinks:
 # Technical Manager (TM)
 
 The Technical Manager:
+
 * Is in charge of making sure everyone in the tech team is on top of their jobs.
 * Communicates with the production team and organises meetings with them.
-* Organises meetings between the tech team and Amanda/Phil at Warwick Arts Centre.
+* Organises meetings between the tech team and Warwick Arts Centre staff.
 * Is in charge of [get-ins](/wiki/warwick-drama/shows/show-week#get-in) and
   [get-outs](http://localhost:3000/wiki/warwick-drama/shows/show-week#get-out).
 * Keeps [show week](/wiki/warwick-drama/shows/show-week) on schedule as much as possible.
 
 :::info
+
 Information about a TM's responsibilities throughout the show process can be found on the
 [Shows](/wiki/warwick-drama/shows) pages.
+
 :::

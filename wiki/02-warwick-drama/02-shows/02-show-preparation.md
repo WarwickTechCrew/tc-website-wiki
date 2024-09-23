@@ -45,9 +45,9 @@ Technical Manager, Producers, Director, and optionally: Music director, Video de
 :::
 
 ## WAC Meetings and Communication
-As mentioned [previously](panel), email Phil and Amanda at the Warwick Arts Centre to touch base about your thoughts on
-design. They have a wealth of knowledge about past student shows, and will be more than happy to offer their 
-knowledge & experience. 
+
+As mentioned [previously](panel), email the Warwick Arts Centre Technicians to touch base about your thoughts on design.
+They have a wealth of knowledge about past student shows, and will be more than happy to offer their knowledge & experience.
 
 :::info
 **WAC Meeting Responsibilities**:

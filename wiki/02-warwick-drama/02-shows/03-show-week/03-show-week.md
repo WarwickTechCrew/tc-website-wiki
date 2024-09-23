@@ -62,7 +62,7 @@ expecting to stop, start and jump through the show as required.
 The dress run is the first performance of the show, and should be run as a normal show would be - i.e. without 
 stopping, with proper interval times and with requesting clearance at the start of each act.
 
-A member of WAC staff (typically Amanda) will watch the dress and give the tech team notes immediately after in the 
+A member of WAC staff will watch the dress and give the tech team notes immediately after in the 
 auditorium.
 
 ## Shows

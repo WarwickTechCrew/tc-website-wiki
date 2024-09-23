@@ -75,10 +75,10 @@ After panel, there can be three outcomes (which are emailed to the Producer):
 :::
 
 ## WAC Meetings and Communication
+
 Throughout the process, it is important to regularly get in contact with our technical representatives at the
-Warwick Arts Centre as they have a wealth of experience and advice. Generally, this is Phil for anything regarding set,
-and Amanda for anything else - and if they don't know the answer, they'll know who to forward it to. They can be
-contacted via email, however it is often better to schedule regular meetings with them.
+Warwick Arts Centre as they have a wealth of experience.
+If they don't know the answer, they'll know who to forward it to. They can be contacted via email, however it is often better to schedule regular meetings with them.
 
 :::info
 **WAC Meeting Responsibilities**:

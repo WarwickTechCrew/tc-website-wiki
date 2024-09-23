@@ -35,27 +35,27 @@ During a show get-in or get-out the door to this will often be left unlocked. Ot
 known by the exec or by the DC Cupboard Manager.
 
 ### The Under-Stairs Cupboard
+
 The under-stairs cupboard is a small cupboard which is (shockingly) under the stairs to get to the DC Cupboard. This 
 stores some of our speakers and [Percy](./flight-cases), our production flight case. Similarly to the DC cupboard, 
 this is left open during a show but otherwise is only accessible to the exec.
 
 ### The Dock
-The dock is a large, open area which is managed by Phil, Senior Head of Workshop at Warwick Arts Centre. This is 
+The dock is a large open area which is managed by the Senior Head of Workshop at Warwick Arts Centre. This is
 mainly used for the Arts Centre's own storage (you may be asked to get their equipment from here if you're working 
 on a show), however we also have a few large set pieces here from previous shows (such as a random lamp post!).
 
-During a show, we can use this space (with prior arrangement from Phil) to store and paint set - however there may 
+During a show, we can use this space (with prior arrangement from Head of Workshop) to store and paint set - however there may 
 be many other shows going on, so it is important to be respectful and keep it tidy.
 
 ### The COSHH Cupboard
 
 COSHH stands for Control of Substances Hazardous to Health Regulations and includes materials such as paint, 
-Flamebar and isopropyl alcohol. These are kept in a bright yellow, locked cupboard inside Phil's workshop, which is 
+Flamebar and isopropyl alcohol. These are kept in a bright yellow, locked cupboard inside the dock workshop, which is 
 the taped off area in the dock.
 
 If you require access to the COSHH cupboard (for example if you are painting set for a show), you may ask the exec 
-for the code. Please make sure that you have read the
-[Tech Crew Dock & COSHH Cupboard Guidance Document](https://drive.google.com/file/d/1AcdqaJpShk4jQxCUUjZx8MoNIsk50tnC/view?usp=sharing).
+for the code. Please make sure that you have read [the COSHH guidance document](../04-spaces/01-WAC/03-dock/)
 
 ## The Avon Cupboard
 

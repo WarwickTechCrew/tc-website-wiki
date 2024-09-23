@@ -14,7 +14,7 @@ resources:
       author: TC Drive
 ---
 
-# WAC Theatre
+# Theatre
 The WAC Theatre is our largest performance space, seating up to 575 people. In term 2, we will typically have a show 
 here by Warwick Opera and Music Theatre Warwick.
 

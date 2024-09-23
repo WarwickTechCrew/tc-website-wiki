@@ -92,6 +92,10 @@ h2 {
   @apply w-full h-auto;
 }
 
+.content-styling .video-full iframe {
+  @apply w-full h-96;
+}
+
 svg {
   @apply inline;
 }
@@ -112,7 +116,10 @@ svg {
   @apply sm:opacity-0 4xl:opacity-100;
 }
 
-.navbar-home-top .navbar__link, .navbar-home-top .navbar__title, .navbar-home-top .navbar__toggle, .navbar-home-top .navbar__items {
+.navbar-home-top .navbar__link,
+.navbar-home-top .navbar__title,
+.navbar-home-top .navbar__toggle,
+.navbar-home-top .navbar__items {
   @apply sm:text-white;
 }
 

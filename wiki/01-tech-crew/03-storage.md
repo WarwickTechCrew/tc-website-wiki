@@ -2,10 +2,6 @@
 description: Where is everything stored?
 sidebar_custom_props:
   emoji: 📦
-resources:
-  - name: Dock & COSHH Cupboard Guidance
-    url: https://drive.google.com/file/d/1AcdqaJpShk4jQxCUUjZx8MoNIsk50tnC/view
-    author: Tech Crew
 ---
 # Storage
 
@@ -20,11 +16,6 @@ other users of the space at all times.
 
 All of our storage locations are in a closed-off area known as 'Back of House' (BOH), which is only accessible via a 
 code which changes every week. This code is given on a need-to-know-basis by the exec, such as when you are on a show.
-
-:::info
-You can find the [Tech Crew Dock & COSHH Cupboard Guidance Document](https://drive.google.com/file/d/1AcdqaJpShk4jQxCUUjZx8MoNIsk50tnC/view?usp=sharing)
-on the public resources drive.
-:::
 
 ### The DC Cupboard
 The Drama Collective (DC) Cupboard is our main storage area, located on a balcony in the dock. Whilst we share this 
@@ -55,7 +46,7 @@ Flamebar and isopropyl alcohol. These are kept in a bright yellow, locked cupboa
 the taped off area in the dock.
 
 If you require access to the COSHH cupboard (for example if you are painting set for a show), you may ask the exec 
-for the code. Please make sure that you have read [the COSHH guidance document](../04-spaces/01-WAC/03-dock/)
+for the code. Please make sure that you have read [the COSHH guidance document](../04-spaces/01-WAC/03-dock/index.md)
 
 ## The Avon Cupboard
 

@@ -11,6 +11,13 @@ additional_authors: Jon K
 
 In the dock, we have a locked metal cupboard for [Control of Substances Hazardous to Health (COSHH)](https://www.hse.gov.uk/coshh/).
 
+Images Before and after a COSHH cupboard cleanout. Note how the bottom shelf must be clear!
+
+<div class="img-gallery">
+![Messy COSHH cupboard](./messy-coshh-kishansharma.jpg)
+![Clean COSHH cupbaord](./clean-coshh-dannyturner.jpg)
+</div>
+
 ### What is COSHH?
 
 The law requires you to adequately control exposure to materials in the workplace that cause ill health. 

@@ -47,4 +47,4 @@ perspective without necessarily requiring the huge ongoing time commitment shows
 event that we have in a year, we are hoping that as we partner with more university departments this can become more of
 a regular occurrence.
 
-Examples of special invents include [WSAF](../case-studies/wsaf-2024), [Arrivals stage 2024](../06-case-studies/arrivals-2024/index.mdx) and Pride 2023.
+Examples of special invents include [WSAF](../case-studies/wsaf-2024), [Arrivals stage 2024](../06-case-studies/02-arrivals-2024/index.mdx) and Pride 2023.

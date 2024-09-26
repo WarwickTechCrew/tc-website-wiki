@@ -2,4 +2,5 @@
 export const authorNames: Record<string, string> = {
   kishan: 'Kishan Sharma',
   Kishan: 'Kishan Sharma',
+  DinoExho: 'Echo Vaughan',
 };

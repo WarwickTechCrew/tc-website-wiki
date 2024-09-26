@@ -8,7 +8,7 @@ sidebar_custom_props:
 We use flight cases to transport equipment between different venues, and also own a production flight case which is
 brought out for shows or large hires.
 
-## Percy
+## Percy (they/she)
 
 Percy is our production flight case, which is stored
 [under the stairs leading up to the DC cupboard](wiki/01-tech-crew/03-storage.md#the-under-stairs-cupboard). Percy contains:

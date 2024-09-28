@@ -12,6 +12,7 @@ flowchart TD
     WD[[Warwick Drama]]
     WD --> MTW([Music Theatre Warwick\nMTW])
     WD --> Opera([Opera Warwick])
+    WD --> PO
     WD --> DC[(Drama Collective\nDC)]
     subgraph \n
         DC --> SS([Shakesoc])

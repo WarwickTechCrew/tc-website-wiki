@@ -7,6 +7,12 @@ const carousel: CarouselSlide[] = [
     caption: 'Godspell, Music Theatre Warwick, 2024. Photo © Josh Heng',
   },
   {
+    src: require('@site/static/images/home/shows-carousel/arrivals-stage-joshheng.jpg')
+      .default,
+    caption:
+      'Arrivals Stage, Residential Community Team, 2024. Photo © Josh Heng',
+  },
+  {
     src: require('@site/static/images/home/shows-carousel/fame-adamskrzymowski.jpg')
       .default,
     caption: 'FAME, Music Theatre Warwick, 2023. Photo © Adam Skrzymowski',

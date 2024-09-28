@@ -43,10 +43,10 @@ export default function TechCrewCarousel({
     <Carousel
       showStatus={false}
       showThumbs={false}
-      interval={10000}
+      interval={8000}
       swipeable
       useKeyboardArrows
-      autoPlay={false}
+      autoPlay={true}
       stopOnHover
       emulateTouch
       infiniteLoop

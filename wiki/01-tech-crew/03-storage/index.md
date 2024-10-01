@@ -55,7 +55,7 @@ Flamebar and isopropyl alcohol. These are kept in a bright yellow, locked cupboa
 the taped off area in the dock.
 
 If you require access to the COSHH cupboard (for example if you are painting set for a show), you may ask the exec 
-for the code. Please make sure that you have read [the COSHH guidance document](../04-spaces/01-WAC/03-dock/index.md)
+for the code. Please make sure that you have read [the COSHH guidance document](../../04-spaces/01-WAC/03-dock/index.md)
 
 ## The Avon Cupboard
 

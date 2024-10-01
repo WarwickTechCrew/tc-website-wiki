@@ -11,7 +11,7 @@ brought out for shows or large hires.
 ## Percy (they/she)
 
 Percy is our production flight case, which is stored
-[under the stairs leading up to the DC cupboard](wiki/01-tech-crew/03-storage.md#the-under-stairs-cupboard). Percy contains:
+[under the stairs leading up to the DC cupboard](/wiki/tech-crew/storage.md#the-under-stairs-cupboard). Percy contains:
 
 * LX tape
 * Tools

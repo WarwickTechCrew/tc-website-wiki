@@ -11,7 +11,11 @@ shortlinks:
   - frogger
 ---
 # FLX Lighting Desk
+<figure>
 ![The FLX at Arrivals Stage 2024, being operated by Makka Pakka and Barry the Baguette](./flx.jpg)
+<figcaption>The FLX at Arrivals Stage 2024, being operated by Makka Pakka and Barry the Baguette</figcaption>
+</figure>
+
 
 The Zero88 FLX lighting desk is the main lighting console that we use in Tech Crew for hires. It runs the ZerOS 
 operating system, whose manual can be found [here](https://www.zero88.com/manuals/zeros?filter=3).

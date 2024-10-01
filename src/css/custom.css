@@ -76,6 +76,10 @@ h2 {
   @apply mb-3;
 }
 
+.content-styling figure .img-gallery p {
+  @apply mb-0;
+}
+
 .content-styling .img-gallery p {
   @apply flex gap-x-2 flex-wrap max-w-full;
 }

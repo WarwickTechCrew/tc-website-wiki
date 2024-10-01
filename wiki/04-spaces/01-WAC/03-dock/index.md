@@ -12,12 +12,16 @@ shortlinks:
 
 In the dock, we have a locked metal cupboard for [Control of Substances Hazardous to Health (COSHH)](https://www.hse.gov.uk/coshh/).
 
-Images Before and after a COSHH cupboard cleanout. Note how the bottom shelf must be clear!
-
+<figure>
 <div class="img-gallery">
 ![Messy COSHH cupboard](./messy-coshh-kishansharma.jpg)
 ![Clean COSHH cupbaord](./clean-coshh-dannyturner.jpg)
 </div>
+<figcaption>
+Images before and after a COSHH cupboard cleanout. Note how the bottom shelf must be clear!
+</figcaption>
+</figure>
+
 
 ### What is COSHH?
 

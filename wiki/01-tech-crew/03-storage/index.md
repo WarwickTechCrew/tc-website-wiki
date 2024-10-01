@@ -10,7 +10,7 @@ Cupboard and the Avon Cupboard. In the Warwick Arts Centre, Tech Crew also has a
 under-stairs cupboard.
 
 ## Warwick Arts Centre Storage
-![Warwick Arts Centre Dock](./wac.jpg)
+![Warwick Arts Centre Dock](./wac-joshheng.jpg)
 
 The Warwick Arts Centre is the main building that Tech Crew is based in, as it where all the shows take place. It is,
 however, also a professional touring venue with regular events, so it is important to be respectful of staff and 
@@ -21,8 +21,8 @@ code which changes every week. This code is given on a need-to-know-basis by the
 
 ### The DC Cupboard
 <div class="img-gallery">
-![DC Cupboard](./dc-cupboard-1.jpg)
-![DC Cupboard](./dc-cupboard-2.jpg)
+![DC Cupboard](./dc-cupboard-1-joshheng.jpg)
+![DC Cupboard](./dc-cupboard-2-joshheng.jpg)
 </div>
 
 The Drama Collective (DC) Cupboard is our main storage area, located on a balcony in the dock. Whilst we share this 
@@ -33,13 +33,13 @@ During a show get-in or get-out the door to this will often be left unlocked. Ot
 known by the exec or by the DC Cupboard Manager.
 
 ### The Under-Stairs Cupboard
-![Warwick Arts Centre Dock](./understairs-cupboard.jpg)
+![Warwick Arts Centre Dock](./understairs-cupboard-joshheng.jpg)
 The under-stairs cupboard is a small cupboard which is (shockingly) under the stairs to get to the DC Cupboard. This 
 stores some of our speakers and [Percy](./flight-cases), our production flight case. Similarly to the DC cupboard, 
 this is left open during a show but otherwise is only accessible to the exec.
 
 ### The Dock
-![Warwick Arts Centre Dock](./dock.jpg)
+![Warwick Arts Centre Dock](./dock-joshheng.jpg)
 
 The dock is a large open area which is managed by the Senior Head of Workshop at Warwick Arts Centre. This is
 mainly used for the Arts Centre's own storage (you may be asked to get their equipment from here if you're working 
@@ -49,6 +49,10 @@ During a show, we can use this space (with prior arrangement from Head of Worksh
 be many other shows going on, so it is important to be respectful and keep it tidy.
 
 ### The COSHH Cupboard
+<div class="img-gallery">
+![Messy COSHH cupboard](./messy-coshh-kishansharma.jpg)
+![Clean COSHH cupbaord](./clean-coshh-dannyturner.jpg)
+</div>
 
 COSHH stands for Control of Substances Hazardous to Health Regulations and includes materials such as paint, 
 Flamebar and isopropyl alcohol. These are kept in a bright yellow, locked cupboard inside the dock workshop, which is 

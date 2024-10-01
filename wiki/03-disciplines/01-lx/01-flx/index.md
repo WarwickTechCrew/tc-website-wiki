@@ -8,6 +8,7 @@ resources:
     author: Zero88
 shortlinks:
   - flx
+  - frogger
 ---
 # FLX Lighting Desk
 ![The FLX at Arrivals Stage 2024, being operated by Makka Pakka and Barry the Baguette](./flx.jpg)

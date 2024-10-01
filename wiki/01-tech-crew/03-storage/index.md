@@ -49,10 +49,7 @@ During a show, we can use this space (with prior arrangement from Head of Worksh
 be many other shows going on, so it is important to be respectful and keep it tidy.
 
 ### The COSHH Cupboard
-<div class="img-gallery">
-![Messy COSHH cupboard](./messy-coshh-kishansharma.jpg)
-![Clean COSHH cupbaord](./clean-coshh-dannyturner.jpg)
-</div>
+![Clean COSHH cupboard](./clean-coshh-dannyturner.jpg)
 
 COSHH stands for Control of Substances Hazardous to Health Regulations and includes materials such as paint, 
 Flamebar and isopropyl alcohol. These are kept in a bright yellow, locked cupboard inside the dock workshop, which is 

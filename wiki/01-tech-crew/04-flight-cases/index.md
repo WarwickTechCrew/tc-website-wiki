@@ -37,7 +37,9 @@ aren't massive, but can help for smaller hires or for when Dave is in use.
 Dave is the main flight case that we use as he is large enough to transport most of what we need but small enough to
 fit down the DC cupboard stairs.
 
+:::lore
 In 2024, Dave was used to transport many boxes of pizza to the Introduction to Tech Crew welcome talk.
+:::
 
 ## Boris (she/they)
 

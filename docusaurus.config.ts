@@ -73,6 +73,10 @@ const config: Config = {
           editUrl: 'https://github.com/WarwickTechCrew/website/tree/main/',
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
+          admonitions: {
+            keywords: ['lore'],
+            extendDefaults: true,
+          },
         },
         theme: {
           customCss: './src/css/custom.css',

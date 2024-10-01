@@ -146,3 +146,10 @@ svg {
 .navbar-wiki .DocSearch-Button {
   @apply flex;
 }
+
+.alert--lore {
+  --ifm-alert-background-color: #ead9f0;
+  --ifm-alert-background-color-highlight: rgba(255, 186, 0, 0.15);
+  --ifm-alert-foreground-color: #532862;
+  --ifm-alert-border-color: #ae27d6;
+}

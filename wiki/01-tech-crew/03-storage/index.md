@@ -5,7 +5,7 @@ sidebar_custom_props:
 ---
 # Storage
 
-As part of [Drama Collective](../warwick-drama), Tech Crew shares the two storage locations on campus - the DC 
+As part of [Drama Collective](../../warwick-drama), Tech Crew shares the two storage locations on campus - the DC 
 Cupboard and the Avon Cupboard. In the Warwick Arts Centre, Tech Crew also has access to the dock, COSHH cupboard and 
 under-stairs cupboard.
 

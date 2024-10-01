@@ -39,6 +39,11 @@ stores some of our speakers and [Percy](./flight-cases), our production flight c
 this is left open during a show but otherwise is only accessible to the exec.
 
 ### The Dock
+:::info
+More information about working in the WAC Dock and COSHH cupboard can be found on the [WAC Dock](/wiki/spaces/WAC/dock)
+page.
+
+:::
 ![Warwick Arts Centre Dock](./dock-joshheng.jpg)
 
 The dock is a large open area which is managed by the Senior Head of Workshop at Warwick Arts Centre. This is

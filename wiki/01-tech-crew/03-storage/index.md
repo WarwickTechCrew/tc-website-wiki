@@ -40,7 +40,7 @@ this is left open during a show but otherwise is only accessible to the exec.
 
 ### The Dock
 :::info
-More information about working in the WAC Dock and COSHH cupboard can be found on the [WAC Dock](/wiki/spaces/WAC/dock)
+More information about working in the WAC Dock and COSHH cupboard can be found on the [WAC Dock](/wiki/spaces/wac/dock)
 page.
 
 :::
@@ -61,7 +61,7 @@ Flamebar and isopropyl alcohol. These are kept in a bright yellow, locked cupboa
 the taped off area in the dock.
 
 If you require access to the COSHH cupboard (for example if you are painting set for a show), you may ask the exec 
-for the code. Please make sure that you have read [the COSHH guidance document](/wiki/spaces/WAC/dock)
+for the code. Please make sure that you have read [the COSHH guidance document](/wiki/spaces/wac/dock)
 
 ## The Avon Cupboard
 

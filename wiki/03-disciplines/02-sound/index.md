@@ -16,7 +16,7 @@ Information about a Sound Designer's responsibilities throughout the show proces
 
 ### [Allen&Heath SQ5](https://www.allen-heath.com/hardware/sq/)
 
-This is fanciest sound desk that tech crew own! It's a digital mixing desk that can handle 48 channels, has 16 preamps and 12 line outputs. The tech crew IPad can be used to [mix this desk remotely](/wiki/disciplines/comms/networking#sq5-audio-mixer) while walking round the venue. The desk has dedicated knobs for all processing which makes it quick to navigate and use during live mixing. This is the desk we use for MTW improv, and all substantial sound activities out side of WAC!
+This is fanciest sound desk that tech crew own! It's a digital mixing desk that can handle 48 channels, has 16 preamps and 12 line outputs. The tech crew IPad can be used to [mix this desk remotely](/wiki/disciplines/other/networking#sq5-audio-mixer) while walking round the venue. The desk has dedicated knobs for all processing which makes it quick to navigate and use during live mixing. This is the desk we use for MTW improv, and all substantial sound activities out side of WAC!
 
 ![Picture of the SQ5 with barry the baugette](./sq5-baguette.jpg)
 

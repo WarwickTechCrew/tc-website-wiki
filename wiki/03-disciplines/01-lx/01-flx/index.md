@@ -24,7 +24,7 @@ operating system, whose manual can be found [here](https://www.zero88.com/manual
 Similarly to the SQ5 sound desk, the FLX can be wirelessly controlled using a phone or the Tech Crew iPad using the 
 Zero88 Remote or Monitor apps - this is
 particularly helpful when busking outside or when patching or diagnosing issues. To set this up, please follow the 
-[Networking Guide](/wiki/disciplines/comms/networking).
+[Networking Guide](/wiki/disciplines/other/networking).
 
 ## Frogger Game
 ![Frogger Game](./frogger.jpg)

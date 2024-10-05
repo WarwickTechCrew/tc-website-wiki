@@ -31,7 +31,7 @@ async function getWikiCommits(
     fields: ['authorName', 'subject', 'hash', 'authorDate'],
     number: limit,
     file: path,
-    follow: follow,
+    follow,
   });
 
   // Filter commits. See https://git-scm.com/docs/git-status#_output for codes
@@ -49,7 +49,13 @@ async function getWikiCommits(
     }),
   );
 
-  // console.log(filteredCommits); // Debug
+  // Debug
+  /*if (path.includes('')) {
+    console.log(path);
+    console.log(commits);
+    console.log(filteredCommits);
+  }*/
+
   return filteredCommits;
 }
 
@@ -67,7 +73,7 @@ export async function getGitContributors(
     ? frontMatter.additional_authors.split(',').map((author) => author.trim())
     : [];
 
-  const commits = await getWikiCommits(path);
+  const commits = await getWikiCommits(path, true);
 
   for (const commit of commits) {
     const authorName = authorNames[commit.authorName] || commit.authorName;

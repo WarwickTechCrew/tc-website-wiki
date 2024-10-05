@@ -3,6 +3,9 @@ description: What is an MRF, and how can I get reimbursed for my expenses?
 sidebar_custom_props:
   emoji: 💵
 resources:
+   - name: Tech Crew MRF Dashboard
+     url: https://www.warwicksu.com/sgf/4251
+     author: Warick SU
    - name: Finance Forms
      url: https://www.warwicksu.com/societies-sports/exec-resources/finance/financeforms/
      author: Warwick SU

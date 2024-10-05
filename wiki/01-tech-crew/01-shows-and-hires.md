@@ -2,6 +2,10 @@
 description: An explanation of shows and hires, and how the society works.
 sidebar_custom_props:
   emoji: 🎭
+resources:
+  - name: Hires Terms and Conditions
+    url: https://drive.google.com/file/d/1YQ1L4_fq2qH8tRFm2SNTCN9R9nBvwHBc/view?usp=sharing
+    author: Warwick Tech Crew
 ---
 # Shows and Hires
 

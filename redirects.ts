@@ -13,7 +13,7 @@ export const redirectLinks: {
     to: 'https://www.warwicksu.com/societies-sports/societies/techcrew/',
   },
   {
-    from: ['/finance', '/mrf'],
+    from: ['/submit-mrf'],
     to: 'https://www.warwicksu.com/sgf/4251',
   },
   {
@@ -23,5 +23,13 @@ export const redirectLinks: {
   {
     from: ['/linktree', '/qr'],
     to: 'https://linktr.ee/warwicktechcrew',
+  },
+  {
+    from: ['/hires-terms'],
+    to: 'https://drive.google.com/file/d/1YQ1L4_fq2qH8tRFm2SNTCN9R9nBvwHBc/view?usp=sharing',
+  },
+  {
+    from: ['/price-list', '/prices'],
+    to: 'https://drive.google.com/file/d/1x41-dwx_3uxUVBzGcdEYqNWBqM21NK35/view?usp=sharing',
   },
 ];

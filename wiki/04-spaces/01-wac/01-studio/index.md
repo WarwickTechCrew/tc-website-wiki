@@ -12,6 +12,8 @@ resources:
     - name: Studio Folder
       url: https://drive.google.com/drive/folders/1gcCRbd6uUtpVtgoCHBHFJXWyetCUaGOL?usp=drive_link
       author: TC Drive
+shortlinks:
+  - studio
 ---
 # Studio
 The WAC Studio is our main performance space, seating up to 150 people. We will typically have 2-3 shows here each term,

@@ -12,6 +12,8 @@ resources:
     - name: Theatre Folder
       url: https://drive.google.com/drive/folders/1YpH-XCcVBIymamQC8_lFUa8ed945OqLu?usp=drive_link
       author: TC Drive
+shortlinks:
+  - theatre
 ---
 
 # Theatre

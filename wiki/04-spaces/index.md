@@ -9,6 +9,8 @@ resources:
     - url: https://warwick.ac.uk/roombooking 
       name: Web Room Booking System
       author: Central Timetabling Office
+shortlinks:
+  - spaces
 ---
 # Spaces
 

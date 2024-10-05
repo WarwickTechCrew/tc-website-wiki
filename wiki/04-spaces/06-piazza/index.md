@@ -9,6 +9,8 @@ resources:
   - name: Piazza Booking Form & Info
     url: https://warwick.ac.uk/services/foodgroup/about/spaces/
     author: Warwick Food Group
+shortlinks:
+  - piazza
 ---
 # Piazza / Benefactors Place
 The Piazza is the outdoor space in front of the Rootes Building, and Benefactors Place is the area next to it with the

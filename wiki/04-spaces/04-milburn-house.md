@@ -5,6 +5,8 @@ sidebar_custom_props:
 resources:
     - url: https://warwick.ac.uk/services/its/servicessupport/av/lecturerooms/roominformation/g55
       name: G55 Room Information
+shortlinks:
+  - milburn
 ---
 
 # Milburn House

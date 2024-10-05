@@ -3,7 +3,8 @@ sidebar_custom_props:
     emoji: 🚢
 additional_authors: Jon K
 shortlinks:
-  - COSHH
+  - dock
+  - coshh
 ---
 
 # Dock

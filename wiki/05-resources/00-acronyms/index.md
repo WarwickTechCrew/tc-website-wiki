@@ -27,7 +27,7 @@ listed here, make sure to also try the search in the top right of the navbar (al
 * **MTW**: [Music Theatre Warwick](/wiki/warwick-drama) - society focused on musical theatre.
 
 ### Venues
-* **WAC** [Warwick Arts Centre](/spaces/WAC/studio) - our main show venue.
+* **WAC** [Warwick Arts Centre](/wiki/spaces/WAC/studio) - our main show venue.
 
 ### Other Organisations
 * **SU**: Warwick Students Union - the organisation all Warwick societies are affiliated with.

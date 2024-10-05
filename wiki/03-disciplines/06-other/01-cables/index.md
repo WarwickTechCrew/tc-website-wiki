@@ -35,6 +35,7 @@ them!
     * **125A-3**
 * Networking
   * **Ethernet/RJ45**
+  * **etherCON**
 
 
 ## Cable Lengths

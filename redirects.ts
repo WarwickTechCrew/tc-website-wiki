@@ -32,4 +32,8 @@ export const redirectLinks: {
     from: ['/price-list', '/prices'],
     to: 'https://drive.google.com/file/d/1x41-dwx_3uxUVBzGcdEYqNWBqM21NK35/view?usp=sharing',
   },
+  {
+    from: ['/constitution'],
+    to: 'https://www.warwicksu.com/resources/techcrew/Tech-Crew-Constitution/',
+  },
 ];

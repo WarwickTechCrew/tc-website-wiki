@@ -20,6 +20,11 @@ const externalLinks: ExternalLink[] = [
     href: 'https://www.warwicksu.com/sgf/4251',
     label: 'SU Finance',
   },
+  {
+    type: 'link',
+    href: 'https://www.warwicksu.com/resources/techcrew/Tech-Crew-Constitution/',
+    label: 'Constitution',
+  },
 ];
 
 export default externalLinks;

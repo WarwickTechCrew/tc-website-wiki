@@ -8,7 +8,6 @@ function getWikiPageFromFile(
   fileName: string,
   docs: PropVersionDocs,
 ): { title: string; url: string } | null {
-  console.log(fileName);
   let url = getWikiUrlFromFileName(fileName, true);
   if (!url) return null;
 

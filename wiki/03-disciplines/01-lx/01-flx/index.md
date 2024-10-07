@@ -6,6 +6,15 @@ resources:
   - name: FLX Manual
     url: https://www.zero88.com/manuals/zeros?filter=3
     author: Zero88
+  - name: FLX Training Videos (Introductory)
+    url: https://www.youtube.com/playlist?list=PLXZ_FRh4YdsV_xWV1WlKzgwcTt5h5KNsA
+    author: Zero88
+  - name: FLX Training Videos (Intermediate)
+    url: https://www.youtube.com/playlist?list=PLXZ_FRh4YdsXW-uQkLubuh5vm6RVU2a_d
+    author: Zero88
+  - name: FLX Training Videos (Advanced)
+    url: https://www.youtube.com/playlist?list=PLXZ_FRh4YdsW8J1hqDJGl-aTE1GnHQYJq
+    author: Zero88
 shortlinks:
   - flx
   - frogger

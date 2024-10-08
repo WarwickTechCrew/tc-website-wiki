@@ -20,6 +20,13 @@ Percy is our production flight case, which is stored
 * Gobos
 
 ## Flo (she/her) and Gibby (he/him)
+
+<div class="img-gallery">
+  ![Flo + Gibby side by side](./flo-gibby-topdown-kishansharma.jpg)
+  ![Open case](./flo-open-kishansharma.jpg)
+  ![Gibby tipped](./gibby-tipped-kishansharma.jpg)
+</div>
+
 Flo and Gibby are two small flight cases which can be used to transport small amounts of equipment or cables. They
 aren't massive, but can help for smaller hires or for when Dave is in use.
 

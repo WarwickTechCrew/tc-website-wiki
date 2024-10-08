@@ -5,7 +5,12 @@ sidebar_custom_props:
 shortlinks:
   - sound
 ---
+
 # Sound
+
+<div class="img-full">
+![2024 Intro To Tech Crew training sound station](./banner-kishansharma.jpg)
+</div>
 
 :::info
 Information about a Sound Designer's responsibilities throughout the show process can be found on the
@@ -18,7 +23,7 @@ Information about a Sound Designer's responsibilities throughout the show proces
 
 This is fanciest sound desk that tech crew own! It's a digital mixing desk that can handle 48 channels, has 16 preamps and 12 line outputs. The tech crew IPad can be used to [mix this desk remotely](/wiki/disciplines/other/networking#sq5-audio-mixer) while walking round the venue. The desk has dedicated knobs for all processing which makes it quick to navigate and use during live mixing. This is the desk we use for MTW improv, and all substantial sound activities out side of WAC!
 
-![Picture of the SQ5 with barry the baugette](./sq5-baguette.jpg)
+![Picture of the SQ5 with barry the baugette](./sq5-baguette-kishansharma.jpg)
 
 :::warning
 

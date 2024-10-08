@@ -5,11 +5,14 @@ sidebar_custom_props:
 shortlinks:
   - acronyms
 ---
+
 # Acronyms Glossary
+
 This page aims to document some of the common Tech Crew acronyms that you might come across. If a term isn't
 listed here, make sure to also try the search in the top right of the navbar (also accessible with CTRL + K)!
 
 ## Roles
+
 * **LD**: [Lighting Designer](/wiki/disciplines/lx) - designs lighting for a show.
 * **SD**: [Sound Designer](/wiki/disciplines/sound) - designs sound for a show.
 * **SD**: [Set Designer](/wiki/disciplines/set) - designs set for a show.
@@ -19,7 +22,9 @@ listed here, make sure to also try the search in the top right of the navbar (al
 * **TM**: [Technical Manager](/wiki/disciplines/stage/tm) - organises the technical team.
 
 ## Organisations and Venues
+
 ### Drama Societies
+
 * **TC**: [Tech Crew](/wiki/tech-crew) - this society!
 * **DC**: [Drama Collective](/wiki/warwick-drama/drama-collective) - collection of smaller Warwick drama societies.
 * **WUDS**: [Warwick University Drama Society](/wiki/warwick-drama/drama-collective#wuds) - society focused on
@@ -27,11 +32,15 @@ listed here, make sure to also try the search in the top right of the navbar (al
 * **MTW**: [Music Theatre Warwick](/wiki/warwick-drama) - society focused on musical theatre.
 
 ### Venues
+
 * **WAC** [Warwick Arts Centre](/wiki/spaces/wac/studio) - our main show venue.
 
 ### Other Organisations
+
 * **SU**: Warwick Students Union - the organisation all Warwick societies are affiliated with.
 * **ITS**: Warwick IT Services - the university department that handles IT and networking across campus.
+* **SCAPVC** [School of Creative Arts, Performance and Visual Cultures](https://warwick.ac.uk/fac/arts/scapvc/) - the theatre department at warwick.
 
 ## Other
+
 * **WSAF**: Warwick Student Arts Festival - a yearly arts festival run in Term 3

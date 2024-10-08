@@ -4,6 +4,10 @@ sidebar_custom_props:
     emoji: 📑
 shortlinks:
   - acronyms
+resources:
+  - name: Glossary of technical theatre terms
+    url: https://www.theatrecrafts.com/pages/home/glossary-of-technical-theatre-terms/
+    author: theatrecrafts
 ---
 
 # Acronyms Glossary

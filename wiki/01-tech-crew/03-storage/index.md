@@ -32,6 +32,17 @@ equipment.
 During a show get-in or get-out the door to this will often be left unlocked. Otherwise, the code to this is only 
 known by the exec or by the DC Cupboard Manager.
 
+:::info
+
+The Cupboard is located on a Mezzanine floor. It has an Info panel attached with this information:
+
+- Supplied By Redditch Partitions & Storage Co.
+- Maximum Uniformly Distributed Loading on this Structure is 480kg/m^2
+- Maximum Hand Pallet Truck Weight on this Structure is 750kg
+- Installation date 21/08/2006
+
+:::
+
 ### The Under-Stairs Cupboard
 ![Warwick Arts Centre Dock](./understairs-cupboard-joshheng.jpg)
 The under-stairs cupboard is a small cupboard which is (shockingly) under the stairs to get to the DC Cupboard. This 

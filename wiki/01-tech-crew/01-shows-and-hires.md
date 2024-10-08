@@ -6,6 +6,7 @@ resources:
   - name: Hires Terms and Conditions
     url: https://drive.google.com/file/d/1YQ1L4_fq2qH8tRFm2SNTCN9R9nBvwHBc/view?usp=sharing
     author: Warwick Tech Crew
+additional_authors: Freya Cox
 ---
 # Shows and Hires
 
@@ -42,6 +43,11 @@ who can apply and sign up like for a show.
 
 Examples of hires include PantoSoc pantomimes, The Improv Musical (Music Theatre Warwick) & The Warwick Economics
 Summit.
+
+### Funds
+
+We also consider [funds](../02-warwick-drama/funds.md) as hires as they take place outside of the WAC and are not eligible for a tech crew co-production.
+Because if this, a show might be considered a fund by its parent society but will be managed and organised by the hires managers and assistants within Tech Crew.
 
 ### Special Events
 

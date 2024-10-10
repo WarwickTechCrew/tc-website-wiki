@@ -29,7 +29,14 @@ The WAC provides a 360 view of all its venues on its
 <iframe src="https://my.matterport.com/show/?m=gyBcoRB4m7u&play=1&qs=1&hl=0&brand=0&sr=-.54,-1.47&ss=411" width="100%" height="600" >
 </iframe>
 
+### Blank LX Plan
+
+<div class="img-full">
+![Blank LX Plan](./studio-lx-plan.png)
+</div>
+
 ### Levels
+
 ![WAC Studio Levels](studio-levels.jpg)
 
 There are four levels in the studio. Apart from the main floor, there is a performance balcony, tech balcony and the
@@ -43,6 +50,7 @@ theatre so you may need to use a torch if the theatre is in use. There is also a
 through the WAC theatre, however this should be avoided if possible and cannot be used if there is a theatre show on.
 
 ### Seating
+
 ![WAC Studio Seating Plan](seating_plan.jpg)
 
 The [seating plan](https://www.warwickartscentre.co.uk/download/file/THFUeFg2QkJSQUVseW41UDJpU3dBdz09/) can be found on 
@@ -70,11 +78,24 @@ When getting out, please follow the WAC's
 [get out checklist](https://drive.google.com/file/d/1a4Ue4wrthyAD1Y5ajFlXJ34QVE7Oq-Y1/view?usp=drive_link).
 
 ## Technical Specifications
-### LX
+
+### Lantern Stock
+
+| Lantern                        | Beam Angle              | Quantity |
+|---------------------------------|-------------------------|----------|
+| Robert Juliat 1K Fresnel        | 6 to 46 degree           | 28       |
+| Selecon Rama Fresnel            | 7 to 50 degree           | 6        |
+| Altman Shakespeare              | 15 to 35 degree          | 22       |
+| Selecon Acclaim                 | 24 to 44 degree          | 14       |
+| Strand SL fixed                 | Fixed 19 degree          | 6        |
+| Strand SL                       | 15 to 32 degree          | 6        |
+| Strand SL                       | 23 to 50 degree          | 10       |
+| Parcan                          | CP 60/61/62 as required  | 18       |
+| Strand Coda floods              | N/A                      | 8        |
+| ProLights Reflex Led Washes      | 10 to 60 degree          | 4        |
+
 
 The winch bars are drill driven and have a max capacity of 250kg.
-
-[This 2021 LX stock document exists](https://drive.google.com/file/d/1zh8nrRK3MGil0iAW4h7d5ww5Ej035QpS/view?usp=drive_link)
 
 ### Sound
 
@@ -85,6 +106,7 @@ The studio comes stock with:
 - 1x DiGiCo S21 in the control room (this can be moved to Front of House for a small fee)
 
 ### Patch Panels
+
 ![Sound Patch Panels](sound-patch-panels.jpg)
 
 A [list of all the patch panel numbers](https://drive.google.com/file/d/11x5CvrBdcfXjkRJ9nkfqovJU4wu2ljn0/view?usp=sharing)
@@ -124,4 +146,3 @@ Note that e.g. USL stands for Upstage Left, DSC stands for Downstage Center and 
 
 When using the Front of House mixing position (SC-ST-203), you will also need to unplug the sound multipin snake from
 the control room (SC-ST-305).
-

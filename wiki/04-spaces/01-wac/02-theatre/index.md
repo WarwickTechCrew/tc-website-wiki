@@ -17,17 +17,26 @@ shortlinks:
 ---
 
 # Theatre
-The WAC Theatre is our largest performance space, seating up to 575 people. In term 2, we will typically have a show 
-here by Warwick Opera and Music Theatre Warwick.
+
+The WAC Theatre is our largest performance space, seating up to 575 people.
+In term 2, we will typically have a show here by both Warwick Opera and Music Theatre Warwick.
 
 ## Layout & Seating
 
 ### 360 Camera View
+
 The WAC provides a 360 view of all its venues on its
 [website](https://www.warwickartscentre.co.uk/our-venues/studio/).
 <iframe src="https://my.matterport.com/show/?m=gyBcoRB4m7u&play=1&qs=1&hl=0&brand=0&sr=-.26,.39&ss=706" width="100%" height="600" ></iframe>
 
+### Blank LX Plan
+
+<div class="img-full">
+![Blank LX Plan](./theatre-lx-plan.jpg)
+</div>
+
 ### Seating
+
 <div class="img-gallery">
 ![WAC Theatre Section Plan](theatre-section.jpg)
 ![WAC Theatre Seating Plan](seating_plan.jpg)
@@ -42,8 +51,27 @@ given on request to Tech Crew exec.
 When getting out, please follow the WAC's
 [get out checklist](https://drive.google.com/file/d/1V3--hqdy2GujzzLPbnORoPKkkl1umAva/view?usp=sharing).
 
-
 ## Technical Specifications
+
+### Lantern Stock
+
+| Lantern                                | Beam Angle              | Quantity |
+|----------------------------------------|-------------------------|----------|
+| Selecon SPX Narrow                     | 15 to 35 degree          | 8        |
+| Selecon SPX Wide                       | 25 to 50 degree          | 14       |
+| Selecon Pacific wide                   | 23 to 50 degree          | 20       |
+| Selecon Pacific narrow                 | 14 to 35 degree          | 6        |
+| Strand SL Wide                         | 23 to 50 degree          | 8        |
+| Strand SL Narrow                       | 15 to 30 degree          | 14       |
+| Robert Juliat 614 Profiles             | 16 to 35 degree          | 6        |
+| Robert Juliat 1Kw Fresnels             | 6 to 46 degree           | 40       |
+| Robert Juliat 2Kw Plano Convex         | 16 to 72 degree          | 10       |
+| Selecon Rama Fresnel                   | 7 to 50 degree           | 10       |
+| Parcans                                | CP 60/61/62 as required  | 40       |
+| Altman Spectra Cyc 200 LED cyc floods  | N/A                      | 6        |
+| Robert Juliat Korrigan (1200W) Followspot | N/A                   | 2        |
+| Boom Bases                             | N/A                      | 12       |
+
 ### Patch Panels
 
 A [list of all the patch panel numbers](https://drive.google.com/file/d/1me_DVrEaxsSUcurCd-MGxp_9FndEu_dc/view?usp=sharing)

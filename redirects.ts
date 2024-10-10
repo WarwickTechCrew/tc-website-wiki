@@ -25,7 +25,7 @@ export const redirectLinks: {
     to: 'https://linktr.ee/warwicktechcrew',
   },
   {
-    from: ['/hires-terms'],
+    from: ['/hires-terms', '/hire-terms', '/terms'],
     to: 'https://drive.google.com/file/d/1YQ1L4_fq2qH8tRFm2SNTCN9R9nBvwHBc/view?usp=sharing',
   },
   {

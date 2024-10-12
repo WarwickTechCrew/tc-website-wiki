@@ -39,6 +39,7 @@ listed here, make sure to also try the search in the top right of the navbar (al
 ### Venues
 
 * **WAC** [Warwick Arts Centre](/wiki/spaces/wac/studio) - our main show venue.
+* **FAB** [Faculty of Arts Building](/wiki/spaces/fab) - drama studios with an LX rig built in.
 
 ### Other Organisations
 

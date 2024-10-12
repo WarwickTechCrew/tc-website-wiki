@@ -73,6 +73,21 @@ Uses for Boris:
 > ohh wait is boris the big rectangle one that i always put my gel cutting board on to cut gels - Dallon Costello,
 > 21 July 2024
 
+## Steve (he/him)
+
+<div class="img-gallery">
+![Flight Case Steve](./steve-joshheng.jpg)
+</div>
+
+Steve is our snake flight case, stored
+[under the stairs leading up to the DC cupboard](/wiki/tech-crew/storage#the-under-stairs-cupboard). 
+
+He contains:
+* 1x 16/8 analogue snake
+* 1x 8/0 analogue snake
+* 2x Soca
+* 2x 15A spiders
+
 ## Warwick Arts Centre Flight Cases
 
 During a show in the studio, we also have access to the following flight cases:

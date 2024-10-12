@@ -73,46 +73,75 @@ When getting out, please follow the WAC's
 | Boom Bases                             | N/A                      | 12       |
 
 ### Patch Panels
+Patch panels are located on the walls around the Studio and allow for the easy patching of data cables.
 
+In the tables below, note that e.g. USL stands for Upstage Left, DSC stands for Downstage Center and SR stands for Stage Right.
+
+#### Sound, Video and Comms
 A [list of all the patch panel numbers](https://drive.google.com/file/d/1me_DVrEaxsSUcurCd-MGxp_9FndEu_dc/view?usp=sharing)
 can be found on the wall in the sound control room, next to the patching rack. Make sure to make a note of the patching
 before changing anything, so this can be reverted during the get-out.
 
 <div class="img-gallery">
 ![Sound Rack](scr-th-001-rack.jpg)
-![Patch Panel Numbering](sound-patch-panel-numbering.jpg)
+![Sound Patch Panel](sound-patch-panel.jpg)
 </div>
 
-When patching, use the black patch cables stored on the ducting next to the rack. Red patch cables should never be
+When patching, use the black patch cables stored next to the rack. Red patch cables should never be
 touched (where possible) - if you need to change these, make sure to revert them back during the get-out.
 
 Note that unless patched, patches with a red label will automatically link to the matching red label patch below it.
 
-Commonly used patch panels are:
-| Name | Location | Sound (XLR) | Data (Ethernet) | Video | Power |
-|------|----------|-------|-----------------|-------|-------|
-| SC-TH-001 | Pit SL | 1-12 | ? | ? | ? |
-| SC-TH-002 | Pit SR | 1-12 | ? | ? | ? |
-| SC-TH-101 | SL Pillar | 1-12 | ? | ? | ? |
-| SC-TH-102 | SR Pillar | 1-12 | ? | ? | ? |
-| SC-TH-103 | USL | 1-12 | ? | ? | ? |
-| SC-TH-104 | USR | 1-12 | ? | ? | ? |
-| SC-TH-105 | Stage Trap SL | 1-2 | ? | ? | ? |
-| SC-TH-106 | Stage Trap SR | 1-2 | ? | ? | ? |
-| SC-TH-107 | DSL Wall | 1-4 | ? | ? | ? |
-| SC-TH-108 | DSR Wall | 1-4 | ? | ? | ? |
-| SC-TH-201 | FoH Mixing Position | 1-48 (Input), 1-12 (Output) | ? | ? | ? |
-| SC-TH-301 | Bridge 3 SL | 1-2 | ? | ? | ? |
-| SC-TH-302 | Bridge 3 C | 1-2 | ? | ? | ? |
-| SC-TH-303 | Bridge 3 SR | 1-2 | ? | ? | ? |
-| SC-TH-304 | Bridge 2 SL | 1-2 | ? | ? | ? |
-| SC-TH-305 | Bridge 2 C | 1-4 | ? | ? | ? |
-| SC-TH-306 | Bridge 2 SR | 1-2 | ? | ? | ? |
-| SC-TH-307 | Bridge 1 (Movable) | 1-6 | ? | ? | ? |
-| SC-TH-313 | Sound Control Room | 1-48 (Input), 1-24 (Output) | ? | ? | ? |
-| SC-TH-315 | LX Control Room | 1-4 | ? | ? | ? |
+:::info
+This still needs to be completed!
+:::
 
-Note that e.g. USL stands for Upstage Left, DSC stands for Downstage Center and SR stands for Stage Right.
+Sound patch panels in the theatre are:
+<div class="img-gallery">
+![Patch Panel Numbering](sound-patch-panel-numbering.jpg)
+</div>
+
+| Name      | Location            | Male & Female XLR           | speakCON     | S&C Data (Ethernet) | S&C Fibre | Video (BNC)  | Intercom (A/B) | Cue Lights | Power (13A) | Extras                                    |
+|-----------|---------------------|-----------------------------|--------------|---------------------|-----------|--------------|----------------|------------|-------------|-------------------------------------------|
+| SC-TH-001 | Pit SL              | 1-12 with VEAM              | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-002 | Pit SR              | 1-12 with VEAM              | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-101 | SL Pillar           | 1-12 with VEAM              | 1-4 (1 free) | 1-8                 | 1-2       | 1-8 (6 free) | Yes            | 2          | 4           | SM Desk (default position), Paging Mic    |
+| SC-TH-102 | SR Pillar           | 1-12 with VEAM (11 working) | 1-4 (1 free) | 1-8                 | 1-2       | 1-8 (6 free) | Yes            | 2          | 4           | SM Desk, Paging Mic                       |
+| SC-TH-103 | USL                 | 1-12 with VEAM              | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-104 | USR                 | 1-12 with VEAM              | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-105 | Stage Trap SL       | 1-2                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-106 | Stage Trap SR       | 1-2                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-107 | DSL Wall            | 1-4                         | 1-2 (1 free) | 1-4                 | 1-2       | 1-4          | Yes            | 2          | 4           |                                           |
+| SC-TH-108 | DSR Wall            | 1-4                         | 1-2 (1 free) | 1-4                 | 1-2       | 1-4          | Yes            | 2          | 4           |                                           |
+| SC-TH-201 | FoH Mixing Position | 1-12 with VEAM              | ?            | ?                   | ?         | ?            | ?              | ?          | ?           | FoH Mix 1-48 VEAM (Parallel to SC-ST-313) |
+| SC-TH-301 | Bridge 3 SL         | 1-2                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-302 | Bridge 3 C          | 1-2                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-303 | Bridge 3 SR         | 1-2                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-304 | Bridge 2 SL         | 1-2                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-305 | Bridge 2 C          | 1-4                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-306 | Bridge 2 SR         | 1-2                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-307 | Bridge 1 (Movable)  | 1-6                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-313 | Sound Control Room  | 1-24                        | ?            | ?                   | ?         | ?            | ?              | ?          | ?           | FoH Mix 1-48 VEAM (Parallel to SC-ST-201) |
+| SC-TH-315 | LX Control Room     | 1-4                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
 
 When using the Front of House mixing position (SC-ST-201), you will also need to unplug the sound multipin snake from
 the sound control room (SC-ST-313).
+
+Note that the theatre uses **Intercom Channel B**, and the studio uses Intercom Channel A.
+
+#### Lighting
+
+<div class="img-gallery">
+![LX Patch Panel](lx-patch-panel.jpg)
+</div>
+
+:::info
+This still needs to be completed!
+:::
+
+LX patch panels in the theatre are:
+
+| Name      | Location  | Dimmer Channels (16A Pairs + 6ch Spiders) | Lighting Data (Ethernet) | Fibre | Power (13A) |
+|-----------|-----------|-------------------------------------------|--------------------------|-------|-------------|
+| PL-TH-101 | SL Pillar | 61-78                                     | 1-4                      | 1-2   | 4           |
+| PL-TH-102 | SR Pillar | 25-42                                     | 1-4                      | None  | 4           |

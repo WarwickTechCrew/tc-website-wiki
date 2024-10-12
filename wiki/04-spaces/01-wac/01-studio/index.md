@@ -111,7 +111,7 @@ Patch panels are located on the walls around the Studio and allow for the easy p
 In the tables below, note that e.g. USL stands for Upstage Left, DSC stands for Downstage Center and SR stands for Stage Right.
 
 
-### Sound, Video and Comms
+#### Sound, Video and Comms
 <div class="img-gallery">
 ![Sound Patching Rack](scr-st-001-rack.jpg)
 ![Sound Patching Rack](sound-patch-panels.jpg)
@@ -127,7 +127,9 @@ touched (where possible) - if you need to change these, make sure to revert them
 Note that unless patched, patches with a red label will automatically link to the matching red label patch below it. 
 
 In the Studio, the sound patch panels are:
+<div class="img-gallery">
 ![Sound Patch Panels](sound-patch-panel-locations.jpg)
+</div>
 
 | Name      | Location                  | Male & Female XLR | speakCON | S&C Data (Ethernet) | S&C Fibre | Video (BNC)  | Intercom (A/B) | Cue Lights | Power (13A)   | Extras                                        |
 |-----------|---------------------------|-------------------|----------|---------------------|-----------|--------------|----------------|------------|---------------|-----------------------------------------------|
@@ -158,6 +160,8 @@ the control room (SC-ST-305).
 When using the 16A sound power on the balconies (used for the stock Meyer PA), make sure to turn these on or off 
 using the red 'PA POWER' isolator switch next to the sound rack.
 
+Note that the studio uses **Intercom Channel A**, and the theatre uses Intercom Channel B.
+
 #### Lighting
 :::info
 This still needs to be completed!
@@ -170,10 +174,10 @@ This still needs to be completed!
 
 In the studio, the lighting patch panels are:
 
-| Name      | Location         | Dimmer Channels (16A Pairs + Spider) | Lighting Data (Ethernet) | Fibre | Power (13A) |
-|-----------|------------------|--------------------------------------|--------------------------|-------|-------------|
-| PL-ST-102 | SR Alcove        | 1-6                                  | 1-2                      | 1-2   | 2           |
-| PL-ST-103 | DSR              | 13-18                                | 1-2                      | None  | 2           |
-| PL-ST-104 | DSL              | 7-12                                 | 1-2                      | None  | 2 (1 free)  |
-| PL-ST-301 | Tech Balcony USC | 31-36                                | 1-2                      | None  | 4           |
-| PL-ST-302 | Tech Balcony SR  | 25-30                                | 1-2                      | 1-2   | 4           |
+| Name      | Location         | Dimmer Channels (16A Pairs + 6ch Spiders) | Lighting Data (Ethernet) | Fibre | Power (13A) |
+|-----------|------------------|-------------------------------------------|--------------------------|-------|-------------|
+| PL-ST-102 | SR Alcove        | 1-6                                       | 1-2                      | 1-2   | 2           |
+| PL-ST-103 | DSR              | 13-18                                     | 1-2                      | None  | 2           |
+| PL-ST-104 | DSL              | 7-12                                      | 1-2                      | None  | 2 (1 free)  |
+| PL-ST-301 | Tech Balcony USC | 31-36                                     | 1-2                      | None  | 4           |
+| PL-ST-302 | Tech Balcony SR  | 25-30                                     | 1-2                      | 1-2   | 4           |

@@ -60,6 +60,10 @@ h2 {
   @apply font-bold text-lg;
 }
 
+.content-styling h4 {
+  @apply font-bold text-base;
+}
+
 .content-styling ul {
   @apply list-disc ml-2;
 }

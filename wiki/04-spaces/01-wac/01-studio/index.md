@@ -163,6 +163,11 @@ using the red 'PA POWER' isolator switch next to the sound rack.
 This still needs to be completed!
 :::
 
+<div class="img-gallery">
+![Lighting Patch Information](lx-patch-info.jpg)
+![Lighting Patch Panel](lx-patch-panel.jpg)
+</div>
+
 In the studio, the lighting patch panels are:
 
 | Name      | Location         | Dimmer Channels (16A Pairs + Spider) | Lighting Data (Ethernet) | Fibre | Power (13A) |

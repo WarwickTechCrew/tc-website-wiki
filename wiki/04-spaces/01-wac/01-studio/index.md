@@ -19,6 +19,14 @@ shortlinks:
 The WAC Studio is our main performance space, seating up to 150 people. We will typically have 2-3 shows here each term,
 along with most of our trainings.
 
+<figure>
+<div class="img-gallery">
+![WAC Studio Floor](wac-studio.jpg)
+![WAC Studio Control Room](studio-control-room.jpg)
+</div>
+<figcaption>The WAC Studio floor and control room</figcaption>
+</figure>
+
 ## Layout & Seating
 
 ### 360 Camera View

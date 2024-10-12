@@ -14,6 +14,14 @@ shortlinks:
 While at Tech Crew, you will come across **a lot** of different types of cables. This page should help you identify
 them!
 
+Most Tech Crew cables are stored in the [DC Cupboard](/wiki/tech-crew/storage#the-dc-cupboard), on the cable wall. Some
+less commonly-used cables may be stored in drawers or storage crates in the cupboard.
+
+<figure>
+![DC cupboard cable wall](cable-wall.jpg)
+<figcaption>The DC cupboard cable wall.</figcaption>
+</figure>
+
 ## Cable Types
 
 * Sound
@@ -62,6 +70,11 @@ The actual lengths don't always correspond to a tape colour exactly, so we round
 This stops our cables from tricking people into thinking they're running a 10m, but then coming up a few meters short!
 
 ## Cable Ownership
+
+<figure>
+![A Tech Crew Cable Asset Tag](cable-asset-tag.jpg)
+<figcaption>A TC asset tag on one of our cables.</figcaption>
+</figure>
 
 Warwick Tech Crew cable can often be identified through a Tech Crew asset tag (starting with TC), or from the coloured
 tape indicating the cable length.

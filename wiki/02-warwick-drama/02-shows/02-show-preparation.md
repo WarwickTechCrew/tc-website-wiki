@@ -30,20 +30,6 @@ During this stage, Tech Crew may assign additional members to the show if necess
 pre-panel. These are often smaller non-designer or assistant roles such as Deputy Stage Manager (DSM), followspot 
 operators and sound assistants (sound 2s).
 
-## Staging type
-
-The prod team will decide what staging they wish their play to be in.
-Staging refers to where the audience are positioned relative to the performance area.
-There are four main types of staging:
-
-| Staging Type | Description |
-|--------------|-------------|
-| **End on**   | The most common type of staging, where the audience sit on one half of the room with the performers directly opposite. This is the only staging type we can do in the WAC theatre, and the most common to see in the studio. |
-| **Traverse** | When audience are on two opposite sides of the stage (like a fashion runway/catwalk). |
-| **Thrust**   | Where the audience sits on three sides of the stage, looking in. Often done in the studio by adding two rows of chairs on steeldeck either side of the stage, with the bleachers out. Be careful doing shows in the thrust! Attention should be paid to sightlines and the actors' blocking. |
-| **Round**    | Where there is seating on all sides of the stage, with the audience looking in. |
-
-
 ## Tech Read-Through
 This is the initial sit-down meeting between the production team and the tech. It involves going through the script
 page by page, penciling in each place the prod team would like a cue. This will probably be the first time you get your

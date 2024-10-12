@@ -4,5 +4,6 @@ sidebar_custom_props:
   emoji: 🎧
 shortlinks:
   - cans
+  - comms
 ---
 # Cans

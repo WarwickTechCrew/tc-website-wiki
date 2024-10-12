@@ -14,7 +14,7 @@ All of our storage locations are in a closed-off area known as 'Back of House' (
 code which changes every week. This code is given on a need-to-know-basis by the exec, such as when you are on a show.
 
 :::info
-Looking for information about WAC storage locations, such as the DC cupboard or COSHH cupboard? Check out the
+Looking for information about WAC storage locations, such as the dock, DC cupboard or COSHH cupboard? Check out the
 [Storage Locations](/wiki/tech-crew/storage) page.
 :::
 

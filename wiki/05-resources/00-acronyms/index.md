@@ -34,10 +34,12 @@ listed here, make sure to also try the search in the top right of the navbar (al
 * **WUDS**: [Warwick University Drama Society](/wiki/warwick-drama/drama-collective#wuds) - society focused on
   performing established, published plays.
 * **MTW**: [Music Theatre Warwick](/wiki/warwick-drama) - society focused on musical theatre.
+* **OpWa**: [Warwick Opera](/wiki/warwick-drama) - society for Opera performances with live orchestras.
 
 ### Venues
 
 * **WAC** [Warwick Arts Centre](/wiki/spaces/wac/studio) - our main show venue.
+* **FAB** [Faculty of Arts Building](/wiki/spaces/fab) - drama studios with an LX rig built in.
 
 ### Other Organisations
 

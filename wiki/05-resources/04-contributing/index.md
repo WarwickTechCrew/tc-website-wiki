@@ -4,6 +4,8 @@ sidebar_custom_props:
     emoji: ✏️
 shortlinks:
    - contribute
+   - contributing
+   - contrib
 ---
 # Contributing to the Wiki
 

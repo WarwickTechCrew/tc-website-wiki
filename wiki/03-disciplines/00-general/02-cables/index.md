@@ -83,3 +83,13 @@ When working in Warwick Arts Centre, it can be very difficult to identify what c
 the WAC's. In most cases, cables should have an asset tag from the relevant organisation. When working on shows, it is
 highly recommend to **only** use WAC cable where possible, apart from IEC power cables for Tech Crew equipment -
 this helps make it easier to sort cables after a get-out.
+
+:::lore
+In Term 1 2024, the Equipment Manager (Ethan) made a custom 16A to hosepipe adapter for first place prize in The Big
+Fat Tech Crew Quiz.
+
+<figure>
+![16A to hosepipe adapter prize](./16a-to-hosepipe-joshheng.jpg)
+<figcaption>16A to hosepipe adapter with winning team member Matt (right) and Equipment Manager Ethan (left).</figcaption>
+</figure>
+:::

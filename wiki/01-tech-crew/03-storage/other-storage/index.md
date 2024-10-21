@@ -17,7 +17,7 @@ There is a sign in sheet on the door if you'd like to let the DC Cupboard Manage
 
 ![Under stairs cupboard](./understairs-cupboard-joshheng.jpg)
 In WAC, The under-stairs cupboard is a small cupboard which is (shockingly) under the stairs to get to the DC Cupboard.
-This stores some of our speakers and [Percy](./flight-cases), our production flight case.
+This stores some of our speakers and Percy, our production flight case.
 Similarly to the DC cupboard, this is left open during a show but otherwise is only accessible to the exec.
 
 ## The Above-Stairs Cupboard

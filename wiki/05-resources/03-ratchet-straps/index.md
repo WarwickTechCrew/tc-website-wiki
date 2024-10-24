@@ -2,6 +2,8 @@
 description: How to use Ratchet Straps for safe transportation of equipment!
 sidebar_custom_props:
   emoji: 🔧
+shortlinks:
+  - ratchet
 ---
 
 # Ratchet Strap Guide

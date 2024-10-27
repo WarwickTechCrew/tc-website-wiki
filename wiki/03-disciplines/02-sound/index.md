@@ -21,7 +21,7 @@ Information about a Sound Designer's responsibilities throughout the show proces
 
 ### [Allen&Heath SQ5](https://www.allen-heath.com/hardware/sq/)
 
-This is fanciest sound desk that tech crew own! It's a digital mixing desk that can handle 48 channels, has 16 preamps and 12 line outputs. The tech crew IPad can be used to [mix this desk remotely](/wiki/disciplines/general/networking#sq5-audio-mixer) while walking round the venue. The desk has dedicated knobs for all processing which makes it quick to navigate and use during live mixing. This is the desk we use for MTW improv, and all substantial sound activities out side of WAC!
+This is the fanciest sound desk that Tech Crew own! It's a digital mixing desk that can handle 48 channels, 16 preamps and 12 line outputs. The tech crew iPad can be used to [mix this desk remotely](/wiki/disciplines/general/networking#sq5-audio-mixer) while walking around the venue. The desk has dedicated knobs for all processing which makes it quick to navigate and use during live mixing. This is the desk we use for MTW improv and all substantial sound activities outside of WAC!
 
 
 ![Picture of the SQ5 with barry the baugette](./sq5-baguette-kishansharma.jpg)
@@ -44,7 +44,7 @@ The number of *channels* in a sound desk represents the number of simultaneous i
 
 ### Preamps
 
-The number of *preamps* on a desk/stagebox is the number of weak, unamplified, "mic-level" signals (such as the signal from a normal microphone) that the desk/stagebox can lift up to a "line-level" signal suitable to be proessed by a desk. 
+The number of *preamps* on a desk/stagebox is the number of weak, unamplified, "mic-level" signals (such as the signal from a normal microphone) that the desk/stagebox can lift up to a "line-level" signal suitable to be processed by a desk. 
 
 :::note
 

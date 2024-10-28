@@ -26,7 +26,7 @@ and be sure to contact us first in case other equipment may be more suitable for
     * **Devices:** Macbook (with QLab license), iPad
     * **Accessories:** Speaker & microphone stands, drum screen, audio interfaces, snakes & looms, cables
 * **Lighting**
-    * **Intelligent Fixtures:** Prolight LumiPar, rolight StudioCob, Equinox RGB Power Batten
+    * **Intelligent Fixtures:** Prolight LumiPar, Prolight StudioCob, Equinox RGB Power Batten
     * **Generic Fixtures:** assortment of conventional lights
     * **LX Desks:** ETC Nomad, Zero88 Jester, Zero88 FLX
     * **Accessories:** lighting stands, gels, cables

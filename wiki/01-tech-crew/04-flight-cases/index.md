@@ -94,6 +94,15 @@ He contains:
 * 2x Soca
 * 2x 15A spiders
 
+:::lore
+
+Steve was used for late-night snack collection and transportation from Tesco for the 2024 Computing Society WHACK Hire.
+<div class="img-gallery">
+![steve at tesco](./tesco-steve-joshheng.jpg)
+</div>
+
+:::
+
 ## Warwick Arts Centre Flight Cases
 
 During a show in the studio, we also have access to the following flight cases:

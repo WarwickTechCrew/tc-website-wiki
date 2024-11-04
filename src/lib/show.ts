@@ -2,6 +2,7 @@ import { readdir, readFile } from 'fs/promises';
 import path from 'node:path';
 import YAML from 'yaml';
 const showDirectory = 'shows';
+const hireDirectory = 'hires';
 
 export type ShowYearData = {
   year: string;
@@ -71,8 +72,8 @@ function parseTerm(data: any): ShowTermData {
   };
 }
 
-async function loadYear(fileName: string): Promise<ShowYearData> {
-  const file = await readFile(path.join(showDirectory, fileName), 'utf8');
+async function loadYear(directory: string, fileName: string): Promise<ShowYearData> {
+  const file = await readFile(path.join(directory, fileName), 'utf8');
   const data = YAML.parse(file);
 
   if (!data.year) throw new Error(`Year ${fileName} does not have a year`);
@@ -83,12 +84,18 @@ async function loadYear(fileName: string): Promise<ShowYearData> {
   };
 }
 
-export async function loadShowYears(): Promise<ShowYearData[]> {
-  const yearFiles = await readdir(showDirectory);
+async function loadYears(directory: string): Promise<ShowYearData[]> {
+  const yearFiles = await readdir(directory);
 
-  const showYearData = await Promise.all(
-    yearFiles.map((fileName) => loadYear(fileName)),
-  );
+  const showYearData = await Promise.all(yearFiles.map((fileName) => loadYear(directory, fileName)));
 
   return showYearData.sort((a, b) => b.year.localeCompare(a.year));
+}
+
+export async function loadShowYears(): Promise<ShowYearData[]> {
+  return loadYears(showDirectory);
+}
+
+export async function loadHireYears(): Promise<ShowYearData[]> {
+  return loadYears(hireDirectory);
 }

@@ -1,0 +1,23 @@
+year: 2024 / 2025
+
+terms:
+- name: Term 1
+  shows:
+    - name: Duchess of Malfi
+      society: WUDS
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Technical Manager
+          name: Josh Heng
+        - role: Lighting Designer
+          name: Echo Vaughan
+        - role: Sound Designer
+          name: George Parrett
+        - role: Stage Manager/Set Designer
+          name: Neera Cheung
+        - role: Deputy Stage Manager
+          name: Hannah Bryne
+        - role: Lighting Operators
+          name: Danai Muyambo, Olly Murphy and Ellen Potts
+        - role: Sound Operators
+          name: Elijah Tan, Ali Aljishi and Tara Fahey

@@ -9,13 +9,9 @@ terms:
       people:
         - role: Technical Manager
           name: Ethan Graham
-        - role: Co-Sound Designer
-          name: Kishan Sharma
-        - role: Co-Sound Designer
-          name: Alexander Spears
-        - role: Co-LX Designer
-          name: Echo Vaughan
-        - role: Co-LX Designer
-          name: Adam Skrzymowski
+        - role: Sound Designer
+          name: Kishan Sharma and Alexander Spears
+        - role: LX Designer
+          name: Echo Vaughan and Adam Skrzymowski
         - role: Exec Contact / Technician
           name: Josh Heng

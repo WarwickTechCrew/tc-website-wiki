@@ -3,9 +3,17 @@ year: 2023 / 2024
 terms:
 - name: Term 3
   shows:
+    - name: King Lear - Insolence of Office
+      society: Independent
+      venue: Avon Drama Studio
+      people:
+        - role: Sound Designer
+          name: Rebecca Smith
+        - role: Lighting Designer
+          name: Echo Vaughan
     - name: The Improv Musical at Fringe
       society: MTW
-      venue: Edinburgh Fringe
+      venue: Gilded Balloon Patter Hoose, Edinburgh Fringe
       people:
         - role: Technical Managers
           name: Dae Pomeroy, Ben Hammond and Josh Heng

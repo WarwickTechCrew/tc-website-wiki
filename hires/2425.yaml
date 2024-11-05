@@ -15,6 +15,14 @@ terms:
           name: Echo Vaughan and Adam Skrzymowski
         - role: Exec Contact / Technician
           name: Josh Heng
+    - name: Will in a Week
+      society: ShakeSoc
+      venue: FAB0.20 Drama Studio
+      people:
+        - role: Sound Designer
+          name: Ali Aljishi
+        - role: Lighting Designer
+          name: Astrid Tricard
     - name: Tick Tick Boom
       society: MTW
       venue: Avon Drama Studio

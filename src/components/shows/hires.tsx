@@ -5,7 +5,7 @@ import { FiExternalLink } from 'react-icons/fi';
 
 export default function Hires({ hireYears }: { hireYears: ShowYearData[] }) {
   return (
-    <Layout title="Shows">
+    <Layout title="Hires Archive">
       <header className="max-w-screen-2xl mx-auto px-4">
         <h1 className="text-3xl font-bold my-2">Tech Crew Hires Archive</h1>
       </header>

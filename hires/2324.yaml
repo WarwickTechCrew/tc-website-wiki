@@ -1,0 +1,15 @@
+year: 2023 / 2024
+
+terms:
+- name: Term 3
+  shows:
+    - name: The Improv Musical at Fringe
+      society: MTW
+      venue: Edinburgh Fringe
+      people:
+        - role: Technical Managers
+          name: Dae Pomeroy, Ben Hammond and Josh Heng
+        - role: Sound
+          name: Alex Morrison, Danny Turner, Kishan Sharma, George Parrett and Josh Heng
+        - role: Lighting
+          name: Dae Pomeroy, Echo Vaughan, Kit Calvert, Ben Hammond, Georgi Gibbons and Anis Tam

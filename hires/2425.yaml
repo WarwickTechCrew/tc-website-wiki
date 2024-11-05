@@ -11,7 +11,15 @@ terms:
           name: Ethan Graham
         - role: Sound Designer
           name: Kishan Sharma and Alexander Spears
-        - role: LX Designer
+        - role: Lighting Designer
           name: Echo Vaughan and Adam Skrzymowski
         - role: Exec Contact / Technician
           name: Josh Heng
+    - name: Tick Tick Boom
+      society: MTW
+      venue: Avon Drama Studio
+      people:
+        - role: Sound Designer
+          name: Stanley Simmons
+        - role: Lighting Designer
+          name: George Parrett

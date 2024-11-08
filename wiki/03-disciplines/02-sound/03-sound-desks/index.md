@@ -3,7 +3,7 @@ description: Like a desk but with sound
 sidebar_custom_props:
   emoji: 🎚️
 shortlinks:
-    - sounddesks
+  - sounddesks
   - sq5
   - s21
 ---

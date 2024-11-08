@@ -47,7 +47,9 @@ desk through one of the stereo input channels (green fader). Sadly the channel 6
 
 ![Soundcraft Spirit E12](./soundcraft-spirit-e12-kishansharma.jpg)
 
-Our second analogue desk, with four extra inputs, and the capability for any channel to be either stereo or mono!
+Our second analogue desk, with four extra inputs, and the capability for any channel to be either stereo or mono! The
+main LR on this desk has a scale from 0 to -infinity, and the line takes out 15db, so the gain knobs are labeled from +5
+to +60db. Not sure how this affects anything but I guess thats something about this desk.
 
 ## Yamaha O1V96
 

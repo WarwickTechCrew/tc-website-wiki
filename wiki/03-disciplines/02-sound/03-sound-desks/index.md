@@ -10,7 +10,10 @@ shortlinks:
 
 # Sound Desks
 
-## [Allen&Heath SQ5](https://www.allen-heath.com/hardware/sq/)
+We currently own 5 sound desks! The SQ5, DM12, E12, Si Expression 3, and the O1V96. 
+This page also talks about WAC's S12, and the Guilded Baloons LS9.
+
+## Allen&Heath SQ5
 
 ![Picture of the SQ5 with barry the baugette](./sq5-baguette-kishansharma.jpg)
 
@@ -27,7 +30,7 @@ S21 instead.
 
 :::
 
-## [DiGiCo S21](https://digico.biz/consoles/s21/)
+## DiGiCo S21
 
 ![Digico S21](./carmen-2024-mascot.jpg)
 
@@ -75,14 +78,15 @@ This desk has the most onboard preamps (32!) out of all the desks we own. It als
 ![Yamaha O1V96 sound desk](./yamaha-O1V96-kishansharma.jpg)
 
 This desk has a little LCD digital display. This desk is in the middleground between our more powerful digital SQ5, and
-our simpler analogue desks. We keep this desk around as it is similar to the LS9,
+our simpler analogue desks. We keep this desk around for training as it is similar to the LS9.
 
 ## Yamaha LS9
 
 ![Yamaha LS9](./LS9-fringe-joshheng.jpg)
 
 This is the sound desk installed in the Gilded Balloon's Big Yin, the MTW Improv Musical's fringe venue for the last few
-years (as of 24/25).
+years (as of 24/25). We dont own one of these, so we use our O1V96 to practice for fringe mixing, given its similarity (same manufacturer) to the LS9.
+See how the tape colours correspond to the performers teeshirt colour!
 
 ## Glossary
 

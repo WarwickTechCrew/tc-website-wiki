@@ -63,8 +63,8 @@ our simpler analogue desks. We keep this desk around as it is similar to the LS9
 
 ![Yamaha LS9](./LS9-fringe-joshheng.jpg)
 
-This is the sound desk we used which in the Gilded Balloon's Big Yin venue, the fringe venue for the last few years (as
-of 24/25) where we take the MTW Improv Musical each year.
+This is the sound desk installed in the Gilded Balloon's Big Yin venue, the MTW Improv Musical's fringe venue for the
+last few years (as of 24/25).
 
 ## Glossary
 

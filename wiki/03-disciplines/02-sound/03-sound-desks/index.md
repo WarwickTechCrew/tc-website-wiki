@@ -64,6 +64,12 @@ Our second analogue desk, with four extra inputs, and the capability for any cha
 main LR on this desk has a scale from 0 to -infinity, this doesn't affect anything in a meaningful way.. but I guess
 that's something about this desk.
 
+## Soundcraft Si Expression 3
+
+![Soundcraft Si expression 3](./si-expression-3-kishansharma.jpg)
+
+This desk has the most onboard preamps (32!) out of all the desks we own. It also has super cool RGB backlit faders. However, the flightcase is pretty massive and its heavy, please don't try unpack this desk on your own! Its also the only desk we own that still has its dust cover lol.
+
 ## Yamaha O1V96
 
 ![Yamaha O1V96 sound desk](./yamaha-O1V96-kishansharma.jpg)

@@ -29,8 +29,20 @@ S21 instead.
 
 ## [DiGiCo S21](https://digico.biz/consoles/s21/)
 
-This is the desk found all over WAC. 48 channels, 16 onboard preamps, 12 outputs. You can request for one with a Dante
-card. See its [datasheet](https://digico.biz/wp-content/uploads/2020/04/DiGiCo-S21-Data-Sheet-1.pdf)!
+![Digico S21](./carmen-2024-mascot.jpg)
+
+This is the desk found all over WAC. 48 channels, 16 onboard preamps, 12 outputs. It has maximal touchscreen minimal
+physical buttons/knobs. You can request one with a Dante card. See its
+[datasheet](https://digico.biz/wp-content/uploads/2020/04/DiGiCo-S21-Data-Sheet-1.pdf)! Note that this desk gets a bit
+laggy if you cram too many scenes into it (you know who you are). Would recommend looking into TheatreMix if you want to
+mix on DCA's during a show! It is suspected WAC and FAB own about 12 of these sound desks, alongside an S31 (which has
+slightly more channels).
+
+:::lore
+
+The area of campus encompassing WAC and the FAB has has 378 DigiCo S21s per square km.
+
+:::
 
 ## Midas DM12
 
@@ -63,8 +75,8 @@ our simpler analogue desks. We keep this desk around as it is similar to the LS9
 
 ![Yamaha LS9](./LS9-fringe-joshheng.jpg)
 
-This is the sound desk installed in the Gilded Balloon's Big Yin, the MTW Improv Musical's fringe venue for the
-last few years (as of 24/25).
+This is the sound desk installed in the Gilded Balloon's Big Yin, the MTW Improv Musical's fringe venue for the last few
+years (as of 24/25).
 
 ## Glossary
 

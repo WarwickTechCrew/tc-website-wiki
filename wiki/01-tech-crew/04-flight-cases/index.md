@@ -28,7 +28,8 @@ Percy is our production flight case, which is stored
 </div>
 
 Flo and Gibby are two small flight cases which can be used to transport small amounts of equipment or cables. They
-aren't massive, but can help for smaller hires or for when Dave is in use.
+aren't massive, but can help for smaller hires or for when Dave is in use. They aren't tall enough to transport the
+LVX speakers inside with the lid closing! 
 
 > don’t use flo or gibby to transport big heavy stuff ON TOP of them because they **will** tip over - Echo Vaughan, 21
 > July 2024

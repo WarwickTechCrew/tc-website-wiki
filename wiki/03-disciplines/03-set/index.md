@@ -19,6 +19,11 @@ The model box pictured was brought to panel, alongside a parcan light for dramat
 
 :::
 
+<figure>
+![not a paint roller](./paint-roller-kishansharma.jpg)
+<figcaption>A paint roller</figcaption> 
+</figure>
+
 :::info
 
 Information about a Set Designer's responsibilities throughout the show process can be found on the

@@ -15,10 +15,7 @@ const config: Config = {
     mermaid: true,
     parseFrontMatter: async (params) => {
       const result = await params.defaultParseFrontMatter(params);
-      const authors = await getGitContributors(
-        params.filePath,
-        result.frontMatter,
-      );
+      const authors = await getGitContributors(params.filePath, result.frontMatter);
 
       return {
         ...result,
@@ -135,6 +132,10 @@ const config: Config = {
       searchPagePath: 'wiki/search',
     },
   } satisfies Preset.ThemeConfig,
+
+  customFields: {
+    shortlinkUrl: process.env.SHORTLINK_URL, // E.g. https://wwtc.uk
+  },
 };
 
 export default config;

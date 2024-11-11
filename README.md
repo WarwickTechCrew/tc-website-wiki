@@ -133,6 +133,9 @@ npm start
 
 This will start a live-reloading web server at [http://localhost:3000](http://localhost:3000).
 
+The following environment variables can also be added on deployment:
+* `SHORTLINK_URL`: The base URL for shortlinks (e.g. `https://wwtc.uk`). If not defined, the site URL will be used
+
 ## Assets
 Images and assets can be stored in `static/images`. Please follow the naming convention for images to ensure that credit
 is given to the author, and please resize the images to 85% quality jpegs of a reasonable size.

@@ -1,7 +1,4 @@
-import {
-  useDoc,
-  DocContextValue,
-} from '@docusaurus/plugin-content-docs/client';
+import { useDoc, DocContextValue } from '@docusaurus/plugin-content-docs/client';
 import type { DocFrontMatter } from '@docusaurus/plugin-content-docs';
 import { FiCheck, FiCopy, FiLink } from 'react-icons/fi';
 import useDocusaurusContext from '@docusaurus/core/lib/client/exports/useDocusaurusContext';
@@ -13,19 +10,11 @@ export type Resource = {
   author?: string;
 };
 
-function DocResourcesDiv({
-  isMobile,
-  resources,
-}: {
-  isMobile?: boolean;
-  resources?: Resource[];
-}) {
+function DocResourcesDiv({ isMobile, resources }: { isMobile?: boolean; resources?: Resource[] }) {
   if (!resources || resources.length === 0) return null;
 
   return (
-    <div
-      className={`dark:bg-neutral-800 bg-gray-100 p-2 rounded-lg my-2 ${isMobile ? 'min-[997px]:hidden' : ''}`}
-    >
+    <div className={`dark:bg-neutral-800 bg-gray-100 p-2 rounded-lg my-2 ${isMobile ? 'min-[997px]:hidden' : ''}`}>
       <h2 className="text-sm uppercase mb-1 pl-1">Resources</h2>
       <ul className={isMobile ? '' : 'text-sm'}>
         {resources.map((resource) => (
@@ -53,17 +42,11 @@ function DocResourcesDiv({
   );
 }
 
-function ShortlinkDiv({
-  isMobile,
-  shortlinks,
-}: {
-  isMobile?: boolean;
-  shortlinks?: string[];
-}) {
+function ShortlinkDiv({ isMobile, shortlinks }: { isMobile?: boolean; shortlinks?: string[] }) {
   if (!shortlinks || shortlinks.length === 0) return null;
 
   const context = useDocusaurusContext();
-  const url = context.siteConfig.url;
+  const url = (context.siteConfig.customFields.shortlinkUrl as string) || context.siteConfig.url;
 
   const [isCopied, setIsCopied] = useState(false);
 
@@ -77,14 +60,9 @@ function ShortlinkDiv({
   }
 
   return (
-    <div
-      className={`dark:bg-neutral-800 bg-gray-100 p-2 rounded-lg my-2 ${isMobile ? 'min-[997px]:hidden' : ''}`}
-    >
+    <div className={`dark:bg-neutral-800 bg-gray-100 p-2 rounded-lg my-2 ${isMobile ? 'min-[997px]:hidden' : ''}`}>
       <h2 className="text-sm uppercase mb-1 pl-1">Shortlink</h2>
-      <button
-        className="flex gap-1 group text-left"
-        onClick={copyShortlinkToClipboard}
-      >
+      <button className="flex gap-1 group text-left" onClick={copyShortlinkToClipboard}>
         {isCopied ? (
           <FiCheck className="mt-1" />
         ) : (

@@ -33,9 +33,11 @@ All room bookings are subject to the
 [Room Usage Terms and Conditions](https://warwick.ac.uk/services/academicoffice/centraltimetabling/webroombooking/roombookings/termsandconditions).
 
 In particular, these include:
-* Rooms must be kept in a clean and tidy state, with all furniture returned to the appropriate layout/
+* Rooms must be kept in a clean and tidy state, with all furniture returned to the appropriate layout
 * Eating or drinking is not permitted.
-* Noise must be kept to a reasonable level to not disturb neighbouring rooms.
+* Noise must be kept to a reasonable level to not disturb neighbouring rooms. See the
+  [Alternative Venues List](https://warwick.ac.uk/services/academicoffice/centraltimetabling/roominformation/alternativevenues)
+  for approved performance spaces.
 :::
 
 ## Viewing Room Timetables
@@ -82,4 +84,10 @@ More information about this (and an outdated list of which rooms have these) can
 
 ## Booking Rooms
 
-Rooms can be booked by going to [https://warwick.ac.uk/roombooking](https://warwick.ac.uk/roombooking).
+To book a performance space, log into the [Web Room Booking System](https://warwick.ac.uk/roombooking) at
+[https://warwick.ac.uk/roombooking](https://warwick.ac.uk/roombooking)
+with your Uni ID (`uXXXXXXX` where the `X`'s are your ID number) and your Warwick ITS password.
+
+:::warning
+You're only allowed to perform in certain rooms, due to noise limits. See: [Performance Rooms](https://warwick.ac.uk/services/sg/spa/centraltimetabling/roominformation/alternativevenues) for a full list.
+:::

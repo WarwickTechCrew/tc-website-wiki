@@ -9,7 +9,7 @@ List of the Demons and Ghouls that haunt Warwick Tech Crews operations. If somet
 
 ## Studio Demon
 
-First recorded evidence of the Studio Demon was during the show week for MTW's Godspell.
+First recorded evidence of the Studio Demon was during the show week for MTW's 23/24 Godspell.
 The Demon took up residence inside one of the WAC's EMS-81X speakers, which was being used as the main PA.
 This caused a really annoying low hissing to be constantly output from the speakers.
 No amount of tweaking the amp settings or swapping out cables was able to evict the studio demon from the speaker.

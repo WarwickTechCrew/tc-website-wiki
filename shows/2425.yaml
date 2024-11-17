@@ -26,7 +26,9 @@ terms:
       venue: Warwick Arts Centre Studio
       people:
         - role: Technical Manager
-          name: Stanley Simmons 
+          name: Stanley Simmons
+        - role: Stage Manager
+          name: Alice Robson 
         - role: Deputy Stage Manager
           name: Kit Calvert
         - role: Sound Designer

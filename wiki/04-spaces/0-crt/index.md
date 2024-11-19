@@ -42,7 +42,7 @@ In particular, these include:
 
 ## Viewing Room Timetables
 
-Timetables can be viewed by going to [https://warwick.ac.uk/roombooking](https://warwick.ac.uk/timetablereports) and
+Timetables can be viewed by going to [https://warwick.ac.uk/timetablereports](https://warwick.ac.uk/timetablereports) and
 logging in with your Warwick ITS account.
 
 Students have access to view timetables by:

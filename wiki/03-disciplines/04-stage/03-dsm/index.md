@@ -13,6 +13,12 @@ shortlinks:
   - dsm
 ---
 # Deputy Stage Manager (DSM)
+
+<figure>
+![DSM cue light desk in studio](./dsm-cuelight-kishansharma.jpg)
+<figcaption>The DSM cue light desk, video monitor and cans in the studio tech box. Picture taken during 24/25 Accidental Death of an Anarchist get out.</figcaption>
+</figure>
+
 The Deputy Stage Manager:
 * Is in charge of running the show and should be aware of all cues.
 * Is heavily involved in the tech run, calling cues and adjusting them as required.

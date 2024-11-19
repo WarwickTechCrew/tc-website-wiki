@@ -32,10 +32,9 @@ paid bank in a bank transfer. Alternatively, the payee can be paid directly by t
 the MRF instead.
 
 :::info
-Online MRFs are typically only processed by the SU once a week, with the Societies Coordinator usually only
-approving Tech Crew MRFs on Wednesday. They must also be approved by the Treasurer, Societies
+Online MRFs are can take a while to be reimbursed - they must be approved by the Treasurer, Societies
 Coordinator (SU) and Finance Office (SU) before they are paid out, so can sometimes take up to two weeks before they
-arrive in your account. Large purchases (i.e. above £2.5k) also need to go through Manager/SU trustee approval.
+arrive in your account. Large purchases above £2k also need to go through Manager approval.
 :::
 
 

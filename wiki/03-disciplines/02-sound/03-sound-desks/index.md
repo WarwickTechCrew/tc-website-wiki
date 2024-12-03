@@ -73,6 +73,12 @@ that's something about this desk.
 
 This desk has the most onboard preamps (32!) out of all the desks we own. It also has super cool RGB backlit faders. However, the flightcase is pretty massive and its heavy, please don't try unpack this desk on your own! Its also the only desk we own that still has its dust cover lol.
 
+::: lore
+
+This desk is called Sibyl! We are trying to sell Sibyl. They take up too much space in the cupboard! and are not very practical to use :(
+
+:::
+
 ## Yamaha O1V96
 
 ![Yamaha O1V96 sound desk](./yamaha-O1V96-kishansharma.jpg)

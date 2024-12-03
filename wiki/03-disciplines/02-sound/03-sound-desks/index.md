@@ -57,7 +57,7 @@ One of the two analogue sound desks we own!
 and portable with a minimal layout. This desk has two insert slots which can supposedly be used for an outboard FX rack,
 however you need some special jack-jack splitter for the input and output that I couldn't work out. The approach that
 worked for me was sending channels to the outboard FX using one of the auxes, then taking the FX return back into the
-desk through one of the stereo input channels (green fader). Sadly the channel 6 fader cap has despawned :(
+desk through one of the stereo input channels (green fader). ~~Sadly the channel 6 fader cap has despawned :(~~ It has respawned albeit looking slightly different!
 
 ## Soundcraft Spirit E12
 

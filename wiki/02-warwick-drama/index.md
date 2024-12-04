@@ -41,7 +41,7 @@ MTW also run The Improv Musical, an improvised musical show where each show is c
 a hire, with multiple 'practise' shows on campus throughout the year which follow up to performing at Edinburgh
 Fringe in the summer.
 
-In Term 3, MTW also put on Stagefest, a week-long festival full of smaller musical theatre shows.
+In Term 3, MTW also used to put on Stagefest, a week-long festival full of smaller musical theatre shows, which merged with WSAF in December 2024.
 
 ## [Opera Warwick](https://www.warwicksu.com/societies-sports/societies/operawarwick/)
 Warwick Opera mainly produce an opera in the WAC theatre in Term 2, in addition to sometimes smaller shows in the
@@ -52,5 +52,5 @@ These societies also perform drama at Warwick, but aren't generally considered p
 
 ### [Warwick Pantomime Society](https://www.warwicksu.com/societies-sports/societies/pantomime/)
 Warwick Pantomime Society is a much newer and smaller society, often working with Tech Crew as a
-[hire](/wiki/tech-crew/shows-and-hires) rather than a full show. They often put on a pantomime each term, which are always
+[hire](/wiki/tech-crew/shows-and-hires) rather than a full show. They put on a pantomime each term, which are always
 great fun and a much lower commitment than a show with one of the other societies in Warwick Drama.

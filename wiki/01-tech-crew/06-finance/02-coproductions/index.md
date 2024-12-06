@@ -43,6 +43,15 @@ rotating set, etc.
 Note that for a co-production to take place, there must be a clear and detailed technical vision and accurate budget. It is
 therefore only possible to apply for this once a tech team has been assigned.
 
+:::info
+Key Terms:
+* **Break-Even Point**: The percentage of ticket sales that need to be made to cover the costs of a show before it
+  starts to generate a profit. A show should generally aim to have a break-even of up to 65%.
+* **Capital**: The money that Tech Crew has put forward in the co-production.
+* **Gross Revenue**: The total revenue the show has generated (including ticket and programme sales) before any
+  expenses are taken off.
+:::
+
 ## Proposing a Co-Production
 
 A Tech Crew Co-Production can be proposed by the show production or technical team by emailing the Tech Crew exec at
@@ -54,3 +63,4 @@ A Tech Crew Co-Production can be proposed by the show production or technical te
 
 The Tech Crew will then discuss this in the next exec meeting and get back to you with a decision. As meetings often
 only happen once a week (and may already be full of agenda items), this can take some time.
+

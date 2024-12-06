@@ -4,7 +4,7 @@ sidebar_custom_props:
     emoji: 🎤
 additional_authors: Ethan Graham
 ---
-# Radio Mic System Proposal 2024
+# Radio Mic System 2024
 
 <div class="img-full">
 ![Sennheiser EW-DX Radio Mic System](mic-system.jpg)
@@ -15,9 +15,7 @@ Tech Crew is planning to purchase a new 8-channel Sennheiser EW-DX radio mic sys
 starting to become less reliable due to being 14 years old (with an expected lifespan of 10 years).
 
 :::info
-As of 09/08/2024, the Tech Crew Exec have unanimously voted to go ahead with this radio mic purchase. As it stands,
-this purchase will be made before the start of Term 1 2024, but everyone is welcome to look at our thought process and
-ask any questions.
+This proposal was successful and the new system was purchased in Term 1, 2024.
 :::
 
 ## The System

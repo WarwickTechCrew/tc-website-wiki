@@ -3,6 +3,9 @@ description: Manages the technical team and communicates with prod and the WAC.
 sidebar_custom_props:
   emoji: 🧑‍💼
 resources:
+  - name: Technical Management Training
+    url: https://docs.google.com/presentation/d/1ysqbXenp-Fx1RbUvD8kp3xmify7rCvs6h2sT4SlBrEw/edit?usp=sharing
+    author: Tech Crew
   - name: Stage Management Toolkit
     url: https://drive.google.com/drive/folders/12p6b5U1EYxyfoH8p5Y-tstqz9Gh_CBWs?usp=drive_link
     author: Tech Crew

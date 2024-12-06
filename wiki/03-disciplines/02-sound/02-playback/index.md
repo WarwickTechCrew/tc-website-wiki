@@ -44,7 +44,7 @@ Some free libraries of sound effects and music include:
   ([Tracklist](https://docs.google.com/spreadsheets/d/1Gnk0_PXG-HdRmttxridsb8lkfu64v2vlvB1iocL2Qjk/edit?usp=sharing))
   ([Previous Years](https://sonniss.com/gameaudiogdc)) - Soniss provide a collection of sound libraries, several of
   which are released for free each year for the Game Developers Conference. Can be used for any purpose (including
-  commerical use) without attribution.
+  commercial use) without attribution.
 * **[BBC Sound Effects Library](https://sound-effects.bbcrewind.co.uk/)** - although this cannot technically be used
   commercially and may require attribution.
 * **[YouTube Audio Library](https://www.youtube.com/audiolibrary)** - requires free YouTube account. May require

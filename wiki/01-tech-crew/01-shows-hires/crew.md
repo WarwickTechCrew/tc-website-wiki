@@ -22,7 +22,7 @@ Any questions regarding crew assignment can be sent to [exec@warwicktechcrew.co.
 Applications can also be sent to this email, or updates/withdrawals of existing applications on AdamRMS.
 
 ## Applying for Roles
-You can apply for roles by browing the [Opportunities Page](/opportunities) and creating an
+You can apply for roles by browsing the [Opportunities Page](/opportunities) and creating an
 [AdamRMS](https://dash.adam-rms.com/) account (you can find the Tech Crew business code on Discord). Alternatively, you
 can email [exec@warwicktechcrew.co.uk](mailto:exec@warwicktechcrew.co.uk) to apply, update an application or withdraw an
 application.
@@ -57,7 +57,7 @@ Whilst we will do all we can to ensure that you have a team for your show, pleas
 and voluntary basis and so there may be cases where there are no applicants for a certain role. This chance can be
 reduced by:
 
-* Advertising our technical roles amongst your communities and social medias. This could be particularly effective for
+* Advertising our technical roles amongst your communities and social media. This could be particularly effective for
   less technical roles such as Stage Manager, Assistant Stage Manager and Set Designer.
 * Providing a detailed technical vision and description for your show so members have a clear idea of what they are
   applying for.

@@ -79,7 +79,7 @@ Obtaining a drone permit consists of the following steps:
    on the [Tech Crew Google Drive](https://drive.google.com/drive/folders/1FpMKoTum_fMmCvmprGQaDXqVgqQ825kD).
 2. Obtain access to the [Q2 Permit Application System](https://warwick.ac.uk/services/estates/service_centre/permit_to_work/)
    ![Estates Q2 System](./q2.jpg)
-   1. Email [permitrequest@warwick.ac.uk](permitrequest@warwick.ac.uk) to arrange an online (Teams) training session.
+   1. Email [permitrequest@warwick.ac.uk](mailto:permitrequest@warwick.ac.uk) to arrange an online (Teams) training session.
    2. Attend the training session - this should take less than an hour.
    3. Once you have completed the training, you will be given access to the system on your staff account.
    4. Note that the Q2 Permit Application System is only accessible on the University network

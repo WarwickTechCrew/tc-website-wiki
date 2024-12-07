@@ -11,8 +11,8 @@ shortlinks:
 ---
 # Crew Assignment
 All Tech Crew roles are advertised to all members using our internal system [AdamRMS](/opportunities) for a
-period of at least one week (unless the role is urgent). When a role is published, it will also be advertised on the
-Tech Crew Discord server and in the weekly newsletter.
+period of at least one week. When a role is published, it will also be advertised on the Tech Crew Discord server and
+in the weekly newsletter.
 
 After the position closes, the Tech Crew exec will review the applications in their next meeting and provisionally
 assign each role. After confirmation that the applicant is still willing to take the role, the exec will communicate
@@ -67,10 +67,10 @@ reduced by:
 :::
 
 :::warning
-Technical roles **must** be advertised and allocated through Tech Crew, even if historically these have not been filled
-or if you have a preference for a certain designer. This is to ensure the equal opportunity and welfare of all of our
-members, and may also be required in your society's constitution. The only exception to this rule is if this has been
-discussed with exec in advance, and you have written confirmation.
+For WAC shows, technical roles **must** be advertised and allocated through Tech Crew, even if historically these have
+not been filled or if you have a preference for a certain designer. This is to ensure the equal opportunity and welfare
+of all of our members, and may also be required in your society's constitution. The only exception to this rule is if
+this has been discussed with exec in advance, and you have written confirmation.
 
 If you have any questions or have preferences for or against certain members us, please email us at
 [exec@warwicktechcrew.co.uk](exec@warwicktechcrew.co.uk). You may also contact the Welfare Officer directly in the event
@@ -86,6 +86,18 @@ Assigning your own technical roles may result in:
 :::
 
 Please contact us at [exec@warwicktechcrew.co.uk](exec@warwicktechcrew.co.uk) for any further information.
+
+### Drama Collective (DC) Show Allocation
+The Drama Collective (DC) constitution states the following:
+1. A pack must meet with the president of Tech Crew, at least 4 term-time weeks before final Pack submission where
+   academically possible.
+2. Tech teams must be allocated by Tech Crew, including all members of the Lighting, Sound, Management, Set, and Video 
+   departments.
+3. Up to 2 of these team members can be allocated by Pack teams, bypassing the Tech Crew allocation process, at the
+   approval of a simple majority of Tech Crew exec.
+     1. These team members must be allocated before the meeting with the Tech Crew president.
+     2. These team members must have Tech Crew membership.
+     3. Approval of these team members may be subject to conditions, set by Tech Crew exec.
 
 ## Crew Assignment Policy
 The Tech Crew exec will assign show and hire roles according to the following guidance:

@@ -99,4 +99,4 @@ Obtaining a drone permit consists of the following steps:
    1. You must reply to this email to confirm the permit has been issued.
    2. You must call Community Safety on 024 7652 2083 to inform them of your flight plan - you may also need to provide
       your permit number.
-6 Just before flight, you must call Community Safety again on 024 7652 2083 to inform them that you are about to fly.
+6. Just before flight, you must call Community Safety again on 024 7652 2083 to inform them that you are about to fly.

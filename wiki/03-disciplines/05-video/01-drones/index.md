@@ -12,7 +12,7 @@ resources:
     url: https://register-drones.caa.co.uk/drone-code
     author: Civil Aviation Authority
   - name: University of Warwick Drone Policy
-    url: https://warwick.ac.uk/services/estates/service_centre/permit_to_work/flying_of_drones_permit
+    url: https://drive.google.com/file/d/1jyeSdFmEqK_uHwH4aEQ8bV6yXs6zIrvi/view?usp=sharing
     author: Estates Office
   - name: Sample Drone Permit Documents
     url: https://drive.google.com/drive/folders/1FpMKoTum_fMmCvmprGQaDXqVgqQ825kD?usp=sharing
@@ -60,6 +60,11 @@ The main road through campus (Gibbet Hill Rd) is public land, so you should be a
 :::info
 This option is only available to University of Warwick staff, although a staff member may issue a permit on a student's
 behalf.
+:::
+
+:::info
+Note that a permit is not required for flying drones indoors (however you will still need to take the necessary safety
+precautions).
 :::
 
 To fly a drone outdoors on University of Warwick Land, you must first obtain a permit from the Estates Office. This must

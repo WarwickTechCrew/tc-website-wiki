@@ -18,13 +18,13 @@ After the position closes, the Tech Crew exec will review the applications in th
 assign each role. After confirmation that the applicant is still willing to take the role, the exec will communicate
 the allocation to the show/hire's production team and inform all other applicants that they were unsuccessful.
 
-Any questions regarding crew assignment can be sent to [exec@warwicktechcrew.co.uk](exec@warwicktechcrew.co.uk).
+Any questions regarding crew assignment can be sent to [exec@warwicktechcrew.co.uk](mailto:exec@warwicktechcrew.co.uk).
 Applications can also be sent to this email, or updates/withdrawals of existing applications on AdamRMS.
 
 ## Applying for Roles
 You can apply for roles by browing the [Opportunities Page](/opportunities) and creating an
 [AdamRMS](https://dash.adam-rms.com/) account (you can find the Tech Crew business code on Discord). Alternatively, you
-can email [exec@warwicktechcrew.co.uk](exec@warwicktechcrew.co.uk) to apply, update an application or withdraw an
+can email [exec@warwicktechcrew.co.uk](mailto:exec@warwicktechcrew.co.uk) to apply, update an application or withdraw an
 application.
 
 Role applicant tips:
@@ -35,7 +35,7 @@ Role applicant tips:
   you would like to prioritise a certain role over others, you can also enter this here (or email the exec).
 * Feel free to ask other members of Tech Crew or the Tech Crew Exec if you have any questions or want any clarification
   on the role or show. Most people are contactable over Discord or in person, or you can email exec at
-  [exec@warwicktechcrew.co.uk](exec@warwicktechcrew.co.uk).
+  [exec@warwicktechcrew.co.uk](mailto:exec@warwicktechcrew.co.uk).
 * If you would like to work ("co") with another person, this is a possibility as long as there is a clear separation of
   responsibilities. Mention this in your AdamRMS application or email the exec for more information.
 
@@ -73,7 +73,7 @@ of all of our members, and may also be required in your society's constitution. 
 this has been discussed with exec in advance, and you have written confirmation.
 
 If you have any questions or have preferences for or against certain members us, please email us at
-[exec@warwicktechcrew.co.uk](exec@warwicktechcrew.co.uk). You may also contact the Welfare Officer directly in the event
+[exec@warwicktechcrew.co.uk](mailto:exec@warwicktechcrew.co.uk). You may also contact the Welfare Officer directly in the event
 of any welfare concerns.
 
 Assigning your own technical roles may result in:
@@ -85,7 +85,7 @@ Assigning your own technical roles may result in:
 * Voiding any show or society discounts on our price list if using our equipment.
 :::
 
-Please contact us at [exec@warwicktechcrew.co.uk](exec@warwicktechcrew.co.uk) for any further information.
+Please contact us at [exec@warwicktechcrew.co.uk](mailto:exec@warwicktechcrew.co.uk) for any further information.
 
 ### Drama Collective (DC) Show Allocation
 The Drama Collective (DC) constitution states the following:

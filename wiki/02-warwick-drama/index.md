@@ -52,5 +52,5 @@ These societies also perform drama at Warwick, but aren't generally considered p
 
 ### [Warwick Pantomime Society](https://www.warwicksu.com/societies-sports/societies/pantomime/)
 Warwick Pantomime Society is a much newer and smaller society, often working with Tech Crew as a
-[hire](/wiki/tech-crew/shows-and-hires) rather than a full show. They put on a pantomime each term, which are always
+[hire](/wiki/tech-crew/shows-hires) rather than a full show. They put on a pantomime each term, which are always
 great fun and a much lower commitment than a show with one of the other societies in Warwick Drama.

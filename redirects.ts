@@ -17,7 +17,7 @@ export const redirectLinks: {
     to: 'https://www.warwicksu.com/sgf/4251',
   },
   {
-    from: ['/crew-opportunities.html', '/crew-opportunities'],
+    from: ['/crew-opportunities.html', '/crew-opportunities', '/apply', '/application'],
     to: '/opportunities',
   },
   {
@@ -38,6 +38,6 @@ export const redirectLinks: {
   },
   {
     from: ['/secret'],
-    to: 'https://k-shar.github.io/wtc-website/'
-  }
+    to: 'https://k-shar.github.io/wtc-website/',
+  },
 ];

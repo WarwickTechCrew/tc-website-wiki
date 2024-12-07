@@ -14,7 +14,7 @@ with a purpose of providing technical theatre training and opportunities for stu
 
 Apart from socials and trainings, most of our activity is determined other groups and societies (especially those in
 [Warwick Drama](/wiki/warwick-drama)) who require technical support for their
-[shows and events](/wiki/tech-crew/shows-and-hires). This provides quite a lot of flexibility and variety in the work
+[shows and events](/wiki/tech-crew/shows-hires). This provides quite a lot of flexibility and variety in the work
 that we do, with members being able to get involved with as much or as little as they wish.
 
 As per our [constitution](https://www.warwicksu.com/resources/techcrew/Tech-Crew-Constitution/), our aims and objectives

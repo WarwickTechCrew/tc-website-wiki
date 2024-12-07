@@ -7,11 +7,11 @@ sidebar_custom_props:
 
 :::info
 These pages explain how the Warwick Drama show process works. For general info about shows, please
-read [Shows and Hires](../tech-crew/shows-and-hires).
+read [Shows and Hires](../tech-crew/shows-hires).
 :::
 
 In Tech Crew, the term **show** is a special term referring to a project in the Warwick Arts Centre that follows
-this pack/panel process. Other 'shows' are considered [hires](../tech-crew/shows-and-hires#hires) and are generally a much
+this pack/panel process. Other 'shows' are considered [hires](../tech-crew/shows-hires#hires) and are generally a much
 smaller process.
 
 All shows at Warwick go through a standard submission and show process. The following flowchart shows a [somewhat]

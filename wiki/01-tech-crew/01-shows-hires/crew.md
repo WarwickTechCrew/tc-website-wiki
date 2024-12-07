@@ -103,8 +103,8 @@ The Drama Collective (DC) constitution states the following:
 The Tech Crew exec will assign show and hire roles according to the following guidance:
 
 ### Warwick Arts Centre (WAC) Shows
-Article 8 of the [Tech Crew Constitution](/constitution) outlines the following rules for Warwick Arts Centre (WAC)
-shows:
+Article 8 of the [Tech Crew Constitution](https://www.warwicksu.com/resources/techcrew/Tech-Crew-Constitution/) outlines
+the following rules for Warwick Arts Centre (WAC) shows:
 
 1. The assignment of roles for WAC shows is at the sole discretion of the Tech Crew Exec.
 2. No member can be a Head of Department more than twice in ten consecutive calendar weeks (i.e., a term).

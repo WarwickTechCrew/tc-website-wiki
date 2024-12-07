@@ -73,7 +73,7 @@ members, and may also be required in your society's constitution. The only excep
 discussed with exec in advance, and you have written confirmation.
 
 If you have any questions or have preferences for or against certain members us, please email us at
-[exec@warwicktechcrew.co.uk](exec@warwicktechcrew.co.uk). You may also contain the Welfare Officer directly in the event
+[exec@warwicktechcrew.co.uk](exec@warwicktechcrew.co.uk). You may also contact the Welfare Officer directly in the event
 of any welfare concerns.
 
 Assigning your own technical roles may result in:

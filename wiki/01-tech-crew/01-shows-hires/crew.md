@@ -21,6 +21,13 @@ the allocation to the show/hire's production team and inform all other applicant
 Any questions regarding crew assignment can be sent to [exec@warwicktechcrew.co.uk](mailto:exec@warwicktechcrew.co.uk).
 Applications can also be sent to this email, or updates/withdrawals of existing applications on AdamRMS.
 
+:::info
+Please note that unless a special arrangement is made with Tech Crew (e.g. for special circumstances such as Improv at
+Fringe), any Tech Crew members working on a show or event do **not** require to purchase membership to the respective
+society. Any required [MRFs](/wiki/tech-crew/finance) can be submitted on their behalf by the event's production team
+or the society's treasurer.
+:::
+
 ## Applying for Roles
 You can apply for roles by browsing the [Opportunities Page](/opportunities) and creating an
 [AdamRMS](https://dash.adam-rms.com/) account (you can find the Tech Crew business code on Discord). Alternatively, you

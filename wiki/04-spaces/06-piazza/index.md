@@ -19,7 +19,7 @@ events or festivals with the budget of an outdoor stage.
 
 ## Piazza Map
 The following map shows the available power ducts and the closest networking points. If access to the network is
-required, [Warwick IT Services](/wiki/resources/equipment-directory#it-services) will need to be contacted in advance.
+required, [Warwick IT Services](/wiki/directories/services#it-services) will need to be contacted in advance.
 <div class="img-full">
 ![Piazza Tech Map](piazza-tech-map.jpg)
 </div>
@@ -43,8 +43,8 @@ distribution boxes.
 
 Tech Crew only has a limited number of equipment to handle 16A to 13A conversion, and does not have any equipment for
 63A - so you'll need to hire this from an external company, the
-[SU](/wiki/resources/equipment-directory#warwick-su-tech-services) or
-[Estates](/wiki/resources/equipment-directory#estates).
+[SU](/wiki/directories/services#warwick-su-tech-services) or
+[Estates](/wiki/directories/services#estates).
 
 ## Overnight Security
 If leaving equipment out overnight, security is a large concern. Typically everything should be packed away each night
@@ -65,7 +65,7 @@ out.
 
 ## Tables and Chairs
 Another thing to consider when outside is the need for tables and chairs, as these aren't as accessible. The 
-[SU Operations team](/wiki/resources/equipment-directory#warwick-su-operations) can sometimes help with this if enough
+[SU Operations team](/wiki/directories/services#warwick-su-operations) can sometimes help with this if enough
 notice is provided, however these are also used for POP and circling so should be wiped down before use.
 
 ## Food Market

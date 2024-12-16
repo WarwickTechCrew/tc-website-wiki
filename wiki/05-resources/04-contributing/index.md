@@ -23,7 +23,7 @@ If you have any questions or issues about contributing, please reach out to a
 
 Anything Tech Crew related that could be useful to someone else is suitable - this can range from detailed
 instructions on how to use certain bits of equipment, to
-[who to contact for certain services](/wiki/resources/equipment-directory), to [fun lore about our
+[who to contact for certain services](/wiki/directories/services), to [fun lore about our
 history](/wiki/tech-crew/flight-cases). If there's something you've just learnt that you wish you knew sooner, or if
 you've just got a response to a question that you think others might have, then it's worth adding to the wiki!
 

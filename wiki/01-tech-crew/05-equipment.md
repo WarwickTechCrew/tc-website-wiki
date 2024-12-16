@@ -10,7 +10,7 @@ please also check the internal equipment/pricing list (linked on the
 [AdamRMS dashboard](https://dash.adam-rms.com/cms/?p=25)) or the
 [AdamRMS assets page](https://dash.adam-rms.com/assets.php) if you are a Tech Crew Member. Equipment can also be
 sourced externally - we have a list of places for this in the
-[Equipment & Services Directory](/wiki/resources/equipment-directory).
+[Equipment Hire & Services Directory](/wiki/directories/services).
 
 :::info
 Are you external to Tech Crew and looking to hire equipment? Please see our [Hires Page](/hires) for more information

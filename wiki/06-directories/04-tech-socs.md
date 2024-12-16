@@ -38,8 +38,9 @@ theatre makers to showcase their work.
 
 ## [TEC PA & Lighting (Nottingham)](https://www.nottinghamtec.co.uk/)
 
-Also at the University of Nottingham, TEC seem to have a lot of cool equipment, running tech for the Uni's grad ball.
-Members apparently get [crew food at or after events](https://join.nottinghamtec.co.uk/). They also have a moose as
+Also at the University of Nottingham, TEC seem to have a lot of cool equipment, running tech for the Uni's grad ball 
+and doing a lot more external hires for companies around Nottingham. Members get
+[£15.25 for crew food at or after events](https://join.nottinghamtec.co.uk/). They also have a moose as
 their mascot, which is fun.
 
 ## [Bedlam Theatre (Edinburgh)](https://www.bedlamtheatre.co.uk/)
@@ -73,3 +74,8 @@ and storing all equipment in a storage facility known as The Arch. They meet eve
 and socials, and also seem to stock a lot of equipment including intelligent lighting, truss, steel deck and power
 distro (and a lot of flight cases!). Whilst they have a [wiki](https://wiki.mutts.org.uk), most of this is only 
 available to members.
+
+## [Technical Services Committee (TEC) (Sheffield)](https://tsc.sites.sheffield.ac.uk/)
+TSC is a Working Committee of the Sheffield Students' Union, run by students and supported by staff in its Technical
+Services department. They seem to run weekly training sessions on Wednesday and have a lot of cool equipment and
+software, including a dLive sound desk, Avolights lighting desks and Resolume Arena.

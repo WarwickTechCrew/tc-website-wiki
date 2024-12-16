@@ -2,6 +2,13 @@
 description: The technical theatre world at other universities.
 sidebar_custom_props:
     emoji: 🎓
+shortlinks:
+    - tech-socs
+    - theatre-socs
+    - competitors
+    - tech-socs-directory
+    - other-unis
+sidebar_label: University Tech and Theatre Societies
 ---
 # University Tech and Theatre Society Directory
 

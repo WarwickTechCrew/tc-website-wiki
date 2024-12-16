@@ -4,8 +4,11 @@ sidebar_custom_props:
     emoji: 📃
 shortlinks:
   - equipment-directory
+  - hire-directory
+  - services-directory
+sidebar_label: Equipment Hire & Services
 ---
-# Equipment & Services Directory
+# Equipment Hire & Services Directory
 
 Sources for various equipment Tech Crew doesn't have!
 

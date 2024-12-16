@@ -2,6 +2,12 @@
 description: Directory of the demons that haunt Warwick Tech Crew
 sidebar_custom_props:
     emoji: 👻
+shortlinks:
+    - demons
+    - daemon-directory
+    - daemons-directory
+    - ghouls
+sidebar_label: Demons & Ghouls
 ---
 # Demons & Ghouls Directory
 

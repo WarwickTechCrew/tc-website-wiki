@@ -14,6 +14,6 @@ are listed below.
 
 ## Scheduling Tools
 
-* **[CallTime](/wiki/resources/tools/calltime)** - the recommended tool for scheduling rehearsals. Each show will
+* **[CallTime](/wiki/directories/tools/calltime)** - the recommended tool for scheduling rehearsals. Each show will
     generally  have its own Calltime production, which will contain the availability of everyone involved.
 * **[When2Meet](https://www.when2meet.com/)** - a simpler alternative to Calltime, which can be used for one-off events.

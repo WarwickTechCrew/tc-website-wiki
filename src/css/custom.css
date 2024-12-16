@@ -101,7 +101,7 @@ h2 {
 }
 
 .content-styling .video-full iframe {
-  @apply w-full h-96;
+  @apply w-full h-96 mb-4;
 }
 
 svg {

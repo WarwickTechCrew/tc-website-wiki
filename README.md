@@ -52,7 +52,14 @@ Shortlinks can be added to provide a shorter link to the wiki page. The first sh
 ```yaml
 shortlinks:
   - mainShortlink
-  - secondary/shortlink
+  - secondaryShortlink
+```
+
+Section shortlinks can also be used to direct the user to a specific heading (e.g. `#section-heading`):
+```yaml
+sectionShortlinks:
+  - shortlink: heading
+    hash: section-heading
 ```
 
 ### Images

@@ -3,12 +3,18 @@ import { parseMarkdownFile } from '@docusaurus/utils';
 import fs from 'fs/promises';
 import { getWikiUrlFromFileName } from '../lib/wiki';
 
+export type SectionShortlink = {
+  shortlink: string;
+  hash: string;
+};
+
 export type WikiShortlinkContent = {
   title: string;
   description: string;
   url: string;
 
   shortlinks: string[];
+  sectionShortlinks: SectionShortlink[];
 };
 
 async function loadWikiPageShortlinks(
@@ -36,12 +42,31 @@ async function loadWikiPageShortlinks(
   // Remove trailing url
   if (url.endsWith('/')) url = url.slice(0, -1);
 
+  const sectionShortlinks: SectionShortlink[] = [];
+  if (content.frontMatter.sectionShortlinks) {
+    for (const sectionShortlink of content.frontMatter.sectionShortlinks as any[]) {
+      if (!sectionShortlink.shortlink) {
+        console.error(sectionShortlink);
+        throw new Error(`${path} is missing a shortlink in the sectionShortlinks frontmatter`);
+      }
+      if (!sectionShortlink.hash) {
+        console.error(sectionShortlink);
+        throw new Error(`${path} is missing a hash in the sectionShortlinks frontmatter`);
+      }
+
+      sectionShortlinks.push({
+        shortlink: sectionShortlink.shortlink,
+        hash: sectionShortlink.hash,
+      });
+    }
+  }
+
   return {
     url: `${siteUrl}/${url}`,
     title: content.contentTitle,
-    description:
-      (content.frontMatter?.description as string) || content.excerpt,
+    description: (content.frontMatter?.description as string) || content.excerpt,
     shortlinks: content.frontMatter.shortlinks as string[],
+    sectionShortlinks,
   };
 }
 
@@ -53,15 +78,8 @@ async function getWikiPagePaths(path: string): Promise<string[]> {
     if (entry.isDirectory()) {
       pages.push(...(await getWikiPagePaths(`${path}/${entry.name}`)));
     } else if (entry.isFile()) {
-      const lowercaseExtension = entry.name
-        .split('.')
-        .reverse()[0]
-        .toLowerCase();
-      if (
-        lowercaseExtension === 'md' ||
-        lowercaseExtension === 'mdx' ||
-        lowercaseExtension === 'tsx'
-      ) {
+      const lowercaseExtension = entry.name.split('.').reverse()[0].toLowerCase();
+      if (lowercaseExtension === 'md' || lowercaseExtension === 'mdx' || lowercaseExtension === 'tsx') {
         pages.push(`${path}/${entry.name}`);
       }
     }
@@ -78,20 +96,13 @@ export default function wikiShortlinksPlugin(context: LoadContext): Plugin {
 
       const shortlinksContent = await Promise.all(
         wikiPagePaths.map((pagePath) =>
-          loadWikiPageShortlinks(
-            context.siteConfig.url,
-            context.siteConfig.markdown.parseFrontMatter,
-            pagePath,
-          ),
+          loadWikiPageShortlinks(context.siteConfig.url, context.siteConfig.markdown.parseFrontMatter, pagePath),
         ),
       );
 
       return shortlinksContent.filter((shortlink) => !!shortlink);
     },
-    async contentLoaded({
-      content,
-      actions: { createData, addRoute },
-    }): Promise<void> {
+    async contentLoaded({ content, actions: { createData, addRoute } }): Promise<void> {
       const shortlinksContent = content as WikiShortlinkContent[];
 
       for (const shortlinkContent of shortlinksContent) {
@@ -106,6 +117,23 @@ export default function wikiShortlinksPlugin(context: LoadContext): Plugin {
             component: '@site/src/components/wiki/shortlink-redirect.tsx',
             modules: {
               shortlink: shortlinkJsonPath,
+            },
+            exact: true,
+          });
+        }
+
+        for (const shortlink of shortlinkContent.sectionShortlinks) {
+          const sectionShortlinkHashJsonPath = await createData(
+            `${shortlinkContent.title}-${shortlink.shortlink}-${new Date().getTime()}-shortlink.json`,
+            JSON.stringify(shortlink.hash),
+          );
+
+          addRoute({
+            path: `/${shortlink.shortlink}`,
+            component: '@site/src/components/wiki/shortlink-redirect.tsx',
+            modules: {
+              shortlink: shortlinkJsonPath,
+              hash: sectionShortlinkHashJsonPath,
             },
             exact: true,
           });

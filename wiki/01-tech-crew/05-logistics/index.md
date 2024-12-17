@@ -3,20 +3,30 @@ description: Information transporting and delivering equipment on campus
 sidebar_custom_props:
   emoji: 📭
 shortlinks:
-   - logistics
-   - postage
-   - post
-   - delivery
-   - deliveries
-   - address
-   - vat
-   - shopping
-   - purchases
-   - procurement
-   - amazon
-   - amazon-lockers
-   - parking
-   - cars
+  - logistics
+  - postage
+  - post
+  - address
+  - vat
+  - shopping
+  - purchases
+  - procurement
+sectionShortlinks:
+  - shortlink: delivery
+    hash: deliveries
+  - shortlink: deliveries
+    hash: deliveries
+  - shortlink: amazon
+    hash: delivering-to-campus-amazon-lockers
+  - shortlink: amazon-lockers
+    hash: delivering-to-campus-amazon-lockers
+  - shortlink: vehicles
+    hash: vehicles-and-parking
+  - shortlink: cars
+    hash: vehicles-and-parking
+  - shortlink: parking
+    hash: vehicles-and-parking
+
 ---
 # Logistics
 

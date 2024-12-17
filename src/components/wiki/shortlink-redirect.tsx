@@ -1,9 +1,18 @@
 import { WikiShortlinkContent } from '@site/src/plugins/wiki-shortlinks';
 import Layout from '@theme/Layout';
 import Head from '@docusaurus/core/lib/client/exports/Head';
+import { useEffect } from 'react';
 
-export default function ShortlinkRedirect({ shortlink }: { shortlink: WikiShortlinkContent }) {
-  window.location.href = shortlink.url + (window.location.search || '') + (window.location.hash || '');
+export default function ShortlinkRedirect({ shortlink, hash }: { shortlink: WikiShortlinkContent; hash?: string }) {
+  const url = `${shortlink.url}${hash ? '#' + hash : ''}`;
+
+  useEffect(() => {
+    if (window.location.hash) {
+      window.location.href = shortlink.url + (window.location.search || '') + (window.location.hash || '');
+    } else {
+      window.location.href = shortlink.url + (window.location.search || '') + (hash ? '#' + hash : '');
+    }
+  }, []);
 
   return (
     <Layout title={shortlink.title} description={shortlink.description}>
@@ -11,7 +20,7 @@ export default function ShortlinkRedirect({ shortlink }: { shortlink: WikiShortl
         <link rel="canonical" href={shortlink.url} />
         <meta property="og:url" content={shortlink.url} />
         <noscript>
-          <meta http-equiv="refresh" content={`0; url=${shortlink.url}`} />
+          <meta http-equiv="refresh" content={`0; url=${url}`} />
         </noscript>
       </Head>
       <header className="max-w-screen-2xl mx-auto px-4">
@@ -19,7 +28,7 @@ export default function ShortlinkRedirect({ shortlink }: { shortlink: WikiShortl
         <main className="w-full max-w-screen-2xl mx-auto flex-grow flex flex-col">
           <div className="content-styling mb-4 px-4">
             <p>
-              If you are not redirected shortly please go to <a href={shortlink.url}>{shortlink.url}</a>.
+              If you are not redirected shortly please go to <a href={url}>{url}</a>.
             </p>
           </div>
         </main>

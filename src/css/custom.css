@@ -57,7 +57,7 @@ h2 {
 }
 
 .doc-hero-img {
-  @apply w-full h-auto mb-2 max-h-32 sm:max-h-40 md:max-h-48 lg:max-h-60 xl:max-h-64 object-cover;
+  @apply w-full h-auto -mt-4 2xl:mt-0 mb-4 max-h-32 xs:max-h-40 sm:max-h-48 md:max-h-56 lg:max-h-64 xl:max-h-72 object-cover;
 }
 
 .content-styling h3 {

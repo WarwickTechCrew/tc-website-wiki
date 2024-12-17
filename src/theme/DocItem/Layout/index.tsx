@@ -56,6 +56,14 @@ export default function DocItemLayout({ children }: Props): JSX.Element {
   const { metadata } = useDoc();
   return (
     <div className="row">
+      {doc.assets.image && (
+        <img
+          className="doc-hero-img"
+          src={doc.assets.image}
+          alt={((doc.frontMatter as any).image_alt as string) || doc.contentTitle}
+        />
+      )}
+
       <div className={clsx('col', !docTOC.hidden && styles.docItemCol)}>
         <ContentVisibility metadata={metadata} />
         <DocVersionBanner />
@@ -63,14 +71,6 @@ export default function DocItemLayout({ children }: Props): JSX.Element {
           <article>
             <DocBreadcrumbs />
             <DocVersionBadge />
-
-            {doc.assets.image && (
-              <img
-                className="doc-hero-img"
-                src={doc.assets.image}
-                alt={((doc.frontMatter as any).image_alt as string) || doc.contentTitle}
-              />
-            )}
 
             {docTOC.mobile}
             <DocResources isMobile />

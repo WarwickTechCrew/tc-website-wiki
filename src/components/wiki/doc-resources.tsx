@@ -60,15 +60,17 @@ function ShortlinkDiv({ isMobile, shortlinks }: { isMobile?: boolean; shortlinks
   }
 
   return (
-    <div className={`dark:bg-neutral-800 bg-gray-100 p-2 rounded-lg my-2 ${isMobile ? 'min-[997px]:hidden' : ''}`}>
+    <div
+      className={`dark:bg-neutral-800 bg-gray-100 p-2 rounded-lg my-2 overflow-hidden ${isMobile ? 'min-[997px]:hidden' : ''}`}
+    >
       <h2 className="text-sm uppercase mb-1 pl-1">Shortlink</h2>
-      <button className="flex gap-1 group text-left" onClick={copyShortlinkToClipboard}>
+      <button className="flex gap-1 group text-left max-w-full" onClick={copyShortlinkToClipboard}>
         {isCopied ? (
-          <FiCheck className="mt-1" />
+          <FiCheck className="mt-1 shrink-0" />
         ) : (
-          <FiCopy className="mt-1 group-hover:text-blue-800 dark:group-hover:text-cyan-500" />
+          <FiCopy className="mt-1 group-hover:text-blue-800 dark:group-hover:text-cyan-500 shrink-0" />
         )}
-        <p className={isMobile ? 'select-text' : 'text-sm select-text'}>
+        <p className={`select-text flex flex-wrap text-wrap break-all hyphens-none ${isMobile ? '' : 'text-sm'}`}>
           {url}/<span className="font-bold">{shortlinks[0]}</span>
         </p>
       </button>

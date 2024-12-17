@@ -3,12 +3,10 @@ description: 'The Residential Community Team hired us to run tech for their 2024
 additional_authors: Echo Vaughan
 sidebar_custom_props:
   emoji: 🌟
+image: ./banner-kishansharma.jpg
+image_alt: Banner image of arrivals stage
 ---
 # Arrivals Stage 2024
-
-<div class="img-full">
-![Banner image of arrivals stage](./banner-kishansharma.jpg)
-</div>
 
 In July 2024, we responded to [Residential Community Team](https://warwick.ac.uk/services/rescommunity/rct/) email about their Arrivals week stage.
 We offered to provide tech and operators for the event for them. Warwick Presents organised the hire of a [Stage Tech ST130 5x5x6m stage](https://www.stagetecheventhire.co.uk/small-trailer-stage.html), which we rigged with basically all of our lights and speakers.

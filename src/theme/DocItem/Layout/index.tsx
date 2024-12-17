@@ -1,10 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import { useWindowSize } from '@docusaurus/theme-common';
-import {
-  useDoc,
-  DocContextValue,
-} from '@docusaurus/plugin-content-docs/client';
+import { useDoc, DocContextValue } from '@docusaurus/plugin-content-docs/client';
 import DocItemPaginator from '@theme/DocItem/Paginator';
 import DocVersionBanner from '@theme/DocVersionBanner';
 import DocVersionBadge from '@theme/DocVersionBadge';
@@ -18,17 +15,14 @@ import type { Props } from '@theme/DocItem/Layout';
 import type { DocFrontMatter } from '@docusaurus/plugin-content-docs';
 
 import styles from './styles.module.css';
-import DocResources, {
-  Resource,
-} from '@site/src/components/wiki/doc-resources';
+import DocResources, { Resource } from '@site/src/components/wiki/doc-resources';
 
 function showDocResources(): boolean {
   const { frontMatter } = useDoc() as DocContextValue & {
     frontMatter: DocFrontMatter & { resources?: Resource[] };
   };
 
-  if (!frontMatter.resources || frontMatter.resources.length === 0)
-    return false;
+  if (!frontMatter.resources || frontMatter.resources.length === 0) return false;
   return true;
 }
 
@@ -45,8 +39,7 @@ function useDocTOC() {
   const mobile = canRender ? <DocItemTOCMobile /> : undefined;
 
   const desktop =
-    (canRender || showDocResources) &&
-    (windowSize === 'desktop' || windowSize === 'ssr') ? (
+    (canRender || showDocResources) && (windowSize === 'desktop' || windowSize === 'ssr') ? (
       <DocItemTOCDesktop />
     ) : undefined;
 
@@ -58,6 +51,7 @@ function useDocTOC() {
 }
 
 export default function DocItemLayout({ children }: Props): JSX.Element {
+  const doc = useDoc();
   const docTOC = useDocTOC();
   const { metadata } = useDoc();
   return (
@@ -69,6 +63,15 @@ export default function DocItemLayout({ children }: Props): JSX.Element {
           <article>
             <DocBreadcrumbs />
             <DocVersionBadge />
+
+            {doc.assets.image && (
+              <img
+                className="doc-hero-img"
+                src={doc.assets.image}
+                alt={((doc.frontMatter as any).image_alt as string) || doc.contentTitle}
+              />
+            )}
+
             {docTOC.mobile}
             <DocResources isMobile />
             <DocItemContent>{children}</DocItemContent>

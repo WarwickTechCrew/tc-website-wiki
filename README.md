@@ -83,6 +83,18 @@ These can be made full width by wrapping them in a `img-full` class div:
 </div>
 ```
 
+### Hero Images
+Hero images can be added to the top of a page by adding the following front matter:
+```yaml
+image: ./banner.jpg
+image_alt: Image alt text
+```
+
+These will be shown in link previous and at the top of the doc page. Note that this image will be resized to cover the
+full page width and will always be in a banner-like aspect ratio, so make sure the image is suitable for this (i.e.
+the most interesting part of the image should be in the vertical middle, and top/bottom cropping shouldn't cause an
+issue).
+
 ## Updating Shows
 Shows are stored in annual YAML files in `shows/`.
 

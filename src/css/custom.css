@@ -56,6 +56,10 @@ h2 {
   @apply font-bold text-xl;
 }
 
+.doc-hero-img {
+  @apply w-full h-auto mb-2 max-h-32 sm:max-h-40 md:max-h-48 lg:max-h-60 xl:max-h-64 object-cover;
+}
+
 .content-styling h3 {
   @apply font-bold text-lg;
 }

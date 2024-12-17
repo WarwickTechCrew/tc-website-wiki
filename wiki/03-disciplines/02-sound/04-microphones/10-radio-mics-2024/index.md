@@ -3,12 +3,10 @@ description: Proposal for new Tech Crew radio mic system purchase
 sidebar_custom_props:
     emoji: 🎤
 additional_authors: Ethan Graham
+image: ./mic-system.jpg
+image_alt: Sennheiser EW-DX Radio Mic System
 ---
 # Radio Mic System 2024
-
-<div class="img-full">
-![Sennheiser EW-DX Radio Mic System](mic-system.jpg)
-</div>
 
 Tech Crew is planning to purchase a new 8-channel Sennheiser EW-DX radio mic system before the start of the 
 2024/2025 academic year for the cost of £9,500. This is due to our current system, the Sennheiser EW300 G3, 

@@ -4,13 +4,11 @@ sidebar_custom_props:
   emoji: 🎤
 shortlinks:
   - sound
+image: ./banner-kishansharma.jpg
+image_alt: 2024 Intro To Tech Crew training sound station
 ---
 
 # Sound
-
-<div class="img-full">
-![2024 Intro To Tech Crew training sound station](./banner-kishansharma.jpg)
-</div>
 
 :::info
 Information about a Sound Designer's responsibilities throughout the show process can be found on the

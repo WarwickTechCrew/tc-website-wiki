@@ -4,26 +4,24 @@ import { useDocsVersion } from '@docusaurus/plugin-content-docs/client';
 import { getWikiUrlFromFileName } from '@site/src/lib/wiki';
 import type { PropVersionDocs } from '@docusaurus/plugin-content-docs';
 
-function getWikiPageFromFile(
-  fileName: string,
-  docs: PropVersionDocs,
-): { title: string; url: string } | null {
-  let url = getWikiUrlFromFileName(fileName, true);
-  if (!url) return null;
+function getWikiPageFromFile(fileName: string, docs: PropVersionDocs): { title: string; url: string } | null {
+  let id = getWikiUrlFromFileName(fileName, true);
+  if (!id) return null;
 
   // Remove trailing url
-  if (url.endsWith('/')) url = url.slice(0, -1);
+  if (id.endsWith('/')) id = id.slice(0, -1);
 
   // Strip wiki/ from start.
-  let id = url.slice(5);
+  id = id.slice(5);
 
   // Try and find doc
   let doc = docs[id];
   if (!doc) return null;
 
+  const url = getWikiUrlFromFileName(fileName);
   return {
     title: doc.title,
-    url: `/wiki/${doc.id.replace('/index', '')}`,
+    url: `/${url}`,
   };
 }
 
@@ -33,9 +31,7 @@ export default function WikiChangelog() {
     changelog: WikiChange[];
   };
   const changelogWithPages = changelog.map((change) => {
-    const pages = change.files
-      .map((file) => getWikiPageFromFile(file, version.docs))
-      .filter((page) => !!page);
+    const pages = change.files.map((file) => getWikiPageFromFile(file, version.docs)).filter((page) => !!page);
 
     // Remove duplicates
     const uniquePages = [];
@@ -56,10 +52,7 @@ export default function WikiChangelog() {
   return (
     <ul className="!ml-0">
       {changelogWithPages.map((change) => (
-        <li
-          key={change.hash}
-          className="mb-2 list-none flex flex-col md:flex-row gap-1"
-        >
+        <li key={change.hash} className="mb-2 list-none flex flex-col md:flex-row gap-1">
           <a
             className="text-xs text-neutral-600 font-bold uppercase mt-1.5 flex-shrink-0 group-hover:underline"
             href={`https://github.com/WarwickTechCrew/website/commit/${change.hash}`}

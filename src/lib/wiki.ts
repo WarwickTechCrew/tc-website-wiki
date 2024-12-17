@@ -1,16 +1,8 @@
-export function getWikiUrlFromFileName(
-  fileName: string,
-  keepFilenameIfDuplicate = false,
-): string | null {
+export function getWikiUrlFromFileName(fileName: string, keepFilenameIfDuplicate = false): string | null {
   // Get extension
   const extension = fileName.split('.').reverse()[0];
   const lowercaseExtension = extension.toLowerCase();
-  if (
-    lowercaseExtension !== 'md' &&
-    lowercaseExtension !== 'mdx' &&
-    lowercaseExtension !== 'tsx'
-  )
-    return null;
+  if (lowercaseExtension !== 'md' && lowercaseExtension !== 'mdx' && lowercaseExtension !== 'tsx') return null;
 
   // Remove extension
   let url = fileName.replace(`.${extension}`, '');

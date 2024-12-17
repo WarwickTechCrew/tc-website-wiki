@@ -15,6 +15,8 @@ shortlinks:
    - procurement
    - amazon
    - amazon-lockers
+   - parking
+   - cars
 ---
 # Logistics
 
@@ -116,3 +118,38 @@ Gibbet Hill Road
 Coventry
 CV4 7AL
 ```
+
+## Vehicles and Parking
+
+Mileage can be claimed if the car is used for society purposes. More information can be found on the
+[Finance Page](../06-finance/index.md).
+
+Cars can also be hired for free for business use by staff/PGRs, or at a discounted rate for students/staff/PGRs for
+personal use. More information can be found on the [Enterprise Car Club Scheme](./car-scheme.md) page.
+
+### Society Parking Permit
+Tech Crew is fortunate to have one car parking space which can be used to support our activities. This can be
+transferred to any Exec numberplate by the Tech Crew president on the
+[SU Car Parking Management Page](https://warwick.ac.uk/about/campus-journey/car-parking/su/societiesandsports/), under
+the following conditions:
+
+* Presidents are the only ones to have access to the form to change number plates.
+* If your society drives in an alternative vehicle, the account holder will need to resubmit this form with the updated
+  vehicle details, which will remove the existing record and replace it with the new vehicle registration.
+* Vehicles can register and park straight away but this cannot be changed again within the next 48 hours, for example,
+  if a vehicle is registered at 9:00 on Monday then that individual cannot change the vehicle again until 09:00 on
+  Wednesday.
+* Parking is restricted to one vehicle and the use of this system is purely for the purpose of the society or sports
+  club activities.
+* Only exec members can use the permit.
+
+
+### Society Parking Permit Pool
+All societies are also able to book parking permits out of a shared parking permit pool found on
+[this webpage](https://warwick.ac.uk/about/campus-journey/car-parking/pool_permits/). This has less restrictions
+than the Society Parking Permit and is open to all society members.
+
+### University Vehicle Parking
+All university vehicles (such as those on the [Staff/PGR Car Club Scheme](./car-scheme)) can park within general
+University car parks for free.
+

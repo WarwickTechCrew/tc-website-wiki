@@ -55,7 +55,7 @@ export default function DocItemLayout({ children }: Props): JSX.Element {
   const docTOC = useDocTOC();
   const { metadata } = useDoc();
   return (
-    <div className="row">
+    <div className="row wiki-docs">
       {doc.assets.image && (
         <img
           className="doc-hero-img"

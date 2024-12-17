@@ -165,3 +165,7 @@ svg {
   --ifm-alert-foreground-color: #532862;
   --ifm-alert-border-color: #ae27d6;
 }
+
+.medium-zoom-overlay, .medium-zoom-image--opened {
+  z-index: 300;
+}

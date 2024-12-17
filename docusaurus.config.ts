@@ -53,6 +53,7 @@ const config: Config = {
     './src/plugins/wiki-changelog.ts',
     './src/plugins/wiki-shortlinks.ts',
     ['@docusaurus/plugin-client-redirects', { redirects: redirectLinks }],
+    'plugin-image-zoom',
   ],
 
   presets: [
@@ -130,6 +131,16 @@ const config: Config = {
       indexName: 'warwicktechcrew-co',
       insights: true,
       searchPagePath: 'wiki/search',
+    },
+
+    imageZoom: {
+      selector: '.wiki-docs .content-styling img',
+
+      // Optional medium-zoom options
+      // see: https://www.npmjs.com/package/medium-zoom#options
+      options: {
+        margin: 24,
+      },
     },
   } satisfies Preset.ThemeConfig,
 

@@ -173,3 +173,7 @@ svg {
 .medium-zoom-overlay, .medium-zoom-image--opened {
   z-index: 300;
 }
+
+.medium-zoom-image--opened {
+  visibility: visible !important;
+}

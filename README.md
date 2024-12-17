@@ -115,6 +115,11 @@ terms:
 The exec information is stored in `src/components/home/the-exec.tsx`, at the array at the top of the file. Images 
 should be stored in `static/images/home/exec` and should ideally be compressed to 85% quality 300x300px jpegs.
 
+## Cloudflare Configuration and Rules
+Discord does a silly thing where if a link is followed with `!`, it will include the `!` in the link (which then causes
+the link to 404). To fix this, we have a Cloudflare redirect rule that removes the `!` from the end of any URL. This
+can be managed on the [Cloudflare dashboard](https://dash.cloudflare.com/).
+
 ## Running the Website Locally
 You will need to have installed Node.js v20 and NPM for this to work. If you haven't already done this, you can install the LTS version [here](https://nodejs.org/en/download).
 

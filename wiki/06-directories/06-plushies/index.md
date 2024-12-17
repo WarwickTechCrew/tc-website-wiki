@@ -23,7 +23,7 @@ Makka Pakka was gifted to Josh (Tech Crew Treasurer 23/24) at the start of the 2
 Tech Crew has never been the same.
 
 <figure>
-<div class="img-gallery">
+<div class="img-gallery img-small">
 ![Makka Pakka on stage with bubbles](./makka-pakka-arrivals-bubbles.jpg)
 ![Makka Pakka on stage at night](./makka-pakka-arrivals-night.jpg)
 ![Makka Pakka in the tech gazebo](./makka-pakka-arrivals-marquee.jpg)
@@ -54,15 +54,16 @@ to his growing popularity. He luckily escaped safely, but it was a grave reminde
 stardom.
 
 <figure>
-<div class="img-gallery">
+<div class="img-gallery img-small">
 ![Makka Pakka at the Christmas Lights project](./makka-pakka-xmas-lights.jpg)
 ![Makka Pakka on the CU Weekend Away stage](./makka-pakka-cu-weekend-away.jpg)
+![Makka Pakka doing tech at the CU Weekend Away](./makka-pakka-cu-tech-joshheng.jpg)
 </div>
 <figcaption>Makka Pakka at the Christmas Lights and CU Weekend Away hires</figcaption>
 </figure>
 
 <figure>
-<div class="img-gallery">
+<div class="img-gallery img-small">
 ![Makka Pakka being attacked](./makka-pakka-cu-2.jpg)
 ![Makka Pakka being attacked](./makka-pakka-cu-3.jpg)
 </div>
@@ -76,9 +77,10 @@ Barry the Baguette is one of Makka Pakka's closest friends. Wherever there is Ba
 to be close by.
 
 <figure>
-<div class="img-gallery">
+<div class="img-gallery img-small">
 ![Barry the Baguette and Makka Pakka operating the Arrivals Stage lighting desk](./barry-and-makka-pakka-arrivals.jpg)
 ![Barry the Baguette and Makka Pakka at the Arrivals Stage](./barry-and-makka-pakka-arrivals-2.jpg)
+![Barry the Baguette and Makka Pakka's interview](./barry-and-makka-pakka-arrivals-interview-joshheng.jpg)
 </div>
 <figcaption>Barry the Baguette and Makka Pakka at the Arrivals Sage</figcaption>
 </figure>
@@ -87,7 +89,11 @@ Barry also has a particular love for operating the [SQ5 Sound Desk](/wiki/discip
 perfectly at the top.
 
 <figure>
+<div class="img-gallery img-small">
 ![Barry the Baguette on the SQ5 at the Arrivals Stage](./barry-sq5-kishansharma.jpg)
+![Barry the Baguette on the SQ5 at the Arrivals Stage](./barry-arrivals-stage.jpg)
+</div>
+
 <figcaption>Barry the Baguette on the SQ5 at the Arrivals Stage</figcaption>
 </figure>
 

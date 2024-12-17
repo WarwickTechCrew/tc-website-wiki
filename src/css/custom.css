@@ -93,7 +93,11 @@ h2 {
 }
 
 .content-styling .img-gallery img {
-  @apply xs:h-72 xs:w-auto;
+  @apply xs:h-64 xs:w-auto;
+}
+
+.content-styling .img-small img {
+  @apply xs:h-48 xs:w-auto;
 }
 
 .content-styling img {

@@ -150,6 +150,6 @@ All societies are also able to book parking permits out of a shared parking perm
 than the Society Parking Permit and is open to all society members.
 
 ### University Vehicle Parking
-All university vehicles (such as those on the [Staff/PGR Car Club Scheme](./car-scheme)) can park within general
+All university vehicles (such as those on the [Staff/PGR Car Club Scheme](./car-scheme.md)) can park within general
 University car parks for free.
 

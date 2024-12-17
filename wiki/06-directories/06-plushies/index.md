@@ -97,6 +97,9 @@ full of important set research, swedish meatball consumption and battery buying,
 for Makka Pakka to find new friends.
 
 <figure>
+<div class="img-gallery">
 ![Makka Pakka's new friends after the IKEA trip](./great-ikea-trip-2024.jpg)
+![IKEA trip shopping trolleys](./great-ikea-trip-2024-2-stanleysimmons.jpg)
+</div>
 <figcaption>The result of the Great IKEA Trip of Term 1, 2024</figcaption>
 </figure>

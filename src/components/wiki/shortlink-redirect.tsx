@@ -19,9 +19,7 @@ export default function ShortlinkRedirect({ shortlink, hash }: { shortlink: Wiki
       <Head>
         <link rel="canonical" href={shortlink.url} />
         <meta property="og:url" content={shortlink.url} />
-        <noscript>
-          <meta http-equiv="refresh" content={`0; url=${url}`} />
-        </noscript>
+        <meta http-equiv="refresh" content={`1; url=${url}`} />
       </Head>
       <header className="max-w-screen-2xl mx-auto px-4">
         <h1 className="text-3xl font-bold my-2 text-center">{shortlink.title}</h1>

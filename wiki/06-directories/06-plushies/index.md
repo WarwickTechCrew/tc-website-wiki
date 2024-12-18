@@ -7,6 +7,8 @@ shortlinks:
     - plushies
     - friends
 sidebar_label: Makka Pakka & Friends
+image: ./plushies-banner-joshheng.jpg
+image_alt: Makka Pakka and Barry the Baguette's interview at the Arrivals Stage 2024
 ---
 # Makka Pakka & Friends Directory
 

@@ -74,15 +74,67 @@ After panel, there can be three outcomes (which are emailed to the Producer):
 * **📃 Producer**: Let the tech team and Tech Crew Exec know the outcome and any feedback from panel ASAP.
 :::
 
-## WAC Meetings and Communication
+## Meetings and Communication
+
+:::info
+**Meeting Responsibilities**:
+* **🧑‍💼 Technical Manager**: Collect availability and organise the meetings.
+* **💡🎤🎨 Designers**: Attend the meetings and share and discuss your ideas.
+* **📃 Producer**: Attend the meetings to clarify any production or admin questions.
+* **🎬 Director**: Attend the meetings to clarify any directorial questions.
+* **?? Musical Director**: Attend the meetings to clarify any musical questions.
+  :::
+
+### Internal Meetings
+
+After the team is assigned, it is important to have an initial meeting to introduce everyone and discuss the show.
+This should include all the HoDs for tech and production (including directors and MDs), where everyone can talk
+about their initial ideas and formulate some additional ideas.
+
+During these meetings, you should:
+* Formulate and discuss ideas for the show
+* Ask Tech Crew to obtain a quote
+
+### WAC Meetings
 
 Throughout the process, it is important to regularly get in contact with our technical representatives at the
 Warwick Arts Centre as they have a wealth of experience.
-If they don't know the answer, they'll know who to forward it to. They can be contacted via email, however it is often better to schedule regular meetings with them.
+If they don't know the answer, they'll know who to forward it to. They can be contacted via email, however it is often
+better to schedule regular meetings with them.
 
+During these meetings, you should:
+* Give the WAC a general overview of the ideas and designs
+Talk with the WAC to obtain an equipment quote
+* Talk with the WAC carpenter about set design to obtain a set quote
+* Formulate a budget, including WAC-sourced equipment, TC-sourced equipment and externally-sourced
+  equipment.
+* Discuss seating capacity and layout
+* Discuss any safety concerns
+
+## Budget
 :::info
-**WAC Meeting Responsibilities**:
-* **🧑‍💼 Technical Manager**: Collect availability and organise the meetings.
-* **💡🎤🎨 Designers**: Attend the meetings and share and discuss your ideas.
-* **🎬 Director**: Attend the meeting to clarify any questions.
+**Budget Responsibilities**:
+* **🧑‍💼 Technical Manager**: Oversee the technical budget.
+* **💡🎤🎨 Designers**: Obtain quotes and fill in costs for your department.
+* **📃 Producer**: Oversee the whole show budget.
 :::
+
+The budget is a key part to the pack and should be overseen by the Technical Manager in combination with the
+producer(s). This should loosely stay the same for the entire production period.
+
+In general, a budget should be formulated as follows:
+1. The TM should ask the designers what they would want in an ideal world. These prices should be obtained
+   from quotes from the WAC/TC and external suppliers.
+2. The TM should discuss this budget with the producer(s), and go back to the designers with what is possible.
+3. Throughout the process, the TM should lease with producers and designers to ensure that everyone is happy with the
+   budget.
+
+A few tips for budgeting include:
+* Make sure to include the Working with Tech Crew charge, which covers consumables etc. This is £40 for a show.
+* Make sure to include a contingency of 10/20% for every department.
+* Quotes are preferable to estimates, and should be aimed for when the pack goes to panel.
+* The break-even point refers to the percentage of seats that need to be sold to make a profit. This should often be
+  around 65% for the entire show.
+* [Tech Crew Co-Productions](../../01-tech-crew/06-finance/02-coproductions/index.md) are available to provide partial
+  funding for a unique technical vision. However, these do not change your overall budget or break-even - TC expects
+  this money back, whilst accepting partial responsibility for any loss/profit.

@@ -69,11 +69,11 @@ h2 {
 }
 
 .content-styling ul {
-  @apply list-disc ml-2;
+  @apply list-disc ml-2 mb-3;
 }
 
 .content-styling ol {
-  @apply list-decimal ml-2;
+  @apply list-decimal ml-2 mb-3;
 }
 
 .content-styling blockquote {

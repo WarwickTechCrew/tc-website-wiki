@@ -2,6 +2,11 @@
 description: We ran the tech for Warwick Presents` Christmas lights switch-on
 sidebar_custom_props:
   emoji: 🎄
+shortlinks:
+  - christmas
+  - christmas-2024
+image: ./banner-joshheng.jpg
+image_alt: The Christmas Lights Switch-on 2024
 ---
 
 # Christmas Lights Switch-on 2024

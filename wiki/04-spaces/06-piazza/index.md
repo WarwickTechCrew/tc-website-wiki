@@ -11,6 +11,8 @@ resources:
     author: Warwick Food Group
 shortlinks:
   - piazza
+image: ./banner-joshheng.jpg
+image_alt: The Piazza during the Christmas Lights Switch-on 2024
 ---
 # Piazza / Benefactors Place
 The Piazza is the outdoor space in front of the Rootes Building, and Benefactors Place is the area next to it with the

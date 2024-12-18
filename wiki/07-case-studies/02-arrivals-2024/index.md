@@ -3,6 +3,11 @@ description: 'The Residential Community Team hired us to run tech for their 2024
 additional_authors: Echo Vaughan
 sidebar_custom_props:
   emoji: 🌟
+shortlinks:
+  - arrivals
+  - arrivals-2024
+  - arrivals-stage
+  - arrivals-stage-2024
 image: ./banner-kishansharma.jpg
 image_alt: Banner image of arrivals stage
 ---

@@ -2,6 +2,10 @@
 description: All about our portable flight cases.
 sidebar_custom_props:
   emoji: 🚋
+shortlinks:
+  - flight-cases
+image: ./banner-joshheng.jpg
+image_alt: Flight cases during WSAF 2024
 ---
 # Flight Cases
 

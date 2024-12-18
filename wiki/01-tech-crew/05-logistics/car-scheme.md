@@ -19,6 +19,14 @@ The [Enterprise Car Club Scheme](https://warwick.ac.uk/services/estates/transpor
 Transport & Mobility team which allows staff and PGR students to hire cars on campus for personal (discounted) or
 business (free) use.
 
+:::lore
+Warwick SU used to have a free minibus that was available for society and sports club use with the use of a [University
+Student Driver's card](https://www.warwicksu.com/news/article/warwicksu/University-Student-Drivers-Card-new-process-for-exec-members/).
+This service no longer exists, and the Enterprise Car Club scheme is the closest alternative. Theories for the
+discontinuation of the minibus service include a [society](https://www.warwicksu.com/societies-sports/societies/13984/)
+driving it to Romania and selling the bus there (although this was never confirmed).
+:::
+
 ## Staff/PGR Business Use (Free)
 > The Car Club scheme is available to University Staff and PGR's with access to two fully electric and two hybrid
 > vehicles, which can be booked free of charge for business travel only. The cars are supplied and maintained by

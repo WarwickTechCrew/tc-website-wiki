@@ -109,8 +109,8 @@ The winch bars are drill driven and have a max capacity of 250kg.
 
 The studio comes stock with:
 
-- 2x Meyer UPA (Main PA "tops")
-- 2x Meyer USW (Subwoofer)
+- 2x Meyer UPA-1P (Main PA "tops")
+- 2x Meyer USW-1P (Subwoofer)
 - 1x DiGiCo S21 in the control room (this can be moved to Front of House for a small fee)
 
 ### Patch Panels

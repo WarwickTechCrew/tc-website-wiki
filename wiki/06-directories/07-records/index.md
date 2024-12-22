@@ -6,7 +6,7 @@ shortlinks:
   - records
   - records-directory
 ---
-# Records
+# Tech Crew Records
 
 This page lists a number of records set in Tech Crew
 

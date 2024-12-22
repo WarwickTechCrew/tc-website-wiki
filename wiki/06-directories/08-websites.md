@@ -7,6 +7,7 @@ shortlinks:
     - groups
     - facebook-groups
     - fb-groups
+sidebar_label: Websites & Groups
 ---
 # Websites & Groups Directory
 
@@ -20,3 +21,5 @@ This directory lists useful/fun AV websites and Facebook groups.
 AV Rigging Disasters contains lots of funny posts of tech and rigging
 going wrong. It frequently contains videos of massive stages and line
 arrays being blown around.
+
+### Everything Stage Lighting

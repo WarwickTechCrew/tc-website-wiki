@@ -15,7 +15,7 @@ This page lists a number of records set in Tech Crew
 
 <figure>
     <div class="img-gallery img-small">
-    ![The complete Godspell set](./godspell-parcans-joshheng.jpg)
+    ![The complete Godspell set](./godspell-parcans-niamhboyle.jpg)
     ![The Godspell set with worker lights on](./godspell-parcans-kishansharma.jpg)
     </div>
     <figcaption>Ben's PAR can wall during Godspell.</figcaption>

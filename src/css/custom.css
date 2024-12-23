@@ -48,6 +48,10 @@ figcaption {
   @apply text-xs;
 }
 
+figure {
+  @apply mb-1;
+}
+
 .content-styling h1 {
   @apply text-2xl font-bold !mb-2;
 }
@@ -85,6 +89,10 @@ h2 {
 }
 
 .content-styling figure .img-gallery p {
+  @apply mb-0;
+}
+
+.content-styling figure .img-small p {
   @apply mb-0;
 }
 

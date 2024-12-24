@@ -3,7 +3,7 @@ description: A brief summary of the equipment we stock
 sidebar_custom_props:
   emoji: 💡
 ---
-# Equipment
+# Equipment and Consumables
 
 We currently stock the following inventory, pending availability. If there's something you need that isn't listed, 
 please also check the internal equipment/pricing list (linked on the

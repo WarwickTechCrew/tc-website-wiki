@@ -1,7 +1,8 @@
 import { LoadContext, ParseFrontMatter, Plugin } from '@docusaurus/types';
 import { parseMarkdownFile } from '@docusaurus/utils';
 import fs from 'fs/promises';
-import { getWikiUrlFromFileName } from '../lib/wiki';
+import pathlib from 'path';
+import { getWikiUrlOrIdFromFileName } from '../lib/wiki';
 
 export type SectionShortlink = {
   shortlink: string;
@@ -12,6 +13,7 @@ export type WikiShortlinkContent = {
   title: string;
   description: string;
   url: string;
+  id: string;
 
   shortlinks: string[];
   sectionShortlinks: SectionShortlink[];
@@ -36,7 +38,7 @@ async function loadWikiPageShortlinks(
   });
   if (!content.frontMatter.shortlinks) return null;
 
-  let url = getWikiUrlFromFileName(path);
+  let url = getWikiUrlOrIdFromFileName(path);
   if (!url) return null;
 
   // Remove trailing url
@@ -60,11 +62,13 @@ async function loadWikiPageShortlinks(
       });
     }
   }
+  console.log(content);
 
   return {
     url: `${siteUrl}/${url}`,
     title: content.contentTitle,
     description: (content.frontMatter?.description as string) || content.excerpt,
+    id: getWikiUrlOrIdFromFileName(path, true),
     shortlinks: content.frontMatter.shortlinks as string[],
     sectionShortlinks,
   };

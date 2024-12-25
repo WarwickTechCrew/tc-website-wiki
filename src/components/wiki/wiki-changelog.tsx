@@ -1,24 +1,18 @@
 import { WikiChange } from '@site/src/lib/git';
 import { usePluginData } from '@docusaurus/core/lib/client/exports/useGlobalData';
 import { useDocsVersion } from '@docusaurus/plugin-content-docs/client';
-import { getWikiUrlFromFileName } from '@site/src/lib/wiki';
+import { getWikiUrlOrIdFromFileName } from '@site/src/lib/wiki';
 import type { PropVersionDocs } from '@docusaurus/plugin-content-docs';
 
 function getWikiPageFromFile(fileName: string, docs: PropVersionDocs): { title: string; url: string } | null {
-  let id = getWikiUrlFromFileName(fileName, true);
+  let id = getWikiUrlOrIdFromFileName(fileName, true);
   if (!id) return null;
-
-  // Remove trailing url
-  if (id.endsWith('/')) id = id.slice(0, -1);
-
-  // Strip wiki/ from start.
-  id = id.slice(5);
 
   // Try and find doc
   let doc = docs[id];
   if (!doc) return null;
 
-  const url = getWikiUrlFromFileName(fileName);
+  const url = getWikiUrlOrIdFromFileName(fileName);
   return {
     title: doc.title,
     url: `/${url}`,

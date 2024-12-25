@@ -16,7 +16,14 @@ image_alt: Banner image of arrivals stage
 In July 2024, we responded to [Residential Community Team](https://warwick.ac.uk/services/rescommunity/rct/) email about their Arrivals week stage.
 We offered to provide tech and operators for the event for them. Warwick Presents organised the hire of a [Stage Tech ST130 5x5x6m stage](https://www.stagetecheventhire.co.uk/small-trailer-stage.html), which we rigged with basically all of our lights and speakers.
 The event get in was Wednesday 18th Sep 2024, and events ran for the following 4 days.
-We had performances from Folk soc, African and Caribbean Society, Acapella, MTW, Brass, Band soc, Bass and panels from community safety, report + support and more.
+
+<figure>
+![The Arrivals Stage 2024 team on Saturday night](./team.jpg)
+<figcaption>The Arrivals Stage 2024 team on Saturday night</figcaption>
+</figure>
+
+We had performances from Folk soc, African and Caribbean Society, Acapella, MTW, Brass, Band soc, Bass and panels from
+community safety, report + support and more.
 
 ![Full schedule of the event](./schedule.png)
 

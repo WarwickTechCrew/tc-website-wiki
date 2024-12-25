@@ -33,6 +33,11 @@ In the end, we were able to provide a full technical package including:
 * A live video broadcast to the Big Screen of the stage performances, including aerial drone coverage.
 * A livestream of the event to the [University of Warwick's YouTube channel](https://www.youtube.com/watch?v=N6hUAOEnH8Q)
 
+<figure>
+![The Christmas Lights Switch-on 2024 team](./team-andrewmaddison.jpg)
+<figcaption>The Christmas Lights Switch-on 2024 team during the get-out</figcaption>
+</figure>
+
 ## Venue and Stage
 <div class="img-full">
   ![Final site plan for the event](./christmas-site-plan.svg)
@@ -74,7 +79,6 @@ Sound was operated using the SQ5 from the FoH mixing tent.
 - 2x LVX 8
 - 2x Mackie SRMv350 & stands
 - Line array: Nexo NX Amp 4X4, 5x Geo S1210, 1x Geo S1230
-
 - 1x J48 Stereo DI
 - 2x AR-133 Active DI box
 - 2x T.bone SC140 condenser

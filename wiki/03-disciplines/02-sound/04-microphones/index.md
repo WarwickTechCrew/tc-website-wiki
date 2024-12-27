@@ -5,6 +5,9 @@ sidebar_custom_props:
 shortlinks:
     - mics
     - microphones
+    - di
+    - dibox
+    - phantompower
 ---
 
 # Microphones & DI

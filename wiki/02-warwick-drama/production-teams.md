@@ -6,7 +6,7 @@ description: test
 
 ## Directors
 
-Responsible for the overal creative vision of the show, making the final decisions about design aspects of the production process.
+Responsible for the overall creative vision of the show, making the final decisions about design aspects of the production process.
 They keep a high level view of the entire team, and offer guidance and feedback to performers and crew.
 
 ## Producers

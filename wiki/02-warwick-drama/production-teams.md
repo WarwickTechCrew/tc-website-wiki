@@ -11,7 +11,7 @@ They keep a high level view of the entire team, and offer guidance and feedback 
 
 ## Producers
 
-Producers work to make the directors vision a reality. They organise rehersal schedules, secure the show rights, and check in and keep all departments on track.
+Producers work to make the directors vision a reality. They organise rehearsal schedules, secure the show rights, and check in and keep all departments on track.
 They do a very large amount of work, filling in the gaps and making sure everything gets completed on time within the directors requirements.
 
 ## Publicity Designer

@@ -74,7 +74,7 @@ The main LR on this desk has a scale from 0 to -infinity (instead of the normal 
 
 ![Soundcraft Si expression 3](./si-expression-3-kishansharma.jpg)
 
-This desk has the most onboard preamps (32!) out of all the desks we own. It also has super cool RGB backlit faders. The fader colour represents what type each channel is (Group, DCA, FX ect).
+This desk has the most onboard preamps (32!) out of all the desks we own. It also has super cool RGB backlit faders. The fader colour represents what type each channel is (Group, DCA, FX etc).
 However, the flightcase is pretty massive and its heavy, please don't try unpack this desk on your own! (speaking from experience..) Its also the only desk we own that still has its dust cover lol.
 
 :::lore

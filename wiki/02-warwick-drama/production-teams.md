@@ -3,10 +3,23 @@ description: test
 ---
 
 # Production Teams
-## Marketing & Publicity
-The difference between marketing and publicity can often be misunderstood with them often working so closely together.
-### Publicity work:
-publicity work involves the physical creation of marking media, this could mean drawing (by hand or computer) all elements of art used throughout the marketing campaign. It is the creative side of marketing focused on the artists and aesthetic vision for the campaign rather than the physical approach to marketing the show.
-### Marketing work
-the marketing team are focused on running the physical advertisements of the show, this could mean post schedules for social media and  social media stories. Or physical advertising through posters or on-campus screen
-The marketing and Publicity managers work closely together with the publicity manager creating the media to post used in marketing by the marketing manager.
+
+## Directors
+
+Responsible for the overal creative vision of the show, making the final decisions about design aspects of the production process.
+They keep a high level view of the entire team, and offer guidance and feedback to performers and crew.
+
+## Producers
+
+Producers work to make the directors vision a reality. They organise rehersal schedules, secure the show rights, and check in and keep all departments on track.
+They do a very large amount of work, filling in the gaps and making sure everything gets completed on time within the directors requirements.
+
+## Publicity Designer
+
+This role involves the physical creation of the marketing designs and artwork, using drawing or digital art software.
+They focus on the aesthetic and artistic vision for the overall campaign.
+
+## Marketing Manager
+
+The marketing team are focused on the logistics of running the advertisements of the show.
+This could mean scheduling social media posts, creating or filming stories, or ordering and displaying physical advertising through posters or on-campus screen.

@@ -11,17 +11,17 @@ shortlinks:
 # Sound Desks
 
 We currently own 5 sound desks! The SQ5, DM12, E12, Si Expression 3, and the O1V96. 
-This page also talks about WAC's S12, and the Guilded Baloons LS9.
+This page also talks about the DiGiCo S21 which is used in WAC and FAB, and the Guilded Baloons LS9.
 
 ## Allen&Heath SQ5
 
 ![Picture of the SQ5 with barry the baugette](./sq5-baguette-kishansharma.jpg)
 
-This is the fanciest sound desk that Tech Crew own! It's a digital mixing desk that can handle 48 channels, 16 preamps
+This is the fanciest and newest sound desk that Tech Crew own! Bought in January 2023, it's a digital mixing desk that can handle 48 channels, 16 preamps
 and 12 line outputs. The tech crew iPad can be used to
 [mix this desk remotely](/wiki/disciplines/general/networking#sq5-audio-mixer) while walking around the venue. The desk
 has dedicated knobs for all processing which makes it quick to navigate and use during live mixing. This is the desk we
-use for MTW improv and all substantial sound activities outside of WAC!
+use for all substantial sound activities outside of WAC! You can use this for WAC shows too if you (like me) prefer it over the S21.
 
 :::warning
 
@@ -34,12 +34,15 @@ S21 instead.
 
 ![Digico S21](./carmen-2024-mascot.jpg)
 
-This is the desk found all over WAC. 48 channels, 16 onboard preamps, 12 outputs. It has maximal touchscreen minimal
-physical buttons/knobs. You can request one with a Dante card. See its
-[datasheet](https://digico.biz/wp-content/uploads/2020/04/DiGiCo-S21-Data-Sheet-1.pdf)! Note that this desk gets a bit
+This is the digital sound desk found all over WAC and FAB. 48 channels, 16 onboard preamps, 12 outputs. 
+It has maximal touchscreen minimal physical buttons/knobs.
+Supposedly more beginner friendly, with the touchscreens having nicer diagrams for how audio is being routed about the desk.
+You can request to use one with a Dante card from WAC.
+See its [datasheet](https://digico.biz/wp-content/uploads/2020/04/DiGiCo-S21-Data-Sheet-1.pdf)! Note that this desk gets a bit
 laggy if you cram too many scenes into it (you know who you are). Would recommend looking into TheatreMix if you want to
 mix on DCA's during a show! It is suspected WAC and FAB own about 12 of these sound desks, alongside an S31 (which has
 slightly more channels).
+WAC also own an S31, which just has more channels if you need.
 
 :::lore
 
@@ -63,19 +66,20 @@ desk through one of the stereo input channels (green fader). ~~Sadly the channel
 
 ![Soundcraft Spirit E12](./soundcraft-spirit-e12-kishansharma.jpg)
 
-Our second analogue desk, with four extra inputs, and the capability for any channel to be either stereo or mono! The
-main LR on this desk has a scale from 0 to -infinity, this doesn't affect anything in a meaningful way.. but I guess
-that's something about this desk.
+Our second analogue desk, with four more inputs than the DM12, and the capability for any channel to be either stereo or mono! 
+Thats done by either using the XLR for a mono channel, or using both jacks for stereo audio. 
+The main LR on this desk has a scale from 0 to -infinity (instead of the normal design of +10 to -infinity), this doesn't affect anything in a meaningful way... but I guess that's something to say about this desk.
 
 ## Soundcraft Si Expression 3
 
 ![Soundcraft Si expression 3](./si-expression-3-kishansharma.jpg)
 
-This desk has the most onboard preamps (32!) out of all the desks we own. It also has super cool RGB backlit faders. However, the flightcase is pretty massive and its heavy, please don't try unpack this desk on your own! Its also the only desk we own that still has its dust cover lol.
+This desk has the most onboard preamps (32!) out of all the desks we own. It also has super cool RGB backlit faders. The fader colour represents what type each channel is (Group, DCA, FX ect).
+However, the flightcase is pretty massive and its heavy, please don't try unpack this desk on your own! (speaking from experience..) Its also the only desk we own that still has its dust cover lol.
 
 :::lore
 
-This desk is called Sibyl! We are trying to sell Sibyl. They take up too much space in the cupboard! and are not very practical to use :(
+This desk is called Sibyl! We are trying to sell Sibyl. They take up too much space in the cupboard! and are not very practical to use compared to the SQ5 :(
 
 :::
 
@@ -91,7 +95,7 @@ our simpler analogue desks. We keep this desk around for training as it is simil
 ![Yamaha LS9](./LS9-fringe-joshheng.jpg)
 
 This is the sound desk installed in the Gilded Balloon's Big Yin, the MTW Improv Musical's fringe venue for the last few
-years (as of 24/25). We dont own one of these, so we use our O1V96 to practice for fringe mixing, given its similarity (same manufacturer) to the LS9.
+years (as of 24/25). We dont own one of these, so we have used our O1V96 to practice for fringe mixing, given its similarity (same manufacturer) to the LS9.
 See how the tape colours correspond to the performers teeshirt colour!
 
 ## Glossary

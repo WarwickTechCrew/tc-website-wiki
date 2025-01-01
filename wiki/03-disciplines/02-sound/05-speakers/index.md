@@ -22,7 +22,7 @@ Such as our [LVX-8](https://www.dbtechnologies.com/en/products/lvx/lvx-8/), WAC'
 
 ## Passive speakers
 
-These speakers do not contain an amplifer in their housing, so require an amp to be setup (and connected to power) somewhere else.
+These speakers do not contain an amplifier in their housing, so require an amp to be setup (and connected to power) somewhere else.
 The amp is normally in the rack room (so you'll need a WAC staff to turn the amps on for you each day), or for live stages at the front of house tent.
 They normally take speakon connectors as input, as these cables can carry the boosted audio signal from the amp to the driver in the speaker.
 Such as: our line array, WAC theatre/studio PA, MTW's passive speaker. 

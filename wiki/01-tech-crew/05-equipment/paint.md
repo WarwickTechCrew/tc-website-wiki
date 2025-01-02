@@ -11,6 +11,8 @@ shortlinks:
 
 Tech Crew owns a variety of paints and paint supplies which are stored in the [COSHH Cupboard](../03-storage/coshh/index.md).
 
+![paint on the floor](./pain-paint-dannyturner.jpg)
+
 :::info
 Please keep the COSHH cupboard tidy and organised according to the [COSHH Guidelines](../03-storage/coshh/index.md).
 Please ensure that all paint is sealed so that it can be reused in the future, and wash any brushes etc. thoroughly.

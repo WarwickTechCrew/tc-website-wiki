@@ -4,6 +4,13 @@ sidebar_custom_props:
   emoji: 🚋
 shortlinks:
   - flight-cases
+  - flightcase
+  - gibby
+  - flo
+  - boris
+  - dave
+  - steve
+  - percy
 image: ./banner-joshheng.jpg
 image_alt: Flight cases during WSAF 2024
 ---

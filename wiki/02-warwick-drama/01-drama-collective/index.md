@@ -30,7 +30,7 @@ was formed to be a larger negotiating body for its constituent societies.
 For example:
 
 - [WAC allocates 2 show slots](../warwick-drama/shows#wac-show-slots) to the DC each term. Without the DC, none of the constituent societies would have the resources to put on 2 shows a term themselves. The DC production manager runs a panel for each of these slots. Show teams can submit packs to DC panel, once they get backing from one of the DC societies.
-- The DC also provide "cupboard manager" exec roles to organise and upkeep its two storage locations, the [DC cupboard](../tech-crew/storage#the-dc-cupboard) in WAC, and the [Avon cupboard](../tech-crew/storage#the-avon-cupboard).
+- The DC also provide "cupboard manager" exec roles to organise and upkeep its two storage locations, the [DC cupboard](../tech-crew/storage/dc-cupboard) in WAC, and the [Avon cupboard](../tech-crew/storage/other-storage#the-avon-cupboard).
 - The DC has a [constitution](https://www.warwicksu.com/resources/dramacollective/Drama-Collective-Constitution-updated-2023/) that all its societies are meant to follow.
 - The DC often put on a joint ball at the end of the year, in term 3.
 

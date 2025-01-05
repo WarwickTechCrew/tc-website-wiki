@@ -201,7 +201,7 @@ export default function wikiShortlinksPlugin(context: LoadContext): Plugin {
 
           for (const shortlink of shortlinkContent.sectionShortlinks) {
             redirects.push({
-              from: `/${shortlink}`,
+              from: `/${shortlink.shortlink}`,
               to: `${shortlinkContent.url}#${shortlink.hash}`,
               code: '301', // Permanent redirect, pass SEO ranking
             });

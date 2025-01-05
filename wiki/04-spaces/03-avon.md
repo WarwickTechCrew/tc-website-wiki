@@ -12,7 +12,7 @@ Avon has been host to:
 
 - [The 23/24 MTW Improv Campus shows](/wiki/07-case-studies/01-mtw-improv/index.mdx)
 - MTW Stagefest
-- [The Avon storage cupboard!](/wiki/tech-crew/storage#the-avon-cupboard)
+- [The Avon storage cupboard!](/wiki/tech-crew/storage/other-storage/#the-avon-cupboard)
 
 :::lore
 

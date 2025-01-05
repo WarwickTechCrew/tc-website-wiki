@@ -192,3 +192,7 @@ npm run lint:fix
 ```
 
 If you are using an editor such as IntelliJ or VSCode, I'd recommend setting your editor to automatically run this whenever you save, and fix any issues.
+
+## Deployment
+
+This website is deployed on Cloudflare Pages on the Warwick Tech Crew Cloudflare account.

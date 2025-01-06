@@ -3,7 +3,9 @@ description: How to fix (pressure) boilers.
 sidebar_custom_props:
     emoji: 🔥
 shortlinks:
-   - boiler
+  - boiler
+additional_authors:
+  - Stanley Simmons
 ---
 
 # Boiler Maintenance

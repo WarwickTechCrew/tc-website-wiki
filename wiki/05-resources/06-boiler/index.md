@@ -4,6 +4,7 @@ sidebar_custom_props:
     emoji: 🔥
 shortlinks:
   - boiler
+  - boilers
 additional_authors: Stanley Simmons
 ---
 

@@ -4,8 +4,7 @@ sidebar_custom_props:
     emoji: 🔥
 shortlinks:
   - boiler
-additional_authors:
-  - Stanley Simmons
+additional_authors: Stanley Simmons
 ---
 
 # Boiler Maintenance

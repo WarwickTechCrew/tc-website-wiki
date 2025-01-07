@@ -20,11 +20,6 @@ rehearsal/studio spaces.
 
 ## [G55](https://warwick.ac.uk/services/its/servicessupport/av/lecturerooms/roominformation/g55)
 
-### [Timetable](https://timetablingmanagement.warwick.ac.uk/SWS2425/roomtimetable.asp?id=g55)
-
-<iframe width="100%" height="350px" src="https://timetablingmanagement.warwick.ac.uk/SWS2425/roomtimetable.asp?id=g55">
-</iframe>
-
 ### Technical Information
 
 As a purpose built drama space, the room offers a lot of useful amenities (very similar to FAB studios, just a bit

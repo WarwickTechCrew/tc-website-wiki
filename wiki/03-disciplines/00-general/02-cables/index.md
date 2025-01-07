@@ -14,7 +14,7 @@ shortlinks:
 While at Tech Crew, you will come across **a lot** of different types of cables. This page should help you identify
 them!
 
-Most Tech Crew cables are stored in the [DC Cupboard](/wiki/tech-crew/storage#the-dc-cupboard), on the cable wall. Some
+Most Tech Crew cables are stored in the [DC Cupboard](/wiki/tech-crew/storage/dc-cupboard), on the cable wall. Some
 less commonly-used cables may be stored in drawers or storage crates in the cupboard.
 
 <figure>

@@ -4,6 +4,13 @@ sidebar_custom_props:
   emoji: 🚋
 shortlinks:
   - flight-cases
+  - flightcase
+  - gibby
+  - flo
+  - boris
+  - dave
+  - steve
+  - percy
 image: ./banner-joshheng.jpg
 image_alt: Flight cases during WSAF 2024
 ---
@@ -15,7 +22,7 @@ brought out for shows or large hires.
 ## Percy (they/she)
 
 Percy is our production flight case, which is stored
-[under the stairs leading up to the DC cupboard](/wiki/tech-crew/storage#the-under-stairs-cupboard). Percy contains:
+[under the stairs leading up to the DC cupboard](/wiki/tech-crew/storage/other-storage#the-under-stairs-cupboard). Percy contains:
 
 * LX tape
 * Tools
@@ -68,7 +75,7 @@ being a really convenient movable seat/workbench.
 Boris is a cable trunk but has never seen active use with cables. For many years she sat dormant with old 15 and 16amp
 cables that were entirely unused, as well as an ominous "needs testing/fixing" cables section. In the 2023 maintenance
 week, it was decided that they would be more useful as a generic case for dumping random stuff in, and the dividers were
-removed, with the hope of moving it to the [Avon cupboard](/wiki/tech-crew/storage#the-avon-cupboard) and
+removed, with the hope of moving it to the [Avon cupboard](/wiki/tech-crew/storage/other-storage#the-avon-cupboard) and
 fitting a padlock to it for secure Tech Crew storage there (as there was an expectation that we would be able to use a
 forklift on a regular basis).
 
@@ -91,7 +98,7 @@ Uses for Boris:
 </div>
 
 Steve is our snake flight case, stored
-[under the stairs leading up to the DC cupboard](/wiki/tech-crew/storage#the-under-stairs-cupboard). 
+[under the stairs leading up to the DC cupboard](/wiki/tech-crew/storage/other-storage#the-under-stairs-cupboard). 
 
 He contains:
 * 1x 16/8 analogue snake

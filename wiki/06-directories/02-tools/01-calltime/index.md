@@ -4,6 +4,8 @@ sidebar_custom_props:
     emoji: ⏰
 shortlinks:
   - calltime
+image: ./calltime-schedule.png
+image_alt: Screenshot of the calltime user interface
 ---
 # CallTime
 [CallTime](https://www.calltime.online/) is the recommended tool for scheduling rehearsals. Each show will generally

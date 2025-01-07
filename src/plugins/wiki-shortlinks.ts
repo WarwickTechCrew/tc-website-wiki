@@ -1,4 +1,4 @@
-import { LoadContext, ParseFrontMatter, Plugin } from '@docusaurus/types';
+import { LoadContext, ParseFrontMatter, Plugin, Props } from '@docusaurus/types';
 import { parseMarkdownFile } from '@docusaurus/utils';
 import fs from 'fs/promises';
 import { getWikiUrlFromFileName } from '../lib/wiki';
@@ -139,6 +139,81 @@ export default function wikiShortlinksPlugin(context: LoadContext): Plugin {
           });
         }
       }
+    },
+    async postBuild(props: Props) {
+      // Create Cloudflare _redirects file
+      console.log(props.outDir);
+
+      type Redirect = {
+        from: string;
+        to: string;
+        code: '302' | '301';
+      };
+
+      const redirects: Redirect[] = [];
+
+      // Create redirect plugin redirects
+      const clientRedirectsPlugin = props.plugins.find(
+        (plugin) => plugin.name === 'docusaurus-plugin-client-redirects',
+      );
+      if (clientRedirectsPlugin) {
+        const clientRedirects = clientRedirectsPlugin.options.redirects as {
+          from: string | string[];
+          to: string;
+        }[];
+
+        for (const redirect of clientRedirects) {
+          let destination = redirect.to;
+          if (destination.startsWith('/')) {
+            destination = props.siteConfig.url + destination;
+          }
+
+          if (Array.isArray(redirect.from)) {
+            for (const from of redirect.from) {
+              redirects.push({
+                from: from,
+                to: destination,
+                code: '302', // Temporary redirect
+              });
+            }
+          } else {
+            redirects.push({
+              from: redirect.from,
+              to: destination,
+              code: '302', // Temporary redirect
+            });
+          }
+        }
+      }
+
+      // Create shortlink redirects
+      const wikiShortlinksPlugin = props.plugins.find((plugin) => plugin.name === 'wiki-shortlinks-plugin');
+      if (wikiShortlinksPlugin) {
+        const wikiShortlinks = wikiShortlinksPlugin.content as WikiShortlinkContent[];
+        for (const shortlinkContent of wikiShortlinks) {
+          for (const shortlink of shortlinkContent.shortlinks) {
+            redirects.push({
+              from: `/${shortlink}`,
+              to: shortlinkContent.url,
+              code: '301', // Permanent redirect, pass SEO ranking
+            });
+          }
+
+          for (const shortlink of shortlinkContent.sectionShortlinks) {
+            redirects.push({
+              from: `/${shortlink.shortlink}`,
+              to: `${shortlinkContent.url}#${shortlink.hash}`,
+              code: '301', // Permanent redirect, pass SEO ranking
+            });
+          }
+        }
+      }
+
+      const redirectFileContent = redirects
+        .map((redirect) => `${redirect.from} ${redirect.to} ${redirect.code}`)
+        .join('\n');
+
+      await fs.writeFile(`${props.outDir}/_redirects`, redirectFileContent);
     },
   };
 }

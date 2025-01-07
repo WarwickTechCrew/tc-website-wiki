@@ -5,4 +5,5 @@ export const authorNames: Record<string, string> = {
   DinoExho: 'Echo Vaughan',
   Electric: 'Matt Morris',
   Cooleth23: 'Ethan Graham',
+  MagmaStan: 'Stanley Simmons',
 };

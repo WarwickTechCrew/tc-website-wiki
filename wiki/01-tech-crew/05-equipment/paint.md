@@ -10,7 +10,10 @@ shortlinks:
 # Paint and Flamebar
 
 Tech Crew owns a variety of paints and paint supplies which are stored in the [COSHH Cupboard](../03-storage/coshh/index.md).
-
+<figure>
+![paint on the floor](./pain-paint-dannyturner.jpg)
+<figcaption>Paint in the wrong location, tragically.</figcaption>
+</figure>
 :::info
 Please keep the COSHH cupboard tidy and organised according to the [COSHH Guidelines](../03-storage/coshh/index.md).
 Please ensure that all paint is sealed so that it can be reused in the future, and wash any brushes etc. thoroughly.

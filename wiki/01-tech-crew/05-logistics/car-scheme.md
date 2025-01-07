@@ -53,3 +53,8 @@ More information can be found at https://warwick.ac.uk/services/estates/transpor
 > for private use.
 
 More information can be found at https://warwick.ac.uk/services/estates/transport/car_club/.
+
+## Additional Staff Car/Van Hire
+
+Staff can visit the https://warwick.ac.uk/services/estates/transport/driving_for_work/vehiclehire page for options on
+hiring vans and other vehicles.

@@ -9,6 +9,8 @@ shortlinks:
   - colab
   - colabs
   - collaboration
+  - co-production
+  - co-productions
 ---
 # Tech Crew Co-Productions
 
@@ -30,7 +32,13 @@ In a co-production:
 * Tech Crew will fund all or some part of a department as per a contract agreed on by the show team and Tech Crew exec.
 * Tech Crew will expect a return of the overall gross revenue corresponding to how much capital they have given against
   the overall show budget. For example, if a show costs £12,000 to produce and Tech Crew funds £3,000 (25%), Tech Crew
-  expects 25% of the overall gross revenue.
+  expects 25% of the overall gross revenue:
+  * If the show breaks even with £12,000 of revenue, Tech Crew expects £3,000 and the remaining £9,000 would be split
+    amongst other parties in the co-production.
+  * If the show loses £6,000 with £6,000 of revenue, Tech Crew expects £1,500 and the remaining £4,500 would be split
+    amongst other parties in the co-production.
+  * If the show makes £18,000 with £18,000 of revenue, Tech Crew expects £4,500 and the remaining £13,500 would be split
+    amongst other parties in the co-production.
 * Tech Crew designers have a final say on any elements of their funded department aligning with the overall vision of
   the show. This includes the final say over directors/producers.
 * All show advertising must include the Tech Crew logo and mention that the show is being produced in collaboration with

@@ -8,6 +8,7 @@ shortlinks:
   - flambar
 image: ./pain-paint-dannyturner.jpg
 image_alt: Pain can sadly spilled on the floor.
+disable_banner: true
 ---
 # Paint and Flamebar
 

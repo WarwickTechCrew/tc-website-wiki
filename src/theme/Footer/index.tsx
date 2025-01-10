@@ -8,26 +8,16 @@ function Footer(): JSX.Element {
   const year = new Date().getFullYear();
 
   return (
-    <footer
-      className={`bg-black text-white pt-4 pb-8 px-8 text-center ${styles.footer}`}
-    >
+    <footer className={`bg-black text-white pt-4 pb-8 px-8 text-center ${styles.footer}`}>
       <div className="p-4 max-w-screen-2xl mx-auto text-sm mb-2">
         <p className="-mb-0.5">Warwick Tech Crew</p>
         <p className="mb-2">
-          <a
-            href="mailto:exec@warwicktechcrew.co.uk"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a href="mailto:exec@warwicktechcrew.co.uk" target="_blank" rel="noopener noreferrer">
             exec@warwicktechcrew.co.uk
           </a>
         </p>
         <a href="/" className="block w-fit mx-auto">
-          <img
-            src="/logo-dark.svg"
-            alt="Tech Crew Logo"
-            className="w-20 h-auto mx-auto"
-          />
+          <img src="/logo-dark.svg" alt="Tech Crew Logo" className="w-20 h-auto mx-auto" />
         </a>
       </div>
 
@@ -69,10 +59,7 @@ function Footer(): JSX.Element {
             <strong>SU & Socials</strong>
           </li>
           <li>
-            <img
-              src="/icons/warwick-su.svg"
-              className="inline h-3 w-auto mr-1.5"
-            />
+            <img src="/icons/warwick-su.svg" className="inline h-3 w-auto mr-1.5" />
             <a
               href="https://www.warwicksu.com/societies-sports/societies/techcrew/"
               target="_blank"
@@ -83,21 +70,13 @@ function Footer(): JSX.Element {
           </li>
           <li>
             <FiInstagram className="mr-1.5" />
-            <a
-              href="https://www.instagram.com/warwicktechcrew"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.instagram.com/warwicktechcrew" target="_blank" rel="noopener noreferrer">
               Instagram
             </a>
           </li>
           <li>
             <FaTiktok className="mr-1.5" />
-            <a
-              href="https://www.tiktok.com/@warwicktechcrew"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.tiktok.com/@warwicktechcrew" target="_blank" rel="noopener noreferrer">
               TikTok
             </a>
           </li>
@@ -108,11 +87,7 @@ function Footer(): JSX.Element {
         <p>Warwick Tech Crew &copy; {year}.</p>
         <p>
           Site by Josh Heng and available on{' '}
-          <a
-            href="https://github.com/WarwickTechCrew/website"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a href="https://github.com/WarwickTechCrew/tc-website-wiki" target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
           .

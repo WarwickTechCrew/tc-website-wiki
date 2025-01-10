@@ -28,7 +28,7 @@ history](/wiki/tech-crew/flight-cases). If there's something you've just learnt 
 you've just got a response to a question that you think others might have, then it's worth adding to the wiki!
 
 If you still want to help but aren't sure what you can add, we have a
-[list of content requests](https://github.com/WarwickTechCrew/website/issues?q=is%3Aissue+is%3Aopen+label%3A%22content+request%22)
+[list of content requests](https://github.com/WarwickTechCrew/tc-website-wiki/issues?q=is%3Aissue+is%3Aopen+label%3A%22content+request%22)
 on the GitHub Repository that also need doing. You're equally welcome to add to this list if you think of something but
 don't have time or the knowledge to write it up yourself.
 
@@ -61,7 +61,7 @@ In this example, we want to update the text on the [Wiki homepage](/wiki). To do
 
 4. Make your desired changes. We use a format called [Markdown](https://docusaurus.io/docs/markdown-features) for
    formatting, which is quite simple to use and similar to the formatting used on Discord. More information about some
-   of the specific features we use can be found in the [README](https://github.com/WarwickTechCrew/website).
+   of the specific features we use can be found in the [README](https://github.com/WarwickTechCrew/tc-website-wiki).
 
    After you have made your changes, you can preview them by clicking the **Preview** tab (2). Once you're 
    happy, click **Commit changes** at the top of the page.
@@ -78,7 +78,7 @@ In this example, we want to update the text on the [Wiki homepage](/wiki). To do
    ![Contributing Step 6](contributing-06.jpg)
 
 7. You're done! Your changes will be reviewed and merged. You can check the status of your pull request at any time by
-   going to the [Pull Requests](https://github.com/WarwickTechCrew/website/pulls) tab.
+   going to the [Pull Requests](https://github.com/WarwickTechCrew/tc-website-wiki/pulls) tab.
    ![Contributing Step 7](contributing-07.jpg)
 
 ### The IDE Way
@@ -87,6 +87,6 @@ The fastest way to contribute to the wiki is to use a code editor such as
 [Visual Studio Code](https://code.visualstudio.com/) and to make all changes locally on your own computer.
 
 To do this, following the instructions in
-[**Running the Website Locally**](https://github.com/WarwickTechCrew/website?tab=readme-ov-file#running-the-website-locally)
+[**Running the Website Locally**](https://github.com/WarwickTechCrew/tc-website-wiki?tab=readme-ov-file#running-the-website-locally)
 in the README. Once you've made your changes, you can commit these to a new branch and then follow the above steps to
 create a Pull Request.

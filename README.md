@@ -137,7 +137,7 @@ You will need to have installed Node.js v20 and NPM for this to work. If you hav
 
 Then, clone the website through SSH. You'll need to install [Git](https://git-scm.com/downloads) to do this, and setup a SSH key.
 ```bash
-git clone git@github.com:WarwickTechCrew/website.git
+git clone git@github.com:WarwickTechCrew/tc-website-wiki.git
 ```
 
 Change into cloned directory

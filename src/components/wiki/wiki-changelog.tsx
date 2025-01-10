@@ -55,7 +55,7 @@ export default function WikiChangelog() {
         <li key={change.hash} className="mb-2 list-none flex flex-col md:flex-row gap-1">
           <a
             className="text-xs text-neutral-600 font-bold uppercase mt-1.5 flex-shrink-0 group-hover:underline"
-            href={`https://github.com/WarwickTechCrew/website/commit/${change.hash}`}
+            href={`https://github.com/WarwickTechCrew/tc-website-wiki/commit/${change.hash}`}
             target="_blank"
           >
             <time dateTime={change.date}>{change.formattedDate}</time>

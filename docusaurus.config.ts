@@ -68,7 +68,7 @@ const config: Config = {
           path: './wiki',
           routeBasePath: 'wiki',
           sidebarPath: './sidebar.ts',
-          editUrl: 'https://github.com/WarwickTechCrew/website/tree/main/',
+          editUrl: 'https://github.com/WarwickTechCrew/tc-website-wiki/tree/main/',
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
           admonitions: {

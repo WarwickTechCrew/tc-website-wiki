@@ -2,6 +2,8 @@
 description: All about the Warwick Drama show process.
 sidebar_custom_props:
   emoji: 📃
+shortlinks:
+  - show-process
 ---
 # Show Process
 

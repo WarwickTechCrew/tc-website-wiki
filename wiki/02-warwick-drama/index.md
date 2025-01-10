@@ -2,6 +2,10 @@
 description: What is considered Warwick Drama, and what societies are involved?
 sidebar_custom_props:
   emoji: 🎭
+shortlinks:
+  - drama
+  - wd
+  - warwick-drama
 ---
 # Warwick Drama
 

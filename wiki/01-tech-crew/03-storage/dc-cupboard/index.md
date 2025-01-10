@@ -1,6 +1,8 @@
 ---
 sidebar_custom_props:
   emoji: 🚚
+shortlinks:
+  - dc-cupboard
 ---
 
 # The DC Cupboard

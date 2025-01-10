@@ -56,7 +56,7 @@ export default function DocItemLayout({ children }: Props): JSX.Element {
   const { metadata } = useDoc();
   return (
     <div className="row wiki-docs">
-      {doc.assets.image && (
+      {doc.assets.image && !(doc.frontMatter as { disable_banner?: boolean }).disable_banner && (
         <img
           className="doc-hero-img"
           src={doc.assets.image}

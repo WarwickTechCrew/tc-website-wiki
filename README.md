@@ -95,6 +95,11 @@ full page width and will always be in a banner-like aspect ratio, so make sure t
 the most interesting part of the image should be in the vertical middle, and top/bottom cropping shouldn't cause an
 issue).
 
+A hero/embed image can be disabled from being shown as a banner with the following front matter:
+```yaml
+disable_banner: true
+```
+
 ## Updating Shows
 Shows are stored in annual YAML files in `shows/`.
 

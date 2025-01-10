@@ -1,8 +1,7 @@
 import { useDoc, DocContextValue } from '@docusaurus/plugin-content-docs/client';
 import type { DocFrontMatter } from '@docusaurus/plugin-content-docs';
-import { FiCheck, FiCopy, FiLink } from 'react-icons/fi';
-import useDocusaurusContext from '@docusaurus/core/lib/client/exports/useDocusaurusContext';
-import { useState } from 'react';
+import { FiLink } from 'react-icons/fi';
+import { DocShortlinks } from '@site/src/components/wiki/doc-shortlinks';
 
 export type Resource = {
   name: string;
@@ -42,42 +41,6 @@ function DocResourcesDiv({ isMobile, resources }: { isMobile?: boolean; resource
   );
 }
 
-function ShortlinkDiv({ isMobile, shortlinks }: { isMobile?: boolean; shortlinks?: string[] }) {
-  if (!shortlinks || shortlinks.length === 0) return null;
-
-  const context = useDocusaurusContext();
-  const url = (context.siteConfig.customFields.shortlinkUrl as string) || context.siteConfig.url;
-
-  const [isCopied, setIsCopied] = useState(false);
-
-  async function copyShortlinkToClipboard() {
-    await navigator.clipboard.writeText(`${url}/${shortlinks[0]}`);
-    setIsCopied(true);
-
-    setTimeout(() => {
-      setIsCopied(false);
-    }, 3000);
-  }
-
-  return (
-    <div
-      className={`dark:bg-neutral-800 bg-gray-100 p-2 rounded-lg my-2 overflow-hidden ${isMobile ? 'min-[997px]:hidden' : ''}`}
-    >
-      <h2 className="text-sm uppercase mb-1 pl-1">Shortlink</h2>
-      <button className="flex gap-1 group text-left max-w-full" onClick={copyShortlinkToClipboard}>
-        {isCopied ? (
-          <FiCheck className="mt-1 shrink-0" />
-        ) : (
-          <FiCopy className="mt-1 group-hover:text-blue-800 dark:group-hover:text-cyan-500 shrink-0" />
-        )}
-        <p className={`select-text flex flex-wrap text-wrap break-all hyphens-none ${isMobile ? '' : 'text-sm'}`}>
-          {url}/<span className="font-bold">{shortlinks[0]}</span>
-        </p>
-      </button>
-    </div>
-  );
-}
-
 export default function DocResources({ isMobile }: { isMobile?: boolean }) {
   const { frontMatter } = useDoc() as DocContextValue & {
     frontMatter: DocFrontMatter & {
@@ -88,7 +51,7 @@ export default function DocResources({ isMobile }: { isMobile?: boolean }) {
 
   return (
     <>
-      <ShortlinkDiv isMobile={isMobile} shortlinks={frontMatter.shortlinks} />
+      <DocShortlinks isMobile={isMobile} shortlinks={frontMatter.shortlinks} />
       <DocResourcesDiv isMobile={isMobile} resources={frontMatter.resources} />
     </>
   );

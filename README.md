@@ -122,7 +122,8 @@ disable_banner: true
 [Docusaurus has extra syntax to create "admonitions"](https://docusaurus.io/docs/markdown-features/admonitions), similar
 to the one below:
 
-> [!WARNING] The Docusaurus admonition syntax is different to that used by GitHub and Obsidian
+> [!WARNING]
+> The Docusaurus admonition syntax is different to that used by GitHub and Obsidian
 
 You can use the types `note`, `tip`, `info`, `warning`, `danger`. We also have our own custom `lore` admonition. To add
 lore to a page use:

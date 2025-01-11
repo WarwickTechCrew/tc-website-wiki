@@ -19,8 +19,8 @@ universities (that I've come across at least, I'm sure there are many more).
 
 Probably the society that's closest in what we do. AdamRMS was originally written for them, and we totally didn't steal
 the idea for a [Docusaurus based website](https://yorktechsoc.org/docs/category/where-we-work) from them either
-(as well as the idea of hires assistants)! They have a whole drama studio with dressing rooms and storage to themselves
-on the York campus, which is very cool.
+(as well as the idea of hires assistants)! ~~They have a whole drama studio with dressing rooms and storage to themselves
+on the York campus, which is very cool.~~ Their building got mothballed :(
 
 ## [York DramaSoc](https://www.yorkdramasoc.com/)
 
@@ -38,7 +38,7 @@ theatre makers to showcase their work.
 
 ## [TEC PA & Lighting (Nottingham)](https://www.nottinghamtec.co.uk/)
 
-Also at the University of Nottingham, TEC seem to have a lot of cool equipment, running tech for the Uni's grad ball 
+Also at the University of Nottingham, TEC seem to have a lot of cool equipment, running tech for the Uni's grad ball
 and doing a lot more external hires for companies around Nottingham. Members get
 [£15.25 for crew food at or after events](https://join.nottinghamtec.co.uk/). They also have a moose as
 their mascot, which is fun.
@@ -72,7 +72,7 @@ Manchester, working in the
 [SU Theatre](https://manchesterstudentsunion.com/room-booking/theatre)/[Theatre Lounge](https://manchesterstudentsunion.com/room-booking/theatre-lounge)
 and storing all equipment in a storage facility known as The Arch. They meet every Tuesday and have frequent trainings
 and socials, and also seem to stock a lot of equipment including intelligent lighting, truss, steel deck and power
-distro (and a lot of flight cases!). Whilst they have a [wiki](https://wiki.mutts.org.uk), most of this is only 
+distro (and a lot of flight cases!). Whilst they have a [wiki](https://wiki.mutts.org.uk), most of this is only
 available to members.
 
 ## [Technical Services Committee (TEC) (Sheffield)](https://tsc.sites.sheffield.ac.uk/)

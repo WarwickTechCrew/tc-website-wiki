@@ -38,6 +38,8 @@ These are purchased on a by-usage basis by measuring the difference on weight of
 use. The cost is calculated by the litre, rounded up to the nearest 0.1L.
 
 If these paints are not stocked in the COSHH cupboard, you can obtain these yourself and charge the cost to Tech Crew.
+This should get you paid back through MRF asap, and we'll pass the cost on to the show in the invoce. Tech Crew don't 
+make profit on this.
 Please speak to the Exec for more information.
 
 ## Other Paints

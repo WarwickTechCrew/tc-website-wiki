@@ -176,12 +176,12 @@ In order to prevent people from blocking the shots, we marked out an area using 
 
 
 ### Overlays
-They were run on a separate computer (Playout PC) using [H2R Graphics](https://h2r.graphics/) and then overlayed onto the stream using the ATEM.
+They were run on a separate computer (Playout PC) using [H2R Graphics](https://h2r.graphics/) and then overlaid onto the stream using the ATEM.
 We bought the Pro version so that we could display lyrics and videos as well as have multiple outputs.
 We used the following overlays:
 |**Overlay**|**Description**
 |:----|:---|
-|![Lower Third Example](./christmas-lower3-brass.jpg)|**Animated Lower Third** <br/>Used to introduce each perfomance.<br/>Created by Adam Skrzymowski using custom HTML to follow Warwick's [brand guidelines](https://warwick.ac.uk/about/brand/brand-guidelines/videography/)<br/><br/>**Clock**<br/>Displayed the current time up to the switch-on|
+|![Lower Third Example](./christmas-lower3-brass.jpg)|**Animated Lower Third** <br/>Used to introduce each performance.<br/>Created by Adam Skrzymowski using custom HTML to follow Warwick's [brand guidelines](https://warwick.ac.uk/about/brand/brand-guidelines/videography/)<br/><br/>**Clock**<br/>Displayed the current time up to the switch-on|
 |![Lyrics Example](./christmas-lyrics.jpg)|**Lyrics** <br/> Used during the final performance to display lyrics to christmas songs. <br/> *Tip: Use '\n' to split lyrics across two lines*.|
 
 We also used video clips sent by the marketing team. These were the "Together This Christmas" ident and the Countdown itself (only shown on big screen)

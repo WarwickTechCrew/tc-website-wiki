@@ -148,13 +148,55 @@ The patch plan is available here: [Patch Plan](https://drive.google.com/file/d/1
 @Adam sorry I haven't written as much here, you might need to add some more stuff.
 
 To ensure the performances on stage were visible, live video transmission to the big screen and a YouTube livestream were set up.
-Video was mixed using an ATEM (model pls) from the following positions
+Video was mixed using an [ATEM Mini Extreme](https://www.blackmagicdesign.com/products/atemmini) from the FOH tent.
 
-*Connection diagram here*
-An overview of the streaming / video set-up
+
+<div class="img-full">
+  ![Diagram of planned connections for video setup](christmas-video-plan.jpg)
+  *An overview of the planned video / streaming setup. Created by Adam Skrzymowski*
+</div>
+
+
+### Cameras
+![Diagram of site plan for video](christmas-video-site.svg)
+*Final video positions for the event. By Oliver Smith*
+
+We used 3 cameras for the event.
+The main cameras (L- Blackmagic & R- Sony FDR) were positioned in the audience and controlled by a dedicated camera operator.  
+The final camera (Panasonic) was positioned by the FOH tent for wide shots.  
+
+For each of the main cameras, we needed:
+- Power- Used 2x 13a power spools. (FOH→R & R→L)
+- Cans-  Used XLR cables- see [guide](https://www.warwicktechcrew.co.uk/wiki/disciplines/general/cans)(FOH→R & R→L)
+- Video- Used Ethernet cables to carry the video data, with HDMI-Ethernet receivers and transmitters to convert to/from HDMI (R→FOH & L→FOH)
+
+We used tape and cable ramps to prevent people from tripping over the cables.  
+
+In order to prevent people from blocking the shots, we marked out an area using tape in front of both cameras.
+
+
+### Overlays
+They were run on a separate computer (Playout PC) using [H2R Graphics](https://h2r.graphics/) and then overlayed onto the stream using the ATEM.
+We bought the Pro version so that we could display lyrics and videos as well as have multiple outputs.
+We used the following overlays:
+|**Overlay**|**Description**
+|:----|:---|
+|![Lower Third Example](./christmas-lower3-brass.jpg)|**Animated Lower Third** <br/>Used to introduce each perfomance.<br/>Created by Adam Skrzymowski using custom HTML to follow Warwick's [brand guidelines](https://warwick.ac.uk/about/brand/brand-guidelines/videography/)<br/><br/>**Clock**<br/>Displayed the current time up to the switch-on|
+|![Lyrics Example](./christmas-lyrics.jpg)|**Lyrics** <br/> Used during the final performance to display lyrics to christmas songs. <br/> *Tip: Use '\n' to split lyrics across two lines*.|
+
+We also used video clips sent by the marketing team. These were the "Together This Christmas" ident and the Countdown itself (only shown on big screen)
+
+<!--<div class="img-gallery">
+  ![Lower Third Example](./christmas-lower3-brass.jpg)
+
+  ![Lyrics Example](./christmas-lyrics.jpg)
+  *Lyrics*
+</div>-->
+
 
 
 ### Big screen
+
 
 ### Drone footage
 
@@ -164,6 +206,19 @@ Only drones ≤250g were used to take advantage of more relaxed overflight crite
 
 @Joel please talk about footage ingest here.
 
+### Equipment used
+**Warwick IT Services:**
+- 1x Sony FDR-AX43A 4K Handycam
+
+**Warwick Students’ Union Technical Services:**
+- 1x Blackmagic Cinema 4k Camera
+- 1x Hero 11 GoPro [unsure]
+
+**Warwick Computing Society:**
+- 1x ATEM Mini Extreme ISO Vision Mixer
+- 1x Panasonic Lumix GH5 Camera + Lens
+- 1x Loupedeck Live S [not used]
+- Various adapters, tripods and cables
 
 
 ### Live stream

@@ -79,6 +79,9 @@ const config: Config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        sitemap: {
+          lastmod: 'date',
+        },
       } satisfies Preset.Options,
     ],
   ],

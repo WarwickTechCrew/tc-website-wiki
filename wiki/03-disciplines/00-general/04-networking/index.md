@@ -5,6 +5,7 @@ sidebar_custom_props:
 shortlinks:
   - network
   - wifi
+  - networking
 ---
 # Networking
 

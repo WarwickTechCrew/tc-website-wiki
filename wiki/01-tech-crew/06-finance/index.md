@@ -91,6 +91,12 @@ If you need to make a payment urgently and cannot pay for it yourself first, ple
 arrange for the SU to pay the payee directly using the SU credit card or a same-day bank transfer. This can typically
 incur a small cost to the society, so should be avoided where possible.
 
+## Public Liability Insurance (PLI)
+
+Tech Crew is covered under Warwick SU's public liability insurance, which protects us against claims made by 
+third parties (i.e., members of the public). While PLI is not a legal requirement, many third parties we work 
+with request proof of our coverage, so it's good to be aware that we're protected through the SU!
+
 ## Budgets and Transparency
 
 As of 2024, Tech Crew is aiming to be more transparent with its finances to its members. At the start of the academic

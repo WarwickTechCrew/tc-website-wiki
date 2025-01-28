@@ -69,10 +69,10 @@ function GroupedExecCards({ members }: { members: ExecMember[] }) {
 }
 
 function ExecCard({ member }: { member: ExecMember }) {
-  return (
+  let card = (
     <article
       key={member.name}
-      className="overflow-hidden rounded-xl flex w-40 flex-grow flex-col dark:border-white border-black border-2"
+      className="overflow-hidden rounded-xl flex w-full h-full flex-grow flex-col dark:border-white border-black border-2"
     >
       <header className="bg-black h-10 flex justify-center items-center">
         <div className="rounded-2xl w-12 h-3 mt-0.5 bg-white" />
@@ -93,6 +93,17 @@ function ExecCard({ member }: { member: ExecMember }) {
         {member.name}
       </footer>
     </article>
+  );
+
+  return member.name === 'Josh Heng' ? (
+    <a
+      href="https://youtube.com/clip/UgkxrGGZn5MQu7KDPZxp3CnL5PT8jVGoUSrb?si=ZlByWmJfnK9Lk9QS"
+      className="flex w-40 h-full flex-grow flex-col no-underline"
+    >
+      {card}
+    </a>
+  ) : (
+    <div className="w-40 h-full flex-grow flex-col">{card}</div>
   );
 }
 

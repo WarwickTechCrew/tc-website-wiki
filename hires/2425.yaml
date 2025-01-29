@@ -31,3 +31,15 @@ terms:
           name: Stanley Simmons
         - role: Lighting Designer
           name: George Parrett
+    - name: Warwick Christmas Lights Switch On
+      society: Warwick Presents
+      venue: Piazza
+      people:
+        - role: Technical Manager
+          name: Alex Spears
+        - role: Sound Designer
+          name: Josh Heng
+        - role: Lighting Designer
+          name: Maximus Kaius Leighton
+        - role: Video Designer
+          name: Adam Skrzymowski

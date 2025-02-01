@@ -41,8 +41,9 @@ arrive in your account. Large purchases above £2k also need to go through Manag
 ### Submitting an MRF
 
 :::info
-Requesting money back from a show? Generally, these MRFs should be made to the society behind the show, and not Tech
-Crew, otherwise these may be rejected by the SU.
+Requesting money back from a show (e.g. for set/stage)? Generally, these MRFs should be made to the society behind the show, and not Tech
+Crew, otherwise these may be rejected by the SU. If you are not a member of the society, you can ask the producer to submit an MRF on your
+behalf - just sent them the documents to submit and your bank details!
 :::
 
 There are two ways to submit an MRF: online, or through a

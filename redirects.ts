@@ -33,10 +33,6 @@ export const redirectLinks: {
     to: 'https://drive.google.com/file/d/1x41-dwx_3uxUVBzGcdEYqNWBqM21NK35/view?usp=sharing',
   },
   {
-    from: ['/constitution'],
-    to: 'https://www.warwicksu.com/resources/techcrew/Tech-Crew-Constitution/',
-  },
-  {
     from: ['/secret'],
     to: 'https://k-shar.github.io/wtc-website/',
   },

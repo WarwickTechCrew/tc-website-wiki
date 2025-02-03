@@ -1,0 +1,59 @@
+body {
+  counter-reset: level1;
+}
+
+
+.content-styling .markdown .constitution h2:before {
+  content: "Article " counter(level1) ": ";
+}
+
+.content-styling .markdown .constitution h2 {
+  counter-increment: level1;
+  counter-reset: level2;
+  margin-top: 1rem;
+  margin-bottom: 0.2rem;
+}
+
+.content-styling .markdown .constitution ol {
+  margin-left: 0;
+}
+
+
+.content-styling .markdown .constitution ol > li:before {
+  content: counter(level1) "." counter(level2) " ";
+  margin-right: 0.2rem;
+}
+
+.content-styling .markdown .constitution ol > li {
+  counter-increment: level2;
+  counter-reset: level3;
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.content-styling .markdown .constitution ol > li > p {
+  display: inline;
+}
+
+
+.content-styling .markdown .constitution ol > li > ol > li:before {
+  content: counter(level1) "." counter(level2) counter(level3, upper-alpha) " ";
+  margin-right: 0.2rem;
+}
+
+.content-styling .markdown .constitution ol > li > ol > li {
+  counter-increment: level3;
+  counter-reset: level4;
+  list-style-type: none;
+  margin-left: 1rem;
+}
+
+
+.content-styling .markdown .constitution ol > li > ol > li > ol > li:before {
+  content: counter(level1) "." counter(level2) counter(level3, upper-alpha) "." counter(level3) " ";
+  margin-right: 0.2rem;
+}
+
+.content-styling .markdown .constitution ol > li > ol > li > ol > li {
+  counter-increment: level4;
+}

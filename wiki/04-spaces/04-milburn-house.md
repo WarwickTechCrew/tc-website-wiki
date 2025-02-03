@@ -43,6 +43,14 @@ recommend using the rigged speakers for a show unless you're particularly famili
 
 ### Patch Panels
 
+:::warning
+
+At some point between March and November 2024 the patch panel was vandalised, with the XLR patch being ripped out and
+cut back by a metre. This makes much of the info below no longer relevant. The DMX, Comms, and Video lines are still
+intact.
+
+:::
+
 Around the room there are 4 wall panels. These all tie in to patch panels in the control booth.
 
 | Name | Location (facing the projector screen) | In/Out Tie Lines (Male & Female XLR) | Tie Lines (Female XLR) | DMX In/Out | Video (BNC) | Comms | SpeakON |

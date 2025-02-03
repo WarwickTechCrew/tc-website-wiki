@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "Curiositea"
+    ],
+    "markdown.preferredMdPathExtensionStyle": "includeExtension",
+    "markdown.updateLinksOnFileMove.enabled": "prompt",
+    "prettier.printWidth": 120,
+    "prettier.proseWrap": "always",
+}

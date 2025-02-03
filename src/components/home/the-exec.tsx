@@ -69,8 +69,7 @@ function GroupedExecCards({ members }: { members: ExecMember[] }) {
 }
 
 function ExecCard({ member }: { member: ExecMember }) {
-  return (
-    <article
+    return (<article
       key={member.name}
       className="overflow-hidden rounded-xl flex w-40 flex-grow flex-col dark:border-white border-black border-2"
     >

@@ -36,8 +36,14 @@ driving it to Romania and selling the bus there (although this was never confirm
 
 These cars can be booked on an ad-hoc basis, and are often located in the Argent Court car park (next to Tesco). They
 can be parked on any general campus car park, but must be returned to the original parking space after use. A campus
-electric charge card is provided for electric cars, and a fuel card provided for petrol cars. Depending on
-your age, you may only have access to one electric car.
+electric charge card is provided for electric cars, and a fuel card provided for petrol cars. 
+
+As of Jan 2025, if you are below 22 you may only have access to one electric car. Once you reach 22, you will have access
+to the whole fleet of four cars.
+
+:::lore
+The above age limit for the fleet was confirmed at 23:17 on Ethan's 22nd birthday.
+:::
 
 More information can be found at https://warwick.ac.uk/services/estates/transport/car_club/.
 

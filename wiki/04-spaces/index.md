@@ -20,8 +20,8 @@ shortlinks:
 These are the venues we normally work in!
 
 WAC Studio and Theatre are hired out for use by the DC, MTW, and OpWa, see: [the wiki page about WAC show slots](warwick-drama/shows#wac-show-slots).
-The WAC hire fee takes up a large portion of the show budget! So for smaller independent shows, and for our hires, we
-use venues around warwick outside of WAC.
+The WAC venue hire fee takes up a large portion of the show budget! So, for smaller independent shows, and for our hires, we
+use venues around Warwick outside of WAC.
 
-Addition to on this wiki, a list of campus venues for specialist events (e.g. performance) can be found on the
+A list of campus venues for specialist events (e.g. performance) can be found on the
 [Central Timetabling Alternative Venues Website](https://warwick.ac.uk/services/academicoffice/centraltimetabling/roominformation/alternativevenues).

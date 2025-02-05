@@ -47,6 +47,7 @@ are brought to every major event, especially those outdoors.
 
 <div class="img-small img-gallery">
 ![Tech Crew first aid kits](./first-aid-kits.jpg)
+![Tech Crew first aid kit contents](./first-aid-contents.jpg)
 ![Tech Crew safety boxes](./safety-boxes.jpg)
 </div>
 

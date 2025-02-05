@@ -11,7 +11,6 @@ shortlinks:
   - techxec
   - execs
   - president
-  - pres
   - treasurer
   - secretary
   - hires-manager

@@ -89,7 +89,7 @@ Benefits we expect from the new desk include:
 ### Other Options
 
 It should be noted additional options have been explored, these include AVO systems however, these are more expensive
-and older systems, an example was an AVO quartz. The Quick Q series has also been explored but was conclude its no
+and older systems, an example was an AVO quartz. The Quick Q series has also been explored, but it was concluded that its no
 real upgrade over the FLX. We have also explored on PC system, however, our view here is this is too vulnerable and
 does not offer the same benefit of control as a physical desk with all buttons and outputs necessary. A physical desk
 setup is also simpler, as just the desk can be brought and placed on a desk and you're ready to go!

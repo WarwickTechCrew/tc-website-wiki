@@ -132,7 +132,7 @@ If we ever buy more vests, probably go for a much smaller logo on both sides.
 
 Tech Crew has eight Tech
 Crew-branded [JSP EVO3 Wheel Ratchet](https://www.safetecdirect.co.uk/products/evo3wheel/jsp-evo3-safety-helmet-vented-wheel-ratchet-mid-peak)
-hard hats - two blue and six white. These are different colours so that they can
+hard hats - six blue and two white. These are different colours so that they can
 be used to differentiate between different roles (such as the Technical Managers or designers having a white helmet).
 
 Generally, in the UK, white helmets are seen as for supervisors (e.g. Technical Managers) and blue helmets are seen as

@@ -22,6 +22,11 @@ shortlinks:
 The Tech Crew Exec (TechXec) are a group of members who are elected to oversee the society and its operations as defined
 in Article 6 of the [constitution](./03-constitution.md). The current exec is listed on the [website](/).
 
+:::info
+Elections are open for the new TechXec of 2025/26! If you're interested in running for a position, see
+the [General Meetings, AGMs and Elections](./02-agm.md) page.
+:::
+
 As per our [constitution](https://www.warwicksu.com/resources/techcrew/Tech-Crew-Constitution/), the Tech Crew Exec's
 aims
 and objectives are:
@@ -116,6 +121,15 @@ The [constitution](./03-constitution.md) states that the Welfare Officer shall:
 
 The Secretary is responsible for the administrative running of the society, including taking minutes and sending
 weekly emails.
+
+> Secretary is responsible for communications from the exec to the general membership. This involves making sure people
+> know what opportunities are available, through discord and email announcements, and which shows+hires we're working
+> on,
+> through "this/next week in tech" in the emails. A good candidate for this position should be organised (to keep track
+> of
+> the 5+ shows/hires we're working on at any given time) and have a strategy for communicating effectively to the
+> society.
+> In my opinion, sec is one of the most fun exec roles, you should absolutely apply! - Kishan Sharma, Treasurer 2024/25
 
 The [constitution](./03-constitution.md) states that the Secretary shall:
 

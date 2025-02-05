@@ -177,3 +177,19 @@ Todo
 </div>
 
 More information about first aid, including our first aid kits, can be found on the [First Aid](./first-aid.md) page.
+
+## History and Lore
+
+![Safety Purchase 2025](./safety-purchase.jpg)
+
+Tech Crew used to have a much more limited number of safety equipment, limited to a several pairs of donated safety
+shoes. However, with the society growing to do more and more outdoor events, and as we had more and more issues of not
+having enough safety shoes during get-ins, the exec decided to invest in more safety equipment in early 2025.
+
+It is hoped that this will allow Tech Crew members to be safer and more comfortable when working on events, and that
+this trend will continue into the future.
+
+<figure class="img-small">
+![Old Tech Crew Safety Shoe Stock](./old-safety-shoes.jpg)
+<figcaption>The old collection of safety shoes</figcaption>
+</figure>

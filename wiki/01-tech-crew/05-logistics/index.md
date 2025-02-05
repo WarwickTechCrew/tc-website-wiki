@@ -28,6 +28,7 @@ sectionShortlinks:
     hash: vehicles-and-parking
 
 ---
+
 # Logistics
 
 ## Procurement
@@ -41,9 +42,9 @@ in particular that alcohol cannot be purchased unless a special agreement is mad
 
 When working on a Tech Crew project, it is likely that you will eventually need to order or purchase items. The easiest
 way to do this is to pay for the item yourself, retaining the receipt and then submitting a
-[Money Request Form](../06-finance/index.md) for later reimbursement (either to Tech Crew or the project's parent
+[Money Request Form](../07-finance/index.md) for later reimbursement (either to Tech Crew or the project's parent
 society). It is also possible to use the SU credit card or provide a third party supplier's bank details for direct
-payment - please see the [Finance](../06-finance/index.md) page or ask the treasurer for more information.
+payment - please see the [Finance](../07-finance/index.md) page or ask the treasurer for more information.
 
 There are no limitations as to *where* to purchase these items from. We maintain a
 [Equipment & Consumable Shop Directory](../../06-directories/03-shops/index.md) of suggested places to purchase common
@@ -61,6 +62,7 @@ services or goods on their behalf to bypass this rule.
 
 If required, the following [address](https://www.warwicksu.com/your-union/contact/) can be used (if you're not using
 your own):
+
 ```
 Warwick Tech Crew
 Warwick Students’ Union
@@ -79,11 +81,12 @@ Items can be delivered straight onto campus through the following methods:
 
 ### Delivering to Campus Amazon Lockers
 
-There are five Amazon lockers on campus, 
+There are five Amazon lockers on campus,
 [of which Warwick maintains a list here](https://warwick.ac.uk/services/foodgroup/shops/amazon/). This list should be
 considered the source of truth over what is listed on Amazon's page.
 
 The most common lockers are:
+
 * **Ivory**: located underneath the Rootes building, next to Benefactors Place.
 * **Matson**: located in the Junction car park.
 
@@ -106,6 +109,7 @@ also useful to choose your collection point, find the address to use, see the st
 (although this is also sent to the MyWarwick app).
 
 The address will look something like:
+
 ```
 [Your Name] (student)
 [Student ID]
@@ -121,6 +125,7 @@ delivered to the Arts Centre itself. These deliveries will be left at Stage Door
 the WAC allow us to do this as a kind gesture, so keep it reasonable.
 
 When delivering to the Warwick Arts Centre, use this address:
+
 ```
 Tech Crew - [Your Name]
 Warwick Arts Centre
@@ -132,12 +137,13 @@ CV4 7AL
 ## Vehicles and Parking
 
 Mileage can be claimed if the car is used for society purposes. More information can be found on the
-[Finance Page](../06-finance/index.md).
+[Finance Page](../07-finance/index.md).
 
 Cars can also be hired for free for business use by staff/PGRs, or at a discounted rate for students/staff/PGRs for
 personal use. More information can be found on the [Enterprise Car Club Scheme](./car-scheme.md) page.
 
 ### Society Parking Permit
+
 Tech Crew is fortunate to have one car parking space which can be used to support our activities. This can be
 transferred to any Exec numberplate by the Tech Crew president on the
 [SU Car Parking Management Page](https://warwick.ac.uk/about/campus-journey/car-parking/su/societiesandsports/), under
@@ -153,13 +159,14 @@ the following conditions:
   club activities.
 * Only exec members can use the permit.
 
-
 ### Society Parking Permit Pool
+
 All societies are also able to book parking permits out of a shared parking permit pool found on
 [this webpage](https://warwick.ac.uk/about/campus-journey/car-parking/pool_permits/). This has less restrictions
 than the Society Parking Permit and is open to all society members.
 
 ### University Vehicle Parking
+
 All university vehicles (such as those on the [Staff/PGR Car Club Scheme](./car-scheme.md)) can park within general
 University car parks for free.
 

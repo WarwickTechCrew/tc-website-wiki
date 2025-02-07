@@ -71,8 +71,7 @@ As an optional extra, we could add a node:
 
 * 1x [ChamSys GeNetix GN5 5-Port Ethernet Art-NET sACN DMX Node](https://chamsyslighting.com/product/genetix-gn5/)
 
-This has been quoted new for £849, and can also be obtained
-from [Thomann for £845](https://www.thomann.co.uk/chamsys_genetix_gn5_5_port_node.htm).
+This can also obtained from [Thomann for £845](https://www.thomann.co.uk/chamsys_genetix_gn5_5_port_node.htm).
 
 This would total in a complete figure of £4,445-£5,169.
 

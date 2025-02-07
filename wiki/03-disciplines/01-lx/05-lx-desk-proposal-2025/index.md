@@ -10,6 +10,9 @@ shortlinks:
 image: ./mq50.png
 image_alt: The ChamSys MagicQ MQ50 Lighting Desk
 disable_banner: true
+additional_authors:
+  - Ethan Graham
+  - Ben Hammond
 ---
 
 # Lighting Desk Proposal 2025
@@ -106,6 +109,12 @@ a concern that this will still not provide as much benefit to the MQ50, is more 
 
 It could also be argued that this is a similar situation to the ETC Nomad (albeit that doesn't have any physical
 surface), which Tech Crew has now owned for over a year.
+
+From Ethan: 
+- Chamsys magicQ compact connect is only £2190 + vat, which is much cheaper than a mq50, even with a £1,000 budget for a case, miniPC, external touch screen monitor, and keyboard.
+- With a keyboard with a numpad, the Compact connect has all of the functionality of the MQ50, but with 64 universes over the 8 in the MQ50.
+- The PC can also be used for other general network config along with the lighting software so could enable any node to be controlled with the convenience of the Chamsys nodes
+- The main thing is that it is half the price and has all the functionality of the MQ50 plus more
 
 ## GN5 DMX Node
 

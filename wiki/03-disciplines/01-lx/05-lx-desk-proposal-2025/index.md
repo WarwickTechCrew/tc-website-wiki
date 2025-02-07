@@ -61,11 +61,12 @@ Out of the options of equipment that we could buy, a Lighting Desk currently see
 
 The new system proposal is for the following:
 
-* 1x [ChamSys MagicQ MQ50 Compact Console](https://chamsyslighting.com/product/magicq-mq50-compact-console/)
-* 1x Flightcase for the MQ50
+* 1x [ChamSys MagicQ MQ50 Compact Console](https://chamsyslighting.com/product/magicq-mq50-compact-console/) quoted at £4,320 ex VAT.
+* 1x Flightcase for the MQ50 quoted at £450 ex VAT
 
-This has been quoted new for £4,320, or is available
-on [10K New Gear for £3,600](https://www.10knew.com/product/chamsys-magicq-mq50-compact-console-w-flightcase/).
+The quote gives us a 10% discount, making the total £4,806.
+
+Alternatively, the system is available on [10K New Gear for £3,600](https://www.10knew.com/product/chamsys-magicq-mq50-compact-console-w-flightcase/).
 
 As an optional extra, we could add a node:
 

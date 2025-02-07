@@ -111,7 +111,7 @@ It could also be argued that this is a similar situation to the ETC Nomad (albei
 surface), which Tech Crew has now owned for over a year.
 
 From Ethan: 
-- Chamsys magicQ compact connect is only £2190 + vat, which is much cheaper than a mq50, even with a £1,000 budget for a case, miniPC, external touch screen monitor, and keyboard.
+- Chamsys magicQ compact connect is only £2190 inc VAT, which is much cheaper than a mq50, even with a £1,000 budget for a case, miniPC, external touch screen monitor, and keyboard.
 - With a keyboard with a numpad, the Compact connect has all of the functionality of the MQ50, but with 64 universes over the 8 in the MQ50.
 - The PC can also be used for other general network config along with the lighting software so could enable any node to be controlled with the convenience of the Chamsys nodes
 - The main thing is that it is half the price and has all the functionality of the MQ50 plus more

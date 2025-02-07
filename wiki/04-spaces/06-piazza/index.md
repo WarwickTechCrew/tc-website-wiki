@@ -11,6 +11,7 @@ resources:
     author: Warwick Food Group
 shortlinks:
   - piazza
+  - pizza
 image: ./banner-joshheng.jpg
 image_alt: The Piazza during the Christmas Lights Switch-on 2024
 ---
@@ -39,9 +40,9 @@ Otherwise, the other option is to place the tech desk at the back of the stage i
 the weather. Both the SQ5 (sound) and FLX (LX) can be accessed remotely using a WiFi network.
 
 ## Power
-Unlike a room inside, the Piazza doesn't have any 13A power outlets! There are, however, various 16A outlets next to
+The Piazza has two 13A power outlets near curiositea. There are also various 16A outlets next to
 the wall in the Piazza and in the floor on Benefactors Place, with larger 63A 3-phase supplies also available in the
-distribution boxes.
+distribution boxes (see map).
 
 Tech Crew only has a limited number of equipment to handle 16A to 13A conversion, and does not have any equipment for
 63A - so you'll need to hire this from an external company, the

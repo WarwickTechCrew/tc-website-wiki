@@ -40,7 +40,7 @@ efficiency, response times, and our ability to manage large-scale productions.
 The **Robinson R44 Raven II** is a four-seater helicopter offering a balance of affordability, performance, and payload
 capacity.
 
-### Key Specifications:
+### Key Specifications
 
 - **Capacity:** 4 people (ideal for a pilot and a small AV team)
 - **Max Takeoff Weight:** 1,134 kg (according to AdamRMS, this will fit our whole inventory of 1,063.06kg and one person
@@ -73,19 +73,19 @@ logistics, crew efficiency, and event service quality.
 
 ## Implementation Plan
 
-1. **Phase 1 – Approval & Funding (2025 Q1-Q2)**
+1. **Phase 1 – Approval & Funding (2025 Term 2)**
     - Secure SU and university funding.
     - Identify potential sponsors and donors.
 
-2. **Phase 2 – Training & Infrastructure (2025 Q2-Q3)**
+2. **Phase 2 – Training & Infrastructure (2025 Term 3)**
     - Enroll selected crew member(s) in pilot training.
     - Work with Estates to establish a helipad.
 
-3. **Phase 3 – Acquisition & Testing (2025 Q4)**
+3. **Phase 3 – Acquisition & Testing (2026 Term 1)**
     - Purchase helicopter and conduct test flights.
     - Develop SOPs (Standard Operating Procedures) for crew transport and equipment handling.
 
-4. **Phase 4 – Full Deployment (2026)**
+4. **Phase 4 – Full Deployment (2026 Term 2)**
     - Integrate the helicopter into standard event logistics.
     - Expand services to external events requiring aerial support.
 

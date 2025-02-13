@@ -10,6 +10,9 @@ shortlinks:
 image: ./mq50.png
 image_alt: The ChamSys MagicQ MQ50 Lighting Desk
 disable_banner: true
+additional_authors:
+  - Ethan Graham
+  - Ben Hammond
 ---
 
 # Lighting Desk Proposal 2025
@@ -58,18 +61,18 @@ Out of the options of equipment that we could buy, a Lighting Desk currently see
 
 The new system proposal is for the following:
 
-* 1x [ChamSys MagicQ MQ50 Compact Console](https://chamsyslighting.com/product/magicq-mq50-compact-console/)
-* 1x Flightcase for the MQ50
+* 1x [ChamSys MagicQ MQ50 Compact Console](https://chamsyslighting.com/product/magicq-mq50-compact-console/) quoted at £4,320 ex VAT.
+* 1x Flightcase for the MQ50 quoted at £450 ex VAT
 
-This has been quoted new for £4,320, or is available
-on [10K New Gear for £3,600](https://www.10knew.com/product/chamsys-magicq-mq50-compact-console-w-flightcase/).
+The quote gives us a 10% discount, making the total £4,806.
+
+Alternatively, the system is available on [10K New Gear for £3,600](https://www.10knew.com/product/chamsys-magicq-mq50-compact-console-w-flightcase/).
 
 As an optional extra, we could add a node:
 
 * 1x [ChamSys GeNetix GN5 5-Port Ethernet Art-NET sACN DMX Node](https://chamsyslighting.com/product/genetix-gn5/)
 
-This has been quoted new for £849, and can also be obtained
-from [Thomann for £845](https://www.thomann.co.uk/chamsys_genetix_gn5_5_port_node.htm).
+This can also obtained from [Thomann for £845](https://www.thomann.co.uk/chamsys_genetix_gn5_5_port_node.htm).
 
 This would total in a complete figure of £4,445-£5,169.
 
@@ -89,7 +92,7 @@ Benefits we expect from the new desk include:
 ### Other Options
 
 It should be noted additional options have been explored, these include AVO systems however, these are more expensive
-and older systems, an example was an AVO quartz. The Quick Q series has also been explored but was conclude its no
+and older systems, an example was an AVO quartz. The Quick Q series has also been explored, but it was concluded that its no
 real upgrade over the FLX. We have also explored on PC system, however, our view here is this is too vulnerable and
 does not offer the same benefit of control as a physical desk with all buttons and outputs necessary. A physical desk
 setup is also simpler, as just the desk can be brought and placed on a desk and you're ready to go!
@@ -106,6 +109,12 @@ a concern that this will still not provide as much benefit to the MQ50, is more 
 
 It could also be argued that this is a similar situation to the ETC Nomad (albeit that doesn't have any physical
 surface), which Tech Crew has now owned for over a year.
+
+From Ethan: 
+- Chamsys magicQ compact connect is only £2190 inc VAT, which is much cheaper than a mq50, even with a £1,000 budget for a case, miniPC, external touch screen monitor, and keyboard.
+- With a keyboard with a numpad, the Compact connect has all of the functionality of the MQ50, but with 64 universes over the 8 in the MQ50.
+- The PC can also be used for other general network config along with the lighting software so could enable any node to be controlled with the convenience of the Chamsys nodes
+- The main thing is that it is half the price and has all the functionality of the MQ50 plus more
 
 ## GN5 DMX Node
 

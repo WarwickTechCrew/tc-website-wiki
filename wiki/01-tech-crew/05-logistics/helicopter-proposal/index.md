@@ -43,7 +43,8 @@ capacity.
 ### Key Specifications:
 
 - **Capacity:** 4 people (ideal for a pilot and a small AV team)
-- **Max Takeoff Weight:** 1,134 kg
+- **Max Takeoff Weight:** 1,134 kg (according to AdamRMS, this will fit our whole inventory of 1,063.06kg and one person
+  of up to 70kg)
 - **Cruise Speed:** 109 knots (202 km/h)
 - **Range:** ~560 km (allowing for regional event support)
 - **Engine:** Lycoming IO-540, 260 HP

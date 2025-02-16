@@ -13,7 +13,7 @@ disable_banner: true
 
 # Helicopter Proposal 2025
 
-![The Robinson R44 Raven II Helicopter](./helicopter-proposal.jpg)
+![Concept for helicopter usage during Tech Crew events.](./helicopter-proposal.png)
 
 ## Introduction
 

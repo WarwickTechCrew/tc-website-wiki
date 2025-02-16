@@ -6,8 +6,8 @@ shortlinks:
   - helicopter
   - helicopter-proposal
   - heli
-image: ./helicopter-proposal.png
-image_alt: The Robinson R44 Raven II Helicopter
+image: ./helicopter-proposal.jpg
+image_alt: Mockup of the Robinson R44 Raven II Helicopter on the Piazza
 disable_banner: true
 ---
 

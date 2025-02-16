@@ -263,5 +263,5 @@ The [constitution](./03-constitution.md) states that the Hires Assistants shall:
 
 :::lore
 This role was added to the constitution as a motion in an AGM, and two termly assistants started being allocated from
-2024 Term 1.
+2024 Term 3.
 :::

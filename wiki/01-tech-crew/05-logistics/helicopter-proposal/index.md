@@ -6,7 +6,7 @@ shortlinks:
   - helicopter
   - helicopter-proposal
   - heli
-image: ./helicopter-proposal.jpg
+image: ./helicopter-proposal.png
 image_alt: The Robinson R44 Raven II Helicopter
 disable_banner: true
 ---

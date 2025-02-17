@@ -13,7 +13,7 @@ disable_banner: true
 
 # Helicopter Proposal 2025
 
-![Concept for helicopter usage during Tech Crew events.](./helicopter-proposal.png)
+![Concept for helicopter usage during Tech Crew events.](./helicopter-proposal.jpg)
 
 ## Introduction
 

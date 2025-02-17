@@ -37,3 +37,43 @@ terms:
           name: Layah Rothen
         - role: Followspot Operator
           name: Keira Magee
+- name: Term 2
+  shows:
+    - name: Lord of the Flies
+      society: WUDS
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Technical Manager
+          name: Freya Carey-Wood
+        - role: Lighting Designer
+          name: Adam Skrzymowski
+        - role: Sound Designer
+          name: Ali Aljishi 
+        - role: Stage Manager
+          name: Anoushay Dar
+        - role: Deputy Stage Manager
+          name: Theo Tomalin 
+    - name: The Queen of Spades
+      society: OpWa
+      venue: Warwick Arts Centre Theatre
+      people:
+        - role: Technical Manager
+          name: Josh Heng 
+        - role: Stage Manager
+          name: Georgi Gibbons  
+        - role: Deputy Stage Manager
+          name: Tilly Riley 
+        - role: Sound Designer
+          name: George Parrett
+        - role: Sound Assistant
+          name: Caleb Tan 
+        - role: Lighting Designer
+          name: Alasdair King 
+        - role: Lighting Assistant
+          name: Beck Sewart
+        - role: Video Designer
+          name: Matthew Morris 
+        - role: Scenic Artist
+          name: Jessica Newton, Alexei Milsom 
+        - role: Assistant Stage Manager
+          name: Rowan McAlpine, Oliver Bigley, Theo Tomalin 

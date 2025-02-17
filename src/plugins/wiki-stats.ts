@@ -6,24 +6,17 @@ export interface WikiStatsData {
   pageCount: number;
 }
 
-function countMarkdownFiles(dir: string): WikiStatsData {
+function countMarkdownFiles(dir: string): number {
   let count = 0;
-  const files = fs.readdirSync(dir);
-
-  for (const file of files) {
+  for (const file of fs.readdirSync(dir)) {
     const fullPath = path.join(dir, file);
     if (fs.statSync(fullPath).isDirectory()) {
-      count += countMarkdownFiles(fullPath).pageCount;
+      count += countMarkdownFiles(fullPath);
     } else if (file.endsWith('.md') || file.endsWith('.mdx')) {
       count += 1;
     }
   }
-
-  let stats: WikiStatsData = {
-    pageCount: count,
-  };
-
-  return stats;
+  return count;
 }
 
 export default function wikiStatsPlugin(context: LoadContext): Plugin {
@@ -31,7 +24,10 @@ export default function wikiStatsPlugin(context: LoadContext): Plugin {
     name: 'wiki-stats-plugin',
     async loadContent() {
       const wikiPath = path.resolve(__dirname, '../../wiki');
-      return countMarkdownFiles(wikiPath);
+      let stats: WikiStatsData = {
+        pageCount: countMarkdownFiles(wikiPath),
+      };
+      return stats;
     },
     async contentLoaded({ content, actions }) {
       const { setGlobalData } = actions;

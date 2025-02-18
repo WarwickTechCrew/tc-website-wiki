@@ -9,12 +9,6 @@ const WikiStats: React.FC = () => {
     return <div>Loading stats...</div>;
   }
 
-  // Convert file path to URL
-  const getPageUrl = (filePath: string) => {
-    const urlPath = filePath.split('/wiki/')[1].replace(/\.(md|mdx)$/, '');
-    return `/${urlPath}`;
-  };
-
   return (
     <>
       <p>Total wiki pages: {stats.pageCount}</p>

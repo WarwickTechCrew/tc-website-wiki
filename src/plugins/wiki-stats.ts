@@ -14,8 +14,6 @@ export interface WikiStatsData {
   shortestPages: PageInfo[];
 }
 
-
-// Get information about a page
 function getPageStats(filePath: string): PageInfo {
   const content = fs.readFileSync(filePath, 'utf8');
   const name = path.basename(filePath, path.extname(filePath));
@@ -37,6 +35,7 @@ function processMarkdownFiles(dir: string): WikiStatsData {
     for (const file of fs.readdirSync(currentDir)) {
       const fullPath = path.join(currentDir, file);
 
+
       if (fs.statSync(fullPath).isDirectory()) {
         processDir(fullPath);
       } else if (file.endsWith('.md') || file.endsWith('.mdx')) {
@@ -45,16 +44,16 @@ function processMarkdownFiles(dir: string): WikiStatsData {
       }
     }
   }
+
   processDir(dir);
-
+  
   const sortedPages = [...pages].sort((a, b) => b.wordCount - a.wordCount);
-
-  const data: WikiStatsData = {
-    pageCount: count,
-    longestPages: sortedPages.slice(0, 5),
-    shortestPages: sortedPages.slice(-5).reverse(),
+  
+  return {
+    count,
+    longest: sortedPages.slice(0, 5),
+    shortest: sortedPages.slice(-5).reverse()
   };
-  return data;
 }
 
 export default function wikiStatsPlugin(context: LoadContext): Plugin {
@@ -63,6 +62,7 @@ export default function wikiStatsPlugin(context: LoadContext): Plugin {
     async loadContent() {
       const wikiPath = path.resolve(__dirname, '../../wiki');
       return processMarkdownFiles(wikiPath);
+
     },
     async contentLoaded({ content, actions }) {
       const { setGlobalData } = actions;

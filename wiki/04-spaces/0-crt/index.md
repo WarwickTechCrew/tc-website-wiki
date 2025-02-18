@@ -3,6 +3,7 @@ description: How to book and view timetables for Centrally Timetabled Rooms
 sidebar_custom_props:
   emoji: 🏙️
 shortlinks:
+  - ctr
   - crt
   - timetables
   - timetablereport

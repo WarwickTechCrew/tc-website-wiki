@@ -26,7 +26,7 @@ function getPageStats(filePath: string): PageInfo {
 
 // Process all markdown files in a directory, recursively
 function processMarkdownFiles(dir: string): WikiStatsData {
-  let count = 0;
+  let pageCount = 0;
   let pages: PageInfo[] = [];
 
   // recurse through the directories
@@ -39,7 +39,7 @@ function processMarkdownFiles(dir: string): WikiStatsData {
       if (fs.statSync(fullPath).isDirectory()) {
         processDir(fullPath);
       } else if (file.endsWith('.md') || file.endsWith('.mdx')) {
-        count += 1;
+        pageCount += 1;
         pages.push(getPageStats(fullPath));
       }
     }
@@ -50,9 +50,9 @@ function processMarkdownFiles(dir: string): WikiStatsData {
   const sortedPages = [...pages].sort((a, b) => b.wordCount - a.wordCount);
   
   return {
-    count,
-    longest: sortedPages.slice(0, 5),
-    shortest: sortedPages.slice(-5).reverse()
+    pageCount,
+    longestPages: sortedPages.slice(0, 5),
+    shortestPages: sortedPages.slice(-5).reverse()
   };
 }
 

@@ -2,12 +2,18 @@ import React from 'react';
 import { usePluginData } from '@docusaurus/useGlobalData';
 
 const WikiStats: React.FC = () => {
-  const pluginData = usePluginData<WikiStatsData>('wiki-stats-plugin');
+  const stats = usePluginData<WikiStatsData>('wiki-stats-plugin');
+
+  if (!stats) {
+    return <div>Loading stats...</div>;
+  }
 
   return (
     <div>
-      <h2>Wiki Statistics</h2>
-      <p>Total Wiki Pages: {pluginData?.pageCount || 'error :('}</p>
+      <p>Longest page: {stats.longestPage}</p>
+      <p>Total pages: {stats.pageCount}</p>
+      <p>two pages: {stats.pageCount2}</p>
+      <p>Shortest page: {stats.shortestPage}</p>
     </div>
   );
 };

@@ -4,6 +4,9 @@ import { LoadContext, Plugin } from '@docusaurus/types';
 
 export interface WikiStatsData {
   pageCount: number;
+  pageCount2: number;
+  longestPage: string;
+  shortestPage: string;
 }
 
 function countMarkdownFiles(dir: string): number {
@@ -26,6 +29,8 @@ export default function wikiStatsPlugin(context: LoadContext): Plugin {
       const wikiPath = path.resolve(__dirname, '../../wiki');
       let stats: WikiStatsData = {
         pageCount: countMarkdownFiles(wikiPath),
+        longestPage: 'Some page',
+        shortestPage: 'Another page',
       };
       return stats;
     },

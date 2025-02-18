@@ -10,7 +10,6 @@ interface PageInfo {
 
 export interface WikiStatsData {
   pageCount: number;
-  pageCount2: number;
   longestPages: PageInfo[];
   shortestPages: PageInfo[];
 }
@@ -70,7 +69,6 @@ export default function wikiStatsPlugin(context: LoadContext): Plugin {
       
       const stats: WikiStatsData = {
         pageCount: count,
-        pageCount2: count,
         longestPages: longest,
         shortestPages: shortest,
       };

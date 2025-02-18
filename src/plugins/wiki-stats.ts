@@ -10,37 +10,32 @@ interface PageInfo {
 
 export interface WikiStatsData {
   pageCount: number;
-  pageCount2: number;
   longestPages: PageInfo[];
   shortestPages: PageInfo[];
-}
-
-function getWordCount(content: string): number {
-  return content.trim().split(/\s+/).length;
 }
 
 function getPageStats(filePath: string): PageInfo {
   const content = fs.readFileSync(filePath, 'utf8');
   const name = path.basename(filePath, path.extname(filePath));
   return {
-    wordCount: getWordCount(content),
+    wordCount: content.trim().split(/\s+/).length, // cursed
     name: name,
-    path: filePath
+    path: filePath,
   };
 }
 
-function processMarkdownFiles(dir: string): {
-  count: number;
-  longest: PageInfo[];
-  shortest: PageInfo[];
-} {
+// Process all markdown files in a directory, recursively
+function processMarkdownFiles(dir: string): WikiStatsData {
   let count = 0;
   let pages: PageInfo[] = [];
 
+  // recurse through the directories
   function processDir(currentDir: string) {
+    
     for (const file of fs.readdirSync(currentDir)) {
       const fullPath = path.join(currentDir, file);
-      
+
+
       if (fs.statSync(fullPath).isDirectory()) {
         processDir(fullPath);
       } else if (file.endsWith('.md') || file.endsWith('.mdx')) {
@@ -66,16 +61,8 @@ export default function wikiStatsPlugin(context: LoadContext): Plugin {
     name: 'wiki-stats-plugin',
     async loadContent() {
       const wikiPath = path.resolve(__dirname, '../../wiki');
-      const { count, longest, shortest } = processMarkdownFiles(wikiPath);
-      
-      const stats: WikiStatsData = {
-        pageCount: count,
-        pageCount2: count,
-        longestPages: longest,
-        shortestPages: shortest,
-      };
-      
-      return stats;
+      return processMarkdownFiles(wikiPath);
+
     },
     async contentLoaded({ content, actions }) {
       const { setGlobalData } = actions;

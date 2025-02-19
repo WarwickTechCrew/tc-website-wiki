@@ -36,4 +36,8 @@ export const redirectLinks: {
     from: ['/secret'],
     to: 'https://k-shar.github.io/wtc-website/',
   },
+  {
+    from: ['/vote', '/important'],
+    to: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+  }
 ];

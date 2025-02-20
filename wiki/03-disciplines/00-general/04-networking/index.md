@@ -45,6 +45,7 @@ Tech Crew devices should have the IPs below:
 | SQ5 Audio Mixer          | `192.168.2.2` |
 | FLX Monitor              | `192.168.2.3` |
 | Tech Crew iPad           | `192.168.2.4` |
+| HD10K-M Projector        | `192.168.2.5` |
 
 ### SQ5 Audio Mixer
 The SQ5 is on the ip `192.168.2.2`. You can use the **Mixing Station** or **SQ5 Mixpad** app, available on the App Store

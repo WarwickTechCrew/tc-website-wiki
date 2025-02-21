@@ -209,7 +209,13 @@ import './\_constitution-style.css'
 
 9.  There are no limits on the number of times a person may hold any position.
 
-10. All people who hold or share an Exec position are:
+10. The Exec shall maintain a register of all potential conflicts of interest, including both financial and other
+    relevant interests that might affect decision-making.
+
+    1. This register shall be updated at least once per term and made accessible to members of the Society.
+    2. The Exec will be responsible for compiling, updating, and ensuring the accuracy of this register.
+
+11. All people who hold or share an Exec position are:
 
     1. Expected to facilitate the management and execution of equipment hires under the oversight of the Hires Manager.
     2. Expected to keep society storage spaces tidy and in a usable state under the oversight of the Equipment Manager.
@@ -220,14 +226,14 @@ import './\_constitution-style.css'
     6. Entitled to hold the code for Tech Crew equipment storage areas.
     7. Entitled to have full access to all society digital resources.
 
-11. All people who hold or share an ‘electable’ position are:
+12. All people who hold or share an ‘electable’ position are:
 
     1. Expected to organise Tech Crew’s appearance at the annual Societies Fair in Welcome Week.
     2. Expected to complete any relevant training as required by the SU.
     3. Expected to assist with the assignment of roles to shows.
     4. Entitled to attend and vote at all Exec meetings.
 
-12. The President shall:
+13. The President shall:
 
     1. Be the public figurehead of the society and represent the Society’s interests to the SU where required.
     2. Hold overall responsibility for all society matters and must ensure that the society adheres to its stated aims
@@ -237,7 +243,7 @@ import './\_constitution-style.css'
        another Exec member.
     5. Be responsible for scheduling meetings of the Exec.
 
-13. The Treasurer shall:
+14. The Treasurer shall:
 
     1. Be responsible for all financial matters relating to the running of the society.
     2. Liaise with the Union’s Finance Department where necessary.
@@ -248,7 +254,7 @@ import './\_constitution-style.css'
        1. A minuted meeting open to all members, with at least one week's notice.
        2. An online discussion accessible to all members for at least one week.
 
-14. The Secretary shall:
+15. The Secretary shall:
 
     1. Take minutes of every meeting of Exec and General Meetings, these will be presented to the Exec and a redacted
        version made available to all society members.
@@ -267,7 +273,7 @@ import './\_constitution-style.css'
        continue.
     7. Act as a secondary point of contact for other Warwick SU societies.
 
-15. The Hires Manager shall:
+16. The Hires Manager shall:
 
     1. Be responsible for overseeing equipment hires to third parties wishing to hire equipment with the help of the
        rest of the Exec.
@@ -278,7 +284,7 @@ import './\_constitution-style.css'
        basis.
     5. Oversee the temporary involvement of Hires Assistants, ensuring jobs are fairly distributed between them.
 
-16. The Equipment Manager shall:
+17. The Equipment Manager shall:
 
     1. Maintain an inventory of all Society equipment and will submit this annually to the SU.
     2. Ensure equipment is maintained appropriately for use on shows and hires.
@@ -288,7 +294,7 @@ import './\_constitution-style.css'
     5. Manage sourcing and purchasing new equipment, in consultation with the rest of the Exec and society members.
     6. Maintain an inventory of all Society consumables and liaise with the Treasurer to order new stock.
 
-17. The Training Manager shall:
+18. The Training Manager shall:
 
     1. Be responsible for training within the society, which will include at least one fresher’s introduction session.
     2. Arrange training sessions for society members and will seek the involvement of other executive committee members
@@ -297,7 +303,7 @@ import './\_constitution-style.css'
     4. Maintain a register of members, keep a record of known skills and interests of those members, and record show
        assignments – this responsibility is shared with the Secretary.
 
-18. The Socials and Publicity Secretary shall:
+19. The Socials and Publicity Secretary shall:
 
     1. Be responsible for marketing the Society.
     2. Ensure the Society’s logo is included on advertising for all events the Society is involved in.
@@ -305,12 +311,12 @@ import './\_constitution-style.css'
        Tech Crew social media.
     4. Be responsible for all social activities run by, or arranged through, the society.
 
-19. The Hires Assistant(s) shall:
+20. The Hires Assistant(s) shall:
 
     1. Support the Hires Manager and the wider exec in facilitating hires by: organising quotes, equipment and
        logistics, allocating members, and/or operating the hire.
 
-20. The Welfare Officer shall:
+21. The Welfare Officer shall:
 
     1. Be an additional point of contact for any member who wishes to discuss a matter relating to their welfare
     2. Assist in directing and signposting members to the SU, central university, and other local services that could
@@ -321,7 +327,7 @@ import './\_constitution-style.css'
     5. Ensure that shows do not enforce a formal chain of welfare structure that must be completely followed and instead
        provide advice on roles, members and services that can be contacted for welfare matters by choice.
 
-21. The Safety Officer shall:
+22. The Safety Officer shall:
 
     1. Be a point of contact for any member who wishes to discuss a matter relating to safety.
     2. Be responsible for completing the society risk assessment.
@@ -330,7 +336,7 @@ import './\_constitution-style.css'
     4. Ensure that there is adequate first aid coverage at all society events.
     5. Be responsible for reporting accidents and near misses to the SU.
 
-22. The Equal Opportunities Officer shall:
+23. The Equal Opportunities Officer shall:
     1. Be a point of contact for any member who wishes to discuss a matter relating to ensuring they or others get an
        equal opportunity to participate in the society.
     2. Ensure that all members are given an equal opportunity to be assigned to roles on shows and that no one is unduly

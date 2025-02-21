@@ -17,6 +17,13 @@ import './\_constitution-style.css'
 
 <div class="constitution">
 
+:::danger
+
+This constitution is currently awaiting ratification from the SU. All motions passed in the 2025 AGM will come into
+effect once ratified by the SU.
+
+:::
+
 ## Name
 
 1. The name of the society shall be Warwick Tech Crew (henceforth referred to as ‘the Society’, ‘Tech Crew’ or ‘TC’).
@@ -165,7 +172,7 @@ import './\_constitution-style.css'
 
 ## The Exec
 
-1.  The Exec shall be comprised of six ‘electable’ positions:
+1.  The Exec shall be comprised of eight ‘electable’ positions:
 
     1. President
     2. Treasurer
@@ -174,13 +181,13 @@ import './\_constitution-style.css'
     5. Equipment Manager
     6. Training Manager
     7. Socials and Publicity Secretary
+    8. Welfare Officer
 
-2.  The Exec shall also have four ‘non-electable’ positions, which may only be held by a person who also holds an
+2.  The Exec shall also have two ‘non-electable’ positions, which may only be held by a person who also holds an
     ‘electable’ position:
 
-    1. Welfare Officer
-    2. Safety Officer
-    3. Equal Opportunities Officer
+    1. Safety Officer
+    2. Equal Opportunities Officer
 
 3.  The Exec shall also have up to two co-opted, non-voting ‘Hires Assistant’ positions, which may only be held by a
     member who does not hold an ‘electable’ position.

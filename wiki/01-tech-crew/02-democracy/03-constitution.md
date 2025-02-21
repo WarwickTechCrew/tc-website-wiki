@@ -351,37 +351,30 @@ import './_constitution-style.css'
     4. The new/altered/suspended/abolished regulatory instrument is communicated in writing to the members of the
        Society.
 
-## Role Allocation for Warwick Arts Centre (WAC) Shows
+## Core Role Allocation
 
-1. The assignment of roles for WAC shows is at the sole discretion of the Tech Crew Exec.
+1. The assignment of Core Roles is at the sole discretion of the Tech Crew Exec.
 
-2. No member can be a Head of Department on a WAC show more than twice in ten consecutive calendar weeks.
+2. No member can have a Core Role more than once within two consecutive calendar weeks.
 
-3. No member can be a Head of Department on a WAC show more than four times in one academic year.
+3. No member can have a Core Role more than twice in ten consecutive calendar weeks.
+   1. Technical Manager does not count towards this.
 
-4. Once a member is assigned a leadership role on a WAC show, they become ineligible for any leadership role on a WAC
-   show that would occur within two weeks of the completion of the show they were initially assigned to.
+4. No member can have a Core Role more than four times in an academic year.
+   1. Technical Manager does not count towards this.
 
-5. An exemption to a restriction under 2–4 can be granted in individual cases, but to do so all the following criteria
-   must be met:
-    1. The Welfare Officer must have a discussion with the applicant to ensure that they understand the obligations they
-       are accepting.
-    2. The Equal Opportunities Officer must ensure that granting such an exemption will not unduly deprive other members
-       of an opportunity to work on a show.
-    3. The Exec must approve an exemption to this restriction by simple quorate majority vote.
-        1. Should the Equal Opportunities Officer vote against a motion to exempt a person from 2 or 3, the motion will
-           automatically fail, regardless of how the other Exec members vote.
-        2. Should the Welfare Officer vote against a motion to exempt a person from 4, the motion will automatically
-           fail, regardless of how the other Exec members vote.
-    4. Should the member applying for an exemption under 5 be the Welfare Officer or the Equal Opportunities Officer
-       themself, the same criteria must be met, except their responsibilities and requirements in 5.1–5.3.2 should be
-       carried out by the President.
+5. An exemption to 8.2-8.4 may be granted in individual cases, but to do so all of the following criteria must be met:
+    1. The Welfare Officer must have a discussion with the applicant to ensure they understand the obligations they are accepting.
+    2. The Equal Opportunities Officer must ensure that granting such an exemption will not unduly deprive other members of an opportunity to work on a show.
+    3. The Exec must approve an exemption to this restriction by simple majority vote. Should either the Welfare Officer or Equal Opportunities Officer vote against the exemption, it will automatically fail, regardless of how other Exec members vote.
+    4. Should the applicant be the Welfare Officer or Equal Opportunities Officer, their responsibilities under 8.5A-8.5C should be carried out by the President.
 
-6. For the purposes of this section, a ‘Head of Department’ refers to all the following roles: Lighting Designer, Sound
-   Designer, Stage Manager, Set Designer, Deputy Stage Manager
-    1. A ‘Head of Department’ does not refer to the role of Technical Manager.
+6. By default, all Head of Department roles within the Warwick Arts Centre for shows by the DC, OpWA, or MTW are considered Core Roles.   
+    1. Head of Department refers to the following: Lighting Designer, Sound Designer, Stage Manager, Deputy Stage Manager, Set Designer, Technical Manager.
 
-7. For the purposes of this section, a ‘leadership role’ refers to all the following roles: Technical Manager, Lighting
-   Designer, Sound Designer, Stage Manager, Set Designer, Deputy Stage Manager
+
+7. By default, no other roles are considered Core Roles.
+    1. On a case-by-case basis, a role may be considered a Core Role, by simple majority Exec vote.
+
 
 </div>

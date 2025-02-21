@@ -312,12 +312,14 @@ import './\_constitution-style.css'
 
 20. The Welfare Officer shall:
 
-    1. Be a point of contact for any member who wishes to discuss a matter relating to their welfare.
-    2. Assist in directing members to the SU, central university, and other local services that could aid members’
-       welfare.
+    1. Be an additional point of contact for any member who wishes to discuss a matter relating to their welfare
+    2. Assist in directing and signposting members to the SU, central university, and other local services that could
+       aid members’ welfare, both if contacted directly and generally in Tech Crew’s resources and policies.
     3. Consider the welfare impacts of role assignments on members when assigning people to a show/hire.
     4. Assist members in collecting evidence to support allegations of misconduct and with referring such issues to the
        appropriate authority.
+    5. Ensure that shows do not enforce a formal chain of welfare structure that must be completely followed and instead
+       provide advice on roles, members and services that can be contacted for welfare matters by choice.
 
 21. The Safety Officer shall:
 

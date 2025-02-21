@@ -95,11 +95,11 @@ Phantom power (+48V) is used to power condenser microphones and active DI boxes 
 
 - **Mono Channels** handle a single audio signal, typically used for vocals, guitars, and individual drum microphones.
 - **Stereo Channels** handle two linked audio signals (left and right), commonly used for keyboards, audio from a
-  computer, or CD players ect.
+  computer, or CD players etc.
 - **Flexi Channels** can be configured as either mono or stereo in the same channel. This is DiGiCo slightly cursed
   terminology.
 
-Note that on the SQ5, a stereo channel will take up two channels, wheras a DiGiCO "Flexi" stereo channel would only use
+Note that on the SQ5, a stereo channel will take up two channels, whereas a DiGiCO "Flexi" stereo channel would only use
 up one channel on your desk.
 
 ## FX Sends vs Returns

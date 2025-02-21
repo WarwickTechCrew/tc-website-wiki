@@ -178,10 +178,9 @@ import './\_constitution-style.css'
 2.  The Exec shall also have four ‘non-electable’ positions, which may only be held by a person who also holds an
     ‘electable’ position:
 
-    1. Vice President
-    2. Welfare Officer
-    3. Safety Officer
-    4. Equal Opportunities Officer
+    1. Welfare Officer
+    2. Safety Officer
+    3. Equal Opportunities Officer
 
 3.  The Exec shall also have up to two co-opted, non-voting ‘Hires Assistant’ positions, which may only be held by a
     member who does not hold an ‘electable’ position.
@@ -195,9 +194,8 @@ import './\_constitution-style.css'
        1. The positions of President and Treasurer may not be held by the same person.
        2. The positions of President and Welfare Officer may not be held by the same person.
        3. The positions of President and Equal Opportunities Officer may not be held by the same person.
-       4. The positions of President and Vice President may not be held by the same person.
-       5. The positions of President and Secretary may not be held by the same person.
-       6. The positions of Treasurer and Secretary may not be held by the same person.
+       4. The positions of President and Secretary may not be held by the same person.
+       5. The positions of Treasurer and Secretary may not be held by the same person.
 
 5.  All Standard members of the society may stand for election to up to two ‘electable’ positions, subject to 4.2.
 
@@ -257,6 +255,9 @@ import './\_constitution-style.css'
        incoming emails, or forwarding to the appropriate exec member.
     4. Be the Returning Officer for elections unless running for a position themselves.
     5. Be responsible for producing newsletters/emails to all the Society’s members informing them of upcoming events.
+    6. Assume any responsibility and/or obligation of the President, should the President declare absence.
+    7. The Secretary will temporarily assume the role of Acting President until the President states they are fit to continue.
+    8. Act as a secondary point of contact for other Warwick SU societies.
 
 14. The Hires Manager shall:
 
@@ -299,20 +300,7 @@ import './\_constitution-style.css'
     1. Support the Hires Manager and the wider exec in facilitating hires by: organising quotes, equipment and
        logistics, allocating members, and/or operating the hire.
 
-19. The Vice President shall:
-
-    1. Assume any responsibility and/or obligation of the President, should the President declare absence. The Vice
-       President will temporarily assume the role of Acting President until the President states they are fit to
-       continue.
-    2. Act as a secondary point of contact for other Warwick SU societies.
-    3. Automatically assume the role of ‘Acting President’ should the role of President become permanently vacant for
-       any reason.
-       1. The role of Acting President will have the full powers and responsibilities of the President as described
-          in 10.
-       2. The Acting President will remain in office until such a time that a replacement can be found in accordance
-          with SU Regulation 9.
-
-20. The Welfare Officer shall:
+19. The Welfare Officer shall:
 
     1. Be a point of contact for any member who wishes to discuss a matter relating to their welfare.
     2. Assist in directing members to the SU, central university, and other local services that could aid members’
@@ -321,7 +309,7 @@ import './\_constitution-style.css'
     4. Assist members in collecting evidence to support allegations of misconduct and with referring such issues to the
        appropriate authority.
 
-21. The Safety Officer shall:
+20. The Safety Officer shall:
 
     1. Be a point of contact for any member who wishes to discuss a matter relating to safety.
     2. Be responsible for completing the society risk assessment.
@@ -330,7 +318,7 @@ import './\_constitution-style.css'
     4. Ensure that there is adequate first aid coverage at all society events.
     5. Be responsible for reporting accidents and near misses to the SU.
 
-22. The Equal Opportunities Officer shall:
+21. The Equal Opportunities Officer shall:
     1. Be a point of contact for any member who wishes to discuss a matter relating to ensuring they or others get an
        equal opportunity to participate in the society.
     2. Ensure that all members are given an equal opportunity to be assigned to roles on shows and that no one is unduly
@@ -347,28 +335,26 @@ import './\_constitution-style.css'
 2. The President shall chair the Exec meeting and will produce an agenda that will be made available to the other
    members of the Exec ahead of time.
 
-3. In the absence of the President, the Vice President will chair the meeting.
-
-4. The Exec should aim to meet weekly during term time.
+3. The Exec should aim to meet weekly during term time.
 
    1. This may not always be possible due to show week(s) and other disruptions. Where this is the case, the Exec should
       meet as soon as reasonably practicable.
 
-5. At an Exec meeting, each member is expected to give a brief report of their activities since the last meeting.
+4. At an Exec meeting, each member is expected to give a brief report of their activities since the last meeting.
 
-6. For an Exec meeting to be quorate, holders of at least four different ‘electable’ positions (see 1.1) must be
+5. For an Exec meeting to be quorate, holders of at least four different ‘electable’ positions (see 1.1) must be
    present.
 
-7. Any matters that require a vote must be voted on at a quorate Exec meeting.
+6. Any matters that require a vote must be voted on at a quorate Exec meeting.
 
-8. For a vote to succeed, it must pass with a simple majority.
+7. For a vote to succeed, it must pass with a simple majority.
 
    1. Each person who holds an ‘electable’ role is entitled to an equal vote on any matter.
    2. A person may abstain from voting.
    3. Abstentions have no impact on the quoracy of an exec meeting.
    4. In the event of a tie, the motion being voted on will not pass.
 
-9. All members of the Exec have the right to call an emergency meeting. However, this should only be done when a member
+8. All members of the Exec have the right to call an emergency meeting. However, this should only be done when a member
    of the Exec has an issue that needs discussing urgently.
 
    1. An emergency meeting must be held as soon as possible after being requested.
@@ -377,14 +363,14 @@ import './\_constitution-style.css'
    3. If it is practical to hold the weekly exec meeting at the same time, the emergency issue should be at the top of
       the agenda.
 
-10. In an Exec meeting, the Exec may propose and vote on the creation, alteration, suspension, and abolition of any
-    regulatory instrument (including but not limited to: bylaws, regulations, codes of conduct) that addresses any issue
-    if all the following are met:
-    1. The issue has not been voted on at the most recent General Meeting.
-    2. The proposed motion does not contradict this constitution.
-    3. The proposed motion does not contradict any SU regulations, bylaws, or codes of conduct.
-    4. The new/altered/suspended/abolished regulatory instrument is communicated in writing to the members of the
-       Society.
+9. In an Exec meeting, the Exec may propose and vote on the creation, alteration, suspension, and abolition of any
+   regulatory instrument (including but not limited to: bylaws, regulations, codes of conduct) that addresses any issue
+   if all the following are met:
+   1. The issue has not been voted on at the most recent General Meeting.
+   2. The proposed motion does not contradict this constitution.
+   3. The proposed motion does not contradict any SU regulations, bylaws, or codes of conduct.
+   4. The new/altered/suspended/abolished regulatory instrument is communicated in writing to the members of the
+      Society.
 
 ## Core Role Allocation
 

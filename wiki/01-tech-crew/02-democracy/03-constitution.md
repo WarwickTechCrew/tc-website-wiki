@@ -165,51 +165,51 @@ import './\_constitution-style.css'
 
 ## The Exec
 
-1. The Exec shall be comprised of six ‘electable’ positions:
+1.  The Exec shall be comprised of six ‘electable’ positions:
 
-   1. President
-   2. Treasurer
-   3. Secretary
-   4. Hires Manager
-   5. Equipment Manager
-   6. Training Manager
-   7. Socials and Publicity Secretary
+    1. President
+    2. Treasurer
+    3. Secretary
+    4. Hires Manager
+    5. Equipment Manager
+    6. Training Manager
+    7. Socials and Publicity Secretary
 
-2. The Exec shall also have four ‘non-electable’ positions, which may only be held by a person who also holds an
-   ‘electable’ position:
+2.  The Exec shall also have four ‘non-electable’ positions, which may only be held by a person who also holds an
+    ‘electable’ position:
 
-   1. Vice President
-   2. Welfare Officer
-   3. Safety Officer
-   4. Equal Opportunities Officer
+    1. Vice President
+    2. Welfare Officer
+    3. Safety Officer
+    4. Equal Opportunities Officer
 
-3. The Exec shall also have up to two co-opted, non-voting ‘Hires Assistant’ positions, which may only be held by a
-   member who does not hold an ‘electable’ position.
+3.  The Exec shall also have up to two co-opted, non-voting ‘Hires Assistant’ positions, which may only be held by a
+    member who does not hold an ‘electable’ position.
 
-4. All positions may be shared in the following manner:
+4.  All positions may be shared in the following manner:
 
-   1. Up to two people may share any electable position.
-      1. To share an electable position, the people wishing to do so must run for election as a joint candidate and will
-         be treated as one entity in an election.
-   2. A person may hold up to two different positions.
-      1. The positions of President and Treasurer may not be held by the same person.
-      2. The positions of President and Welfare Officer may not be held by the same person.
-      3. The positions of President and Equal Opportunities Officer may not be held by the same person.
-      4. The positions of President and Vice President may not be held by the same person.
-      5. The positions of President and Secretary may not be held by the same person.
-      6. The positions of Treasurer and Secretary may not be held by the same person.
+    1. Up to two people may share any electable position.
+       1. To share an electable position, the people wishing to do so must run for election as a joint candidate and
+          will be treated as one entity in an election.
+    2. A person may hold up to two different positions.
+       1. The positions of President and Treasurer may not be held by the same person.
+       2. The positions of President and Welfare Officer may not be held by the same person.
+       3. The positions of President and Equal Opportunities Officer may not be held by the same person.
+       4. The positions of President and Vice President may not be held by the same person.
+       5. The positions of President and Secretary may not be held by the same person.
+       6. The positions of Treasurer and Secretary may not be held by the same person.
 
-5. All Standard members of the society may stand for election to up to two ‘electable’ positions, subject to 4.2.
+5.  All Standard members of the society may stand for election to up to two ‘electable’ positions, subject to 4.2.
 
-6. Elections and by-elections for ‘electable’ positions will be held in accordance with SU Regulation 9, using the First
-   Past the Post electoral system.
+6.  Elections and by-elections for ‘electable’ positions will be held in accordance with SU Regulation 9, using the
+    First Past the Post electoral system.
 
-7. Following an election of the ‘electable’ positions, the ‘non-electable’ positions are decided by a simple majority
-   vote of the newly elected Exec at a quorate Exec meeting.
+7.  Following an election of the ‘electable’ positions, the ‘non-electable’ positions are decided by a simple majority
+    vote of the newly elected Exec at a quorate Exec meeting.
 
-8. The term length for all Exec positions is until the next Annual General Meeting (as described in 3.3).
+8.  The term length for all Exec positions is until the next Annual General Meeting (as described in 3.3).
 
-9. There are no limits on the number of times a person may hold any position.
+9.  There are no limits on the number of times a person may hold any position.
 
 10. All people who hold or share an ‘electable’ position are:
 
@@ -238,6 +238,9 @@ import './\_constitution-style.css'
     2. Liaise with the Union’s Finance Department where necessary.
     3. All sales and purchases must be approved by the treasurer.
        1. Purchases over £250 must be approved by the Exec as a whole.
+    4. Any new equipment purchases with society funds that exceed £1000 must be discussed in an open forum. An open forum is defined as either:
+       1. A minuted meeting open to all members, with at least one week's notice.
+       2. An online discussion accessible to all members for at least one week.
 
 13. The Secretary shall:
 

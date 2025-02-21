@@ -202,7 +202,7 @@ import './\_constitution-style.css'
 5.  All Standard members of the society may stand for election to up to two ‘electable’ positions, subject to 4.2.
 
 6.  Elections and by-elections for ‘electable’ positions will be held in accordance with SU Regulation 9, using the
-    First Past the Post electoral system.
+    Single Transferable Vote electoral system.
 
 7.  Following an election of the ‘electable’ positions, the ‘non-electable’ positions are decided by a simple majority
     vote of the newly elected Exec at a quorate Exec meeting.
@@ -238,7 +238,8 @@ import './\_constitution-style.css'
     2. Liaise with the Union’s Finance Department where necessary.
     3. All sales and purchases must be approved by the treasurer.
        1. Purchases over £250 must be approved by the Exec as a whole.
-    4. Any new equipment purchases with society funds that exceed £1000 must be discussed in an open forum. An open forum is defined as either:
+    4. Any new equipment purchases with society funds that exceed £1000 must be discussed in an open forum. An open
+       forum is defined as either:
        1. A minuted meeting open to all members, with at least one week's notice.
        2. An online discussion accessible to all members for at least one week.
 

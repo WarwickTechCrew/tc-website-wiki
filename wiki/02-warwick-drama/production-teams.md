@@ -1,5 +1,7 @@
 ---
 description: Definitions for common production team roles
+sidebar_custom_props:
+  emoji: 👪
 ---
 
 # Production Teams

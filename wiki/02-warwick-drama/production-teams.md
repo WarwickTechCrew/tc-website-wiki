@@ -1,5 +1,5 @@
 ---
-description: test
+description: Definitions for common production team roles
 ---
 
 # Production Teams
@@ -23,3 +23,7 @@ They focus on the aesthetic and artistic vision for the overall campaign.
 
 The marketing team are focused on the logistics of running the advertisements of the show.
 This could mean scheduling social media posts, creating or filming stories, or ordering and displaying physical advertising through posters or on-campus screen.
+
+## Dramaturg
+
+A specialist in the provenance of the text, they give advice on how to direct the play in a way that is faithful to the author and time period.

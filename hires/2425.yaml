@@ -1,74 +1,73 @@
 year: 2024 / 2025
 
 terms:
-- name: Term 1
-  shows:
-    - name: Arrivals Stage
-      society: Residential Community Team
-      venue: Piazza / Benefactors Place
-      people:
-        - role: Technical Manager
-          name: Ethan Graham
-        - role: Sound Designers
-          name: Kishan Sharma and Alexander Spears
-        - role: Lighting Designers
-          name: Echo Vaughan and Adam Skrzymowski
-        - role: Exec Contact / Technician
-          name: Josh Heng
-    - name: Will in a Week
-      society: ShakeSoc
-      venue: FAB0.20 Drama Studio
-      people:
-        - role: Sound Designer
-          name: Ali Aljishi
-        - role: Lighting Designer
-          name: Astrid Tricard
-    - name: Tick Tick Boom
-      society: MTW
-      venue: Avon Drama Studio
-      people:
-        - role: Sound Designer
-          name: Stanley Simmons
-        - role: Lighting Designer
-          name: George Parrett
-    - name: Warwick Christmas Lights Switch On
-      society: Warwick Presents
-      venue: Piazza
-      people:
-        - role: Technical Manager
-          name: Alex Spears
-        - role: Sound Designer
-          name: Josh Heng
-        - role: Lighting Designer
-          name: Maximus Kaius Leighton
-        - role: Video Designer
-          name: Adam Skrzymowski
-- name: Term 2
-  shows:
-    - name: Warwick Economics Summit 2025
-      venue: The Oculus
-      people:
-        - role: Technical Manager
-          name: Josh Heng
-    - name: Lunar New Year Livestream
-      venue: The Piazza
+  - name: Term 1
+    shows:
+      - name: Arrivals Stage
+        society: Residential Community Team
+        venue: Piazza / Benefactors Place
         people:
-          - role: Video Design and Drone Pilots
-              name: Adam Skrzymowski
-              name: Joel Coulon
-              name: Josh Heng
-              name: Maximus Kaius Leighton
-    - name: The National Universities Lead and Speed Climbing Championships (NULSCC)
-      society: NULSCC & WUCC
-      venue: Warwick Sports and Wellness Hub Climbing Center
-      people:
-        - role: Technical Manager
-          name: Alex Spears
-        - role: Sound Designers
-          name: Ethan Graham and Josh Heng
-        - role: Lighting Designer
-          name: Maximus Kaius Leighton
-        - role: Video Designers
-          name: Oliver Smith and Joel Coulon
-        - role: Video Assistants/Camera Operators
-          name: Adam Skrzymoski, Caleb, Jonathon, Olivia, Tara
+          - role: Technical Manager
+            name: Ethan Graham
+          - role: Sound Designers
+            name: Kishan Sharma and Alexander Spears
+          - role: Lighting Designers
+            name: Echo Vaughan and Adam Skrzymowski
+          - role: Exec Contact / Technician
+            name: Josh Heng
+      - name: Will in a Week
+        society: ShakeSoc
+        venue: FAB0.20 Drama Studio
+        people:
+          - role: Sound Designer
+            name: Ali Aljishi
+          - role: Lighting Designer
+            name: Astrid Tricard
+      - name: Tick Tick Boom
+        society: MTW
+        venue: Avon Drama Studio
+        people:
+          - role: Sound Designer
+            name: Stanley Simmons
+          - role: Lighting Designer
+            name: George Parrett
+      - name: Warwick Christmas Lights Switch On
+        society: Warwick Presents
+        venue: Piazza
+        people:
+          - role: Technical Manager
+            name: Alex Spears
+          - role: Sound Designer
+            name: Josh Heng
+          - role: Lighting Designer
+            name: Maximus Kaius Leighton
+          - role: Video Designer
+            name: Adam Skrzymowski
+  - name: Term 2
+    shows:
+      - name: Warwick Economics Summit 2025
+        society: Warwick Economics Summit
+        venue: The Oculus OC1.05
+        people:
+          - role: Technical Manager
+            name: Josh Heng
+      - name: Lunar New Year Livestream
+        society: University of Warwick
+        venue: The Piazza
+        people:
+          - role: Video Designers and Drone Pilots
+            name: Adam Skrzymowski, Joel Coulon, Josh Heng, Maximus Kaius Leighton
+      - name: The National Universities Lead and Speed Climbing Championships (NULSCC)
+        society: NULSCC & WUCC
+        venue: Warwick Sports and Wellness Hub Climbing Center
+        people:
+          - role: Technical Manager
+            name: Alex Spears
+          - role: Sound Designers
+            name: Ethan Graham and Josh Heng
+          - role: Lighting Designer
+            name: Maximus Kaius Leighton
+          - role: Video Designers
+            name: Oliver Smith and Joel Coulon
+          - role: Video Assistants/Camera Operators
+            name: Adam Skrzymoski, Caleb, Jonathon, Olivia, Tara

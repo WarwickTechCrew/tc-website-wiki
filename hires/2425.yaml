@@ -9,9 +9,9 @@ terms:
       people:
         - role: Technical Manager
           name: Ethan Graham
-        - role: Sound Designer
+        - role: Sound Designers
           name: Kishan Sharma and Alexander Spears
-        - role: Lighting Designer
+        - role: Lighting Designers
           name: Echo Vaughan and Adam Skrzymowski
         - role: Exec Contact / Technician
           name: Josh Heng
@@ -43,3 +43,32 @@ terms:
           name: Maximus Kaius Leighton
         - role: Video Designer
           name: Adam Skrzymowski
+- name: Term 2
+  shows:
+    - name: Warwick Economics Summit 2025
+      venue: The Oculus
+      people:
+        - role: Technical Manager
+          name: Josh Heng
+    - name: Lunar New Year Livestream
+      venue: The Piazza
+        people:
+          - role: Video Design and Drone Pilots
+          - name: Adam Skrzymowski
+          - name: Joel Coulon
+          - name: Josh Heng
+          - name: Maximus Kaius Leighton
+    - name: The National Universities Lead and Speed Climbing Championships (NULSCC)
+      society: NULSCC & WUCC
+      venue: Warwick Sports and Wellness Hub Climbing Center
+      people:
+        - role: Technical Manager
+          name: Alex Spears
+        - role: Sound Designers
+          name: Ethan Graham and Josh Heng
+        - role: Lighting Designer
+          name: Maximus Kaius Leighton
+        - role: Video Designers
+          name: Oliver Smith and Joel Coulon
+        - role: Video Assistants/Camera Operators
+          name: Adam Skrzymoski, Caleb, Jonathon, Olivia, Tara

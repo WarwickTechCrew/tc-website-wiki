@@ -54,10 +54,10 @@ terms:
       venue: The Piazza
         people:
           - role: Video Design and Drone Pilots
-          - name: Adam Skrzymowski
-          - name: Joel Coulon
-          - name: Josh Heng
-          - name: Maximus Kaius Leighton
+              name: Adam Skrzymowski
+              name: Joel Coulon
+              name: Josh Heng
+              name: Maximus Kaius Leighton
     - name: The National Universities Lead and Speed Climbing Championships (NULSCC)
       society: NULSCC & WUCC
       venue: Warwick Sports and Wellness Hub Climbing Center

@@ -31,10 +31,11 @@ their [linktree](https://linktr.ee/uoydramasoc) which explains how they work, ki
 
 ## [Nottingham New Theatre](https://newtheatre.org.uk/)
 
-England's only student-run theatre, the Nottingham New Theatre has an 86-seat main theatre and two 30-seat studios. They
-have a [fantastic history site](https://history.newtheatre.org.uk/), with records of shows going back to 1950. Every
-summer, they run [Student Fringe Festival (StuFF)](https://newtheatre.org.uk/stuff/) for student and professional
-theatre makers to showcase their work.
+England's only student-run theatre, the Nottingham New Theatre ~~has an 86-seat main theatre and two 30-seat studios~~
+is currently closed for "refurbishment" with no date for reopening. Currently, they are based in a temporary performance
+space in the Portland (SU) Building. They have a [fantastic history site](https://history.newtheatre.org.uk/), with
+records of shows going back to 1950. Every summer, they run [Student Fringe Festival (StuFF)](https://newtheatre.org.uk/stuff/)
+for student and professional theatre makers to showcase their work.
 
 ## [TEC PA & Lighting (Nottingham)](https://www.nottinghamtec.co.uk/)
 

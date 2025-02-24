@@ -4,6 +4,8 @@ sidebar_custom_props:
   emoji: 🎨
 shortlinks:
   - set
+image: ./dannys-set-box-kishansharma.jpg
+image_alt: Model box for the 2024/25 footloose pack
 ---
 
 # Set

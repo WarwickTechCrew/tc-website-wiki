@@ -69,6 +69,8 @@ terms:
           name: Alex Morrison
         - role: Assistant Lighting Designer & Followspot
           name: Matt Morris
+        - role: Sound Assistant
+          name: Stanley Simmons
     - name: Electra
       society: WUDS
       venue: Warwick Arts Centre Studio
@@ -98,7 +100,7 @@ terms:
         - role: Deputy Stage Manager
           name: Connie Locker
         - role: Followspot
-          name: Ethan Graham and Stan Simmons
+          name: Ethan Graham and Stanley Simmons
     - name: The Tempest
       society: Shakesoc x WUDS
       venue: Warwick Arts Centre Studio

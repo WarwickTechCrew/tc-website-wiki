@@ -7,8 +7,8 @@ shortlinks:
   - sounddesks
   - sq5
   - s21
-image: ./sq5-baguette-kishansharma.jpg
-image_alt: Picture of the SQ5 with barry the baugette
+image: ./midas-dm12-kishansharma.jpg
+image_alt: Midas DM12 sound desk
 ---
 
 # Sound Desks

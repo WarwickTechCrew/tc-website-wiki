@@ -74,7 +74,7 @@ stardom.
 
 Makka Pakka also made an appearance at Can You Teach Me How To Breathe 2025, briefly gracing the occupants of a submarine of the mind with its visage.
 <figure>
-![Makka Pakka's appearance at CYTMHTB](./makka-pakka-cytmhtb.jpg)
+![Makka Pakka's appearance at CYTMHTB](./makka-pakka-cytmhtb-joshheng.jpg)
 <figcaption>Makka Pakka's first appearance at CYTMHTB</figcaption>
 </figure>
 

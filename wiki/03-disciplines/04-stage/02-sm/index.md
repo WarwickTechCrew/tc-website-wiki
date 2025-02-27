@@ -11,6 +11,8 @@ resources:
     author: Tech Crew
 shortlinks:
   - sm
+  - ffmil
+  - milff
 ---
 # Stage Manager (SM)
 

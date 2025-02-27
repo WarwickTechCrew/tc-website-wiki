@@ -119,15 +119,20 @@ Sound patch panels in the theatre are:
 | SC-TH-107 | DSL Wall            | 1-4                         | 1-2 (1 free) | 1-4                 | 1-2       | 1-4          | Yes            | 2          | 4           |                                           |
 | SC-TH-108 | DSR Wall            | 1-4                         | 1-2 (1 free) | 1-4                 | 1-2       | 1-4          | Yes            | 2          | 4           |                                           |
 | SC-TH-201 | FoH Mixing Position | 1-12 with VEAM              | ?            | ?                   | ?         | ?            | ?              | ?          | ?           | FoH Mix 1-48 VEAM (Parallel to SC-ST-313) |
-| SC-TH-301 | Bridge 3 SL         | 1-2                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
-| SC-TH-302 | Bridge 3 C          | 1-2                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
-| SC-TH-303 | Bridge 3 SR         | 1-2                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
-| SC-TH-304 | Bridge 2 SL         | 1-2                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
-| SC-TH-305 | Bridge 2 C          | 1-4                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
-| SC-TH-306 | Bridge 2 SR         | 1-2                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-202 | Door A Lobby        | ?                           | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-203 | Door B Lobby        | ?                           | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-301 | Bridge 3 SL         | 1-2                         | 1-2          | 1-2                 | None      | 1-2          | Yes            | None       | 2 (1 free)  |                                           |
+| SC-TH-302 | Bridge 3 C          | 1-2                         | 1-2          | 1-2 (? free)        | 1         | 1-6          | Yes            | 1          | 2           |                                           |
+| SC-TH-303 | Bridge 3 SR         | 1-2                         | 1-2          | 1-2                 | None      | 1-2          | Yes            | None       | 2           |                                           |
+| SC-TH-304 | Bridge 2 SL         | 1-2                         | 1-2          | 1-2                 | None      | 1-2          | Yes            | None       | 2 (1 free)  | Infra Red port (in use)                   |
+| SC-TH-305 | Bridge 2 C          | 1-4 (? free)                | 1-2          | 1-2 (? free)        | 1         | 1-6          | Yes            | 1          | 2           |                                           |
+| SC-TH-306 | Bridge 2 SR         | 1-2                         | 1-2          | 1-2                 | None      | 1-2          | Yes            | None       | 2 (1 free)  | Infra Red port (in use)                   |
 | SC-TH-307 | Bridge 1 (Movable)  | 1-6                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
 | SC-TH-313 | Sound Control Room  | 1-24                        | ?            | ?                   | ?         | ?            | ?              | ?          | ?           | FoH Mix 1-48 VEAM (Parallel to SC-ST-201) |
 | SC-TH-315 | LX Control Room     | 1-4                         | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
+| SC-TH-316 | Slot SL             | 1-4                         | 1-4          | 1-2                 | None      | 1-2          | Yes            | 1          | 2           |                                           |
+| SC-TH-317 | Slot SR             | 1-4                         | 1-4          | 1-2                 | None      | 1-2          | Yes            | 1          | 2 (1 free)  |                                           |
+| SC-TH-319 | High Level Walkway  | 1-4                         | None         | 1-2                 | None      | 1-4          | Yes            | 2          | 2           | SM Desk, Paging Mic                       |
 
 When using the Front of House mixing position (SC-ST-201), you will also need to unplug the sound multipin snake from
 the sound control room (SC-ST-313).
@@ -146,7 +151,14 @@ This still needs to be completed!
 
 LX patch panels in the theatre are:
 
-| Name      | Location  | Dimmer Channels (16A Pairs + 6ch Spiders) | Lighting Data (Ethernet) | Fibre | Power (13A) |
-|-----------|-----------|-------------------------------------------|--------------------------|-------|-------------|
-| PL-TH-101 | SL Pillar | 61-78                                     | 1-4                      | 1-2   | 4           |
-| PL-TH-102 | SR Pillar | 25-42                                     | 1-4                      | None  | 4           |
+| Name      | Location           | Dimmer Channels (16A Pairs + 6ch Spiders) | Lighting Data (Ethernet) | Fibre | Power (13A) |
+|-----------|--------------------|-------------------------------------------|--------------------------|-------|-------------|
+| PL-TH-101 | SL Pillar          | 61-78                                     | 1-4                      | 1-2   | 4           |
+| PL-TH-102 | SR Pillar          | 25-42                                     | 1-4                      | None  | 4           |
+| PL-TH-301 | Bridge 3 SL        | 247-252                                   | 1-2                      | None  | 4           |
+| PL-TH-302 | Bridge 3 C         | 241-246 (Possibly more, needs checking)   | 1-2                      | 1-2   | 4           |
+| PL-TH-303 | Bridge 3 SR        | 235-240                                   | 1-2                      | None  | 4           |
+| PL-TH-304 | Bridge 2 SL        | 229-234                                   | 1-2                      | None  | 4           |
+| PL-TH-305 | Bridge 2 C         | 223-228 (Possibly more, needs checking)   | 1-2 (? free)             | 1-2   | 4 (? free)  |
+| PL-TH-306 | Bridge 2 SR        | 217-222                                   | 1-2                      | None  | 4           |
+| PL-TH-317 | High Level Walkway | None                                      | 1-4                      | 1-2   | 4 + 2 UPS   |

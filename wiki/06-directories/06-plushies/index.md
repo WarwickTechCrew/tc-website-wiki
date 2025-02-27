@@ -78,16 +78,16 @@ Makka Pakka also made an appearance at Can You Teach Me How To Breathe 2025, bri
 <figcaption>Makka Pakka's first appearance at CYTMHTB</figcaption>
 </figure>
 
-<div class="video-full">
-  <iframe
-    src=" https://youtu.be/1j7Arzmgp1c"
+<iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/1j7Arzmgp1c?si=clnBqgBCoOOB4qwc"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-  ></iframe>
-</div>
+    allowfullscreen>
+    </iframe>
 
 ## Barry the Baguette
 

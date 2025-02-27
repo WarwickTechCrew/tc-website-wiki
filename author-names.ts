@@ -7,5 +7,5 @@ export const authorNames: Record<string, string> = {
   Cooleth23: 'Ethan Graham',
   MagmaStan: 'Stanley Simmons',
   u2220769: 'Oliver Smith',
-  sg-tech-lover: 'Siddharth Guru Murthy'
+  sg-tech-lover: 'Siddharth Guru Murthy',
 };

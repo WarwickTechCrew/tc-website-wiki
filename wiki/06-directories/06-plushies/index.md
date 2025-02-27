@@ -72,6 +72,22 @@ stardom.
 <figcaption>Makka Pakka being attacked during the middle of the night during the CU Weekend Away hire</figcaption>
 </figure>
 
+Makka Pakka also made an appearance at Can You Teach Me How To Breathe 2025, briefly gracing the occupants of a submarine of the mind with its visage.
+<figure>
+![Makka Pakka's appearance at CYTMHTB](./makka-pakka-cytmhtb-joshheng.jpg)
+<figcaption>Makka Pakka's first appearance at CYTMHTB</figcaption>
+</figure>
+
+<div class="video-full">
+  <iframe
+    src=" https://youtu.be/1j7Arzmgp1c"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+  ></iframe>
+</div>
 
 ## Barry the Baguette
 

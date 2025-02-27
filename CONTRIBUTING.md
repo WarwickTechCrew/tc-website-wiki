@@ -108,8 +108,8 @@ sectionShortlinks:
 ## Videos
 
 You can add videos to TC wiki pages!
-For reop-filesize reasons, we upload videos to the TC gmail Youtube account (ask an exec to do this for you!).
-You can then insert the video to a page by following [this guide by google](https://support.google.com/youtube/answer/171780?hl=en) to get the embed link for the video to add to the site.
+For repo-filesize reasons, we upload videos to the TC gmail Youtube account (ask an exec to do this for you!).
+You can then insert the youtube video into a page by following [this guide by google](https://support.google.com/youtube/answer/171780?hl=en) to get the iframe code to add.
 Then wrap that iframe in a `<div class="video-full"></div>` to make the video span the full width of the page.
 You can see examples of embedded videos on [this makka pakka page](https://wwtc.uk/makka-pakka).
 

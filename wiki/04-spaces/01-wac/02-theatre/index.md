@@ -58,6 +58,19 @@ When getting out, please follow the WAC's
 
 ## Technical Specifications
 
+### Orchestra Elevator/ Forestage Riser
+
+The theatre has a moving forestage. It can be moved to three heights allowing it to be in line with either the stage, the front row audience, or the pit.
+We use the lift to move heavy instruments or equipment in and out of the pit, as the only other access to the pit
+is through the narrow corridor and staircase. There is an info panel in the pit with the following stats:
+
+
+| Dynamic Load    | 250 kg/m²            |
+| Static Load     | 750 kg/m²            |
+| Point Load      | 1000 kg              |
+| Lifting Speed   | 3 m/min or 50 mm/sec |
+
+
 ### Lantern Stock
 
 | Lantern                                | Beam Angle              | Quantity |

@@ -137,7 +137,7 @@ Sound patch panels in the theatre are:
 When using the Front of House mixing position (SC-ST-201), you will also need to unplug the sound multipin snake from
 the sound control room (SC-ST-313).
 
-Note that the theatre uses **Intercom Channel B**, and the studio uses Intercom Channel A.
+The theatre and the studio are on separate cans circuts. They both have their own channel A and B for cans, labelled "intercom".
 
 #### Lighting
 

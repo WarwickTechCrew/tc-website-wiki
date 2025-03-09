@@ -130,12 +130,13 @@ for Makka Pakka to find new friends.
 <figcaption>The result of the Great IKEA Trip of Term 1, 2024</figcaption>
 </figure>
 
-## [Name Incoming] the Bulldog
-[Name incoming] is another of Makka Pakka's friends, originating from the 2025 MTW hit musical Anything Goes! His favourite pastime is sitting on Connie's DSM desk during Act 2, overlooking her work with glee.
+## Leli the Bulldog
+Leli is another of Makka Pakka's friends, originating from the 2025 MTW hit musical Anything Goes! His favourite pastime is sitting on Connie's DSM desk during Act 2, overlooking her work with glee.
 
 <figure>
 <div class="img-gallery img-small">
-![[Name incoming] sitting on Connie's desk](./great-ikea-trip-2024.jpg)
+![Leli sitting on Connie's desk during the interval](./leli-interval-sidgm.jpg)
+![Leli hard at work during Act 2](./leli-act2-sidgm.jpg)
 </div>
-<figcaption>[Name incoming] overlooking Connie's work during Anything Goes!, 2025</figcaption>
+<figcaption>Leli overlooking Connie's work during Anything Goes!, 2025</figcaption>
 </figure>

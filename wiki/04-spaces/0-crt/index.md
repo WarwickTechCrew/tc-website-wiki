@@ -22,6 +22,7 @@ resources:
   - name: Campus Map
     url: https://campus.warwick.ac.uk/
     author: University of Warwick
+additional_authors: Leila Davis
 ---
 # Centrally Timetabled Rooms
 

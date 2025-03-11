@@ -145,7 +145,6 @@ The patch plan is available here: [Patch Plan](https://drive.google.com/file/d/1
 
 
 ## Video
-@Adam sorry I haven't written as much here, you might need to add some more stuff.
 
 To ensure the performances on stage were visible, live video transmission to the big screen and a YouTube livestream were set up.
 Video was mixed using an [ATEM Mini Extreme](https://www.blackmagicdesign.com/products/atemmini) from the FOH tent.
@@ -185,18 +184,6 @@ We used the following overlays:
 |![Lyrics Example](./christmas-lyrics.jpg)|**Lyrics** <br/> Used during the final performance to display lyrics to christmas songs. <br/> *Tip: Use '\n' to split lyrics across two lines*.|
 
 We also used video clips sent by the marketing team. These were the "Together This Christmas" ident and the Countdown itself (only shown on big screen)
-
-<!--<div class="img-gallery">
-  ![Lower Third Example](./christmas-lower3-brass.jpg)
-
-  ![Lyrics Example](./christmas-lyrics.jpg)
-  *Lyrics*
-</div>-->
-
-
-
-### Big screen
-
 
 ### Drone footage
 

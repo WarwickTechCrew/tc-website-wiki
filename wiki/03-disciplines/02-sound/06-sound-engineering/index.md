@@ -1,5 +1,5 @@
 ---
-description: test
+description: For all the cool technical things you can do on a sound desk!
 sidebar_custom_props:
   emoji: 🛠️
 ---

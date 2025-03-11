@@ -25,10 +25,10 @@ When working in the dock, please note:
 
 - **You must confirm with WAC Head of Workshop exactly what equipment you are planning to leave in the dock, this must be arranged well in advance!**
 - The Ops Assistant is on duty to deal with building operations and are the person who locks up at the end of the day, they might start asking you to leave around 9pm.
-- The area outside the yellow and black striped tape must be clear when you leave
+- The area outside the yellow and black striped tape must be clear when you leave.
 - If there are other shows in the Studio or Theatre, you might not be able to use the dock due to a load in/out.
-- Even if they aren’t loading in or out, respect how close you are to the venues and dock equipment with noise and belongings
-- Paint! – Once you’re finished painting, use the paint sink provided (under the DC cupboard) to wash brushes, rollers, and trays
+- Even if they aren’t loading in or out, respect how close you are to the venues and dock equipment with noise and belongings.
+- Paint! – Once you’re finished painting, use the paint sink provided (under the DC cupboard) to wash brushes, rollers, and trays.
 - If you have a palette still full of paint that you want to keep fresh for tomorrow, cover it with clingfilm, to stop it drying out.
-- If you have set with wet paint, leave a note
-- Once your show is in the venue, clear out the dock of everything for your show and relabel extra paints for other show use
+- If you have set with wet paint, leave a note.
+- Once your show is in the venue, clear out the dock of everything for your show and relabel extra paints for other show use.

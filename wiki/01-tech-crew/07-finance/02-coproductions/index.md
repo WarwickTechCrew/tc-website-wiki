@@ -1,5 +1,5 @@
 ---
-description: All about Tech Crew co-productions and how to get one.
+description: All about Tech Crew Co-Productions and how to get one.
 sidebar_custom_props:
     emoji: 🤝
 additional_authors: Ben Hammond

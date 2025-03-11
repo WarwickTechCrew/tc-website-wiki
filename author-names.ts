@@ -8,4 +8,5 @@ export const authorNames: Record<string, string> = {
   MagmaStan: 'Stanley Simmons',
   u2220769: 'Oliver Smith',
   'sg-tech-lover': 'Siddharth Guru Murthy',
+  danaim123: 'Danai Muyambo'
 };

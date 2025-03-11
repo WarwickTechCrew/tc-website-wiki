@@ -87,6 +87,6 @@ The fastest way to contribute to the wiki is to use a code editor such as
 [Visual Studio Code](https://code.visualstudio.com/) and to make all changes locally on your own computer.
 
 To do this, following the instructions in
-[**Running the Website Locally**](https://github.com/WarwickTechCrew/tc-website-wiki?tab=readme-ov-file#running-the-website-locally)
-in the README. Once you've made your changes, you can commit these to a new branch and then follow the above steps to
+[**Running the Website Locally**](https://github.com/WarwickTechCrew/tc-website-wiki/blob/main/CONTRIBUTING.md#running-the-website-locally)
+in CONTRIBUTING.md. Once you've made your changes, you can commit these to a new branch and then follow the above steps to
 create a Pull Request.

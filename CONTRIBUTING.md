@@ -107,12 +107,11 @@ sectionShortlinks:
 
 ## Videos
 
-You can add videos to TC wiki pages!
-For repo-filesize reasons, we upload videos to the TC gmail Youtube account (ask an exec to do this for you!).
-You can then insert the youtube video into a page by following [this guide by google](https://support.google.com/youtube/answer/171780?hl=en) to get the iframe code to add.
-Then wrap that iframe in a `<div class="video-full"></div>` to make the video span the full width of the page.
-You can see examples of embedded videos on [this makka pakka page](https://wwtc.uk/makka-pakka).
-
+You can add videos to TC wiki pages! For repo-filesize reasons, we upload videos to the TC gmail Youtube account (ask an
+exec to do this for you!). You can then insert the youtube video into a page by following
+[this guide by google](https://support.google.com/youtube/answer/171780?hl=en) to get the iframe code to add. Then wrap
+that iframe in a `<div class="video-full"></div>` to make the video span the full width of the page. You can see
+examples of embedded videos on [this makka pakka page](https://wwtc.uk/makka-pakka).
 
 ## Images
 
@@ -173,7 +172,9 @@ disable_banner: true
 [Docusaurus has extra syntax to create "admonitions"](https://docusaurus.io/docs/markdown-features/admonitions), similar
 to the one below:
 
-> [!WARNING] The Docusaurus admonition syntax is different to that used by GitHub and Obsidian
+<!-- prettier-ignore -->
+> [!WARNING]
+> The Docusaurus admonition syntax is different to that used by GitHub and Obsidian
 
 You can use the types `note`, `tip`, `info`, `warning`, `danger`. We also have our own custom `lore` admonition. To add
 lore to a page use:

@@ -28,7 +28,7 @@ and be sure to contact us first in case other equipment may be more suitable for
 * **Lighting**
     * **Intelligent Fixtures:** Prolight LumiPar, Prolight StudioCob, RGB Battens
     * **Generic Fixtures:** assortment of conventional lights
-    * **LX Desks:** ETC Nomad, Zero88 Jester, Zero88 FLX
+    * **LX Desks:** ETC Nomad, Zero88 Jester, Zero88 FLX, ChamSys MagicQ MQ50
     * **Accessories:** lighting stands, gels, cables
 * **Other**
     * **Effects:** MVS Hazer, bubble machines

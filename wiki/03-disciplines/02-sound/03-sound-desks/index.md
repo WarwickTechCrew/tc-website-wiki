@@ -48,7 +48,7 @@ just has more channels if you need.
 
 :::lore
 
-The area of campus encompassing WAC and the FAB has has 378 DigiCo S21s per square km.
+The area of campus encompassing WAC and the FAB has 378 DigiCo S21s per square km.
 
 :::
 

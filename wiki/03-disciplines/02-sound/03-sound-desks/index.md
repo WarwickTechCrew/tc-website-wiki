@@ -44,7 +44,7 @@ diagrams for how audio is being routed about the desk. You can request to use on
 [datasheet](https://digico.biz/wp-content/uploads/2020/04/DiGiCo-S21-Data-Sheet-1.pdf)! Note that this desk gets a bit
 laggy if you cram too many scenes into it (you know who you are). Would recommend looking into TheatreMix if you want to
 mix on DCA's during a show! It is suspected WAC and FAB own about 12 of these sound desks. WAC also own an S31, which
-just has more channels if you need.
+just has more faders if you need (but the same I/O).
 
 :::lore
 

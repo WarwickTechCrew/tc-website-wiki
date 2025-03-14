@@ -17,4 +17,5 @@ Information about a Video Designer's responsibilities throughout the show proces
 [Shows](/wiki/warwick-drama/shows) pages.
 :::
 
-There are two main cases you would want to add video to a show, either livestreaming the show (for example WSAF, XMAS Lights Switch On) or to record it.
+Video is a rarely used department in shows, but you may want to use it for projections, recording, or livestreaming. 
+Recording and livestreaming are more commonly used during hires (for example, at WSAF, the XMAS Lights Switch On, or the NULSCC).

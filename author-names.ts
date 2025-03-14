@@ -9,6 +9,6 @@ export const authorNames: Record<string, string> = {
   u2220769: 'Oliver Smith',
   'sg-tech-lover': 'Siddharth Guru Murthy',
   danaim123: 'Danai Muyambo',
-  GeorgeP239: 'George Parrett'
+  GeorgeP239: 'George Parrett',
   rowanm117: 'Rowan McAlpine'
 };

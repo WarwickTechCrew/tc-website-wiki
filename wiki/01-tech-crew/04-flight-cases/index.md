@@ -123,5 +123,7 @@ During a show in the studio, we also have access to the following flight cases:
 * **Big Orange** - lighting cables
 * **Orange Cube** - more lighting cables
 
-Generally, we use Art Centre cables (where available) when working in the WAC to avoid confusion and mixing up our own 
-cables with theirs. The main exception to this is IECs, as these aren't stored in the WAC flight cases.
+Generally, we use the Art Centre's cables (where available) when working in the WAC.
+This leaves cables avaliable for other TC hires that may be happening the same time as a WAC show.
+It also helps to avoid mixing up or own cables with theirs during get outs.
+The main exception to this is IECs, as these aren't stored in the WAC flight cases.

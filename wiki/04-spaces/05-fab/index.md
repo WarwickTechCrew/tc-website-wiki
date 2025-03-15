@@ -14,9 +14,12 @@ additional_resources:
   - name: FAB Google Drive
     link: https://drive.google.com/drive/folders/1Uzu9Ylj5_WwsSKngSBG8N3sVTfkErDWO?usp=drive_link
     author: Tech Crew
-additional_authors: Matthew Morris
 ---
 # FAB
+
+Both studios come equipped with and ETC Ion Xe 20, a DiGiCo S21 and a Mac with QLab5.
+
+Note that the colour on the Mini-Bs is inconsistent between the fixtures as they are set with different dimming curves. This can be changed using non-RDM DMX though (consult DMX personality document), so could be fixed easily.
 
 ## FAB0.19
 
@@ -34,6 +37,12 @@ Note:
 * Bars around the edge are below the tension grid, the others are above it.
 
 ## FAB0.20
+
+![FAB 0.20 Lighting Plan](fab020-lighting.png)
+
+Note:
+* Bars around the edge are below the tension grid, the others are above it.
+* There's a 63Amp socket in the top right corner
 
 <!-- ### [Campus Map](https://campus.warwick.ac.uk/search/623c8961421e6f5928c0fb6a?projectId=warwick)
 

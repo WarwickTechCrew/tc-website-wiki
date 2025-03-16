@@ -191,8 +191,6 @@ A flight permit was obtained for multiple drone operators through the permit pro
 In total, a maximum of five drone operators would have been available, though a maximum of two drones was used at a time.
 Only drones ≤250g were used to take advantage of more relaxed overflight criteria.
 
-@Joel please talk about footage ingest here.
-
 ### Equipment used
 **Warwick IT Services:**
 - 1x Sony FDR-AX43A 4K Handycam

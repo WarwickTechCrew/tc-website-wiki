@@ -25,7 +25,7 @@ Both were streamed to the [NULSCC Youtube Channel](https://www.youtube.com/@Nati
 @Joel this is your part
 
 ### Overlays
-The overlays were run using [H2R Graphics](https://h2r.graphics/) on a dedicated laptop. This laptop sent two inputs to the ATEM (Fill and Key) which were overlayed onto the stream using a Downstream Key.
+The overlays were run using [H2R Graphics](https://h2r.graphics/) on a dedicated laptop. This laptop sent two inputs to the ATEM (Fill and Key) which were overlaid onto the stream using a Downstream Key.
 :::info
 We had some lag issues at the start which was caused by a delay between different USB-C > HDMI adapters. This was fixed by switching them out for different adapters with closer delays
 :::

@@ -48,7 +48,7 @@ just has more faders if you need (but the same I/O).
 
 :::warning
 
-Although this desk can handle a maximum of 48 stereo channels and an infinite ammount of scenes, DO NOT use hundreds of scenes.
+Although this desk can handle a maximum of 48 stereo channels and an infinite amount of scenes, DO NOT use hundreds of scenes.
 The last time someone pushed the desk by using over 200 scenes, it became an unresponsive laggy mess and was incredibly painful to use.
 
 :::
@@ -73,7 +73,7 @@ The Pro2 also includes robust automation and scene recall features that make qui
 While it is physically larger and heavier than many smaller desks, its advanced processing power, refined audio quality, and comprehensive control surface justify the size when used inconcerts or shows demanding first-rate audio control.
 It has quite a complicated UI that does take time to get used to, but allows almost infinite customisability.
 The built in effects are fantastic and easily out perform those included in modern, high end theatre consoles.
-This desk also has native support for a seperate mono bus, mixing in LCRS (Left, Centre, Right, and Surround) and mixing in full 5.1 surround sound (Left, Right, Centre, Subwoofer, Left surround, and Right surround).
+This desk also has native support for a separate mono bus, mixing in LCRS (Left, Centre, Right, and Surround) and mixing in full 5.1 surround sound (Left, Right, Centre, Subwoofer, Left surround, and Right surround).
 Although this desk is showing its age (such as no native support for USB audio or Dante networking), it is still a very competent desk.
 
 ## Midas DM12

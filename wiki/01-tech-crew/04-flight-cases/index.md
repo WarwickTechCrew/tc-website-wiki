@@ -119,9 +119,9 @@ Steve was used for late-night snack collection and transportation from Tesco for
 
 During a show in the studio, we also have access to the following flight cases:
 
-* **Big Blue** - sound cables
-* **Big Orange** - lighting cables
-* **Orange Cube** - more lighting cables
+* **Big Blue** - sound cables including XLR, 13A, Speakon, Veam
+* **Big Orange** - 16a power cables of varying lengths
+* **Orange Cube** - DMX cables and ethernet / etherCON
 
 Generally, we use the Art Centre's cables (where available) when working in the WAC.
 This leaves cables available for other TC hires that may be happening the same time as a WAC show.

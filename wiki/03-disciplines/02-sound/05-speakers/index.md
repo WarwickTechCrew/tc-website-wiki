@@ -35,7 +35,7 @@ Like the Mackie SRM350, the LVX-8 can be used on stands for front-of-house (FOH)
 
 #### [dB technologies minibox L160](https://www.dbtechnologies.com/en/products/mini-box/minibox-l-160d/)
 The dB Technologies minibox L160 is a small, active (powered) loudspeaker that offers clear and reliable sound in an ultra-compact form factor.
-Its small size makes it perfect for practicals on stage, where discreet placement and minimal footprint are essential.
+Its small size makes it perfect for practicals on stage, where discrete placement and minimal footprint are essential.
 
 ---
 
@@ -43,7 +43,7 @@ Its small size makes it perfect for practicals on stage, where discreet placemen
 
 These speakers do not contain an amplifier in their housing, so require an amp to be set up (and connected to power) somewhere else.
 They normally take a 4 pole speakon connectors as input, as these cables can carry the amplified audio signal from the amp to the driver in the speaker.
-These cables can carry 2 seperate speaker signals.
+These cables can carry 2 separate speaker signals.
 
 ### Tech Crew's current passive speakers:
 

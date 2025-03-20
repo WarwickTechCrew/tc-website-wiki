@@ -40,18 +40,19 @@ export function EditPageModal() {
         </p>
 
         <p className="text-sm mt-4">
-          Please use the links below to edit <span className="font-bold">{doc.contentTitle}</span>:
+          Please use the links below to edit <span className="font-bold">{doc.contentTitle}</span> (opens in a new tab):
         </p>
         <ul className="text-sm">
           <li>
             <a href="/contributing" target="_blank" className="flex gap-1 items-center">
               <FiBook />
-              Contributing Guide (Opens in New Tab)
+              Contributing Guide
             </a>
           </li>
           <li>
             <a
               href={`https://github.com/WarwickTechCrew/tc-website-wiki/blob/main/${docPath}`}
+              target="_blank"
               className="flex gap-1 items-center"
             >
               <FiCode />
@@ -61,6 +62,7 @@ export function EditPageModal() {
           <li>
             <a
               href={`https://github.dev/WarwickTechCrew/tc-website-wiki/blob/main/${docPath}`}
+              target="_blank"
               className="flex gap-1 items-center"
             >
               <FiEdit3 />

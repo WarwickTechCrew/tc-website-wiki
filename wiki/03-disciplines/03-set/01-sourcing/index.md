@@ -63,7 +63,7 @@ Address: Crow Recycling, Sparkbrook Street, Coventry, CV1 5LB.
 </figure>
 
 Love Coventry is a charity shop located next to The Scrapstore which sells furniture, clothing, bric-a-brack and
-re-used paint.
+reused paint.
 
 <div class="img-gallery img-small">
 ![Love Coventry furniture](./love-coventry-2-joshheng.jpg)

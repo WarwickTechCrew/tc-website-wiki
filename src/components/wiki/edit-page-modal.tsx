@@ -68,6 +68,9 @@ export function EditPageModal() {
             </a>
           </li>
         </ul>
+
+        <p className="text-sm mt-4">This page's path is:</p>
+        <p className="text-sm">/{docPath}</p>
       </div>
     </div>
     // ,

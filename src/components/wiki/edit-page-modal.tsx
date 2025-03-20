@@ -51,7 +51,7 @@ export function EditPageModal() {
           </li>
           <li>
             <a
-              href={`https://github.com/WarwickTechCrew/tc-website-wiki/tree/main/${docPath}`}
+              href={`https://github.com/WarwickTechCrew/tc-website-wiki/blob/main/${docPath}`}
               className="flex gap-1 items-center"
             >
               <FiCode />
@@ -60,7 +60,7 @@ export function EditPageModal() {
           </li>
           <li>
             <a
-              href={`https://github.dev/WarwickTechCrew/tc-website-wiki/tree/main/${docPath}`}
+              href={`https://github.dev/WarwickTechCrew/tc-website-wiki/blob/main/${docPath}`}
               className="flex gap-1 items-center"
             >
               <FiEdit3 />

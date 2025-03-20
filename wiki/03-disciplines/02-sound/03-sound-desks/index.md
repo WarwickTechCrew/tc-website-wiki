@@ -46,11 +46,35 @@ laggy if you cram too many scenes into it (you know who you are). Would recommen
 mix on DCA's during a show! It is suspected WAC and FAB own about 12 of these sound desks. WAC also own an S31, which
 just has more faders if you need (but the same I/O).
 
+:::warning
+
+Although this desk can handle a maximum of 48 stereo channels and an infinite amount of scenes, DO NOT use hundreds of scenes.
+The last time someone pushed the desk by using over 200 scenes, it became an unresponsive laggy mess and was incredibly painful to use.
+
+:::
+
 :::lore
 
 The area of campus encompassing WAC and the FAB has 378 DigiCo S21s per square km.
 
 :::
+
+## Midas Pro2
+
+![Midas Pro2 sound desk](./midas-pro2-joshheng.jpg)
+
+This is another desk that WAC owns and uses occasionally.
+It is a large digital mixing console that was commonly used in professional touring and large-scale
+performance venues.
+It was designed to mainly function as a monitor mixing desk but can also be used as a main FOH desk.
+It  accommodates up to 64 input channels, accompanied by a full 8x8 matrix.
+The console’s semi-modular construction allows for extensive local I/O that can expand through external stage boxes connected via AES50, making it well suited to big events requiring numerous channels and flexible placement of inputs.
+The Pro2 also includes robust automation and scene recall features that make quick transitions during complex productions feasible.
+While it is physically larger and heavier than many smaller desks, its advanced processing power, refined audio quality, and comprehensive control surface justify the size when used inconcerts or shows demanding first-rate audio control.
+It has quite a complicated UI that does take time to get used to, but allows almost infinite customisability.
+The built in effects are fantastic and easily out perform those included in modern, high end theatre consoles.
+This desk also has native support for a separate mono bus, mixing in LCRS (Left, Centre, Right, and Surround) and mixing in full 5.1 surround sound (Left, Right, Centre, Subwoofer, Left surround, and Right surround).
+Although this desk is showing its age (such as no native support for USB audio or Dante networking), it is still a very competent desk.
 
 ## Midas DM12
 

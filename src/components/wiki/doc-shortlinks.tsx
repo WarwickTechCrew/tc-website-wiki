@@ -2,6 +2,7 @@ import useDocusaurusContext from '@docusaurus/core/lib/client/exports/useDocusau
 import { useState } from 'react';
 import { FiCheck, FiCopy, FiInfo, FiMaximize2, FiMinimize, FiMinimize2 } from 'react-icons/fi';
 import { useDoc } from '@docusaurus/plugin-content-docs/client';
+import { SectionShortlink } from '@site/src/plugins/wiki-shortlinks';
 
 function DocShortlinkCopy({ shortlink, small }: { shortlink: string; small?: boolean }) {
   const [isCopied, setIsCopied] = useState(false);
@@ -32,8 +33,19 @@ function DocShortlinkCopy({ shortlink, small }: { shortlink: string; small?: boo
   );
 }
 
-export function DocShortlinks({ isMobile, shortlinks }: { isMobile?: boolean; shortlinks?: string[] }) {
-  if (!shortlinks || shortlinks.length === 0) return null;
+export function DocShortlinks({
+  isMobile,
+  shortlinks,
+  sectionShortlinks,
+}: {
+  isMobile?: boolean;
+  shortlinks?: string[];
+  sectionShortlinks?: SectionShortlink[];
+}) {
+  const shortlinkCount = (shortlinks?.length || 0) + (sectionShortlinks?.length || 0);
+  if (!shortlinkCount) return null;
+
+  const firstShortlink = shortlinks?.[0] || sectionShortlinks?.[0]?.shortlink;
 
   const [showInfoModal, setShowInfoModal] = useState(false);
   const doc = useDoc();
@@ -47,14 +59,14 @@ export function DocShortlinks({ isMobile, shortlinks }: { isMobile?: boolean; sh
         onClick={() => setShowInfoModal(true)}
       >
         <h2 className="text-sm uppercase group-hover:underline">
-          {shortlinks.length > 1 ? `Shortlinks (${shortlinks.length})` : 'Shortlink'}
+          {shortlinkCount > 1 ? `Shortlinks (${shortlinkCount})` : 'Shortlink'}
         </h2>
         <div className="ml-1 mb-0.5 group-hover:text-blue-800 dark:group-hover:text-cyan-500 group-hover:scale-105">
           <FiMaximize2 />
         </div>
       </button>
 
-      <DocShortlinkCopy shortlink={shortlinks[0]} small={!isMobile} />
+      <DocShortlinkCopy shortlink={firstShortlink} small={!isMobile} />
 
       {showInfoModal && (
         <div
@@ -76,13 +88,30 @@ export function DocShortlinks({ isMobile, shortlinks }: { isMobile?: boolean; sh
               <strong>{doc.contentTitle}</strong> can be accessed and shared via the following short URLs:
             </p>
 
-            <ul>
-              {shortlinks.map((shortlink) => (
-                <li key={shortlink}>
-                  <DocShortlinkCopy shortlink={shortlink} small />
-                </li>
-              ))}
-            </ul>
+            {shortlinks?.length > 0 ? (
+              <ul>
+                {shortlinks.map((shortlink) => (
+                  <li key={shortlink}>
+                    <DocShortlinkCopy shortlink={shortlink} small />
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <p className="text-sm">None</p>
+            )}
+
+            {sectionShortlinks?.length > 0 && (
+              <>
+                <p className="mt-4 mb-1 text-sm">The following short URLs will go to specific sections on this page:</p>
+                <ul>
+                  {sectionShortlinks.map((shortlink) => (
+                    <li key={shortlink.shortlink}>
+                      <DocShortlinkCopy shortlink={shortlink.shortlink} small />
+                    </li>
+                  ))}
+                </ul>
+              </>
+            )}
           </div>
         </div>
       )}

@@ -2,6 +2,7 @@ import { useDoc, DocContextValue } from '@docusaurus/plugin-content-docs/client'
 import type { DocFrontMatter } from '@docusaurus/plugin-content-docs';
 import { FiLink } from 'react-icons/fi';
 import { DocShortlinks } from '@site/src/components/wiki/doc-shortlinks';
+import { SectionShortlink } from '@site/src/plugins/wiki-shortlinks';
 
 export type Resource = {
   name: string;
@@ -46,12 +47,17 @@ export default function DocResources({ isMobile }: { isMobile?: boolean }) {
     frontMatter: DocFrontMatter & {
       resources?: Resource[];
       shortlinks?: string[];
+      sectionShortlinks?: SectionShortlink[];
     };
   };
 
   return (
     <>
-      <DocShortlinks isMobile={isMobile} shortlinks={frontMatter.shortlinks} />
+      <DocShortlinks
+        isMobile={isMobile}
+        shortlinks={frontMatter.shortlinks}
+        sectionShortlinks={frontMatter.sectionShortlinks}
+      />
       <DocResourcesDiv isMobile={isMobile} resources={frontMatter.resources} />
     </>
   );

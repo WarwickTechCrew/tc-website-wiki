@@ -69,7 +69,11 @@ const config: Config = {
           path: './wiki',
           routeBasePath: 'wiki',
           sidebarPath: './sidebar.ts',
-          editUrl: 'https://github.com/WarwickTechCrew/tc-website-wiki/tree/main/',
+
+          // We now have custom logic to handle this and show a modal
+          editUrl: () => '#edit',
+          // editUrl: 'https://github.com/WarwickTechCrew/tc-website-wiki/tree/main/',
+          
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
           admonitions: {

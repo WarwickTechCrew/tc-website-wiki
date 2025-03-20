@@ -16,6 +16,8 @@ import type { DocFrontMatter } from '@docusaurus/plugin-content-docs';
 
 import styles from './styles.module.css';
 import DocResources, { Resource } from '@site/src/components/wiki/doc-resources';
+import { EditPageModal } from '@site/src/components/wiki/edit-page-modal';
+import EditThisPage from '@theme/EditThisPage';
 
 function showDocResources(): boolean {
   const { frontMatter } = useDoc() as DocContextValue & {
@@ -69,7 +71,12 @@ export default function DocItemLayout({ children }: Props): JSX.Element {
         <DocVersionBanner />
         <div className={styles.docItemContainer}>
           <article>
+            <div className="float-right hidden md:block">
+              <EditThisPage editUrl="#edit" />
+            </div>
+
             <DocBreadcrumbs />
+
             <DocVersionBadge />
 
             {docTOC.mobile}
@@ -77,7 +84,10 @@ export default function DocItemLayout({ children }: Props): JSX.Element {
             <DocItemContent>{children}</DocItemContent>
             <DocItemFooter />
           </article>
+
           <DocItemPaginator />
+
+          <EditPageModal />
         </div>
       </div>
       {docTOC.desktop && <div className="col col--3">{docTOC.desktop}</div>}

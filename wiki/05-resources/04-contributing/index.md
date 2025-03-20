@@ -1,22 +1,28 @@
 ---
 description: How to contribute to the Warwick Tech Crew wiki.
 sidebar_custom_props:
-    emoji: ✏️
+  emoji: ✏️
 shortlinks:
-   - contribute
-   - contributing
-   - contrib
+  - contribute
+  - contributing
+  - contrib
 ---
+
 # Contributing to the Wiki
 
 This wiki is a work in progress, and is a collaborative resource that is made by and for all members of Warwick Tech
-Crew. Everyone is welcome and encouraged to contribute, even if you've only just joined the society (it could be 
-argued that this is one of the most useful times to contribute, as you'll know what's confusing or difficult to 
+Crew. Everyone is welcome and encouraged to contribute, even if you've only just joined the society (it could be
+argued that this is one of the most useful times to contribute, as you'll know what's confusing or difficult to
 understand)!
 
 :::info
 If you have any questions or issues about contributing, please reach out to a
 [Wiki Maintainer](https://github.com/orgs/WarwickTechCrew/teams/wiki-maintainers) on Discord.
+:::
+
+:::info
+While you are welcome to work in your own branch and submit Pull Requests, please also let a Wiki Maintainer
+know if you'd like to be given direct push access (if you have no idea what this means, don't worry!).
 :::
 
 ## What to Contribute
@@ -37,7 +43,7 @@ don't have time or the knowledge to write it up yourself.
 ### The Easy Way
 
 If you want to quickly add a small piece of information or fix a typo but don't want to deal with the hassle of all
-the steps below, you can just send a message on Discord to someone who can make the change for you (or just send a 
+the steps below, you can just send a message on Discord to someone who can make the change for you (or just send a
 message in the #general channel).
 
 The downside of this method is that this is dependent on another person, and you may not also be fully credited by our
@@ -50,7 +56,7 @@ In this example, we want to update the text on the [Wiki homepage](/wiki). To do
 1. Go to the [Wiki homepage](/wiki) and click the **✏️ Edit this page** button at the bottom left.
    ![Contributing Step 1](contributing-01.jpg)
 
-2. This will take you to the GitHub repository for the website. Sign in at the top right, or create an account if 
+2. This will take you to the GitHub repository for the website. Sign in at the top right, or create an account if
    you don't yet have one. Once you've made an account, let a
    [Wiki Maintainer](https://github.com/orgs/WarwickTechCrew/teams/wiki-maintainers)
    know so that you can be added to the [Wiki Team](https://github.com/orgs/WarwickTechCrew/teams/wiki-team).
@@ -63,11 +69,11 @@ In this example, we want to update the text on the [Wiki homepage](/wiki). To do
    formatting, which is quite simple to use and similar to the formatting used on Discord. More information about some
    of the specific features we use can be found in the [README](https://github.com/WarwickTechCrew/tc-website-wiki).
 
-   After you have made your changes, you can preview them by clicking the **Preview** tab (2). Once you're 
+   After you have made your changes, you can preview them by clicking the **Preview** tab (2). Once you're
    happy, click **Commit changes** at the top of the page.
    ![Contributing Step 4](contributing-04.jpg)
 
-5. In the modal window that pops up, (1) add a general summary of what you've updated (this should be prefixed with 
+5. In the modal window that pops up, (1) add a general summary of what you've updated (this should be prefixed with
    the `📝` [Gitmoji](https://gitmoji.dev/) emoji, (2) add an extended description if applicable, (3) ensure that
    **Create a new branch** is selected, (4) optionally give your branch a name and (5) click **Propose changes**.
    ![Contributing Step 5](contributing-05.jpg)
@@ -87,6 +93,8 @@ The fastest way to contribute to the wiki is to use a code editor such as
 [Visual Studio Code](https://code.visualstudio.com/) and to make all changes locally on your own computer.
 
 To do this, following the instructions in
-[**Running the Website Locally**](https://github.com/WarwickTechCrew/tc-website-wiki/blob/main/CONTRIBUTING.md#running-the-website-locally)
-in CONTRIBUTING.md. Once you've made your changes, you can commit these to a new branch and then follow the above steps to
+[**Running the Website Locally
+**](https://github.com/WarwickTechCrew/tc-website-wiki/blob/main/CONTRIBUTING.md#running-the-website-locally)
+in CONTRIBUTING.md. Once you've made your changes, you can commit these to a new branch and then follow the above steps
+to
 create a Pull Request.

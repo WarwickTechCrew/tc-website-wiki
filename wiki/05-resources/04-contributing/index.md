@@ -87,6 +87,11 @@ In this example, we want to update the text on the [Wiki homepage](/wiki). To do
    going to the [Pull Requests](https://github.com/WarwickTechCrew/tc-website-wiki/pulls) tab.
    ![Contributing Step 7](contributing-07.jpg)
 
+:::tip
+It is also possible to press `.` when looking at source or replace `github.com` with `github.dev` to open the file in
+GitHub's more powerful online editor.
+:::
+
 ### The IDE Way
 
 The fastest way to contribute to the wiki is to use a code editor such as

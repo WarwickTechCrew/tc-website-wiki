@@ -94,9 +94,7 @@ export default function DocItemLayout({ children }: Props): JSX.Element {
 
           <DocItemPaginator />
 
-          <BrowserOnly>
-            <EditPageModal />
-          </BrowserOnly>
+          <BrowserOnly>{() => <EditPageModal />}</BrowserOnly>
         </div>
       </div>
       {docTOC.desktop && <div className="col col--3">{docTOC.desktop}</div>}

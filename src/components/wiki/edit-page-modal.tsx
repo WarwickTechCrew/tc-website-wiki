@@ -3,8 +3,8 @@ import { useDoc } from '@docusaurus/plugin-content-docs/client';
 
 export function EditPageModal() {
   const doc = useDoc();
+  const docPath = doc.metadata.source.replace('@site/', '');
 
-  console.log(doc);
   const closeModal = () => {
     // Remove the contents after the hash and remove the modal
     window.location.hash = '#null';
@@ -14,8 +14,6 @@ export function EditPageModal() {
   };
 
   if (window.location.hash !== '#edit') return;
-
-  const docPath = doc.metadata.source.replace('@site/', '');
 
   return (
     <div

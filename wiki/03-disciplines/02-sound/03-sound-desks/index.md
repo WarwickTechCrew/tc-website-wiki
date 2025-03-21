@@ -14,7 +14,7 @@ image_alt: Midas DM12 sound desk
 # Sound Desks
 
 We currently own 5 sound desks! The SQ5, DM12, E12, Si Expression 3, and the O1V96. This page also talks about the
-DiGiCo S21 which is used in WAC and FAB, and the Gilded Balloon's LS9.
+DiGiCo S21 which is used in WAC and FAB, the WAC's Midas Pro2, and the Gilded Balloon's LS9.
 
 ## Allen&Heath SQ5
 

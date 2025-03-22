@@ -14,7 +14,7 @@ shortlinks:
 ```mermaid
 flowchart TD
     DC[[Drama Collective]]
-    subgraph \n
+    subgraph
         DC --> SS([Shakesoc])
         DC --> WUDS([WUDS])
         DC --> TC([Tech Crew])

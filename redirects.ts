@@ -39,5 +39,9 @@ export const redirectLinks: {
   {
     from: ['/vote', '/important'],
     to: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-  }
+  },
+  {
+    from: ['/mention', '/days', '/days-since-mention', '/days-since-last-mention'],
+    to: '/memes/days-since-mention.jpg',
+  },
 ];

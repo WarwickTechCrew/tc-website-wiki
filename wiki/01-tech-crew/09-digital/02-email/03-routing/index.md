@@ -102,7 +102,7 @@ As we're using Google's SMTP servers to send emails in a way they're probably no
 support signing emails using Domain Keys (DKIM). So, whilst we have a DKIM record set up for Cloudflare, we can't do
 this for Google.
 
-Finally, we have our DMARC record - this is set to `v=DMARC1; p=none; rua=mailto:ede...@dmarc-reports.cloudflare.net;`.
+Finally, we have our DMARC record - this is set to `v=DMARC1; p=none; rua=mailto:...@dmarc-reports.cloudflare.net;`.
 This asks mail servers to send DMARC reports to Cloudflare, which can automatically summarise this on its dashboard.
 We currently have the DMARC policy set to `none`, which means that emails that fail SPF/DKIM checks should still be
 allowed. This is done to prevent any issues with Google-sent emails failing checks (as Cloudflare reports) and being

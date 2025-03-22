@@ -18,7 +18,7 @@ flowchart TD
     WD --> Opera([Opera Warwick])
     WD --> PO
     WD --> DC[(Drama Collective\nDC)]
-    subgraph \n
+    subgraph " "
         DC --> SS([Shakesoc])
         DC --> WUDS([WUDS])
         DC --> TC([Tech Crew])

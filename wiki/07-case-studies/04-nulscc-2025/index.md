@@ -72,9 +72,9 @@ Lighting needed to be exciting enough to add value to the competition, whilst ma
 
 The plan was to use:
 1. The Cobs as uplighters, 3 on each side of the path athletes take as they come into the competition area.
-2. Battens attached to the edges of the speedwalls to indicate the winner in each race.
+2. Battens attached to the edges of the speed walls to indicate the winner in each race.
 3. Profiles on the bouldering wall as spotlights for the base of the speed walls, the top of the lead wall and the podium (which was built in the main competition area).
-4. A profile as a followspot as the athletes made their way onto the competition area.
+4. A profile as a follow spot as the athletes made their way onto the competition area.
 5. The Lumi's as backlighting for the commentator room/area
 
 The nature of live events and working in such unique spaces mean that often things do not go to plan, and in the end adapted to:
@@ -82,16 +82,16 @@ The nature of live events and working in such unique spaces mean that often thin
 | Quantity | Item                                                | Usage / Notes                                      |
 |----------|-----------------------------------------------------|----------------------------------------------------|
 | 6x       | Prolights StudioCobFC                               | Uplighters with a rainbow chaser, when operating I couldn't see but from the stream it turns out I was only controlling 5!|
-| 4x       | Equinox RGB Power Batten                            | Attached to speedwalls indicating the winners      |
+| 4x       | Equinox RGB Power Batten                            | Attached to speed walls indicating the winners      |
 | 1x       | SL Profile                                          | Lighting the medal podium after the finals         |
 | 1x       | Rack 6 Dimmer                                       |                                                    |
 | 1x       | Zero88 FLX                                          |                                                    |
 
-I should've made better notes about the cables I brought, but lots of long DMX/powercon is needed as the wall is a big room and often cables need to take the very very long way round. As an example a Cob approx 3m away from the mixing position was seperated by over 30 meters of DMX as the cable went completely round the building! Bring powercon couplers if possible as well.
+I should've made better notes about the cables I brought, but lots of long DMX/powercon is needed as the wall is a big room and often cables need to take the very very long way round. As an example a Cob approximately 5m away from the mixing position was separated by over 30 meters of DMX as the cable went completely round the building! Bring powercon couplers if possible as well.
 
-We attempted to add university climbing club colours to the FLX for the battens, however club colours sometimes had no relation to university colours and some universities are more cautious to share their HEX codes. Additionally, our battens are not very good for precice colours. University colours would work on the COB's and LumiPar's however.
+We attempted to add university climbing club colours to the FLX for the battens, however club colours sometimes had no relation to university colours and some universities are more cautious to share their HEX codes. Additionally, our battens are not very good for precise colours. University colours would work on the COB's and LumiPar's however.
 
-### FOH Postitions
-As with all departments, there was uncertainty regarding placement for FOH mixing positions. In the end, the plan was flor lighting to mix on the balcony above the climbing center, right next to the enterance to the Sports and Wellness Hub. Lighting would have been on the cans network and had a stream feed so the main area was visible.
+### FOH Positions
+As with all departments, there was uncertainty regarding placement for FOH mixing positions. In the end, the plan was for lighting to mix on the balcony above the climbing centre, right next to the entrance to the Sports and Wellness Hub. Lighting would have been on the cans network and had a stream feed so the main area was visible.
 
-This ended up being to much to do in such a short space of time, so lighting set up on Flo in the same area in the climbing center as Video and Sound. It was cramped, but it worked!
+This ended up being to much to do in such a short space of time, so lighting set up on Flo in the same area in the climbing centre as Video and Sound. It was cramped, but it worked!

@@ -64,11 +64,11 @@ Ideal for short (< 15m) runs, simple easy and most cameras support them.
 
 #### HDMI over ethernet
 
-Sends an HDMI signal over ethernet (good for up to 100m). Note requires both a transmitter and reciever
+Sends an HDMI signal over ethernet (good for up to 100m). Note requires both a transmitter and receiver
 
 #### SDI
 
-Professional standard can do up to 300m, often used for professional equipment, I'd be suprised if you ever need to use
+Professional standard can do up to 300m, often used for professional equipment, I'd be surprised if you ever need to use
 it, but it as an option (AV services have a couple adapters)
 
 ### Video Switching and Direction

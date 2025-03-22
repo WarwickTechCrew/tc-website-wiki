@@ -147,28 +147,27 @@ Website: https://www.beeventhire.co.uk
 
 ## Societies
 
+### UWCS (CompSoc)
+
+UWCS have video stuff aimed at livestreaming talks and their annual WASD speedrunning event. Stock includes:
+
+* ATEM Mini Extreme Pro ISO (yes, there's a good few of these around)
+* Panasonic Lumix GH5 (is however broken currently (2025) so might change
+* RØDE Wireless GO II radio mics (2 transmitters)
+* Behringer XR-18 digital mixer
+
+Contact: email techteam@uwcs.co.uk or message on [Discord](https://discord.uwcs.co.uk).
+
 ### RaW (Radio at Warwick)
 
-If you're looking to organise video for an event, RaW are the society to contact. They have a good stock of cameras and
- things inherited from the defunct Warwick TV when it merged into RaW visual, and are willing to collaborate on
-events too. Relevant equipment includes:
+They have a good stock of cameras and things inherited from the defunct Warwick TV when it merged into RaW visual, 
+and are willing to collaborate on events too. Relevant equipment includes:
 
 * 4 or 5 ENG style camcorders
 * ATEM Mini Pro ISO
 * Lots of HDMI cables
 * Heavy-duty video tripods
 * Some unspecified lapel radio mics
-
-### UWCS (CompSoc)
-
-UWCS have video stuff aimed at livestreaming talks and their annual WASD speedrunning event. Stock includes:
-
-* ATEM Mini Pro ISO (yes, there's a good few of these around)
-* Panasonic Lumix GH5
-* RØDE Wireless GO II radio mics (2 transmitters)
-* Behringer XR-18 digital mixer
-
-Contact: email techteam@uwcs.co.uk or message on [Discord](https://discord.uwcs.co.uk).
 
 ### CU (Christian Union)
 

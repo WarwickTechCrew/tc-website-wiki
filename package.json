@@ -25,6 +25,7 @@
     "clsx": "^2.0.0",
     "convert-gitmoji": "^0.1.5",
     "gitlog": "^5.1.0",
+    "gray-matter": "^4.0.3",
     "plugin-image-zoom": "github:flexanalytics/plugin-image-zoom",
     "postcss": "^8.4.39",
     "prism-react-renderer": "^2.3.0",

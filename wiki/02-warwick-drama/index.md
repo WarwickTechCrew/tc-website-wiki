@@ -14,10 +14,10 @@ shortlinks:
 ```mermaid
 flowchart TD
     WD[[Warwick Drama]]
-    WD --> MTW([Music Theatre Warwick\nMTW])
+    WD --> MTW([Music Theatre Warwick - MTW])
     WD --> Opera([Opera Warwick])
     WD --> PO
-    WD --> DC[(Drama Collective\nDC)]
+    WD --> DC[(Drama Collective - DC)]
     subgraph " "
         DC --> SS([Shakesoc])
         DC --> WUDS([WUDS])

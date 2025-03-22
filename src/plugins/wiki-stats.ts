@@ -5,7 +5,7 @@ import { LoadContext, Plugin } from '@docusaurus/types';
 
 export interface PageInfo {
   title: string;
-  description: string;
+  emoji: string;
   wordCount: number;
   url: string;
 }
@@ -34,7 +34,7 @@ function getPageStats(filePath: string): PageInfo {
 
   return {
     title: title,
-    description: frontMatter.description || title,
+    emoji: frontMatter?.sidebar_custom_props?.emoji ?? '?',
     wordCount: body.trim().split(/\s+/).filter(Boolean).length,
     url: docusarusFilePath,
   };

@@ -3,9 +3,17 @@ description: A directory of Makka Pakka and his plushie friends
 sidebar_custom_props:
     emoji: 🧸
 shortlinks:
-    - makka-pakka
     - plushies
     - friends
+sectionShortlinks:
+  - shortlink: makka-pakka
+    hash: makka-pakka
+  - shortlink: makka
+    hash: makka-pakka
+  - shortlink: makkapakka
+    hash: makka-pakka
+  - shortlink: kishan-josh-danny
+    hash: kishan-josh-and-danny
 sidebar_label: Makka Pakka & Friends
 image: ./plushies-banner-joshheng.jpg
 image_alt: Makka Pakka and Barry the Baguette's interview at the Arrivals Stage 2024
@@ -140,3 +148,19 @@ Leli is another of Makka Pakka's friends, originating from the 2025 MTW hit musi
 </div>
 <figcaption>Leli overlooking Connie's work during Anything Goes!, 2025</figcaption>
 </figure>
+
+## Kishan, Josh and Danny
+Kishan, Josh and Danny are three British paper plates originating from the UWCS cupboards in Department of Computer
+Science (DCS) - it is likely that they are rescues from the waste of a previous Warwick Food Group-catered DCS event.
+Following a late-night campus tour and Tesco trip (in which much cake was consumed), they were adopted by Tech Crew
+member Rowan and accompanied them on a visit to Belgium.
+
+<figure>
+<div class="img-small">
+![Kishan, Josh and Danny outside Rowan in Belgium](./kishan-josh-danny-rowanmcalpine.jpg)
+</div>
+<figcaption>Kishan (left), Josh (centre) and Danny (right) outside Rowan's house in Belgium</figcaption>
+</figure>
+
+During the Easter holiday of 2025 they have been on (and are expecting to go on) many adventures. This is awaiting being
+documented on the Tech Crew Wiki as perhaps one of the most important pieces of information to be added.

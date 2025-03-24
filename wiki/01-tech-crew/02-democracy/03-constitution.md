@@ -16,7 +16,7 @@ import './_constitution-style.css'
 # Warwick Tech Crew Constitution
 
 :::info
-Last updated at the Tech Crew 2025 AGM (19th April 2025) and ratified by the Warwick SU Societies Forum on
+Last updated at the Tech Crew 2025 AGM (19th February 2025) and ratified by the Warwick SU Societies Forum on
 14th March 2025.
 :::
 

@@ -1,0 +1,15 @@
+year: 2022 / 2023
+
+terms:
+- name: Term 3
+  shows:
+    - name: The Improv Musical at Fringe
+      society: MTW
+      venue: Gilded Balloon Patter Hoose, Edinburgh Fringe
+      people:
+        - role: Technical Manager
+          name: Ed Price
+        - role: Sound
+          name: Adam Skrzymowski, Ethan Graham, Freya Cox and Josh Heng
+        - role: Lighting
+          name: Ben Hammond, Chris Davis, Dae Pomeroy and Ella Horne

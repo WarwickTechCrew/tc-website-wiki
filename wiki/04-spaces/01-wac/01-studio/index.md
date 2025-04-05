@@ -69,6 +69,14 @@ Rows A to D are made up of three columns of removable bleachers. These can be ta
 dock (and additional chairs added), allowing for shows in the round/thrust or having the audience stand
 (e.g. for music gigs).
 
+:::warning 
+
+WAC require us to leave 1.5m of clearance between the front row and any static set pieces!
+Of course actors can perform in this area, but for fire safety reasons it must be kept clear of any steeldeck, flats,
+furnature or similar.
+
+:::
+
 ### Studio CAD
 
 The public drive has a [CAD file](https://drive.google.com/file/d/14TwSrr7mwapPVbPDDN8Pqs9k-5upM8-4/view?usp=drive_link) of the studio, which can be uploaded to this [online CAD viewer](https://viewer.autodesk.com/) so you can

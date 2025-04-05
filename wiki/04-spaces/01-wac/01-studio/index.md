@@ -177,7 +177,8 @@ the control room (SC-ST-305).
 When using the 16A sound power on the balconies (used for the stock Meyer PA), make sure to turn these on or off 
 using the red 'PA POWER' isolator switch next to the sound rack.
 
-Note that the studio uses **Intercom Channel A**, and the theatre uses Intercom Channel B.
+Note that the studio has two cans channels: Intercom Channel A and B, found on the patch panels, both of which can be used if needed.
+These are not connected to the theatre, which also has cans loops A and B.
 
 #### Lighting
 :::info

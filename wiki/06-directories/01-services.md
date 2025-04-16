@@ -47,7 +47,7 @@ we don't have. Similarly, they regularly rent our radio mics.
 - **Staging (LiteDeck, with 1ft or 3ft legs)**
 - Ethercon 30m reel
 
-Contact: email Jack Denton at <TechServices@warwicksu.com>.
+Contact: email Jack Denton at TechServices@warwicksu.com.
 
 ### AV Services
 
@@ -79,7 +79,7 @@ in-person at the library. For networking help: [Service-Now Service Desk](https:
 Can offer power hookups and assorted distribution in various outdoor locations around campus. Also has a 63A 3-phase
 generator which can sometimes be used.
 
-Contact: [Estates Service Desk](https://helpdesk.estate.warwick.ac.uk/helpdesk) or <Estates.Servicedesk@warwick.ac.uk>.
+Contact: [Estates Service Desk](https://helpdesk.estate.warwick.ac.uk/helpdesk) or Estates.Servicedesk@warwick.ac.uk.
 
 ### Music Centre
 
@@ -103,7 +103,7 @@ hire other equipment if asked nicely like the WAC.
 Warwick SU Operations can sometimes provide tables and chairs for outdoor events if asked nicely and pending
 availability.
 
-Contact: email Steve Russell (Warwick SU Commercial/Ops) at <steve.russell@warwicksu.com>.
+Contact: email Steve Russell (Warwick SU Commercial/Ops) at steve.russell@warwicksu.com.
 
 ### Digital Signage Team
 
@@ -115,7 +115,7 @@ two weeks to be processed.
 With enough notice and availability, it is also possible to livestream to the Big Screen from a service such as YouTube.
 Both the Digital Signage Team and AV Team (Andrew Maddison) need to be contacted for this to take place. Additionally,
 custom dynamic content can be added to digital signage provided even more advance notice and knowledge of HTML/CSS/JS.
-Email Digital Signage at <digitalscreens@warwick.ac.uk> for this, and they should direct you to the right person (Ed!).
+Email Digital Signage at digitalscreens@warwick.ac.uk for this, and they should direct you to the right person (Ed!).
 
 ## Hire Companies
 
@@ -127,7 +127,7 @@ will also need to consider delivery/collection costs, or be able to organise alt
 We regularly use Marklew Productions for hiring Ayrton Ghibli moving heads for shows, but they have a big range of tech
 for dry hire. If you say you're from Tech Crew hiring things for a student event they usually give a great price!
 
-Website: <https://www.marklewproductions.com>
+Website: https://www.marklewproductions.com
 
 ### Impact Production Services (IPS)
 
@@ -135,21 +135,21 @@ One of the big national hire companies, based in Milton Keynes. We've used them 
 strength is having a great website with a full list of equipment and prices. The delivery and collection price can be
 fairly brutal though for the quantities of equipment we use, so this is best if there's a car available to drive there.
 
-Website: <https://www.ips.co.uk>
+Website: https://www.ips.co.uk
 
 ### DCRS
 
 We used DCRS for hiring radios for WSAF 2024. They have good relations with Warwick SU so are generally able to offer a
 good discount.
 
-Website: <https://www.dcrs.co.uk>
+Website: https://www.dcrs.co.uk
 
 ### BE Event Hire
 
 BE Event Hire can supply furniture (e.g. tables and chairs) for events. Chairs start at £1.40 exc. VAT per week, and
 tables at £7.00 exc. VAT per week. All items and prices are listed on their website.
 
-Website: <https://www.beeventhire.co.uk>
+Website: https://www.beeventhire.co.uk
 
 ## Societies
 
@@ -162,7 +162,7 @@ UWCS have video stuff aimed at livestreaming talks and their annual WASD speedru
 - RØDE Wireless GO II radio mics (2 transmitters)
 - Behringer XR-18 digital mixer
 
-Contact: email <techteam@uwcs.co.uk> or message on [Discord](https://discord.uwcs.co.uk).
+Contact: email techteam@uwcs.co.uk or message on [Discord](https://discord.uwcs.co.uk).
 
 ### RaW (Radio at Warwick)
 
@@ -189,7 +189,7 @@ The CU have weekly meetings with live music and have assorted equipment to suppo
 - Microphones (including those for a cajon) and DIs
 - Fire extinguishers
 
-Contact: email <tech@warwickcu.org>.
+Contact: email tech@warwickcu.org.
 
 ### TEDx
 

@@ -87,7 +87,7 @@ within an MRF as the 'receipt'.
 In some rare cases, you may be able to claim for time worked during a hire. This is generally only for a larger hires
 with the University itself, and will be clearly stated beforehand. This can be claimed by filling in the
 [Payments to Other Students Form](https://www.warwicksu.com/societies-sports/exec-resources/finance/financeforms/) and
-then emailing this to <exec@warwicktechcrew.co.uk>, stating the hire, hours worked and amount to be paid. This email can
+then emailing this to exec@warwicktechcrew.co.uk, stating the hire, hours worked and amount to be paid. This email can
 then be printed and used as the receipt in an MRF.
 
 ### More Urgent Payments

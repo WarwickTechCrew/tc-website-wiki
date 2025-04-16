@@ -39,29 +39,12 @@ the ATEM (Fill and Key) which were overlaid onto the stream using a Downstream K
 the start which was caused by a delay between different USB-C > HDMI adapters. This was fixed by switching them out for
 different adapters with closer delays :::
 
-We developed the following overlays for the events: |<div style={{width:"290px"}}>**Description**</div>|**Overlay**
-|:----|:---| |**Animated NULSCC Logo** <br/>Used throughout the stream.<br/>**_Files:_**
-_[nulscc-logo](https://github.com/OliverSm1th/TC-Stream-Graphics/tree/master/nulscc-logo)_|<iframe id="logoFrame"
-src='/07-case-studies/04-nulscc-2025/nulscc-logo' style={{aspectRatio: '16/9'}} scrolling="no"></iframe><button
-type="button" onClick={() => document.getElementById('logoFrame').contentWindow.play()}>**Run**</button>
-|**Competitor Lower-Third** <br/> Displayed the name, number and university of every competitor.<br/>Data was filled
-using a Python script which fetched data from a database hosted by [RestDB](https://restdb.io/) and used the H2R
-Graphics [HTTP API](https://h2r.graphics/docs/api/http/) to send it to the overlay.<br/>**_Files:_**
-_[nulscc-l3](https://github.com/OliverSm1th/TC-Stream-Graphics/tree/master/nulscc-l3)_
-|<iframe id="l3Frame" src='/07-case-studies/04-nulscc-2025/nulscc-l3'></iframe><button type="button" onClick={() =>
-document.getElementById('l3Frame').contentWindow.play()}>**Run**</button> <button type="button" onClick={() =>
-document.getElementById('l3Frame').contentWindow.update('{"p_number": "1", "p_name": "Makka Pakka", "p_info": "Rock
-Master", "uni_name": "Warwick", "uni_logo":
-"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3k8FPYuZCMoz9ezNb1Z5v1zlrAq1MXnH0Hw&s", "uni_colour":
-"#3C1053"}')}>Warwick</button> <button type="button" onClick={() =>
-document.getElementById('l3Frame').contentWindow.update('{"p_number": "1","p_name": "Kassie Blake","p_info": "Female
-Category","uni_name": "Surrey","uni_logo":
-"https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/University_of_Surrey_Logo.svg/1920px-University_of_Surrey_Logo.svg.png","uni_colour":
-"#c9aa01"}')}>Surrey</button>| |**Sponsor Ticker** <br/> Cycled through all sponsors and supporters. <br/>_Didn't work -
-Tried to have all images embedded into the HTML file but H2R graphics couldn't handle it. We had to update logos
-manually instead. Updated version uses online images_<br/>**_Updated Files:_**
-_[nulscc-ticker](https://github.com/OliverSm1th/TC-Stream-Graphics/tree/master/nulscc-sponsor-ticker)_|<iframe id="tickerFrame" src='/07-case-studies/04-nulscc-2025/nulscc-sponsor-ticker'></iframe><button
-type="button" onClick={() => document.getElementById('tickerFrame').contentWindow.play()}>**Run**</button>|
+We developed the following overlays for the events:
+|<div style={{width:"290px"}}>**Description**</div>|**Overlay**
+|:----|:---|
+|**Animated NULSCC Logo** <br/>Used throughout the stream.<br/>***Files:***  *[nulscc-logo](https://github.com/OliverSm1th/TC-Stream-Graphics/tree/master/nulscc-logo)*|<iframe id="logoFrame" src='/07-case-studies/04-nulscc-2025/nulscc-logo' style={{aspectRatio: '16/9'}} scrolling="no"></iframe><button type="button" onClick={() => document.getElementById('logoFrame').contentWindow.play()}>**Run**</button>
+|**Competitor Lower-Third** <br/> Displayed the name, number and university of every competitor.<br/>Data was filled using a Python script which fetched data from a database hosted by [RestDB](https://restdb.io/) and used the H2R Graphics [HTTP API](https://h2r.graphics/docs/api/http/) to send it to the overlay.<br/>***Files:***  *[nulscc-l3](https://github.com/OliverSm1th/TC-Stream-Graphics/tree/master/nulscc-l3)* |<iframe id="l3Frame" src='/07-case-studies/04-nulscc-2025/nulscc-l3'></iframe><button type="button" onClick={() => document.getElementById('l3Frame').contentWindow.play()}>**Run**</button> <button type="button" onClick={() => document.getElementById('l3Frame').contentWindow.update('{"p_number": "1", "p_name": "Makka Pakka", "p_info": "Rock Master", "uni_name": "Warwick", "uni_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3k8FPYuZCMoz9ezNb1Z5v1zlrAq1MXnH0Hw&s", "uni_colour": "#3C1053"}')}>Warwick</button> <button type="button" onClick={() => document.getElementById('l3Frame').contentWindow.update('{"p_number": "1","p_name": "Kassie Blake","p_info": "Female Category","uni_name": "Surrey","uni_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/University_of_Surrey_Logo.svg/1920px-University_of_Surrey_Logo.svg.png","uni_colour": "#c9aa01"}')}>Surrey</button>|
+|**Sponsor Ticker** <br/> Cycled through all sponsors and supporters. <br/>*Didn't work - Tried to have all images embedded into the HTML file but H2R graphics couldn't handle it. We had to update logos manually instead. Updated version uses online images*<br/>***Updated Files:*** *[nulscc-ticker](https://github.com/OliverSm1th/TC-Stream-Graphics/tree/master/nulscc-sponsor-ticker)*|<iframe id="tickerFrame" src='/07-case-studies/04-nulscc-2025/nulscc-sponsor-ticker'></iframe><button type="button" onClick={() => document.getElementById('tickerFrame').contentWindow.play()}>**Run**</button>|
 
 Created by Oliver Smith
 
@@ -98,6 +81,9 @@ Created by Oliver Smith
 </div>
 
 ## Lighting
+
+Lighting needed to be exciting enough to add value to the competition, whilst making sure nothing was in athletes way or
+distracting them. Health and safety was a large concern when rigging/planning lights.
 
 Lighting needed to be exciting enough to add value to the competition, whilst making sure nothing was in athletes way or
 distracting them. Health and safety was a large concern when rigging/planning lights.

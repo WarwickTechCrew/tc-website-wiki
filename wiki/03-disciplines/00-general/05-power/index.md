@@ -5,6 +5,7 @@ sidebar_custom_props:
 shortlinks:
   - power
 ---
+
 # Power
 
 <figure>

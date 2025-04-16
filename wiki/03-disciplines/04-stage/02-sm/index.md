@@ -14,20 +14,24 @@ shortlinks:
   - ffmil
   - milff
 ---
+
 # Stage Manager (SM)
 
 The Stage Manager:
-* Manages the stage.
-* Facilitates set changes.
-* Is the point of contact for cast during a show.
-* Runs the [Technical Rehearsal](/wiki/warwick-drama/shows/show-week#technical-rehearsal) along with the
+
+- Manages the stage.
+- Facilitates set changes.
+- Is the point of contact for cast during a show.
+- Runs the [Technical Rehearsal](/wiki/warwick-drama/shows/show-week#technical-rehearsal) along with the
   [DSM](/wiki/disciplines/stage/dsm).
-* Checks for allergies for makeups/props etc.
-* Allocates dressing rooms
-* Runs the Fight, Fall, Movement, Intimacy & Lift (FFMIL) calls each night before a show
-* Clears the stage after every show
+- Checks for allergies for makeups/props etc.
+- Allocates dressing rooms
+- Runs the Fight, Fall, Movement, Intimacy & Lift (FFMIL) calls each night before a show
+- Clears the stage after every show
 
 :::info
+
 Information about a SM's responsibilities throughout the show process can be found on the
 [Shows](/wiki/warwick-drama/shows) pages.
+
 :::

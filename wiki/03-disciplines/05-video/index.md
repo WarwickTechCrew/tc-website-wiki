@@ -16,8 +16,10 @@ image_alt: The streaming setup for the CU Wonder hire 24/25
 </figure> -->
 
 :::info
+
 Information about a Video Designer's responsibilities throughout the show process can be found on the
 [Shows](/wiki/warwick-drama/shows) pages.
+
 :::
 
 Video has a simple job: film an event (be it a show, competition, etc). The feed can then be saved for later and/or
@@ -27,12 +29,12 @@ challenge.
 ## Show Recording
 
 Sometimes the cast in a show may want it recorded. This is normally quite simple. Find an iPad or simple camcorder,
-ensure you have enough spare space on the memory card
-to [store the entire event](https://www.omnicalculator.com/other/video-size), click record. Done!
+ensure you have enough spare space on the memory card to
+[store the entire event](https://www.omnicalculator.com/other/video-size), click record. Done!
 
 Sometimes shows will want multiple camera angles. The simplest way to do is to use the steps above but multiplied out
-across separate cameras. Then, after the hire has finished, combine them into one video in some form of editing
-software (see below for a list of recommended video editing).
+across separate cameras. Then, after the hire has finished, combine them into one video in some form of editing software
+(see below for a list of recommended video editing).
 
 ## Livestreaming
 
@@ -82,17 +84,15 @@ different camera angle, adding graphics, or cutting to a pre-recorded video, wha
 Often you will be on cans to the camera operators, in order to let them know they are about to be live a version of the
 following should occur:
 
-"Ready Camera X" - you
-"Ready" - camera operator
-"Cut" - you
+"Ready Camera X" - you "Ready" - camera operator "Cut" - you
 
 At this point you know there shot is ready to be put on air. Where possible, give camera operators direction to improve
 their shot, for example how to frame it etc.
 
 There are a variety of switchers available. My preference is ATEMs (dedicated hardware switchers designed by
-blackmagic). A good tutorial for ATEMs is provided by Zebra
-Zone: [https://www.youtube.com/watch?v=AYjogcP-GXY](https://www.youtube.com/watch?v=AYjogcP-GXY)
-and [https://www.youtube.com/watch?v=N-14ZEBibWg](https://www.youtube.com/watch?v=N-14ZEBibWg)
+blackmagic). A good tutorial for ATEMs is provided by Zebra Zone:
+[https://www.youtube.com/watch?v=AYjogcP-GXY](https://www.youtube.com/watch?v=AYjogcP-GXY) and
+[https://www.youtube.com/watch?v=N-14ZEBibWg](https://www.youtube.com/watch?v=N-14ZEBibWg)
 
 ## Equipment
 

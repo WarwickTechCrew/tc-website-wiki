@@ -1,15 +1,16 @@
 ---
 description: The technical theatre world at other universities.
 sidebar_custom_props:
-    emoji: 🎓
+  emoji: 🎓
 shortlinks:
-    - tech-socs
-    - theatre-socs
-    - competitors
-    - tech-socs-directory
-    - other-unis
+  - tech-socs
+  - theatre-socs
+  - competitors
+  - tech-socs-directory
+  - other-unis
 sidebar_label: University Tech and Theatre Societies
 ---
+
 # University Tech and Theatre Society Directory
 
 If you enjoy going on deep dives of what other unis have, this page is for you! With all our equivalents at other
@@ -18,9 +19,9 @@ universities (that I've come across at least, I'm sure there are many more).
 ## [York TechSoc](https://yorktechsoc.org/)
 
 Probably the society that's closest in what we do. AdamRMS was originally written for them, and we totally didn't steal
-the idea for a [Docusaurus based website](https://yorktechsoc.org/docs/category/where-we-work) from them either
-(as well as the idea of hires assistants)! ~~They have a whole drama studio with dressing rooms and storage to themselves
-on the York campus, which is very cool.~~ Their building got mothballed :(
+the idea for a [Docusaurus based website](https://yorktechsoc.org/docs/category/where-we-work) from them either (as well
+as the idea of hires assistants)! ~~They have a whole drama studio with dressing rooms and storage to themselves on the
+York campus, which is very cool.~~ Their building got mothballed :(
 
 ## [York DramaSoc](https://www.yorkdramasoc.com/)
 
@@ -34,15 +35,16 @@ their [linktree](https://linktr.ee/uoydramasoc) which explains how they work, ki
 England's only student-run theatre, the Nottingham New Theatre ~~has an 86-seat main theatre and two 30-seat studios~~
 is currently closed for "refurbishment" with no date for reopening. Currently, they are based in a temporary performance
 space in the Portland (SU) Building. They have a [fantastic history site](https://history.newtheatre.org.uk/), with
-records of shows going back to 1950. Every summer, they run [Student Fringe Festival (StuFF)](https://newtheatre.org.uk/stuff/)
-for student and professional theatre makers to showcase their work.
+records of shows going back to 1950. Every summer, they run
+[Student Fringe Festival (StuFF)](https://newtheatre.org.uk/stuff/) for student and professional theatre makers to
+showcase their work.
 
 ## [TEC PA & Lighting (Nottingham)](https://www.nottinghamtec.co.uk/)
 
-Also at the University of Nottingham, TEC seem to have a lot of cool equipment, running tech for the Uni's grad ball
-and doing a lot more external hires for companies around Nottingham. Members get
-[£15.25 for crew food at or after events](https://join.nottinghamtec.co.uk/). They also have a moose as
-their mascot, which is fun.
+Also at the University of Nottingham, TEC seem to have a lot of cool equipment, running tech for the Uni's grad ball and
+doing a lot more external hires for companies around Nottingham. Members get
+[£15.25 for crew food at or after events](https://join.nottinghamtec.co.uk/). They also have a moose as their mascot,
+which is fun.
 
 ## [Bedlam Theatre (Edinburgh)](https://www.bedlamtheatre.co.uk/)
 
@@ -77,6 +79,7 @@ distro (and a lot of flight cases!). Whilst they have a [wiki](https://wiki.mutt
 available to members.
 
 ## [Technical Services Committee (TEC) (Sheffield)](https://tsc.sites.sheffield.ac.uk/)
+
 TSC is a Working Committee of the Sheffield Students' Union, run by students and supported by staff in its Technical
 Services department. They seem to run weekly training sessions on Wednesday and have a lot of cool equipment and
 software, including a dLive sound desk, Avolights lighting desks and Resolume Arena.

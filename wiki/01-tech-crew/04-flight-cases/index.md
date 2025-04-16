@@ -14,6 +14,7 @@ shortlinks:
 image: ./banner-joshheng.jpg
 image_alt: Flight cases during WSAF 2024
 ---
+
 # Flight Cases
 
 We use flight cases to transport equipment between different venues, and also own a production flight case which is
@@ -22,13 +23,14 @@ brought out for shows or large hires.
 ## Percy (they/she)
 
 Percy is our production flight case, which is stored
-[under the stairs leading up to the DC cupboard](/wiki/tech-crew/storage/other-storage#the-under-stairs-cupboard). Percy contains:
+[under the stairs leading up to the DC cupboard](/wiki/tech-crew/storage/other-storage#the-under-stairs-cupboard). Percy
+contains:
 
-* LX tape
-* Tools
-* Torches and headtorches
-* Batteries
-* Gobos
+- LX tape
+- Tools
+- Torches and headtorches
+- Batteries
+- Gobos
 
 ## Flo (she/her) and Gibby (he/him)
 
@@ -39,8 +41,8 @@ Percy is our production flight case, which is stored
 </div>
 
 Flo and Gibby are two small flight cases which can be used to transport small amounts of equipment or cables. They
-aren't massive, but can help for smaller hires or for when Dave is in use. They aren't tall enough to transport the
-LVX speakers inside with the lid closing! 
+aren't massive, but can help for smaller hires or for when Dave is in use. They aren't tall enough to transport the LVX
+speakers inside with the lid closing!
 
 > don’t use flo or gibby to transport big heavy stuff ON TOP of them because they **will** tip over - Echo Vaughan, 21
 > July 2024
@@ -57,12 +59,15 @@ Gibby has foam padding inside, but Flo does not!
 :::
 
 ## Dave [the box] (he/him)
-Dave is the main flight case that we use as he is large enough to transport most of what we need but small enough to
-fit down the DC cupboard stairs.
+
+Dave is the main flight case that we use as he is large enough to transport most of what we need but small enough to fit
+down the DC cupboard stairs.
 
 :::lore
+
 In 2024, Dave was used to transport many boxes of pizza to the Introduction to Tech Crew welcome talk.
 ![Dave being used to transport Pizza in Welcome Week 2024](./dave-pizza-joshheng.jpg)
+
 :::
 
 ## Boris (she/they)
@@ -81,15 +86,15 @@ forklift on a regular basis).
 
 Uses for Boris:
 
-* Putting cables in
-* Putting stuff there isn't another place for in
-* Dreaming about being able to use a forklift to use them
-* Cutting gels on
-* Sitting on
-* Getting stuck in a doorway
+- Putting cables in
+- Putting stuff there isn't another place for in
+- Dreaming about being able to use a forklift to use them
+- Cutting gels on
+- Sitting on
+- Getting stuck in a doorway
 
-> ohh wait is boris the big rectangle one that i always put my gel cutting board on to cut gels - Dallon Costello,
-> 21 July 2024
+> ohh wait is boris the big rectangle one that i always put my gel cutting board on to cut gels - Dallon Costello, 21
+> July 2024
 
 ## Steve (he/him)
 
@@ -98,17 +103,19 @@ Uses for Boris:
 </div>
 
 Steve is our snake flight case, stored
-[under the stairs leading up to the DC cupboard](/wiki/tech-crew/storage/other-storage#the-under-stairs-cupboard). 
+[under the stairs leading up to the DC cupboard](/wiki/tech-crew/storage/other-storage#the-under-stairs-cupboard).
 
 He contains:
-* 1x 16/8 analogue snake
-* 1x 8/0 analogue snake
-* 2x Soca
-* 2x 15A spiders
+
+- 1x 16/8 analogue snake
+- 1x 8/0 analogue snake
+- 2x Soca
+- 2x 15A spiders
 
 :::lore
 
 Steve was used for late-night snack collection and transportation from Tesco for the 2024 Computing Society WHACK Hire.
+
 <div class="img-gallery">
 ![steve at tesco](./tesco-steve-joshheng.jpg)
 </div>
@@ -119,11 +126,10 @@ Steve was used for late-night snack collection and transportation from Tesco for
 
 During a show in the studio, we also have access to the following flight cases:
 
-* **Big Blue** - sound cables including XLR, 13A, Speakon, Veam
-* **Big Orange** - 16a power cables of varying lengths
-* **Orange Cube** - DMX cables and ethernet / etherCON
+- **Big Blue** - sound cables including XLR, 13A, Speakon, Veam
+- **Big Orange** - 16a power cables of varying lengths
+- **Orange Cube** - DMX cables and ethernet / etherCON
 
-Generally, we use the Art Centre's cables (where available) when working in the WAC.
-This leaves cables available for other TC hires that may be happening the same time as a WAC show.
-It also helps to avoid mixing up or own cables with theirs during get outs.
-The main exception to this is IECs, as these aren't stored in the WAC flight cases.
+Generally, we use the Art Centre's cables (where available) when working in the WAC. This leaves cables available for
+other TC hires that may be happening the same time as a WAC show. It also helps to avoid mixing up or own cables with
+theirs during get outs. The main exception to this is IECs, as these aren't stored in the WAC flight cases.

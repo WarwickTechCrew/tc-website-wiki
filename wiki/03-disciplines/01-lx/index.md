@@ -5,9 +5,12 @@ sidebar_custom_props:
 shortlinks:
   - lx
 ---
+
 # Lighting (LX)
 
 :::info
+
 Information about a Lighting Designer's responsibilities throughout the show process can be found on the
 [Shows](/wiki/warwick-drama/shows) pages.
+
 :::

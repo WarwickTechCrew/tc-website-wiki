@@ -1,7 +1,7 @@
 ---
 description: A collection of useful directories
 sidebar_custom_props:
-    emoji: 📚
+  emoji: 📚
 shortlinks:
   - directories
   - directory

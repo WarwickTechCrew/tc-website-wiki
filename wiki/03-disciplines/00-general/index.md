@@ -3,6 +3,7 @@ description: General information such as stage directions, cans, networking and 
 sidebar_custom_props:
   emoji: 🍱
 ---
+
 # General
 
 This section is more of a miscellaneous collection of things which aren't covered by an existing discipline, or which

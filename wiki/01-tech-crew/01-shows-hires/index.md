@@ -8,20 +8,21 @@ resources:
     author: Warwick Tech Crew
 additional_authors: Freya Cox
 ---
+
 # Shows and Hires
 
-Apart from trainings and socials, all of Tech Crew's activities are divided into shows and hires. These all work on
-a project basis, with members applying to roles on each project using our internal system
+Apart from trainings and socials, all of Tech Crew's activities are divided into shows and hires. These all work on a
+project basis, with members applying to roles on each project using our internal system
 [AdamRMS](https://dash.adam-rms.com/) and these being allocated according to our
 [Crew Assignment Policy](/wiki/tech-crew/shows-hires/crew).
 
-* **Shows** are larger projects in the Warwick Arts Centre with a partnering [drama society](/wiki/warwick-drama).
-  These are a more standard process with set roles and often require a longer commitment (often a full show week and
-  prior planning and meetings).
-* **Hires** are projects where a society or group request tech and (a) tech operator(s) for their own event. These
-  can be much more varied but are often on a much smaller scale, such as providing a few lights on a stand. These
-  are typically a much shorter commitment (e.g. just an evening or weekend) but can be in locations other than the
-  Arts Centre.
+- **Shows** are larger projects in the Warwick Arts Centre with a partnering [drama society](/wiki/warwick-drama). These
+  are a more standard process with set roles and often require a longer commitment (often a full show week and prior
+  planning and meetings).
+- **Hires** are projects where a society or group request tech and (a) tech operator(s) for their own event. These can
+  be much more varied but are often on a much smaller scale, such as providing a few lights on a stand. These are
+  typically a much shorter commitment (e.g. just an evening or weekend) but can be in locations other than the Arts
+  Centre.
 
 ## Shows
 
@@ -37,18 +38,19 @@ Drama Society X ShakeSoc).
 
 ## Hires
 
-Hires are any other project we do that isn't a show. These are requested by another society or group through our
-**Hires Form**, which the **Hires Manager** manages. Most hires are considered **wet** (as opposed to a *dry* hire),
-where the society will ask for operators to run their event. In this case, the opportunity is advertised to our members
-who can apply and sign up like for a show.
+Hires are any other project we do that isn't a show. These are requested by another society or group through our **Hires
+Form**, which the **Hires Manager** manages. Most hires are considered **wet** (as opposed to a _dry_ hire), where the
+society will ask for operators to run their event. In this case, the opportunity is advertised to our members who can
+apply and sign up like for a show.
 
 Examples of hires include PantoSoc pantomimes, The Improv Musical (Music Theatre Warwick) & The Warwick Economics
 Summit.
 
 ### Funds
 
-We also consider [funds](/wiki/warwick-drama/funds) as hires as they take place outside of the WAC and are not eligible for a tech crew co-production.
-Because if this, a show might be considered a fund by its parent society but will be managed and organised by the hires managers and assistants within Tech Crew.
+We also consider [funds](/wiki/warwick-drama/funds) as hires as they take place outside of the WAC and are not eligible
+for a tech crew co-production. Because if this, a show might be considered a fund by its parent society but will be
+managed and organised by the hires managers and assistants within Tech Crew.
 
 ### Special Events
 

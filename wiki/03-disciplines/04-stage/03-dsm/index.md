@@ -12,6 +12,7 @@ resources:
 shortlinks:
   - dsm
 ---
+
 # Deputy Stage Manager (DSM)
 
 <figure>
@@ -20,22 +21,26 @@ shortlinks:
 </figure>
 
 The Deputy Stage Manager:
-* Is in charge of running the show and should be aware of all cues.
-* Is heavily involved in the tech run, calling cues and adjusting them as required.
-* Communicates with the tech team via 'cans' headsets.
-* Times the show
-* Attends the [paper tech](/wiki/warwick-drama/shows/show-preparation#paper-tech), where they will go over the cues from
+
+- Is in charge of running the show and should be aware of all cues.
+- Is heavily involved in the tech run, calling cues and adjusting them as required.
+- Communicates with the tech team via 'cans' headsets.
+- Times the show
+- Attends the [paper tech](/wiki/warwick-drama/shows/show-preparation#paper-tech), where they will go over the cues from
   each department.
-* Needs to be familiar with the script so they can 'fix the show' if things go wrong (e.g. cast missing lines).
+- Needs to be familiar with the script so they can 'fix the show' if things go wrong (e.g. cast missing lines).
 
 :::info
+
 Information about a DSM's responsibilities throughout the show process can be found on the
 [Shows](/wiki/warwick-drama/shows) pages.
+
 :::
 
 ## Example DSM Schedule
+
 | Time                 | Activity                                                          |
-|----------------------|-------------------------------------------------------------------|
+| -------------------- | ----------------------------------------------------------------- |
 | 35m before show open | Show calls                                                        |
 | Show open            | Request clearance from FoH <br />Start show<br />Start show timer |
 | Interval start       | Write down time and restart timer <br />Calls                     |
@@ -48,18 +53,19 @@ Calls refer to PA announcements made by the DSM (or another technician such as t
 to either Front of House (FOH) (all public areas in the WAC, including the toilets and just outside) or Back of House
 (BOH) (all backstage areas including corridors, dressing room and toilets).
 
-In general, calls should be repeated twice and should end with *'thank you'*. Calls to BoH should start with *"For the
-attention of the [SHOW] company"*. Back of House calls are always 5 minutes ahead of actual time - e.g. the 'half'
-call is given 35 minutes before the show is supposed to open, not half an hour.
+In general, calls should be repeated twice and should end with _'thank you'_. Calls to BoH should start with _"For the
+attention of the [SHOW] company"_. Back of House calls are always 5 minutes ahead of actual time - e.g. the 'half' call
+is given 35 minutes before the show is supposed to open, not half an hour.
 
 :::note
-The following calls are just an example, modified from the calls given for MTW Company, 2024 (Jon K) (a Music
-Theatre Warwick show in the theatre). 
+
+The following calls are just an example, modified from the calls given for MTW Company, 2024 (Jon K) (a Music Theatre
+Warwick show in the theatre).
+
 :::
 
-
 | Time               | Type & Name             | Call                                                                                                                                                                                                 |
-|--------------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------ | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | -                  | BoH Mic-up Call         | Good evening members of the [SHOW] company, cast to be mic'd please come to stage left when in costume and makeup, cast to be mic'd please come to stage left when in costume and makeup, thank you. |
 | -                  | BoH Principals Call     | For the attention of the [SHOW] company, please can [PRINCIPALS] come to the stage for calls, that's [PRINCIPALS] for calls, thank you.                                                              |
 | -                  | BoH Warmup Call         | For the attention of the [SHOW] company, your call please cast for warmup; cast for warmup, this is your call, thank you.                                                                            |
@@ -81,16 +87,13 @@ Theatre Warwick show in the theatre).
 | Show Up            | BoH Lights Up Call      | Lights up on Act [ACT] of [SHOW], lights up on Act [ACT] of company, thank you.                                                                                                                      |
 | Show End - 5m      | BoH Curtain Call        | For the attention of [SHOW] company, your call please for the end of Act [ACT] curtain calls, that's the end of Act [ACT} curtain calls, thank you.                                                  |
 
-
 ## Requesting Clearance
 
 Once the show is supposed to open (either at the start or after an interval), the DSM should request clearance from
 Front of House to start the show. There are two main methods to do this, which should be determined with the WAC
 duty-technician before the show starts.
 
-* **Cue Lights**: Once the show is ready to start, the DSM can cue the FoH cue light on their prompt desk. FoH will then
+- **Cue Lights**: Once the show is ready to start, the DSM can cue the FoH cue light on their prompt desk. FoH will then
   click the 'standby' button on their light, after which the DSM can click 'go' and start the show.
-* **Radio**: The WAC duty technician will be in the control room at the show start and will be able to radio FoH for
+- **Radio**: The WAC duty technician will be in the control room at the show start and will be able to radio FoH for
   clearance.
-
-

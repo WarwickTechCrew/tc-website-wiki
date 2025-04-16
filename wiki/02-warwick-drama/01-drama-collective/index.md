@@ -9,6 +9,7 @@ resources:
 shortlinks:
   - dc
 ---
+
 # The Drama Collective (DC)
 
 ```mermaid
@@ -25,19 +26,28 @@ flowchart TD
     FB --> FF{{Freshblood Festival}}
 ```
 
-The [Drama Collective (DC)](https://www.warwicksu.com/societies-sports/societies/dramacollective/) is a society that 
-was formed to be a larger negotiating body for its constituent societies.
-For example:
+The [Drama Collective (DC)](https://www.warwicksu.com/societies-sports/societies/dramacollective/) is a society that was
+formed to be a larger negotiating body for its constituent societies. For example:
 
-- [WAC allocates 2 show slots](../warwick-drama/shows#wac-show-slots) to the DC each term. Without the DC, none of the constituent societies would have the resources to put on 2 shows a term themselves. The DC production manager runs a panel for each of these slots. Show teams can submit packs to DC panel, once they get backing from one of the DC societies.
-- The DC also provide "cupboard manager" exec roles to organise and upkeep its two storage locations, the [DC cupboard](../tech-crew/storage/dc-cupboard) in WAC, and the [Avon cupboard](../tech-crew/storage/other-storage#the-avon-cupboard).
-- The DC has a [constitution](https://www.warwicksu.com/resources/dramacollective/Drama-Collective-Constitution-updated-2023/) that all its societies are meant to follow.
+- [WAC allocates 2 show slots](../warwick-drama/shows#wac-show-slots) to the DC each term. Without the DC, none of the
+  constituent societies would have the resources to put on 2 shows a term themselves. The DC production manager runs a
+  panel for each of these slots. Show teams can submit packs to DC panel, once they get backing from one of the DC
+  societies.
+- The DC also provide "cupboard manager" exec roles to organise and upkeep its two storage locations, the
+  [DC cupboard](../tech-crew/storage/dc-cupboard) in WAC, and the
+  [Avon cupboard](../tech-crew/storage/other-storage#the-avon-cupboard).
+- The DC has a
+  [constitution](https://www.warwicksu.com/resources/dramacollective/Drama-Collective-Constitution-updated-2023/) that
+  all its societies are meant to follow.
 - The DC often put on a joint ball at the end of the year, in term 3.
 
 :::info
+
 If you have Tech Crew membership (or membership of any of its other child societies), you are automatically a member of
-the DC and can officially join on the [SU website](https://www.warwicksu.com/societies-sports/societies/dramacollective/)
-for free! This is useful to be able to vote for or against DC motions.
+the DC and can officially join on the
+[SU website](https://www.warwicksu.com/societies-sports/societies/dramacollective/) for free! This is useful to be able
+to vote for or against DC motions.
+
 :::
 
 ## [Codpiece](https://www.warwicksu.com/societies-sports/societies/codpiecetheatre/)

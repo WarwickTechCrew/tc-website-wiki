@@ -63,31 +63,34 @@ logistics, crew efficiency, and event service quality.
 
 ## Budget
 
-| Item                                                                                               | Cost Estimate |  
-|----------------------------------------------------------------------------------------------------|---------------|  
-| [Robinson R44 Raven II](https://www.europlanesales.com/aircraft-for-sale/robinson-r44-raven-ii-4/) | £89,950       |  
-| Pilot Training (PPL(H))                                                                            | £12,000       |  
-| First-Year Operational Costs                                                                       | £30,000       |  
-| Landing Zone Setup                                                                                 | £15,000       |  
-| **Total**                                                                                          | **£146,950**  |  
+| Item                                                                                               | Cost Estimate |
+| -------------------------------------------------------------------------------------------------- | ------------- |
+| [Robinson R44 Raven II](https://www.europlanesales.com/aircraft-for-sale/robinson-r44-raven-ii-4/) | £89,950       |
+| Pilot Training (PPL(H))                                                                            | £12,000       |
+| First-Year Operational Costs                                                                       | £30,000       |
+| Landing Zone Setup                                                                                 | £15,000       |
+| **Total**                                                                                          | **£146,950**  |
 
 ## Implementation Plan
 
 1. **Phase 1 – Approval & Funding (2025 Term 2)**
-    - Secure SU and university funding.
-    - Identify potential sponsors and donors.
+
+   - Secure SU and university funding.
+   - Identify potential sponsors and donors.
 
 2. **Phase 2 – Training & Infrastructure (2025 Term 3)**
-    - Enroll selected crew member(s) in pilot training.
-    - Work with Estates to establish a helipad.
+
+   - Enroll selected crew member(s) in pilot training.
+   - Work with Estates to establish a helipad.
 
 3. **Phase 3 – Acquisition & Testing (2026 Term 1)**
-    - Purchase helicopter and conduct test flights.
-    - Develop SOPs (Standard Operating Procedures) for crew transport and equipment handling.
+
+   - Purchase helicopter and conduct test flights.
+   - Develop SOPs (Standard Operating Procedures) for crew transport and equipment handling.
 
 4. **Phase 4 – Full Deployment (2026 Term 2)**
-    - Integrate the helicopter into standard event logistics.
-    - Expand services to external events requiring aerial support.
+   - Integrate the helicopter into standard event logistics.
+   - Expand services to external events requiring aerial support.
 
 ## Conclusion
 

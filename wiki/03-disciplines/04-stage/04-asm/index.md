@@ -12,14 +12,18 @@ resources:
 shortlinks:
   - asm
 ---
+
 # Assistant Stage Managers (ASMs)
 
 Assistant Stage Managers:
-* Are recruited a lot later in the production lead-up.
-* Help with scene changes, set dressing, etc. during a show
-* Help reset the stage after a performance.
+
+- Are recruited a lot later in the production lead-up.
+- Help with scene changes, set dressing, etc. during a show
+- Help reset the stage after a performance.
 
 :::info
+
 Information about an ASM's responsibilities throughout the show process can be found on the
 [Shows](/wiki/warwick-drama/shows) pages.
+
 :::

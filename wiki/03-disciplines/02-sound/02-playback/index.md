@@ -55,3 +55,4 @@ Some free libraries of sound effects and music include:
 - **[YouTube Audio Library](https://www.youtube.com/audiolibrary)** - requires free YouTube account. May require
   attribution. Includes both SFX and music.
 - **[Cymatics.fm](https://cymatics.fm/pages/free-download-vault)** - free music samples and presets.
+- **[Bigsoundbank.com](https://bigsoundbank.com/categories.html)** - free and in the public domain.

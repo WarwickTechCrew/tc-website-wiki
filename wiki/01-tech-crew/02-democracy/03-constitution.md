@@ -5,10 +5,6 @@ sidebar_custom_props:
 shortlinks:
   - constitution
 sidebar_label: Constitution
-resources:
-  - name: Tech Crew Constitution
-    url: https://www.warwicksu.com/resources/techcrew/Tech-Crew-Constitution/
-    author: Tech Crew
 ---
 
 import './_constitution-style.css'

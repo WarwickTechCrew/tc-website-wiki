@@ -7,10 +7,26 @@ sidebar_custom_props:
 
 ## The Avon Cupboard
 
-The Avon cupboard is the DC's secondary storage location on the Westwood Campus. Tech Crew often keep a few large stands
-here for easy access for hires, but otherwise we don't really use this cupboard. The code to this cupboard is only known
-by the exec or by the DC Cupboard Manager. There is a sign in sheet on the door if you'd like to let the DC Cupboard
-Managers know you've visited.
+The Avon cupboard is a DC storage location in the Westwood Campus. Tech Crew often keep a few large stands here for easy
+access for hires, but otherwise we don't really use this cupboard. The code to this cupboard is only known by the exec
+or by the DC Cupboard Manager. There is a sign in sheet on the door if you'd like to let the DC Cupboard Managers know
+you've visited.
+
+<figure>
+<div class="img-gallery">
+![The Avon building](./avon-exterior-kishansharma.jpg)
+![Secret angle of the avon cupboard](./secret-avon-angle-kishansharma.jpg)
+</div>
+<figcaption>
+Images of the avon building and its little shed cupboard.
+</figcaption>
+</figure>
+
+:::lore
+
+The Avon Cupboard is protected by a pin code, but the door does have swipe access.
+
+:::
 
 ## The Under-Stairs Cupboard
 

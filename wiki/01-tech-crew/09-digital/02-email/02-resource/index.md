@@ -60,7 +60,9 @@ forwarding/redirection to an alternative email address:
      account address.
    - _Redirect to_ will redirect the email with it appearing to originate from the original sender address.
 
-:::info The `warwicktechcrew` resource account already has this setup to `exec@warwicktechcrew.co.uk`. :::
+:::info
+The `warwicktechcrew` resource account already has this setup to `exec@warwicktechcrew.co.uk`.
+:::
 
 ## Administrating Resource Accounts
 

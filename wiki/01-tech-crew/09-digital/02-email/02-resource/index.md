@@ -29,8 +29,10 @@ means the email will show up as being sent from the University of Warwick:
 
 ## Accessing Resource Accounts
 
-:::info To be able to access a resource account you must have been granted Full Access and Send As permissions by the
-resource owner/IT Services. :::
+:::info
+To be able to access a resource account you must have been granted Full Access and Send As permissions by the
+resource owner/IT Services.
+:::
 
 1. Login to your personal University of Warwick email account at https://outlook.office.com/mail/
 2. Click on your profile icon in the top right corner and select _Open another mailbox_
@@ -40,8 +42,10 @@ resource owner/IT Services. :::
 
 If you have access to this mailbox, it will open in a new tab. Otherwise, you will see an error message.
 
-:::tip You can also directly access a mailbox by going to `https://outlook.office.com/mail/[email-address]` (e.g.
-https://outlook.office.com/mail/warwicktechcrew@warwick.ac.uk). :::
+:::tip
+You can also directly access a mailbox by going to `https://outlook.office.com/mail/[email-address]` (e.g.
+https://outlook.office.com/mail/warwicktechcrew@warwick.ac.uk).
+:::
 
 ## Resource Account Forwarding
 

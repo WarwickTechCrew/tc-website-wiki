@@ -37,6 +37,10 @@ export const redirectLinks: {
     to: 'https://k-shar.github.io/wtc-website/',
   },
   {
+    from: ['/josh-heng'],
+    to: 'https://ichef.bbci.co.uk/images/ic/1200x675/p07tczhq.jpg',
+  },
+  {
     from: ['/vote', '/important'],
     to: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
   },

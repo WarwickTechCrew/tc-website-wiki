@@ -36,6 +36,15 @@ To use this data, edit the fixture in your showfile
 | Green   | Green (526nm)      | 31%                 |
 | Red     | Red Orange (631nm) | 54%                 |
 
+### Prolights REFLEX
+
+| Channel | Standard Emitter   | Relative Brightness |
+| ------- | ------------------ | ------------------- |
+| White   | Cool White (448nm) | 22%                 |
+| Blue    | Indigo (451nm)     | FL                  |
+| Green   | Green (526nm)      | 26%                 |
+| Red     | Red (640nm)        | 94%                 |
+
 ### Spectra Cyc 100 RGBW
 
 | Channel | Standard Emitter   | Relative Brightness |

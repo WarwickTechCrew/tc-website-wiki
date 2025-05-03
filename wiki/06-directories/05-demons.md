@@ -40,5 +40,5 @@ cast a delay curse on the S21's next scene button, causing a lag of about 5 seco
 This spirit possesses the FLX lighting desk, turning the house lights on and off, and generally producing the exact
 opposite of what you're trying to do. For example, the demon interprets pressing the "Home" button to mean "put all the
 lights at max white brightness instantly".
-During FreshFest (24/25) show up, the FLX Demon cast a light-not-turning-on spell on two of the LumiPars. It is belived 
+During FreshFest (24/25) show up, the FLX Demon cast a light-not-turning-on spell on two of the LumiPars. It is believed 
 that the demon was so enamoured by the opening passages that it forced a full restart just to relive the experience once more.

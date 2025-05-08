@@ -3,10 +3,11 @@ description: Information about Tech Crew itself and how it functions.
 sidebar_custom_props:
   emoji: 🏠
 resources:
-    - name: Tech Crew Constitution
-      author: Warwick Tech Crew
-      url: https://www.warwicksu.com/resources/techcrew/Tech-Crew-Constitution/
+  - name: Tech Crew Constitution
+    author: Warwick Tech Crew
+    url: https://www.warwicksu.com/resources/techcrew/Tech-Crew-Constitution/
 ---
+
 # Tech Crew
 
 Tech Crew is one of the many [Warwick SU Societies](https://www.warwicksu.com/societies-sports/societies/techcrew/),
@@ -14,11 +15,12 @@ with a purpose of providing technical theatre training and opportunities for stu
 
 Apart from socials and trainings, most of our activity is determined other groups and societies (especially those in
 [Warwick Drama](/wiki/warwick-drama)) who require technical support for their
-[shows and events](/wiki/tech-crew/shows-hires). This provides quite a lot of flexibility and variety in the work
-that we do, with members being able to get involved with as much or as little as they wish.
+[shows and events](/wiki/tech-crew/shows-hires). This provides quite a lot of flexibility and variety in the work that
+we do, with members being able to get involved with as much or as little as they wish.
 
 As per our [constitution](https://www.warwicksu.com/resources/techcrew/Tech-Crew-Constitution/), our aims and objectives
 are:
+
 1. To provide our members with opportunities to manage, design, and operate the technical equipment for shows,
    productions, and other performance events.
 2. To provide our members with opportunities to develop their technical skills through the provision of workshops,

@@ -1,11 +1,13 @@
 import fs from 'fs';
 import path from 'path';
+import matter from 'gray-matter';
 import { LoadContext, Plugin } from '@docusaurus/types';
 
-interface PageInfo {
-  name: string;
+export interface PageInfo {
+  title: string;
+  emoji: string;
   wordCount: number;
-  path: string;
+  url: string;
 }
 
 export interface WikiStatsData {
@@ -14,56 +16,75 @@ export interface WikiStatsData {
   shortestPages: PageInfo[];
 }
 
+/**
+ * Extracts stats for a single markdown file
+ */
 function getPageStats(filePath: string): PageInfo {
   const content = fs.readFileSync(filePath, 'utf8');
-  const name = path.basename(filePath, path.extname(filePath));
+  const { data: frontMatter, content: body } = matter(content);
+
+  // Extract the first heading
+  const titleMatch = body.match(/^#\s+(.*)/m);
+  const title = titleMatch ? titleMatch[1].trim() : path.basename(filePath, path.extname(filePath));
+
+  const docusarusFilePath = filePath
+    .replace(/^.*?\/wiki\//, '/wiki/') // Remove everything before and including "wiki/"
+    .replace(/\d{2}-/g, '') // Remove leading numbers and hyphens
+    .replace(/\.md$/, ''); // Remove the ".md" extension
+
   return {
-    wordCount: content.trim().split(/\s+/).length, // cursed
-    name: name,
-    path: filePath,
+    title: title,
+    emoji: frontMatter?.sidebar_custom_props?.emoji ?? '?',
+    wordCount: body.trim().split(/\s+/).filter(Boolean).length,
+    url: docusarusFilePath,
   };
 }
 
-// Process all markdown files in a directory, recursively
+/**
+ * Process all markdown files in a directory, recursively
+ */
 function processMarkdownFiles(dir: string): WikiStatsData {
-  let pageCount = 0;
-  let pages: PageInfo[] = [];
+  const pages: PageInfo[] = [];
 
-  // recurse through the directories
-  function processDir(currentDir: string) {
-    
-    for (const file of fs.readdirSync(currentDir)) {
+  function traverseDirectory(currentDir: string): void {
+    const files = fs.readdirSync(currentDir);
+
+    for (const file of files) {
       const fullPath = path.join(currentDir, file);
+      const stats = fs.statSync(fullPath);
 
-
-      if (fs.statSync(fullPath).isDirectory()) {
-        processDir(fullPath);
-      } else if (file.endsWith('.md') || file.endsWith('.mdx')) {
-        pageCount += 1;
+      if (stats.isDirectory()) {
+        traverseDirectory(fullPath);
+      } else if (/\.(md|mdx)$/.test(file)) {
         pages.push(getPageStats(fullPath));
       }
     }
   }
 
-  processDir(dir);
-  
-  const sortedPages = [...pages].sort((a, b) => b.wordCount - a.wordCount);
-  
+  traverseDirectory(dir);
+
+  // Sort pages by word count
+  const sortedByWordCount = [...pages].sort((a, b) => b.wordCount - a.wordCount);
+
   return {
-    pageCount,
-    longestPages: sortedPages.slice(0, 5),
-    shortestPages: sortedPages.slice(-5).reverse()
+    pageCount: pages.length,
+    longestPages: sortedByWordCount.slice(0, 10),
+    shortestPages: sortedByWordCount.slice(-10).reverse(),
   };
 }
 
+/**
+ * Wiki stats plugin for Docusaurus
+ */
 export default function wikiStatsPlugin(context: LoadContext): Plugin {
   return {
     name: 'wiki-stats-plugin',
+
     async loadContent() {
       const wikiPath = path.resolve(__dirname, '../../wiki');
       return processMarkdownFiles(wikiPath);
-
     },
+
     async contentLoaded({ content, actions }) {
       const { setGlobalData } = actions;
       setGlobalData(content);

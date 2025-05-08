@@ -4,6 +4,7 @@ title: Case Studies
 sidebar_custom_props:
   emoji: 📚
 ---
+
 # Case Studies
 
 This is a place to document some of the shows and events that Tech Crew has been involved in, and the tech that was

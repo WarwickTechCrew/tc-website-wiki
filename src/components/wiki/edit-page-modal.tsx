@@ -4,7 +4,6 @@ import { useDoc } from '@docusaurus/plugin-content-docs/client';
 export function EditPageModal() {
   const doc = useDoc();
 
-  console.log(doc);
   const closeModal = () => {
     // Remove the contents after the hash and remove the modal
     window.location.hash = '#null';

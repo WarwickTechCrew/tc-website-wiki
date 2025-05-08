@@ -1,25 +1,25 @@
 ---
 description: A 550-seat theatre with a movable pit.
 sidebar_custom_props:
-    emoji: 🏠
+  emoji: 🏠
 resources:
-    - name: Theatre Accessibility guide
-      url: https://www.accessable.co.uk/warwick-arts-centre/access-guides/warwick-arts-centre-theatre
-      author: WAC Website
-    - name: Theatre Seating Plan
-      url: https://www.warwickartscentre.co.uk/download/file/NFYwWi9ua1JWQk14RDVCekZGWXNPZz09/
-      author: WAC Website
-    - name: Theatre Folder
-      url: https://drive.google.com/drive/folders/1YpH-XCcVBIymamQC8_lFUa8ed945OqLu?usp=drive_link
-      author: TC Drive
+  - name: Theatre Accessibility guide
+    url: https://www.accessable.co.uk/warwick-arts-centre/access-guides/warwick-arts-centre-theatre
+    author: WAC Website
+  - name: Theatre Seating Plan
+    url: https://www.warwickartscentre.co.uk/download/file/NFYwWi9ua1JWQk14RDVCekZGWXNPZz09/
+    author: WAC Website
+  - name: Theatre Folder
+    url: https://drive.google.com/drive/folders/1YpH-XCcVBIymamQC8_lFUa8ed945OqLu?usp=drive_link
+    author: TC Drive
 shortlinks:
   - theatre
 ---
 
 # Theatre
 
-The WAC Theatre is our largest performance space, seating up to 575 people.
-In term 2, we will typically have a show here by both Warwick Opera and Music Theatre Warwick.
+The WAC Theatre is our largest performance space, seating up to 575 people. In term 2, we will typically have a show
+here by both Warwick Opera and Music Theatre Warwick.
 
 <figure>
 ![SL of the WAC Theatre](./theatre-sl.jpg)
@@ -30,8 +30,8 @@ In term 2, we will typically have a show here by both Warwick Opera and Music Th
 
 ### 360 Camera View
 
-The WAC provides a 360 view of all its venues on its
-[website](https://www.warwickartscentre.co.uk/our-venues/studio/).
+The WAC provides a 360 view of all its venues on its [website](https://www.warwickartscentre.co.uk/our-venues/studio/).
+
 <iframe src="https://my.matterport.com/show/?m=gyBcoRB4m7u&play=1&qs=1&hl=0&brand=0&sr=-.26,.39&ss=706" width="100%" height="600" ></iframe>
 
 ### Blank LX Plan
@@ -60,43 +60,44 @@ When getting out, please follow the WAC's
 
 ### Orchestra Elevator/ Forestage Riser
 
-The theatre has a moving forestage. It can be moved to three heights allowing it to be in line with either the stage, the front row audience, or the pit.
-We use the lift to move heavy instruments or equipment in and out of the pit, as the only other access to the pit
-is through the narrow corridor and staircase. There is an info panel in the pit with the following stats:
+The theatre has a moving forestage. It can be moved to three heights allowing it to be in line with either the stage,
+the front row audience, or the pit. We use the lift to move heavy instruments or equipment in and out of the pit, as the
+only other access to the pit is through the narrow corridor and staircase. There is an info panel in the pit with the
+following stats:
 
-
-| Dynamic Load    | 250 kg/m²            |
-| Static Load     | 750 kg/m²            |
-| Point Load      | 1000 kg              |
-| Lifting Speed   | 3 m/min or 50 mm/sec |
-
+| Dynamic Load | 250 kg/m² | | Static Load | 750 kg/m² | | Point Load | 1000 kg | | Lifting Speed | 3 m/min or 50 mm/sec
+|
 
 ### Lantern Stock
 
-| Lantern                                | Beam Angle              | Quantity |
-|----------------------------------------|-------------------------|----------|
-| Selecon SPX Narrow                     | 15 to 35 degree          | 8        |
-| Selecon SPX Wide                       | 25 to 50 degree          | 14       |
-| Selecon Pacific wide                   | 23 to 50 degree          | 20       |
-| Selecon Pacific narrow                 | 14 to 35 degree          | 6        |
-| Strand SL Wide                         | 23 to 50 degree          | 8        |
-| Strand SL Narrow                       | 15 to 30 degree          | 14       |
-| Robert Juliat 614 Profiles             | 16 to 35 degree          | 6        |
-| Robert Juliat 1Kw Fresnels             | 6 to 46 degree           | 40       |
-| Robert Juliat 2Kw Plano Convex         | 16 to 72 degree          | 10       |
-| Selecon Rama Fresnel                   | 7 to 50 degree           | 10       |
-| Parcans                                | CP 60/61/62 as required  | 40       |
-| Altman Spectra Cyc 200 LED cyc floods  | N/A                      | 6        |
-| Robert Juliat Korrigan (1200W) Followspot | N/A                   | 2        |
-| Boom Bases                             | N/A                      | 12       |
+| Lantern                                   | Beam Angle              | Quantity |
+| ----------------------------------------- | ----------------------- | -------- |
+| Selecon SPX Narrow                        | 15 to 35 degree         | 8        |
+| Selecon SPX Wide                          | 25 to 50 degree         | 14       |
+| Selecon Pacific wide                      | 23 to 50 degree         | 20       |
+| Selecon Pacific narrow                    | 14 to 35 degree         | 6        |
+| Strand SL Wide                            | 23 to 50 degree         | 8        |
+| Strand SL Narrow                          | 15 to 30 degree         | 14       |
+| Robert Juliat 614 Profiles                | 16 to 35 degree         | 6        |
+| Robert Juliat 1Kw Fresnels                | 6 to 46 degree          | 40       |
+| Robert Juliat 2Kw Plano Convex            | 16 to 72 degree         | 10       |
+| Selecon Rama Fresnel                      | 7 to 50 degree          | 10       |
+| Parcans                                   | CP 60/61/62 as required | 40       |
+| Altman Spectra Cyc 200 LED cyc floods     | N/A                     | 6        |
+| Robert Juliat Korrigan (1200W) Followspot | N/A                     | 2        |
+| Boom Bases                                | N/A                     | 12       |
 
 ### Patch Panels
+
 Patch panels are located on the walls around the Studio and allow for the easy patching of data cables.
 
-In the tables below, note that e.g. USL stands for Upstage Left, DSC stands for Downstage Center and SR stands for Stage Right.
+In the tables below, note that e.g. USL stands for Upstage Left, DSC stands for Downstage Center and SR stands for Stage
+Right.
 
 #### Sound, Video and Comms
-A [list of all the patch panel numbers](https://drive.google.com/file/d/1me_DVrEaxsSUcurCd-MGxp_9FndEu_dc/view?usp=sharing)
+
+A
+[list of all the patch panel numbers](https://drive.google.com/file/d/1me_DVrEaxsSUcurCd-MGxp_9FndEu_dc/view?usp=sharing)
 can be found on the wall in the sound control room, next to the patching rack. Make sure to make a note of the patching
 before changing anything, so this can be reverted during the get-out.
 
@@ -105,22 +106,25 @@ before changing anything, so this can be reverted during the get-out.
 ![Sound Patch Panel](sound-patch-panel.jpg)
 </div>
 
-When patching, use the black patch cables stored next to the rack. Red patch cables should never be
-touched (where possible) - if you need to change these, make sure to revert them back during the get-out.
+When patching, use the black patch cables stored next to the rack. Red patch cables should never be touched (where
+possible) - if you need to change these, make sure to revert them back during the get-out.
 
 Note that unless patched, patches with a red label will automatically link to the matching red label patch below it.
 
 :::info
+
 This still needs to be completed!
+
 :::
 
 Sound patch panels in the theatre are:
+
 <div class="img-gallery">
 ![Patch Panel Numbering](sound-patch-panel-numbering.jpg)
 </div>
 
 | Name      | Location            | Male & Female XLR           | speakCON     | S&C Data (Ethernet) | S&C Fibre | Video (BNC)  | Intercom (A/B) | Cue Lights | Power (13A) | Extras                                    |
-|-----------|---------------------|-----------------------------|--------------|---------------------|-----------|--------------|----------------|------------|-------------|-------------------------------------------|
+| --------- | ------------------- | --------------------------- | ------------ | ------------------- | --------- | ------------ | -------------- | ---------- | ----------- | ----------------------------------------- |
 | SC-TH-001 | Pit SL              | 1-12 with VEAM              | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
 | SC-TH-002 | Pit SR              | 1-12 with VEAM              | ?            | ?                   | ?         | ?            | ?              | ?          | ?           |                                           |
 | SC-TH-101 | SL Pillar           | 1-12 with VEAM              | 1-4 (1 free) | 1-8                 | 1-2       | 1-8 (6 free) | Yes            | 2          | 4           | SM Desk (default position), Paging Mic    |
@@ -150,7 +154,8 @@ Sound patch panels in the theatre are:
 When using the Front of House mixing position (SC-ST-201), you will also need to unplug the sound multipin snake from
 the sound control room (SC-ST-313).
 
-The theatre and the studio are on separate cans circuits. They both have their own channel A and B for cans, labelled "intercom".
+The theatre and the studio are on separate cans circuits. They both have their own channel A and B for cans, labelled
+"intercom" on the patch panels.
 
 #### Lighting
 
@@ -159,13 +164,15 @@ The theatre and the studio are on separate cans circuits. They both have their o
 </div>
 
 :::info
+
 This still needs to be completed!
+
 :::
 
 LX patch panels in the theatre are:
 
 | Name      | Location           | Dimmer Channels (16A Pairs + 6ch Spiders) | Lighting Data (Ethernet) | Fibre | Power (13A) |
-|-----------|--------------------|-------------------------------------------|--------------------------|-------|-------------|
+| --------- | ------------------ | ----------------------------------------- | ------------------------ | ----- | ----------- |
 | PL-TH-101 | SL Pillar          | 61-78                                     | 1-4                      | 1-2   | 4           |
 | PL-TH-102 | SR Pillar          | 25-42                                     | 1-4                      | None  | 4           |
 | PL-TH-301 | Bridge 3 SL        | 247-252                                   | 1-2                      | None  | 4           |

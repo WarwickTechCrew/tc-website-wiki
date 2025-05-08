@@ -1,15 +1,24 @@
 ---
 description: A directory of Makka Pakka and his plushie friends
 sidebar_custom_props:
-    emoji: 🧸
+  emoji: 🧸
 shortlinks:
-    - makka-pakka
-    - plushies
-    - friends
+  - plushies
+  - friends
+sectionShortlinks:
+  - shortlink: makka-pakka
+    hash: makka-pakka
+  - shortlink: makka
+    hash: makka-pakka
+  - shortlink: makkapakka
+    hash: makka-pakka
+  - shortlink: kishan-josh-danny
+    hash: kishan-josh-and-danny
 sidebar_label: Makka Pakka & Friends
 image: ./plushies-banner-joshheng.jpg
 image_alt: Makka Pakka and Barry the Baguette's interview at the Arrivals Stage 2024
 ---
+
 # Makka Pakka & Friends Directory
 
 Makka Pakka and his collection of friends are one of the most important parts of Tech Crew - they help improve crew
@@ -21,8 +30,9 @@ morale and are an essential part to any large show or hire.
 </figure>
 
 ## Makka Pakka
-Makka Pakka was gifted to Josh (Tech Crew Treasurer 23/24) at the start of the 2024 academic year, and since then,
-Tech Crew has never been the same.
+
+Makka Pakka was gifted to Josh (Tech Crew Treasurer 23/24) at the start of the 2024 academic year, and since then, Tech
+Crew has never been the same.
 
 <figure>
 <div class="img-gallery img-small">
@@ -49,10 +59,9 @@ filling in for a DJ set in one of the last events of the day.
   ></iframe>
 </div>
 
-
 Makka Pakka has also featured at other hires including the Christmas Lights Switch-on 2024, and the Christian Union's
-Weekend Away. It was at the Weekend Away, however, that Makka Pakka was first attacked in the middle of the night due
-to his growing popularity. He luckily escaped safely, but it was a grave reminder of the dangers that can come with
+Weekend Away. It was at the Weekend Away, however, that Makka Pakka was first attacked in the middle of the night due to
+his growing popularity. He luckily escaped safely, but it was a grave reminder of the dangers that can come with
 stardom.
 
 <figure>
@@ -72,7 +81,9 @@ stardom.
 <figcaption>Makka Pakka being attacked during the middle of the night during the CU Weekend Away hire</figcaption>
 </figure>
 
-Makka Pakka also made an appearance at Can You Teach Me How To Breathe 2025, briefly gracing the occupants of a submarine of the mind with its visage.
+Makka Pakka also made an appearance at Can You Teach Me How To Breathe 2025, briefly gracing the occupants of a
+submarine of the mind with its visage.
+
 <figure>
 ![Makka Pakka's appearance at CYTMHTB](./makka-pakka-cytmhtb-joshheng.jpg)
 <figcaption>Makka Pakka's first appearance at CYTMHTB</figcaption>
@@ -118,9 +129,10 @@ perfectly at the top.
 </figure>
 
 ## The Great IKEA Trip of Term 1, 2024
+
 On the 1 October 2024, several Tech Crew Members embarked on a quest to IKEA in the SU IKEA trip. This was a great time
-full of important set research, swedish meatball consumption and battery buying, but most importantly, it was a time
-for Makka Pakka to find new friends.
+full of important set research, swedish meatball consumption and battery buying, but most importantly, it was a time for
+Makka Pakka to find new friends.
 
 <figure>
 <div class="img-gallery">
@@ -131,7 +143,9 @@ for Makka Pakka to find new friends.
 </figure>
 
 ## Leli the Bulldog
-Leli is another of Makka Pakka's friends, originating from the 2025 MTW hit musical Anything Goes! His favourite pastime is sitting on Connie's DSM desk during Act 2, overlooking her work with glee.
+
+Leli is another of Makka Pakka's friends, originating from the 2025 MTW hit musical Anything Goes! His favourite pastime
+is sitting on Connie's DSM desk during Act 2, overlooking her work with glee.
 
 <figure>
 <div class="img-gallery img-small">
@@ -140,3 +154,20 @@ Leli is another of Makka Pakka's friends, originating from the 2025 MTW hit musi
 </div>
 <figcaption>Leli overlooking Connie's work during Anything Goes!, 2025</figcaption>
 </figure>
+
+## Kishan, Josh and Danny
+
+Kishan, Josh and Danny are three British paper plates originating from the UWCS cupboards in Department of Computer
+Science (DCS) - it is likely that they are rescues from the waste of a previous Warwick Food Group-catered DCS event.
+Following a late-night campus tour and Tesco trip (in which much cake was consumed), they were adopted by Tech Crew
+member Rowan and accompanied them on a visit to Belgium.
+
+<figure>
+<div class="img-small">
+![Kishan, Josh and Danny outside Rowan in Belgium](./kishan-josh-danny-rowanmcalpine.jpg)
+</div>
+<figcaption>Kishan (left), Josh (centre) and Danny (right) outside Rowan's house in Belgium</figcaption>
+</figure>
+
+During the Easter holiday of 2025 they have been on (and are expecting to go on) many adventures. This is awaiting being
+documented on the Tech Crew Wiki as perhaps one of the most important pieces of information to be added.

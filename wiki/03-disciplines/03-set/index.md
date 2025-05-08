@@ -12,7 +12,7 @@ image_alt: Model box for the 2024/25 footloose pack
 
 <figure>
 ![Danny's model box](./dannys-set-box-kishansharma.jpg)
-<figcaption>Danny's model box for the 2024/25 Footloose pack</figcaption> 
+<figcaption>Danny's model box for the 2024/25 Footloose pack</figcaption>
 </figure>
 
 :::lore
@@ -23,7 +23,7 @@ The model box pictured was brought to panel, alongside a parcan light for dramat
 
 <figure>
 ![not a paint roller](./paint-roller-kishansharma.jpg)
-<figcaption>A paint roller</figcaption> 
+<figcaption>A paint roller</figcaption>
 </figure>
 
 :::info

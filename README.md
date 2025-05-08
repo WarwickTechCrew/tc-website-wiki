@@ -3,7 +3,8 @@
 > This is the public website for Warwick Tech Crew, written using [Docusaurus](https://docusaurus.io).
 
 Future contributors may want to keep the shows and hires archives up to date, and change the exec names and images
-yearly. This README documents how to do so. For information about writing or editing wiki pages, see [CONTRIBUTING.md](https://github.com/WarwickTechCrew/tc-website-wiki/blob/main/CONTRIBUTING.md).
+yearly. This README documents how to do so. For information about writing or editing wiki pages, see
+[CONTRIBUTING.md](https://github.com/WarwickTechCrew/tc-website-wiki/blob/main/CONTRIBUTING.md).
 
 ## Updating Shows and Hires archive
 

@@ -1,5 +1,5 @@
 ---
-title: "Guide: How to be a Lighting Designer"
+title: 'Guide: How to be a Lighting Designer'
 description: A step by step guide to the role of LD on a WAC show
 sidebar_custom_props:
   emoji: 📖
@@ -25,9 +25,9 @@ So, you've been assigned an LD position. What next?
 The first step is to talk to the prod team. They'll usually have some kind of vision for the show which will provide a
 good starting point for you.
 
-> NB: One key thing to remember throughout is that you're the Lighting *Designer*, not Lighting *Implementer*. While your
-> design should fit in with the directorial vision, you're free to come up with whatever design you thing would work
-> well in the bounds of that - though if it's a Tech Crew co-production, you'll have even more freedom than this.
+> NB: One key thing to remember throughout is that you're the Lighting _Designer_, not Lighting _Implementer_. While
+> your design should fit in with the directorial vision, you're free to come up with whatever design you thing would
+> work well in the bounds of that - though if it's a Tech Crew co-production, you'll have even more freedom than this.
 >
 > In some cases the prod team might dictate exactly what they want for each scene, don't feel obligated to follow that
 > (unless you want to!). If you're ever unsure about what you can or can't do, or are strugglng with communicating with
@@ -36,8 +36,8 @@ good starting point for you.
 Try to get a feel for the show by turning up to rehearsals, reading the script, or even watching past productions
 online. Once you know the show and know what kind of vibe you're going for you can start designing the lighting!
 
-I'll also add something to remember throughout - if you're ever unsure about something, just ask! You've got your TM, the
-Tech Crew Exec, other people in the society, and our contacts in the Arts Centre who are all more than happy to give
+I'll also add something to remember throughout - if you're ever unsure about something, just ask! You've got your TM,
+the Tech Crew Exec, other people in the society, and our contacts in the Arts Centre who are all more than happy to give
 advice, or past examples to reference.
 
 ## The Pack and Panel
@@ -116,7 +116,7 @@ For each part of your design ideas, think about what fixtures can be used to mak
 for each space.
 
 You'll likely come up with some combination of a general wash, perhaps split into different performance 'zones', plus
-some *specials*, single purpose fixtures for a specific effect - a spot in one place, or a gobo projecting an image.
+some _specials_, single purpose fixtures for a specific effect - a spot in one place, or a gobo projecting an image.
 
 There are many different ways to make a lighting plan, but the most common are Vectorworks, AutoCAD, and paper. For both
 software solutions, student licenses are available for free, and we have template files you can use.
@@ -169,7 +169,7 @@ you may not have a unique symbol for each type of light you're using in the desi
 
 ## Plotting (a.k.a. programming)
 
-Once you have your lighting *plan*, it's time to *plot* (confusingly, in the US, the plan is also called the plot).
+Once you have your lighting _plan_, it's time to _plot_ (confusingly, in the US, the plan is also called the plot).
 Plotting is the process of recording your lighting states into your lighting console (in the Arts Centre this is most
 likely to be an ETC Ion Xe).
 
@@ -197,7 +197,7 @@ week much easier.
 ### Previz (pre-visualisation) - optional, but fun
 
 If you've got a more complex design, or want to be able to experiment with some ideas with some visual feedback rather
-than just your imagination, it can be useful to setup some *previz* system. This involves creating a fully virtual copy
+than just your imagination, it can be useful to setup some _previz_ system. This involves creating a fully virtual copy
 of your lighting design, so you can program everything including moving lights and have it "just work" when you come to
 the get in (well, we can hope). There's a few options for this, which I've explained in more detail here, as I'm not
 sure how many people will actually bother!
@@ -206,7 +206,7 @@ sure how many people will actually bother!
 
 If you've followed this guide perfectly, you'll be going into show week with a detailed lighting plan to be rigged, and
 a showfile ready to load onto the console to run as soon as you're in. In reality, it rarely work out this way, not
-least because sometimes shows aren't blocked until 2 days before the week (or are changed *during* the show week).
+least because sometimes shows aren't blocked until 2 days before the week (or are changed _during_ the show week).
 However, hopefully you're as prepped as much as you can be.
 
 ### Paper Tech
@@ -240,7 +240,8 @@ have the next morning fix any known issues and finish plotting before the Tech R
 The tech run is a start-stop run through of the whole show, allowing you to check each cue is timed correctly, and does
 what you want it to do, giving you the chance to fix any issues and do a section again.
 
-If there's anything major to fix that you can't during the run, make sure to note it down to fix when you next have time.
+If there's anything major to fix that you can't during the run, make sure to note it down to fix when you next have
+time.
 
 ### Dress Run
 
@@ -270,4 +271,4 @@ the get-in, depending on the Arts Centre's needs.
 
 Aaand you're done. Enjoy the afterparty!
 
-> *Originally written by Adam Skrzymowski in January 2024*
+> _Originally written by Adam Skrzymowski in January 2024_

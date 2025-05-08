@@ -23,13 +23,14 @@ The Tech Crew Exec (TechXec) are a group of members who are elected to oversee t
 in Article 6 of the [constitution](./03-constitution.md). The current exec is listed on the [website](/).
 
 :::info
-Elections are open for the new TechXec of 2025/26! If you're interested in running for a position, see
-the [General Meetings, AGMs and Elections](./02-agm.md) page.
+
+Elections are open for the new TechXec of 2025/26! If you're interested in running for a position, see the
+[General Meetings, AGMs and Elections](./02-agm.md) page.
+
 :::
 
 As per our [constitution](https://www.warwicksu.com/resources/techcrew/Tech-Crew-Constitution/), the Tech Crew Exec's
-aims
-and objectives are:
+aims and objectives are:
 
 1. To promote opportunities to work on various shows and productions as and when they become available to the society
    members.
@@ -45,20 +46,22 @@ and objectives are:
    of the figures contained within the bid.
 
 :::warning
+
 There are restrictions on what roles can be held by the same person. See section 6.4 of the
 [constitution](https://www.warwicksu.com/resources/techcrew/Tech-Crew-Constitution/)
+
 :::
 
 ## Meetings and Minutes
 
-The TechXec regularly hold meetings to discuss society operations, including hires and show allocation. The
-Secretary records minutes which can be found
+The TechXec regularly hold meetings to discuss society operations, including hires and show allocation. The Secretary
+records minutes which can be found
 [here](https://drive.google.com/drive/folders/1qcEIQINiboPD26nMSB-obGPqv5tbVeuY?usp=sharing).
 
 ## Electable Positions
 
-There are currently eight electable roles which are determined after the Annual General Meeting (AGM) at the end of
-Term 2 each year.
+There are currently eight electable roles which are determined after the Annual General Meeting (AGM) at the end of Term
+2 each year.
 
 The [constitution](./03-constitution.md) states that each person holding an electable position is:
 
@@ -93,16 +96,15 @@ The Treasurer is one of the core SU roles and is responsible for overseeing and 
 > all the work we complete, ensuring that our funds are spent wisely and in the society's best interests, and approving
 > all purchases made by the society. In particular, I communicate a lot with the SU to figure out how to comply with
 > their regulations and charge all the different societies and departments that we work with. I would recommend this
-> role
-> to anyone who's good at organisation, can be
-> persistent, and enjoys a good spreadsheet. - Josh Heng, Treasurer 2024/25
+> role to anyone who's good at organisation, can be persistent, and enjoys a good spreadsheet. - Josh Heng, Treasurer
+> 2024/25
 
 The [constitution](./03-constitution.md) states that the Treasurer shall:
 
 1. Be responsible for all financial matters relating to the running of the society.
 2. Liaise with the Union’s Finance Department where necessary.
 3. Ensure all sales and purchases are approved by the Treasurer.
-    1. Purchases over £250 must be approved by the Exec as a whole.
+   1. Purchases over £250 must be approved by the Exec as a whole.
 
 ### Welfare Officer
 
@@ -119,25 +121,23 @@ The [constitution](./03-constitution.md) states that the Welfare Officer shall:
 
 ### Secretary
 
-The Secretary is responsible for the administrative running of the society, including taking minutes and sending
-weekly emails.
+The Secretary is responsible for the administrative running of the society, including taking minutes and sending weekly
+emails.
 
 > Secretary is responsible for communications from the exec to the general membership. This involves making sure people
 > know what opportunities are available, through discord and email announcements, and which shows+hires we're working
-> on,
-> through "this/next week in tech" in the emails. A good candidate for this position should be organised (to keep track
-> of
-> the 5+ shows/hires we're working on at any given time) and have a strategy for communicating effectively to the
-> society.
-> In my opinion, sec is one of the most fun exec roles, you should absolutely apply! - Kishan Sharma, Treasurer 2024/25
+> on, through "this/next week in tech" in the emails. A good candidate for this position should be organised (to keep
+> track of the 5+ shows/hires we're working on at any given time) and have a strategy for communicating effectively to
+> the society. In my opinion, sec is one of the most fun exec roles, you should absolutely apply! - Kishan Sharma,
+> Treasurer 2024/25
 
 The [constitution](./03-constitution.md) states that the Secretary shall:
 
 1. Take minutes of every meeting of Exec and General Meetings; these will be presented to the Exec and a redacted
    version made available to all society members.
-    1. Redaction will only be used where the subject matter at hand is sensitive, and the public release of such
-       information would be detrimental to the people/issue concerned.
-    2. Redaction may also be used to ensure compliance with any relevant data protection legislation or SU regulation.
+   1. Redaction will only be used where the subject matter at hand is sensitive, and the public release of such
+      information would be detrimental to the people/issue concerned.
+   2. Redaction may also be used to ensure compliance with any relevant data protection legislation or SU regulation.
 2. Maintain a register of members, keep a record of known skills and interests of those members, and record show
    assignments – this responsibility is shared with the Training Manager.
 3. Be responsible for all administrative matters relating to the running of the society, including responding to
@@ -150,9 +150,11 @@ The [constitution](./03-constitution.md) states that the Secretary shall:
 The Hires Manager is responsible for managing and facilitating hires.
 
 :::note
+
 Whilst the Hires Manager is responsible for overseeing hires overall, this does not mean that they are expected to
 manage every hire themselves (this will lead to burnout!). It is the responsibility of the Hires Assistants and the rest
 of the exec to assist.
+
 :::
 
 The [constitution](./03-constitution.md) states that the Hires Manager shall:
@@ -204,8 +206,8 @@ The [constitution](./03-constitution.md) states that the Socials and Publicity S
 
 ## Non-Electable Positions
 
-There are a further three "non-electable" roles which are assigned by the exec in their first few meetings. These
-can only be held by people with an existing electable role.
+There are a further three "non-electable" roles which are assigned by the exec in their first few meetings. These can
+only be held by people with an existing electable role.
 
 ### Vice President
 
@@ -218,10 +220,10 @@ The [constitution](./03-constitution.md) states that the Vice President shall:
 2. Act as a secondary point of contact for other Warwick SU societies.
 3. Automatically assume the role of Acting President should the role of President become permanently vacant for any
    reason.
-    1. The role of Acting President will have the full powers and responsibilities of the President as described in
-       Article 6.10.
-    2. The Acting President will remain in office until such a time that a replacement can be found in accordance with
-       SU Regulation 9.
+   1. The role of Acting President will have the full powers and responsibilities of the President as described in
+      Article 6.10.
+   2. The Acting President will remain in office until such a time that a replacement can be found in accordance with SU
+      Regulation 9.
 
 ### Safety Officer
 
@@ -250,11 +252,9 @@ The [constitution](./03-constitution.md) states that the Equal Opportunities Off
 
 ## Hires Assistants
 
-Two non-voting "Hires Assistants" are co-opted into the exec each term.
-They help the hires manager to facilitate hires and are a great way to gain experience around how the Tech
-Crew Exec operates.
-They get access to this terms DC cupboard code.
-Any Tech Crew member is eligible to apply for this position.
+Two non-voting "Hires Assistants" are co-opted into the exec each term. They help the hires manager to facilitate hires
+and are a great way to gain experience around how the Tech Crew Exec operates. They get access to this terms DC cupboard
+code. Any Tech Crew member is eligible to apply for this position.
 
 The [constitution](./03-constitution.md) states that the Hires Assistants shall:
 
@@ -262,6 +262,8 @@ The [constitution](./03-constitution.md) states that the Hires Assistants shall:
    allocating members, and/or operating the hire.
 
 :::lore
+
 This role was added to the constitution as a motion in an AGM, and two termly assistants started being allocated from
 2024 Term 3.
+
 :::

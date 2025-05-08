@@ -45,10 +45,10 @@ submit a video in advance.
 An example manifesto written by RON running for hires manager can be found
 [here](https://drive.google.com/file/d/1GV_65xwY2qs9XSIcW8q_rbAppav7CSyD/view?usp=drive_link).
 
-:::info 
+:::info
 
 Tech Crew 2025 Elections are open and can be found on the
-[SU Elections Page](https://www.warwicksu.com/student-voice/elections/posts/3041/). 
+[SU Elections Page](https://www.warwicksu.com/student-voice/elections/posts/3041/).
 
 :::
 

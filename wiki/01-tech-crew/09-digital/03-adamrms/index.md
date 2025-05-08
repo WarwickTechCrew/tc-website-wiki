@@ -1,7 +1,7 @@
 ---
 description: AdamRMS
 sidebar_custom_props:
-    emoji: 📦
+  emoji: 📦
 resources:
   - name: AdamRMS Dashboard
     author: Bithell Studios Ltd
@@ -9,4 +9,5 @@ resources:
 shortlinks:
   - adamrms-admin
 ---
+
 # AdamRMS

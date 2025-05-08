@@ -1,6 +1,46 @@
 year: 2023 / 2024
 
 terms:
+- name: Term 1
+  shows:
+    - name: Battle of the Cover Bands
+      society: Independent
+      venue: The Copper Rooms
+      people:
+      - role: Sound Designers
+        name: Alasdair King and Kishan Sharma
+      - role: Lighting Designers
+        name: Alexander Spears and Dae Pomeroy
+    - name: Snow White
+      society: Warwick Pantomime Society
+      venue: Millburn House
+      people:
+        - role: Sound Designer
+          name: Jonathan Ord
+        - role: Lighting Designer
+          name: Echo Vaughan
+    - name: Antigone
+      society: WUDS
+      venue: Avon Drama Studio
+      people:
+        - role: Lighting Designer
+          name: Alasdair King
+    - name: The Last 5 Years
+      society: MTW
+      venue: Avon Drama Studio
+      people:
+        - role: Lighting Designer
+          name: Alasdair King
+- name: Term 2
+  shows:
+    - name: Romeo and Juliet
+      society: ShakeSoc
+      venue: FAB Studios
+      people:
+        - role: Sound Designer
+          name: Matthew Morris
+        - role: Lighting Designer
+          name: Zhitong
 - name: Term 3
   shows:
     - name: King Lear - Insolence of Office
@@ -18,6 +58,6 @@ terms:
         - role: Technical Managers
           name: Dae Pomeroy, Ben Hammond and Josh Heng
         - role: Sound
-          name: Alex Morrison, Danny Turner, Kishan Sharma, Georgi Gibbons and Josh Heng
+          name: Alex Morrison, Kit Calvert, Kishan Sharma, Georgi Gibbons and Josh Heng
         - role: Lighting
-          name: Dae Pomeroy, Echo Vaughan, Kit Calvert, Ben Hammond, George Parrett and Anis Tam
+          name: Dae Pomeroy, Danny Turner, Echo Vaughan, Ben Hammond, George Parrett and Anis Tam

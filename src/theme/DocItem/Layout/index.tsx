@@ -14,10 +14,13 @@ import ContentVisibility from '@theme/ContentVisibility';
 import type { Props } from '@theme/DocItem/Layout';
 import type { DocFrontMatter } from '@docusaurus/plugin-content-docs';
 
+import useBrokenLinks from '@docusaurus/useBrokenLinks';
+
 import styles from './styles.module.css';
 import DocResources, { Resource } from '@site/src/components/wiki/doc-resources';
 import { EditPageModal } from '@site/src/components/wiki/edit-page-modal';
 import EditThisPage from '@theme/EditThisPage';
+import BrowserOnly from '@docusaurus/BrowserOnly';
 
 function showDocResources(): boolean {
   const { frontMatter } = useDoc() as DocContextValue & {
@@ -53,6 +56,10 @@ function useDocTOC() {
 }
 
 export default function DocItemLayout({ children }: Props): JSX.Element {
+  // We need to do this for the custom edit modals so that Docusaurus doesn't throw broken
+  // link errors
+  useBrokenLinks().collectAnchor('edit');
+
   const doc = useDoc();
   const docTOC = useDocTOC();
   const { metadata } = useDoc();
@@ -87,7 +94,7 @@ export default function DocItemLayout({ children }: Props): JSX.Element {
 
           <DocItemPaginator />
 
-          <EditPageModal />
+          <BrowserOnly>{() => <EditPageModal />}</BrowserOnly>
         </div>
       </div>
       {docTOC.desktop && <div className="col col--3">{docTOC.desktop}</div>}

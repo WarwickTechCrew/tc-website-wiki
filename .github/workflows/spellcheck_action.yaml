@@ -31,6 +31,9 @@ jobs:
           # Ignore words that start and end with . because they are likely to be in http links
           # but only add their version without the . to the list
           grep --no-filename -oE '\b\.[a-z]+\b' $(git ls-files '*.md') | sed 's/^.//' | sort -u >> $TEMP_IGNORE_FILE
+          
+          # Add additional words to ignore list
+          echo "exections" >> $TEMP_IGNORE_FILE
 
           # Remove duplicate entries
           sort -u $TEMP_IGNORE_FILE -o $TEMP_IGNORE_FILE

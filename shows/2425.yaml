@@ -94,13 +94,33 @@ terms:
         - role: Sound Designer
           name: Matthew Morris
         - role: Set Assistant
-          name: Rowan McAlpine
+          name: Rowan McAlpine, Olivia Gielen, Freya Carey-Wood, Adam Skrzymowski
+    - name: Anything Goes
+      society: MTW
+      venue: Warwick Arts Centre Theatre
+      people:
+        - role: Technical Manager
+          name: Ben Hammond
+        - role: Assistant Technical Manager
+          name: George Parrett
+        - role: Lighting Designer
+          name: Echo Vaughan
+        - role: Lighting Assistant/Followspot
+          name: Trin Balkwell, Ellen Potts
+        - role: Sound Designer
+          name: Stanley Simmons
+        - role: Sound Assistant
+          name: Sid Gurumurthy, Abi Lowrie 
+        - role: Stage Manager
+          name: Freya Cox
+        - role: Deputy Stage Manager
+          name: Connie Locker
+        - role: Assistant Stage Manager
+          name: Lulu Smith, Danai Muyambo
+        - role: Set Designer
+          name: Danny Turner
         - role: Set Assistant
-          name: Olivia Gielen
-        - role: Set Assistant
-          name: Freya Carey-Wood
-        - role: Set Assistant
-          name: Adam Skrzymowski
+          name: Imogen Bartin, Tammy Berman, Tara Fahey
 
 - name: Term 3
   shows:

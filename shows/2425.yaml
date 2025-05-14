@@ -101,3 +101,22 @@ terms:
           name: Freya Carey-Wood
         - role: Set Assistant
           name: Adam Skrzymowski
+
+- name: Term 3
+  shows:
+        - name: Caucasian Chalk Circle
+      society: WUDS
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Technical Manager
+          name: George Parrett
+        - role: Lighting Designer
+          name: Olly Murphy
+        - role: Sound Designer
+          name: George Parrett
+        - role: Set Designer
+          name: Echo Vaughan
+        - role: Stage Manager
+          name: Soraya Wagstaff
+        - role: Deputy Stage Manager
+          name: Theo Tomalin

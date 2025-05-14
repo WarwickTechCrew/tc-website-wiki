@@ -7,11 +7,6 @@ export type ExternalLink = {
 const externalLinks: ExternalLink[] = [
   {
     type: 'link',
-    href: 'https://drive.google.com/drive/folders/1qcEIQINiboPD26nMSB-obGPqv5tbVeuY?usp=sharing',
-    label: 'Exec Meeting Minutes',
-  },
-  {
-    type: 'link',
     href: 'https://dash.adam-rms.com',
     label: 'AdamRMS',
   },

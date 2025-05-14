@@ -104,7 +104,7 @@ terms:
 
 - name: Term 3
   shows:
-        - name: Caucasian Chalk Circle
+    - name: Caucasian Chalk Circle
       society: WUDS
       venue: Warwick Arts Centre Studio
       people:

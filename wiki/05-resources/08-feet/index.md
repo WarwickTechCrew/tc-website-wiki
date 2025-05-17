@@ -16,3 +16,8 @@ shortlinks:
 ![Eurovision](./eurovision.jpg)
 <figcaption>Eurovision 2025</figcaption>
 </figure>
+
+<figure>
+![Eurovision- Josh](./PXL_20250517_180841554-min.jpg)
+<figcaption>Eurovision 2025</figcaption>
+</figure>

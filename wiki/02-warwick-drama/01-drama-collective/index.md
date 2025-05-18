@@ -19,7 +19,7 @@ flowchart TD
         DC --> SS([Shakesoc])
         DC --> WUDS([WUDS])
         DC --> TC([Tech Crew])
-        DC --> FB([Freshblood])
+        DC --> FB([WUPS])
         DC --> CP([Codpiece])
     end
     TC --> WSAF{{WSAF}}
@@ -63,11 +63,9 @@ Shakespeare society joined the DC in the academic year 22/23, through an AGM mot
 
 Warwick University Drama Society focuses on performing established published plays.
 
-## [Freshblood](https://www.warwicksu.com/societies-sports/societies/freshbloodtheatre/)
+## [WUPS](https://www.warwicksu.com/societies-sports/societies/freshbloodtheatre/)
 
-Freshblood new writing specialise in performing student written shows. They run Freshblood Festival, showcasing short,
-student-written plays. They also run FreshFund, to provide support to new scripts and bring warwick written shows to
-life.
+Formerly known as Freshblood New Writing Society (before their 2025 AGM), Warwick University Playwriting Society specialise in performing student written shows. They run Freshblood Festival, showcasing short, student-written plays. They also run FreshFund, to provide support to new scripts and bring warwick written shows to life. As of writing, their change from Freshblood to WUPS is still in progress, and both may be found accross their social media.
 
 ## [Tech Crew](https://www.warwicksu.com/societies-sports/societies/techcrew/)
 

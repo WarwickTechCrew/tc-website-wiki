@@ -65,7 +65,7 @@ Warwick University Drama Society focuses on performing established published pla
 
 ## [WUPS](https://www.warwicksu.com/societies-sports/societies/freshbloodtheatre/)
 
-Formerly known as Freshblood New Writing Society (before their 2025 AGM), Warwick University Playwriting Society specialise in performing student written shows. They run Freshblood Festival, showcasing short, student-written plays. They also run FreshFund, to provide support to new scripts and bring warwick written shows to life. As of writing, their change from Freshblood to WUPS is still in progress, and both may be found accross their social media.
+Formerly known as Freshblood New Writing Society (before their 2025 AGM), Warwick University Playwriting Society specialise in performing student written shows. They run Freshblood Festival, showcasing short, student-written plays. They also run FreshFund, to provide support to new scripts and bring warwick written shows to life. As of writing, their change from Freshblood to WUPS is still in progress, and both may be found across their social media.
 
 ## [Tech Crew](https://www.warwicksu.com/societies-sports/societies/techcrew/)
 

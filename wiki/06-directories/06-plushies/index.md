@@ -171,3 +171,15 @@ member Rowan and accompanied them on a visit to Belgium.
 
 During the Easter holiday of 2025 they have been on (and are expecting to go on) many adventures. This is awaiting being
 documented on the Tech Crew Wiki as perhaps one of the most important pieces of information to be added.
+
+## Pengy & Hedgey
+
+Pengy & Hedgey are a pair of friends that can never be separated from each other. When one of them is somewhere, the other will surely be with them. 
+
+<figure>
+<div class="img-gallery img-small">
+![Pengy & Hedgey by the radio mic racks during Queen of Spades.](./p&h-qos.jpg)
+![Pengy & Hedgey mixing on the Digico S21 Sound Desk during the 25th Annual Putnam County Spelling Bee.](./p&h-bee.jpg)
+</div>
+<figcaption>Pengy & Hedgey hanging around together.</figcaption>
+</figure>

@@ -68,3 +68,9 @@ These societies also perform drama at Warwick, but aren't generally considered p
 Warwick Pantomime Society is a much newer and smaller society, often working with Tech Crew as a
 [hire](/wiki/tech-crew/shows-hires) rather than a full show. They put on a pantomime each term, which are always great
 fun and a much lower commitment than a show with one of the other societies in Warwick Drama.
+
+### [WSAF](https://www.warwicksu.com/societies-sports/societies/wsaf-society/)
+
+The Warwick Student Arts Festival is a multi day student-run festival that is held in term 3 each year. It is a free 
+festival of performances, exhibitions, workshops and more that takes place in venues across campus. We help facilitate 
+the tech and crew, providing plenty of opportunities to operate or design theatre shows or busk live events!

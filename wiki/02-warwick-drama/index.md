@@ -17,21 +17,21 @@ different purpose.
 flowchart TD
     WD[[Warwick Drama]]
     WD --> MTW([Music Theatre Warwick - MTW])
+    WD --> WSAF([Warwick Student Arts Festival - WSAF])
     WD --> Opera([Opera Warwick])
-    WD --> PO
+    WD --> PO([Warwick Pantomime Society])
     WD --> DC[(Drama Collective - DC)]
     subgraph " "
         DC --> SS([Shakesoc])
         DC --> WUDS([WUDS])
         DC --> TC([Tech Crew])
-        DC --> FB([Freshblood])
+        DC --> WUPS([WUPS])
         DC --> CP([Codpiece])
     end
-    TC --> WSAF{{WSAF}}
     MTW --> SF{{Stagefest}}
     MTW --> IM{{The Improv Musical}}
-    FB --> FF{{Freshblood Festival}}
-    PO([Warwick Pantomime Society])
+    WUPS --> FF{{Freshblood Festival}}
+    
 ```
 
 ## [The Drama Collective (DC)](/wiki/warwick-drama/drama-collective)

@@ -19,7 +19,7 @@ flowchart TD
     WD --> MTW([Music Theatre Warwick - MTW])
     WD --> WSAF([Warwick Student Arts Festival - WSAF])
     WD --> Opera([Opera Warwick])
-    WD --> PO([Warwick Pantomime Society])
+    WD --> PO
     WD --> DC[(Drama Collective - DC)]
     subgraph " "
         DC --> SS([Shakesoc])
@@ -31,6 +31,7 @@ flowchart TD
     MTW --> SF{{Stagefest}}
     MTW --> IM{{The Improv Musical}}
     WUPS --> FF{{Freshblood Festival}}
+    PO([Warwick Pantomime Society])
     
 ```
 

@@ -3,6 +3,7 @@ export const authorNames: Record<string, string> = {
   kishan: 'Kishan Sharma',
   Kishan: 'Kishan Sharma',
   DinoExho: 'Echo Vaughan',
+  Echo: 'Echo Vaughan',
   Electric: 'Matt Morris',
   Cooleth23: 'Ethan Graham',
   MagmaStan: 'Stanley Simmons',

@@ -8,13 +8,14 @@ resources:
     name: G55 Room Information
 
 shortlinks:
+  - millburn
   - milburn
 ---
 
-# Milburn House
+# Millburn House
 
 Formerly home to the [CAPITAL Centre](https://warwick.ac.uk/fac/cross_fac/capital/), then Theatre and Performance
-studies, Milburn House is one of the strangest buildings on campus. We fairly regularly use G55, as one of the two
+studies, Millburn House is one of the strangest buildings on campus. We fairly regularly use G55, as one of the two
 centrally timetabled drama studios (alongside [Avon](./03-avon.md)), with G56 and G57 providing nice white-walled
 rehearsal/studio spaces.
 
@@ -79,7 +80,7 @@ system.
 
 ## Building History
 
-As mentioned above, Milburn houses G55, a fully fitted drama studio with tension grid, many dimmers, patching, etc...
+As mentioned above, Millburn houses G55, a fully fitted drama studio with tension grid, many dimmers, patching, etc...
 G53 used to be a mirror image of G55 until it got turned into a physics lab in 2023. As a consequence, the control booth
 is split into two, one room for each studio, though the window to G53 has been boarded over and the dimmer disconnected.
 
@@ -88,7 +89,7 @@ Warwick Writing Programme, as well as the the physics NMR (Nuclear Magnetic Reso
 
 :::lore
 
-Milburn House was originally a distribution warehouse before the University took it over as _space_ to do anything with,
+Millburn House was originally a distribution warehouse before the University took it over as _space_ to do anything with,
 which is why it's so weird. There was a great video explaining this (as a big sustainability success story), but it
 seems to have disappeared so you'll just have to trust me on this one...
 
@@ -101,7 +102,7 @@ child of the uni, with none of the space making sense - with some very inconsist
 certain parts of the building.
 
 During the early stages of the [STEM Connect programme](https://warwick.ac.uk/about/strategy/connect/stem/), the
-architects had Milburn House marked out on the new plans. When asked if they had any plans for it (e.g. refurbs), they
+architects had Millburn House marked out on the new plans. When asked if they had any plans for it (e.g. refurbs), they
 said they had no actually plans and knew nothing about the building, but had been told they could use it as overspill
 space for anything they couldn't fit in the main development...
 

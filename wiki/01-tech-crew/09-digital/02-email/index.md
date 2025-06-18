@@ -13,7 +13,9 @@ exec. This is configured to operate over the domain `warwicktechcrew.co.uk` and 
 `warwicktechcrew@warwick.ac.uk` email account - more information on this can be found in
 [Email Routing](03-routing/index.md).
 
-:::lore In the 2024/2025 academic year, Tech Crew received around 1,300 incoming emails and sent around 630 outgoing
+:::lore 
+
+In the 2024/2025 academic year, Tech Crew received around 1,300 incoming emails and sent around 630 outgoing
 emails. 
 
 :::

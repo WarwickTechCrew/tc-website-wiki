@@ -169,11 +169,11 @@ In the Studio, the sound patch panels are:
 | SC-ST-303 | Upstage Left SL           | 1-4               | 1-2      | 1-2 (1 free)        | None      | 1-6 (5 free) | Yes            | 1          | 2 (1 free)    |                                               |
 | SC-ST-304 | Upstage Left DSC          | 1-4               | 1-2      | 1-2                 | None      | 1-2          | Yes            | 1          | 2             |                                               |
 | SC-ST-305 | Control Room              | 1-12 with VEAM    | None     | 1-8 (7 free)        | 1-2       | 1-8 (7 free) | Yes            | 2          | 8 (6 free)    | SM Desk, FoH Mix VEAM (Parallel to SC-ST-203) |
-| SC-ST-401 | Bridges USC               | ?                 | ?        | ?                   | ?         | ?            | ?              | ?          | ?             |                                               |
-| SC-ST-402 | Bridges SR                | ?                 | ?        | ?                   | ?         | ?            | ?              | ?          | ?             |                                               |
-| SC-ST-403 | Bridges DSC               | ?                 | ?        | ?                   | ?         | ?            | ?              | ?          | ?             |                                               |
-| SC-ST-404 | Bridges SL                | ?                 | ?        | ?                   | ?         | ?            | ?              | ?          | ?             |                                               |
-| SC-ST-405 | Bridge 3                  | ?                 | ?        | ?                   | ?         | ?            | ?              | ?          | ?             |                                               |
+| SC-ST-401 | Bridges USC               | 1-2               | 1-2      | 1-2                 | None      | 1-2          | Yes            | 1          | 2 (1 free)    | extra BNC labelled "infra red"                |
+| SC-ST-402 | Bridges SR                | 1-2               | 1-2      | 1-2                 | None      | 1-2          | Yes            | 1          | 2 (1 free)    | extra BNC labelled "infra red"                |
+| SC-ST-403 | Bridges DSC               | 1-2               | 1-2      | 1-2                 | None      | 1-2 (1 free) | Yes            | 1          | 2 (1 free)    | extra BNC labelled "infra red"                |
+| SC-ST-404 | Bridges SL                | 1-2               | 1-2      | 1-2                 | None      | 1-2          | Yes            | 1          | 2             | extra BNC labelled "infra red"                |
+| SC-ST-405 | Bridge 3                  | 1-4 (3 free)      | 1-4      | 1-2                 | None      | 1-2          | No             | None       | 4             | First XLR is used for show relay mic          |
 
 When using the Front of House mixing position (SC-ST-203), you will also need to unplug the sound multipin snake from
 the control room (SC-ST-305).

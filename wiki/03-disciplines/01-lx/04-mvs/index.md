@@ -4,7 +4,7 @@ description: A guide to using and maintaining the Le Maitre MVS hazer
 tags:
   - Guides
   - Equipment
-shortlinks
+shortlinks:
   - mvs
   - haze
   - hazer

@@ -140,3 +140,45 @@ terms:
           name: Soraya Wagstaff
         - role: Deputy Stage Manager
           name: Theo Tomalin
+        - name: HMS Pinafore
+      society: Warwick Opera
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Technical Manager
+          name: Stanley Simmons
+        - role: Lighting Designer
+          name: Trin Balkwill, Josh Heng
+        - role: Followspot
+          name: Oliver Smith, Alice Robson
+        - role: Sound Designer
+          name: Ali Aljishi
+        - role: Set Designer
+          name: Echo Vaughan
+        - role: Stage Manager
+          name: Rebecca Smith
+        - role: Deputy Stage Manager
+          name: Lulu Smith
+    - name: The Great Gatsby
+      society: WUDS
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Technical Manager
+          name: Kishan Sharma
+        - role: Lighting Designer
+          name: Danny Turner
+        - role: Lighting Assistant/Followspot
+          name: Danai Muyambo, Adam Skrzymowski
+        - role: Sound Designer
+          name: Kishan Sharma
+        - role: Set Designer
+          name: Echo Vaughan
+        - role: Set Assistant
+        - name: Alexi Plumridge Milsom
+        - role: Stage Manager
+          name: Rowan McAlpine
+        - role: Assistant Stage Manager
+          name: Josh Heng, Ethan Graham, Soraya Wagstaff
+        - role: Deputy Stage Manager
+          name: Kit Calvert
+
+

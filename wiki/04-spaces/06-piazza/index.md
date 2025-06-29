@@ -73,6 +73,18 @@ Whilst there is underground ducting under most of the Piazza (used already for p
 estimates that adding network cabling would cost above £500 due to needing to get contractors to put it in and take it
 out.
 
+One other method is to use a private WiFi router. This can be connected to any port inside the SU/Rootes. This would
+then provide Line of Sight to a second router on the Piazza/Benefactors. WiFi!
+
+Potential port locations include:
+- Esports Centre (A-20, C-SD-R-6/2B)
+- Panorama Room (2-037, C-SO-R-6/2A)
+- Big Screen AV service
+(all are patched as of 16/06/2025)
+
+Note ITS are inconsistent about allowing subnets underneath eduroam. It is possible to do, especially if the port
+is patched into the BT network on campus (Warwick Guest). It is best to contact ITS if you are planning something.
+
 ## Tables and Chairs
 
 Another thing to consider when outside is the need for tables and chairs, as these aren't as accessible. The

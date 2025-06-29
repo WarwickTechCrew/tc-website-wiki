@@ -4,6 +4,10 @@ description: A guide to using and maintaining the Le Maitre MVS hazer
 tags:
   - Guides
   - Equipment
+shortlinks
+  - mvs
+  - haze
+  - hazer
 ---
 
 The MVS (stands for Multi Venue System) is Tech Crew's very own hazer. It's a great machine but slightly eccentric in a

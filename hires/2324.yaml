@@ -33,6 +33,14 @@ terms:
           name: Alasdair King
 - name: Term 2
   shows:
+    - name: The Improv Musical (Term 2, Week 2)
+      society: MTW
+      venue: FAB0.20 Drama Studio
+      people:
+        - role: Sound Operator
+          name: Kishan Sharma & James White
+        - role: Lighting Operator
+          name: Ben Hammond & Josh Heng
     - name: Romeo and Juliet
       society: ShakeSoc
       venue: FAB Studios

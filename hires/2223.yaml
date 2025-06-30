@@ -3,6 +3,12 @@ year: 2022 / 2023
 terms:
 - name: Term 3
   shows:
+    - name: Alice in Pantoland
+      society: Warwick Pantomime Society
+      venue: G55 Milburn House
+      people:
+        - role: Lighting Designer
+          name: Josh Heng
     - name: The Improv Musical at Fringe
       society: MTW
       venue: Gilded Balloon Patter Hoose, Edinburgh Fringe

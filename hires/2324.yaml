@@ -59,6 +59,13 @@ terms:
           name: Rebecca Smith
         - role: Lighting Designer
           name: Echo Vaughan
+    - name: Warwick Student Arts Festival 2024
+      society: Tech Crew
+      venue: University of Warwick (multiple venues)
+      links:
+        - name: Crew
+          url: https://2024.wsaf.org.uk
+          label: WSAF 2024 Website
     - name: The Improv Musical at Fringe
       society: MTW
       venue: Gilded Balloon Patter Hoose, Edinburgh Fringe

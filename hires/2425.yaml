@@ -77,3 +77,12 @@ terms:
             name: Oliver Smith and Joel Coulon
           - role: Video Assistants/Camera Operators
             name: Adam Skrzymowski, Caleb Tan, Jonathan Ord, Olivia Gielen and Tara Fahey
+  - name: Term 3
+    shows:
+      - name: Warwick Student Arts Festival 2025
+        society: Tech Crew
+        venue: University of Warwick (multiple venues)
+        links:
+          - name: Crew
+            url: https://wsaf.org.uk
+            label: WSAF 2025 Website

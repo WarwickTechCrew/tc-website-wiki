@@ -43,7 +43,7 @@ Tech Crew Mac's ports (they keep disconnecting it is very annoying).
 
 :::warning
 
-WAC do not own a QLab 5 license, so if using QLab 5 on their Mac Mini's you'll be limited to two channels of output ect.
+WAC do not own a QLab 5 license, so if using QLab 5 on their Mac Mini's you'll be limited to two channels of output etc.
 
 :::
 
@@ -54,7 +54,7 @@ or interacted with by the cast, such as phone or doorbell sound effects.
 
 Generally, any music should be downloaded locally in advance and played from the Tech Crew Macbook using QLab, along
 with any other SFX. For example, using spotify or youtube to play sound may be slightly less reliable (if the network
-drops out or you get ads ect). Whilst it is possible to use Spotify for music playback, this is technically against the
+drops out or you get ads etc). Whilst it is possible to use Spotify for music playback, this is technically against the
 [Spotify Terms of Use](https://www.spotify.com/uk/legal/end-user-agreement/) which only allows personal, non-commercial
 use. Spotify offer a service called [Soundtrack Your Brand](https://www.soundtrackyourbrand.com/) which can be used
 commercially - the university has a few old iPhones with licenses for this service, which can be requested when working

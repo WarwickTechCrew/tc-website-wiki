@@ -6,6 +6,7 @@ terms:
     - name: Duchess of Malfi
       society: WUDS
       venue: Warwick Arts Centre Studio
+      instagram: duchess_wuds
       people:
         - role: Technical Manager
           name: Josh Heng
@@ -24,11 +25,12 @@ terms:
     - name: Accidental Death of an Anarchist
       society: WUDS
       venue: Warwick Arts Centre Studio
+      instagram: accidentaldeath_wuds
       people:
         - role: Technical Manager
           name: Stanley Simmons
         - role: Stage Manager
-          name: Alice Robson 
+          name: Alice Robson
         - role: Deputy Stage Manager
           name: Kit Calvert
         - role: Sound Designer
@@ -42,44 +44,51 @@ terms:
     - name: Lord of the Flies
       society: WUDS
       venue: Warwick Arts Centre Studio
+      instagram: lordoftheflieswarwick
       people:
         - role: Technical Manager
           name: Freya Carey-Wood
         - role: Lighting Designer
           name: Adam Skrzymowski
         - role: Sound Designer
-          name: Ali Aljishi 
+          name: Ali Aljishi
         - role: Stage Manager
           name: Anoushay Dar
         - role: Deputy Stage Manager
-          name: Theo Tomalin 
+          name: Theo Tomalin
     - name: The Queen of Spades
       society: Warwick Opera
       venue: Warwick Arts Centre Theatre
+      instagram: queenofspades_warwick
+      photos: https://gallery.warwickdrama.org.uk/index.php?/category/82
+      photosCredit: Josh Heng
       people:
         - role: Technical Manager
-          name: Josh Heng 
+          name: Josh Heng
         - role: Stage Manager
-          name: Georgi Gibbons  
+          name: Georgi Gibbons
         - role: Deputy Stage Manager
-          name: Tilly Riley 
+          name: Tilly Riley
         - role: Sound Designer
           name: George Parrett
         - role: Sound Assistant
-          name: Caleb Tan 
+          name: Caleb Tan
         - role: Lighting Designer
-          name: Alasdair King 
+          name: Alasdair King
         - role: Lighting Assistant
           name: Beck Sewart
         - role: Video Designer
-          name: Matthew Morris 
+          name: Matthew Morris
         - role: Scenic Artist
-          name: Jessica Newton, Alexei Milsom 
+          name: Jessica Newton, Alexei Milsom
         - role: Assistant Stage Manager
           name: Rowan McAlpine, Oliver Bigley, Jessica Newton, Alexei Milsom
     - name: Can You Teach Me How To Breathe
       society: Freshblood
       venue: Warwick Arts Centre Studio
+      instagram: cytmhtbwarwick
+      photos: https://gallery.warwickdrama.org.uk/index.php?/category/83
+      photosCredit: Josh Heng
       people:
         - role: Technical Manager
           name: Layah Rothen
@@ -98,6 +107,7 @@ terms:
     - name: Anything Goes
       society: MTW
       venue: Warwick Arts Centre Theatre
+      instagram: anythinggoes.mtw
       people:
         - role: Technical Manager
           name: Ben Hammond
@@ -110,7 +120,7 @@ terms:
         - role: Sound Designer
           name: Stanley Simmons
         - role: Sound Assistant
-          name: Sid Gurumurthy, Abi Lowrie 
+          name: Sid Gurumurthy, Abi Lowrie
         - role: Stage Manager
           name: Freya Cox
         - role: Deputy Stage Manager
@@ -127,6 +137,7 @@ terms:
     - name: Caucasian Chalk Circle
       society: WUDS
       venue: Warwick Arts Centre Studio
+      instagram: chalkcircle_wuds
       people:
         - role: Technical Manager
           name: George Parrett
@@ -143,6 +154,9 @@ terms:
     - name: HMS Pinafore
       society: Warwick Opera
       venue: Warwick Arts Centre Studio
+      instagram: hmspinafore_warwick
+      photos: https://gallery.warwickdrama.org.uk/index.php?/category/88
+      photosCredit: Josh Heng
       people:
         - role: Technical Manager
           name: Stanley Simmons
@@ -161,6 +175,9 @@ terms:
     - name: The Great Gatsby
       society: WUDS
       venue: Warwick Arts Centre Studio
+      instagram: the_great_gatsby_wuds
+      photos: https://gallery.warwickdrama.org.uk/index.php?/category/89
+      photosCredit: Fai Banks, Kyria Houghton & Josh Heng
       people:
         - role: Technical Manager
           name: Kishan Sharma
@@ -180,5 +197,3 @@ terms:
           name: Josh Heng, Ethan Graham, Soraya Wagstaff
         - role: Deputy Stage Manager
           name: Kit Calvert
-
-

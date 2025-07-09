@@ -28,6 +28,11 @@ export type ShowData = {
     label: string;
     url: string;
   }[];
+  photos?: {
+    url: string;
+    credit?: string;
+  };
+  instagram?: string;
 };
 
 function parseShow(data: any): ShowData {
@@ -59,6 +64,11 @@ function parseShow(data: any): ShowData {
           url: link.url.trim(),
         };
       }) || [],
+    instagram: data.instagram?.trim().replace('@', ''),
+    photos: data.photos && {
+      url: data.photos.trim(),
+      credit: data.photosCredit?.trim(),
+    },
   };
 }
 

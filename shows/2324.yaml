@@ -6,6 +6,7 @@ terms:
     - name: Hedda Gabler
       society: WUDS
       venue: Warwick Arts Centre Studio
+      instagram: heddagablerwuds
       people:
         - role: Technical Manager
           name: Anis Tam
@@ -24,6 +25,7 @@ terms:
     - name: A Streetcar Named Desire
       society: WUDS
       venue: Warwick Arts Centre Studio
+      instagram: streetcarwuds
       people:
         - role: Technical Manager
           name: Jon Kowalski
@@ -38,6 +40,7 @@ terms:
     - name: Carmen
       society: Warwick Opera
       venue: Warwick Arts Centre Theatre
+      instagram: opwacarmen
       people:
         - role: Lighting Designer
           name: Adam Skrzymowski and Alasdair King
@@ -56,6 +59,7 @@ terms:
     - name: Company
       society: MTW
       venue: Warwick Arts Centre Theatre
+      instagram: company_warwick
       people:
         - role: Technical Manager
           name: Ella Horne
@@ -78,6 +82,7 @@ terms:
     - name: Electra
       society: WUDS
       venue: Warwick Arts Centre Studio
+      instagram: electra.warwickuni
       people:
         - role: Lighting Designer
           name: Layah Rothen
@@ -92,6 +97,7 @@ terms:
     - name: Godspell
       society: MTW
       venue: Warwick Arts Centre Studio
+      instagram: mtw.godspell
       people:
         - role: Technical Manager
           name: Ben Hammond and Ellie Dickens
@@ -108,6 +114,7 @@ terms:
     - name: The Tempest
       society: Shakesoc x WUDS
       venue: Warwick Arts Centre Studio
+      instagram: warwicktempest
       people:
         - role: Lighting Designer
           name: Dallon Costello

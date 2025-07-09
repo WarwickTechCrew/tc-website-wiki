@@ -1,7 +1,7 @@
 import Layout from '@theme/Layout';
 import Introduction from '@site/src/components/shows/shows-introduction.md';
 import { ShowYearData } from '@site/src/lib/show';
-import { FiExternalLink } from 'react-icons/fi';
+import { FiCamera, FiExternalLink, FiInstagram } from 'react-icons/fi';
 
 export default function Shows({ showYears }: { showYears: ShowYearData[] }) {
   return (
@@ -35,6 +35,18 @@ export default function Shows({ showYears }: { showYears: ShowYearData[] }) {
                             )}
                           </h5>
                           {show.venue && <p className="text-xs uppercase font-medium mb-0.5">{show.venue}</p>}
+                          {show.instagram && (
+                            <p className="text-xs -mt-0.5">
+                              <a
+                                href={`https://instagram.com/${show.instagram}`}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                              >
+                                <FiInstagram className="mb-0.5 mr-0.5" />
+                                {show.instagram}
+                              </a>
+                            </p>
+                          )}
                           <ul className="text-sm">
                             {show.people.map((person) => (
                               <li key={person.name}>
@@ -54,6 +66,15 @@ export default function Shows({ showYears }: { showYears: ShowYearData[] }) {
                                 </li>
                               ))}
                             </ul>
+                          )}
+                          {show.photos && (
+                            <p className="text-xs">
+                              <a href={show.photos.url} target="_blank" rel="noopener noreferrer">
+                                <FiCamera className="mr-0.5 mb-0.5" />
+                                <strong>Photos</strong>
+                                {show.photos.credit && ` by ${show.photos.credit}`}
+                              </a>
+                            </p>
                           )}
                         </article>
                       ))}

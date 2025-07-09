@@ -10,6 +10,9 @@ resources:
   - name: Cycling Shower Map
     url: https://warwick.ac.uk/about/campus-journey/mode-of-travel/cycling
     author: Warwick Estates
+  - name: Campus Map
+    url: https://campus.warwick.ac.uk
+    author: University of Warwick
 image: ./fab-accessible-shower.jpg
 image_alt: Accessible shower in the FAB Building
 ---

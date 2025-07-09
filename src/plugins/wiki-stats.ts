@@ -30,7 +30,8 @@ function getPageStats(filePath: string): PageInfo {
   const docusarusFilePath = filePath
     .replace(/^.*?\/wiki\//, '/wiki/') // Remove everything before and including "wiki/"
     .replace(/\d{2}-/g, '') // Remove leading numbers and hyphens
-    .replace(/\.md$/, ''); // Remove the ".md" extension
+    .replace(/\.md$/, '') // Remove the ".md" extension
+    .replace(/\/index$/, ''); // Remove 'index' at the end (if it exists
 
   return {
     title: title,

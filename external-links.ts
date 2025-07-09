@@ -20,6 +20,11 @@ const externalLinks: ExternalLink[] = [
     href: 'https://www.warwicksu.com/resources/techcrew/Tech-Crew-Constitution/',
     label: 'Constitution',
   },
+  {
+    type: 'link',
+    href: 'https://gallery.warwickdrama.org.uk/',
+    label: 'Warwick Drama Photo Archive',
+  },
 ];
 
 export default externalLinks;

@@ -1,104 +1,108 @@
 year: 2019 / 2020
 
 terms:
-- name: Term 1
-  shows:
-  - name: Antigone
-    society: WUDS
-    venue: Warwick Arts Centre Studio
-    people:
-    - role: Tech Manager
-      name: Tash Boret
-    - role: Lighting Designer
-      name: Kate Marron
-    - role: Sound Designer
-      name: Ed Kilcawley
-    - role: Set Designer
-      name: Georgie Vasey
-    - role: Stage Managers
-      name: Imi Francis and Jacob Buckley
-    - role: Deputy Stage Manager
-      name: Lucy Millard
-  - name: Earthquakes
-    society: WUDS
-    venue: Warwick Arts Centre Studio
-    people:
-    - role: Tech Managers
-      name: Cat Buck and Matt Randell
-    - role: Lighting Designer
-      name: Jamie Bell
-    - role: Sound Designer
-      name: Germaine Palfrey
-    - role: Set Designer
-      name: Grace Lovegrove
-    - role: Stage Managers
-      name: Kate Marron and Ali Wiseman-Eggleton
-    - role: Deputy Stage Manager
-      name: Ellie Church
+  - name: Term 1
+    shows:
+      - name: Antigone
+        society: WUDS
+        venue: Warwick Arts Centre Studio
+        people:
+          - role: Tech Manager
+            name: Tash Boret
+          - role: Lighting Designer
+            name: Kate Marron
+          - role: Sound Designer
+            name: Ed Kilcawley
+          - role: Set Designer
+            name: Georgie Vasey
+          - role: Stage Managers
+            name: Imi Francis and Jacob Buckley
+          - role: Deputy Stage Manager
+            name: Lucy Millard
+      - name: Earthquakes
+        society: WUDS
+        venue: Warwick Arts Centre Studio
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/54
+        photosCredit: Peter Marsh (ashmorevisuals)
+        people:
+          - role: Tech Managers
+            name: Cat Buck and Matt Randell
+          - role: Lighting Designer
+            name: Jamie Bell
+          - role: Sound Designer
+            name: Germaine Palfrey
+          - role: Set Designer
+            name: Grace Lovegrove
+          - role: Stage Managers
+            name: Kate Marron and Ali Wiseman-Eggleton
+          - role: Deputy Stage Manager
+            name: Ellie Church
 
-- name: Term 2
-  shows:
-  - name: How to Disappear Completely and Never Be Found
-    society: Tech Crew & WUDS
-    venue: Warwick Arts Centre Studio
-    people:
-    - role: Tech Manager
-      name: Ed Kilcawley
-    - role: Lighting Designer
-      name: Tash Boret
-    - role: Sound Designer
-      name: Germaine Palfrey
-    - role: Set Designer
-      name: Beatrice Swordy
-    - role: Stage Managers
-      name: Ellie Church and Alexandra Keaney
-  - name: A Chorus Line
-    society: MTW
-    venue: Warwick Arts Centre Theatre
-    people:
-    - role: Tech Manager
-      name: Laura Cairns
-    - role: Lighting Designer
-      name: Tash Boret
-    - role: Sound Designer
-      name: Ed Kilcawley
-    - role: Set Designer
-      name: Georgie Vasey
-    - role: Stage Manager
-      name: Lucy Millard
-    - role: Deputy Stage Manager
-      name: Jacob Buckley
-  - name: The Bartered Bride
-    society: Opera Warwick
-    venue: Warwick Arts Centre Theatre
-    people:
-    - role: Lighting Designer
-      name: Matt Randell
-    - role: Sound Designer
-      name: Tash Boret
-    - role: Set Designer
-      name: Imi Franics and Todd Olive
-    - role: Stage Manager
-      name: Jacob Buckley
-    - role: Deputy Stage Manager
-      name: Lucy Millard
-  - name: A Profoundly Affectionate Deviotion to Someone
-    society: BAME Creatives & WUDS
-    venue: Warwick Arts Centre Studio
-    people:
-    - role: Tech Manager
-      name: Grace Lovegrove
-    - role: Lighting Designer
-      name: Elli Henson
-    - role: Sound Designer
-      name: Thomas Bruce
-    - role: Set Designer
-      name: Georgie Vasey
-    - role: Stage Manager
-      name: Dan Collier
-    - role: Deputy Stage Manager
-      name: Freya Thompson
+  - name: Term 2
+    shows:
+      - name: How to Disappear Completely and Never Be Found
+        society: Tech Crew & WUDS
+        venue: Warwick Arts Centre Studio
+        people:
+          - role: Tech Manager
+            name: Ed Kilcawley
+          - role: Lighting Designer
+            name: Tash Boret
+          - role: Sound Designer
+            name: Germaine Palfrey
+          - role: Set Designer
+            name: Beatrice Swordy
+          - role: Stage Managers
+            name: Ellie Church and Alexandra Keaney
+      - name: A Chorus Line
+        society: MTW
+        venue: Warwick Arts Centre Theatre
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/48
+        photosCredit: Peter Marsh (ashmorevisuals)
+        people:
+          - role: Tech Manager
+            name: Laura Cairns
+          - role: Lighting Designer
+            name: Tash Boret
+          - role: Sound Designer
+            name: Ed Kilcawley
+          - role: Set Designer
+            name: Georgie Vasey
+          - role: Stage Manager
+            name: Lucy Millard
+          - role: Deputy Stage Manager
+            name: Jacob Buckley
+      - name: The Bartered Bride
+        society: Opera Warwick
+        venue: Warwick Arts Centre Theatre
+        people:
+          - role: Lighting Designer
+            name: Matt Randell
+          - role: Sound Designer
+            name: Tash Boret
+          - role: Set Designer
+            name: Imi Franics and Todd Olive
+          - role: Stage Manager
+            name: Jacob Buckley
+          - role: Deputy Stage Manager
+            name: Lucy Millard
+      - name: A Profoundly Affectionate Deviotion to Someone
+        society: BAME Creatives & WUDS
+        venue: Warwick Arts Centre Studio
+        people:
+          - role: Tech Manager
+            name: Grace Lovegrove
+          - role: Lighting Designer
+            name: Elli Henson
+          - role: Sound Designer
+            name: Thomas Bruce
+          - role: Set Designer
+            name: Georgie Vasey
+          - role: Stage Manager
+            name: Dan Collier
+          - role: Deputy Stage Manager
+            name: Freya Thompson
 
-- name: Term 3
-  notes: There were no shows this term due to COVID-19 lockdown restrictions
+  - name: Term 3
+    notes: There were no shows this term due to COVID-19 lockdown restrictions
 

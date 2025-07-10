@@ -1,140 +1,142 @@
 year: 2017 / 2018
 
 terms:
-- name: Term 1
-  shows:
-  - name: Speed Death of the Radiant Child
-    society: WUDS
-    venue: The Goose Nest
-    people:
-    - role: Tech Manager
-      name: Ciara Shrager
-    - role: Lighting Designer
-      name: Nathan Dunne
-    - role: Sound Designer
-      name: Hahnhee Kee
-    - role: Stage Manager
-      name: Izzie Vayoni
+  - name: Term 1
+    shows:
+      - name: Speed Death of the Radiant Child
+        society: WUDS
+        venue: The Goose Nest
+        people:
+          - role: Tech Manager
+            name: Ciara Shrager
+          - role: Lighting Designer
+            name: Nathan Dunne
+          - role: Sound Designer
+            name: Hahnhee Kee
+          - role: Stage Manager
+            name: Izzie Vayoni
 
-- name: Term 2
-  shows:
-  - name: Hansel and Gretel
-    society: Opera Warwick
-    venue: The Goose Nest
-    people:
-    - role: Tech Manager
-      name: Eliott Bloomer
-    - role: Lighting Designer
-      name: Danny Vavrecka
-    - role: Sound Designer
-      name: Harry Halliday
-    - role: Set Designer
-      name: Dede Cullum
-    - role: Stage Manager
-      name: Izzie Vayoni
-    - role: Deputy Stage Manager
-      name: Jacob Buckley
-  - name: Rent
-    society: MTW
-    venue: The Goose Nest
-    people:
-    - role: Tech Manager
-      name: Eliott Bloomer
-    - role: Lighting Designer
-      name: Danny Vavrecka
-    - role: Sound Designer
-      name: Harry Halliday
-    - role: Set Designer
-      name: Tommy Harvey
-    - role: Stage Manager
-      name: Fran Cattaneo
-    - role: Deputy Stage Manager
-      name: Ciara Shrager
-  - name: Brilliant Adventures
-    society: WUDS
-    venue: The Goose Nest
-    people:
-    - role: Tech Manager
-      name: Ciara Shrager
-    - role: Lighting Designer
-      name: Ben Kulvichit
-    - role: Sound Designer
-      name: Jacob Buckley
-    - role: Set Designer
-      name: Matthew Richards
-    - role: Stage Manager
-      name: Fran Cattaneo
-  - name: Revolt. She Said. Revolt Again.
-    society: WUDS
-    venue: The Goose Nest
-    people:
-    - role: Tech Manager
-      name: Ciara Shrager
-    - role: Lighting Designer
-      name: Cat Buck
-    - role: Sound Designer
-      name: Maria Dunkley
-    - role: Set Designer
-      name: Ang Kia Yee
-    - role: Stage Manager
-      name: Laura Cairns
+  - name: Term 2
+    shows:
+      - name: Hansel and Gretel
+        society: Opera Warwick
+        venue: The Goose Nest
+        people:
+          - role: Tech Manager
+            name: Eliott Bloomer
+          - role: Lighting Designer
+            name: Danny Vavrecka
+          - role: Sound Designer
+            name: Harry Halliday
+          - role: Set Designer
+            name: Dede Cullum
+          - role: Stage Manager
+            name: Izzie Vayoni
+          - role: Deputy Stage Manager
+            name: Jacob Buckley
+      - name: Rent
+        society: MTW
+        venue: The Goose Nest
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/40
+        photosCredit: Peter Marsh (ashmorevisuals)
+        people:
+          - role: Tech Manager
+            name: Eliott Bloomer
+          - role: Lighting Designer
+            name: Danny Vavrecka
+          - role: Sound Designer
+            name: Harry Halliday
+          - role: Set Designer
+            name: Tommy Harvey
+          - role: Stage Manager
+            name: Fran Cattaneo
+          - role: Deputy Stage Manager
+            name: Ciara Shrager
+      - name: Brilliant Adventures
+        society: WUDS
+        venue: The Goose Nest
+        people:
+          - role: Tech Manager
+            name: Ciara Shrager
+          - role: Lighting Designer
+            name: Ben Kulvichit
+          - role: Sound Designer
+            name: Jacob Buckley
+          - role: Set Designer
+            name: Matthew Richards
+          - role: Stage Manager
+            name: Fran Cattaneo
+      - name: Revolt. She Said. Revolt Again.
+        society: WUDS
+        venue: The Goose Nest
+        people:
+          - role: Tech Manager
+            name: Ciara Shrager
+          - role: Lighting Designer
+            name: Cat Buck
+          - role: Sound Designer
+            name: Maria Dunkley
+          - role: Set Designer
+            name: Ang Kia Yee
+          - role: Stage Manager
+            name: Laura Cairns
 
-- name: Term 3
-  shows:
-  - name: Misterman
-    society: Tech Crew & WUDS
-    venue: The Goose Nest
-    people:
-    - role: Tech Manager
-      name: Danny Vavrecka
-    - role: Lighting Designer
-      name: Tom Frampton
-    - role: Sound Designers
-      name: Cat Buck and Laura Cairns
-    - role: Set Designer
-      name: Lizzy Plant
-    - role: Stage Managers
-      name: Ellie Church and Tash Boret
-  - name: Spring Awakening
-    society: MTW
-    venue: The Goose Nest
-    people:
-    - role: Tech Managers
-      name: Danny Vavrecka and Harry Halliday
-    - role: Lighting Designer
-      name: Ciara Shrager
-    - role: Sound Designer
-      name: Cat Buck
-    - role: Set Designer
-      name: Max Stapleton
-    - role: Stage Manager
-      name: Leanne Ward
-  - name: Hormones
-    society: Freshblood
-    venue: The Goose Nest
-    people:
-    - role: Tech Manager
-      name: Iain Galpin
-    - role: Lighting Designer
-      name: Todd Olive
-    - role: Sound Designer
-      name: Maria Dunkley
-    - role: Set Designer
-      name: Lizzy Plant
-    - role: Stage Manager
-      name: Jacob Buckley
-  - name: HMS Pinafore
-    society: Opera Warwick
-    venue: The Goose Nest
-    people:
-    - role: Tech Manager
-      name: Laura Cairns
-    - role: Lighting Designer
-      name: Matt Randell
-    - role: Sound Designer
-      name: Maria Dunkley
-    - role: Set Designer
-      name: Grace Lovegrove
-    - role: Stage Manager
-      name: Ciara Shrager
+  - name: Term 3
+    shows:
+      - name: Misterman
+        society: Tech Crew & WUDS
+        venue: The Goose Nest
+        people:
+          - role: Tech Manager
+            name: Danny Vavrecka
+          - role: Lighting Designer
+            name: Tom Frampton
+          - role: Sound Designers
+            name: Cat Buck and Laura Cairns
+          - role: Set Designer
+            name: Lizzy Plant
+          - role: Stage Managers
+            name: Ellie Church and Tash Boret
+      - name: Spring Awakening
+        society: MTW
+        venue: The Goose Nest
+        people:
+          - role: Tech Managers
+            name: Danny Vavrecka and Harry Halliday
+          - role: Lighting Designer
+            name: Ciara Shrager
+          - role: Sound Designer
+            name: Cat Buck
+          - role: Set Designer
+            name: Max Stapleton
+          - role: Stage Manager
+            name: Leanne Ward
+      - name: Hormones
+        society: Freshblood
+        venue: The Goose Nest
+        people:
+          - role: Tech Manager
+            name: Iain Galpin
+          - role: Lighting Designer
+            name: Todd Olive
+          - role: Sound Designer
+            name: Maria Dunkley
+          - role: Set Designer
+            name: Lizzy Plant
+          - role: Stage Manager
+            name: Jacob Buckley
+      - name: HMS Pinafore
+        society: Opera Warwick
+        venue: The Goose Nest
+        people:
+          - role: Tech Manager
+            name: Laura Cairns
+          - role: Lighting Designer
+            name: Matt Randell
+          - role: Sound Designer
+            name: Maria Dunkley
+          - role: Set Designer
+            name: Grace Lovegrove
+          - role: Stage Manager
+            name: Ciara Shrager
 

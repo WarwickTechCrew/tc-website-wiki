@@ -6,6 +6,8 @@ terms:
       - name: The Positive Hour
         society: WUDS
         venue: Warwick Arts Centre Studio
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/62
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Olly Levett
@@ -19,6 +21,8 @@ terms:
       - name: Road
         society: WUDS
         venue: Warwick Arts Centre Studio
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/32
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Olly Levett
@@ -36,6 +40,8 @@ terms:
       - name: Don Giovanni
         society: Opera Warwick
         venue: Warwick Arts Centre Theatre
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/33
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Olly Levett
@@ -51,6 +57,8 @@ terms:
       - name: Antigone
         society: WUDS
         venue: Warwick Arts Centre Studio
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/34
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Olly Levett
@@ -60,6 +68,8 @@ terms:
       - name: Sweeney Todd
         society: MTW
         venue: Warwick Arts Centre Theatre
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/58
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Olly Levett
@@ -95,6 +105,8 @@ terms:
       - name: Guys & Dolls
         society: MTW
         venue: Warwick Arts Centre Studio
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/35
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Adam Coppard & Olly Levett

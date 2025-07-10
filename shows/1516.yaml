@@ -6,6 +6,8 @@ terms:
       - name: The Faithless Healer
         society: Freshblood
         venue: Warwick Arts Centre Studio
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/17
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Chris Miles
@@ -21,6 +23,8 @@ terms:
       - name: Hay Fever
         society: WUDS
         venue: Warwick Arts Centre Studio
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/22
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Chris Miles
@@ -36,6 +40,8 @@ terms:
       - name: The Marriage of Figaro
         society: Opera Warwick
         venue: Warwick Arts Centre Theatre
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/46
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Chris Miles
@@ -64,9 +70,12 @@ terms:
             name: Maud Haddon
           - role: Stage Manager
             name: Freya Jefferies
+
       - name: Anything Goes
         society: MTW
         venue: Warwick Arts Centre Theatre
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/44
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Chris Miles

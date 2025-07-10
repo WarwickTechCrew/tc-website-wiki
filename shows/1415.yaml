@@ -13,9 +13,12 @@ terms:
             name: Chris Miles
           - role: Set Designer
             name: Hattie Collins
+
       - name: Souvenirs
         society: Codpiece
         venue: Warwick Arts Centre Studio
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/37
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Adam Coppard
@@ -48,6 +51,8 @@ terms:
       - name: The Glass Menagerie
         society: WUDS
         venue: Warwick Arts Centre Studio
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/18
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Chris Miles
@@ -57,6 +62,8 @@ terms:
       - name: Into The Woods
         society: MTW
         venue: Warwick Arts Centre Theatre
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/57
+        photosCredit: Annmarie McQueen and Paulina Drėgvaitė
         people:
           - role: Tech Manager
             name: Adam Coppard
@@ -72,9 +79,12 @@ terms:
             name: Anna Richardson
           - role: Pyrotechnics
             name: Adam Coppard
+
       - name: Seven Lears
         society: WUDS
         venue: Warwick Arts Centre Studio
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/14
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Chris Miles
@@ -95,9 +105,12 @@ terms:
             name: Oscar Owen
           - role: Stage Manager
             name: Amanda Fleming, Carl Mok, Anna Richardson
+
       - name: Avenue Q
         society: MTW
         venue: Warwick Arts Centre Studio
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/15
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Adam Coppard & Chris Miles
@@ -115,6 +128,8 @@ terms:
       - name: Masterpieces
         society: WUDS
         venue: Warwick Arts Centre Studio
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/23
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Chris Miles
@@ -130,6 +145,8 @@ terms:
       - name: The Merry Widow
         society: Opera Warwick
         venue: Warwick Arts Centre Studio
+        photos: https://gallery.warwickdrama.org.uk/index.php?/category/24
+        photosCredit: Peter Marsh (ashmorevisuals)
         people:
           - role: Tech Manager
             name: Adam Coppard

@@ -53,6 +53,7 @@ const config: Config = {
     './src/plugins/wiki-changelog.ts',
     './src/plugins/wiki-shortlinks.ts',
     './src/plugins/wiki-stats.ts',
+    './src/plugins/exec.ts',
     ['@docusaurus/plugin-client-redirects', { redirects: redirectLinks }],
     'plugin-image-zoom',
   ],

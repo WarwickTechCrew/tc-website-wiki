@@ -7,7 +7,7 @@ resources:
     url: https://www.warwicksu.com/resources/techcrew/Tech-Crew-Constitution/
     author: Tech Crew
 shortlinks:
-  - exec
+  - exec-roles
   - techxec
   - execs
   - president
@@ -104,7 +104,7 @@ The [constitution](./03-constitution.md) states that the Treasurer shall:
 1. Be responsible for all financial matters relating to the running of the society.
 2. Liaise with the Union’s Finance Department where necessary.
 3. Ensure all sales and purchases are approved by the Treasurer.
-   1. Purchases over £250 must be approved by the Exec as a whole.
+    1. Purchases over £250 must be approved by the Exec as a whole.
 
 ### Welfare Officer
 
@@ -135,9 +135,9 @@ The [constitution](./03-constitution.md) states that the Secretary shall:
 
 1. Take minutes of every meeting of Exec and General Meetings; these will be presented to the Exec and a redacted
    version made available to all society members.
-   1. Redaction will only be used where the subject matter at hand is sensitive, and the public release of such
-      information would be detrimental to the people/issue concerned.
-   2. Redaction may also be used to ensure compliance with any relevant data protection legislation or SU regulation.
+    1. Redaction will only be used where the subject matter at hand is sensitive, and the public release of such
+       information would be detrimental to the people/issue concerned.
+    2. Redaction may also be used to ensure compliance with any relevant data protection legislation or SU regulation.
 2. Maintain a register of members, keep a record of known skills and interests of those members, and record show
    assignments – this responsibility is shared with the Training Manager.
 3. Be responsible for all administrative matters relating to the running of the society, including responding to
@@ -220,10 +220,11 @@ The [constitution](./03-constitution.md) states that the Vice President shall:
 2. Act as a secondary point of contact for other Warwick SU societies.
 3. Automatically assume the role of Acting President should the role of President become permanently vacant for any
    reason.
-   1. The role of Acting President will have the full powers and responsibilities of the President as described in
-      Article 6.10.
-   2. The Acting President will remain in office until such a time that a replacement can be found in accordance with SU
-      Regulation 9.
+    1. The role of Acting President will have the full powers and responsibilities of the President as described in
+       Article 6.10.
+    2. The Acting President will remain in office until such a time that a replacement can be found in accordance with
+       SU
+       Regulation 9.
 
 ### Safety Officer
 

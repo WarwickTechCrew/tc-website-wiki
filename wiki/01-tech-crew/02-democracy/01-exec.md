@@ -20,7 +20,8 @@ shortlinks:
 # The TechXec
 
 The Tech Crew Exec (TechXec) are a group of members who are elected to oversee the society and its operations as defined
-in Article 6 of the [constitution](./03-constitution.md). The current exec is listed on the [website](/).
+in Article 6 of the [constitution](./03-constitution.md). A list of current and previous exec is listed on
+our [website](/exec).
 
 :::info
 

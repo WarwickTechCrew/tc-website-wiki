@@ -1,0 +1,44 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2023/2024
+
+exec:
+  - name: Adam Skrzymowski
+    image: 2324/adam.jpg
+    roles:
+      - President
+
+  - name: Ben Hammond
+    image: 2324/ben.jpg
+    roles:
+      - Operations Manager
+      - Vice President
+
+  - name: Jon Kowalski
+    roles:
+      - Treasurer
+      - Safety Officer
+
+  - name: Ella Horne
+    image: 2324/ella.jpg
+    roles:
+      - Secretary
+      - Welfare Officer
+
+  - name: Freya Cox
+    image: 2324/freya.jpg
+    roles:
+      - Training Manager
+      - Welfare Officer
+
+  - name: Kit Calvert
+    image: 2324/kit.jpg
+    roles:
+      - Socials and Publicity Secretary
+      - Equal Opportunities Officer
+
+  - name: Cat Heald
+    image: 2324/cat.jpg
+    roles:
+      - Socials and Publicity Secretary
+      - Equal Opportunities Officer

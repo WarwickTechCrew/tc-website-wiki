@@ -14,7 +14,7 @@ export default function Exec({ execYears }: { execYears: YearExec[] }) {
           <Introduction />
         </div>
 
-        <div className="space-y-6 px-4 mb-8">
+        <div className="space-y-12 px-4 mb-8">
           {execYears.map((execYear) => (
             <div key={execYear.year}>
               <div className="flex items-center gap-2 mb-2">

@@ -7,33 +7,40 @@ exec:
     image: 2425/ben.jpg
     roles:
       - President
+
   - name: Stan Simmons
     image: 2425/stan.jpg
     roles:
       - Hires Manager
       - Vice President
+
   - name: Josh Heng
     image: 2425/josh.jpg
     roles:
       - Treasurer
+
   - name: Kishan Sharma
     image: 2425/kishan.jpg
     roles:
       - Secretary
+
   - name: Freya Cox
     image: 2425/freya.jpg
     roles:
       - Training Manager
+
   - name: Ethan Graham
     image: 2425/ethan.jpg
     roles:
       - Equipment Manager
       - Safety Officer
+
   - name: Kit Calvert
     image: 2425/kit.jpg
     roles:
       - Socials & Publicity Secretary
       - Welfare Officer
+
   - name: Danny Turner
     image: 2425/danny.jpg
     roles:

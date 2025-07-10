@@ -1,0 +1,38 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2022/2023
+
+exec:
+  - name: Jon Kowalski
+    roles:
+      - President
+      - Equal Opps Officer
+
+  - name: Adam Skrzymowski
+    image: 2223/adam.jpg
+    roles:
+      - Vice President
+
+  - name: Harry Knight
+    image: 2223/harry.jpg
+    roles:
+      - Treasurer
+      - Safety Officer
+
+  - name: Maddie Cotton
+    image: 2223/maddie.jpg
+    roles:
+      - Secretary
+      - Equal Opps Officer
+
+  - name: Ed Price
+    image: 2223/ed.jpg
+    roles:
+      - Socials and Publicity Secretary
+      - Welfare Officer
+
+  - name: Ella Horne
+    image: 2223/ella.jpg
+    roles:
+      - Training Manager
+      - Socials and Publicity Secretary

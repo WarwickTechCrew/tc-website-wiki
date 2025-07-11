@@ -34,7 +34,7 @@ and be sure to contact us first in case other equipment may be more suitable for
     - **LX Desks:** ETC Nomad, Zero88 Jester, Zero88 FLX, ChamSys MagicQ MQ50
     - **Accessories:** lighting stands, gels, cables
 - **Other**
-    - **Effects:** MVS Hazer, bubble machines
+    - **Effects:** MVS Hazer, bubble machines, snow machines
     - **Communications:** Motorola DP4800e/DP4801 radios with d-clip earpieces and remote speakers, Canford wired cans
       system with base station
     - **Power:** Assorted power extension and cables

@@ -20,7 +20,7 @@ and be sure to contact us first in case other equipment may be more suitable for
 :::
 
 - **Sound**
-    - **Speakers:** db LVX 8, Mackie SRM450 v2, NEXO PS10-R2, NEXO GEO S1210/1230 line array, NEXO NXAMP amplifiers
+    - **Speakers:** db LVX 8, Mackie SRM350, Mackie SRM450 v2, NEXO PS10-R2, NEXO GEO S1210/1230 line array, NEXO NXAMP amplifiers
     - **Microphones & DI:** SM58/e825 S, SM57/MB75, AR-133, Beta 52A, AR-133/Ultra-G GI100 Active DI
     - **Wireless Mics:** Sennheiser EW-DX and Sennheiser EM300 G3/SK 300 G3 radio mic system with MKE2 lavalier and
       handheld microphones, Shure PG58 handheld microphones

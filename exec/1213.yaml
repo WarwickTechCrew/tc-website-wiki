@@ -1,0 +1,28 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2012/2013
+
+exec:
+  - name: Olly Levett
+    roles:
+      - President
+
+  - name: Tom Gillespy
+    roles:
+      - Vice President
+
+  - name: Jonathan Moss
+    roles:
+      - Treasurer
+
+  - name: Lottie Mills
+    roles:
+      - Secretary
+
+  - name: James Gillard
+    roles:
+      - Training Manager
+
+  - name: Lizzy Leech
+    roles:
+      - Social Secretary

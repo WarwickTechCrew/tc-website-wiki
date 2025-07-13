@@ -1,0 +1,28 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2016/2017
+
+exec:
+  - name: Doug Cairns
+    roles:
+      - President
+
+  - name: Ciara Shrager
+    roles:
+      - Vice President
+
+  - name: Hannah Jameson
+    roles:
+      - Treasurer
+
+  - name: Eleanor Blackley
+    roles:
+      - Secretary
+
+  - name: Amanda Fleming
+    roles:
+      - Training Manager
+
+  - name: William Mayne
+    roles:
+      - Social Secretary

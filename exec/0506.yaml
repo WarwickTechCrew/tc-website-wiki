@@ -1,0 +1,32 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2005/2006
+
+exec:
+  - name: Alex Snow
+    roles:
+      - President
+
+  - name: Ed Elbourne
+    roles:
+      - Deputy President
+
+  - name: Richard Hogg
+    roles:
+      - Treasurer
+
+  - name: Chris Hinds
+    roles:
+      - Secretary
+
+  - name: Samantha Costigan
+    roles:
+      - Training Manager
+
+  - name: Hannah Richards 
+    roles:
+      - Training Manager
+
+  - name: Stephen Feest
+    roles:
+      - Publicity

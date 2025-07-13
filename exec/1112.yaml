@@ -1,0 +1,28 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2011/2012
+
+exec:
+  - name: Jonathan Moss
+    roles:
+      - President
+
+  - name: Lizzie Drapper
+    roles:
+      - Deputy President
+
+  - name: Kenji Foster
+    roles:
+      - Treasurer
+
+  - name: Tom Gillespy
+    roles:
+      - Secretary
+
+  - name: Olly Levett
+    roles:
+      - Training Manager
+
+  - name: Sam Doughty
+    roles:
+      - Publicity

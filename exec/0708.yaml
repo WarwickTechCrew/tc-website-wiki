@@ -1,0 +1,28 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2007/2008
+
+exec:
+  - name: Rhys Thomas
+    roles:
+      - President
+
+  - name: Paul Brown
+    roles:
+      - Deputy President
+
+  - name: James Toyer
+    roles:
+      - Treasurer
+
+  - name: Paul Crooks
+    roles:
+      - Secretary
+
+  - name: Richard Potter
+    roles:
+      - Training Manager
+
+  - name: Ben Oliver
+    roles:
+      - Publicity

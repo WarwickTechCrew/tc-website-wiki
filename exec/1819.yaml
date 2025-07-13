@@ -1,0 +1,28 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2018/2019
+
+exec:
+  - name: Danny Vavrekca
+    roles:
+      - President
+
+  - name: Harry Halliday
+    roles:
+      - Vice President
+
+  - name: Cat Buck
+    roles:
+      - Treasurer
+
+  - name: Jacob Buckley
+    roles:
+      - Secretary
+
+  - name: Laura Cairns
+    roles:
+      - Training Manager
+
+  - name: Natasha Boret
+    roles:
+      - Socials and Publicity Officer

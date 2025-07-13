@@ -1,0 +1,28 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2015/2016
+
+exec:
+  - name: Chris Miles
+    roles:
+      - President
+
+  - name: Amanda Fleming
+    roles:
+      - Vice President
+
+  - name: Em Hall
+    roles:
+      - Treasurer
+
+  - name: Ellie Smith
+    roles:
+      - Secretary
+
+  - name: Iain Galpin
+    roles:
+      - Training Manager
+
+  - name: Doug Cairns
+    roles:
+      - Social Secretary

@@ -1,0 +1,28 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2017/2018
+
+exec:
+  - name: Ciara Shrager
+    roles:
+      - President
+
+  - name: Eliott Bloomer
+    roles:
+      - Vice President
+
+  - name: Hahnhee Kee
+    roles:
+      - Treasurer
+
+  - name: Danny Vavrekca
+    roles:
+      - Secretary
+
+  - name: Harry Halliday
+    roles:
+      - Training Manager
+
+  - name: Nathan Dunne
+    roles:
+      - Social Secretary

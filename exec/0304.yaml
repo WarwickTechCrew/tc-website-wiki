@@ -1,0 +1,20 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2003/2004
+
+exec:
+  - name: Elizabeth Slade
+    roles:
+      - President
+
+  - name: Mark Leggate 
+    roles:
+      - Treasurer
+
+  - name: Stephen Feest
+    roles:
+      - Secretary
+
+  - name: Jo Boxwell
+    roles:
+      - Social Sec

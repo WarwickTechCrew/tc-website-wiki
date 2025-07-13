@@ -1,0 +1,46 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2025/2026
+
+exec:
+  - name: Stanley Simmons
+    roles:
+      - President
+
+  - name: Maximus Kaius Leighton
+    roles:
+      - Treasurer
+
+  - name: Rowan McAlpine
+    roles:
+      - Secretary
+
+  - name: George Parrett
+    roles:
+      - Training Manager
+      - Equal Opportunities
+
+  - name: Lucas Gregory
+    roles:
+      - Welfare Officer
+
+  - name: Danai Muyambo
+    roles:
+      - Hires Manager
+
+  - name: Alex Spears
+    roles:
+      - Hires Manager
+
+  - name: Olly Murphy
+    roles:
+      - Equipment Manager
+
+  - name: 
+    roles:
+      - Socials and Publicity
+
+  - name: 
+    roles:
+      - Socials and Publicity
+      - Safety Officer

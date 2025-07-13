@@ -1,0 +1,28 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2006/2007
+
+exec:
+  - name: Eddie Elbourne
+    roles:
+      - President
+
+  - name: Rhys Thomas
+    roles:
+      - Deputy President
+
+  - name: Hannah Richards
+    roles:
+      - Treasurer
+
+  - name: Adam Wall
+    roles:
+      - Secretary
+
+  - name: Anthony Lynch
+    roles:
+      - Training Manager
+
+  - name: Paul Brown
+    roles:
+      - Publicity

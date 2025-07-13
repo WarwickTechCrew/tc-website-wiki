@@ -1,0 +1,28 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2019/2020
+
+exec:
+  - name: Tash Boret
+    roles:
+      - President
+
+  - name: Cat Buck
+    roles:
+      - Vice President
+
+  - name: Ed Kilcawley
+    roles:
+      - Treasurer
+
+  - name: Lucy Millard
+    roles:
+      - Secretary
+
+  - name: Matt Randell
+    roles:
+      - Training Manager
+
+  - name: Kate Marron
+    roles:
+      - Socials and Publicity Secretary

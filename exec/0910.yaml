@@ -1,0 +1,28 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2009/2010
+
+exec:
+  - name: Elliot Griggs
+    roles:
+      - President
+
+  - name: Steph Allen
+    roles:
+      - Deputy President
+
+  - name: Rob Morton
+    roles:
+      - Treasurer
+
+  - name: Tom Webster
+    roles:
+      - Secretary
+
+  - name: Beka Eaton
+    roles:
+      - Training Manager
+
+  - name: Mel Watts
+    roles:
+      - Publicity

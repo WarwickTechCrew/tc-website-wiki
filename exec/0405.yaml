@@ -1,0 +1,24 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2004/2005
+
+exec:
+  - name: Richard Hogg
+    roles:
+      - President
+
+  - name: Alex Snow
+    roles:
+      - Treasurer
+
+  - name: Chris Hinds
+    roles:
+      - Secretary
+
+  - name: Samantha Costigan
+    roles:
+      - Training Manager
+
+  - name: Philip Sharpe
+    roles:
+      - Social Sec.

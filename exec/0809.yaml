@@ -1,0 +1,28 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2008/2009
+
+exec:
+  - name: James Toyer
+    roles:
+      - President
+
+  - name: Paul Crooks
+    roles:
+      - Deputy President
+
+  - name: Rhys Thomas
+    roles:
+      - Treasurer
+
+  - name: Elliot Griggs
+    roles:
+      - Secretary
+
+  - name: Richard Potter
+    roles:
+      - Training Manager
+
+  - name: Steph Allen
+    roles:
+      - Publicity Officer

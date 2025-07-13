@@ -1,0 +1,28 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2013/2014
+
+exec:
+  - name: Olly Levett
+    roles:
+      - President
+
+  - name: Lottie Mills
+    roles:
+      - Vice President
+
+  - name: Anne Le Fur
+    roles:
+      - Treasurer
+
+  - name: Sam Doughty
+    roles:
+      - Secretary
+
+  - name: Tom Gillespy
+    roles:
+      - Training Manager
+
+  - name: Holly Mirams
+    roles:
+      - Social Secretary

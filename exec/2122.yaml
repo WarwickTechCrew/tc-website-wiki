@@ -1,0 +1,32 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2021/2022
+
+exec:
+  - name: Tash Boret
+    roles:
+      - President
+
+  - name: Ben McHugh
+    roles:
+      - Vice President
+
+  - name: Anwar Jouhary
+    roles:
+      - Treasurer
+
+  - name: Harry Knight
+    roles:
+      - Secretary
+
+  - name: Dan Collier
+    roles:
+      - Training Manager
+
+  - name: Ed Price
+    roles:
+      - Social Secretary
+
+  - name: Jon Kowalski
+    roles:
+      - Social Secretary

@@ -1,0 +1,25 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2014/2015
+
+exec:
+  - name: Adam Coppard
+    roles:
+      - President
+
+  - name: Anna Richardson
+    roles:
+      - Vice President
+
+  - name: Georgina Reece
+    roles:
+      - Treasurer
+
+  - name: Siobhan Brennan
+    roles:
+      - Secretary
+
+  - name: Chris Miles
+    roles:
+      - Training Manager
+

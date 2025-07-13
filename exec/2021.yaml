@@ -1,0 +1,32 @@
+# Note: images should be uploaded to /static/exec/[year]/[name]
+
+year: 2020/2021
+
+exec:
+  - name: Ed Kilcawley
+    roles:
+      - President
+
+  - name: Tash Boret
+    roles:
+      - Vice President
+
+  - name: Lucy Millard
+    roles:
+      - Treasurer
+
+  - name: Kate Marron
+    roles:
+      - Secretary
+
+  - name: Cat Buck
+    roles:
+      - Training Manager
+
+  - name: Anwar Jouhary
+    roles:
+      - Socials and Publicity Secretary
+
+  - name: Ben McHugh
+    roles:
+      - Socials and Publicity Secretary

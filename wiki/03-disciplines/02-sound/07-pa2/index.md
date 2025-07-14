@@ -3,10 +3,11 @@ description: Destroy feedback with wizards.
 sidebar_custom_props:
   emoji: 🧙
 shortlinks:
+  - pa2
   - drive-rack
   - wizard
   - driverack
-  - pa2
+additional_authors: Matt Morris
 image: ./drive-rack-front.jpg
 resources:
   - name: PA2 Manual
@@ -23,8 +24,9 @@ resources:
 
 To start, you need to inform the wizards of your speaker setup. Click the wizard button, then "Run Setup Wizard" and
 follow the instructions to tell the wizards if you're using a mono or stereo speaker setup. Connect the LR out of the
-desk into the LR inputs at the back of the PA2, then connect your PA to the "high" output. When you play audio out the
-desk, you should see metering in PA2 on the front display. Make sure the mute buttons are not engaged!
+desk into the LR inputs at the back of the PA2, then connect your main PA to the "high" output, and your subs to the "low"
+if you're using them. When you play audio out the desk, you should see metering appear in PA2 front display. Make sure 
+that the mute buttons are not engaged!
 
 ## Feedback Suppression (AFS)
 
@@ -72,4 +74,10 @@ frequency information based off of the higher frequencies.
 
 ## Networking
 
-The PA2 can be connected to a network, to allow for use through its mobile app.
+The PA2 can be connected to a network, to allow for use through its mobile app or PC program.
+
+:::warning 
+
+The PA2 for some reason cannot do static IP addresses or link-local, so you will need a DHCP server in the network.
+
+:::

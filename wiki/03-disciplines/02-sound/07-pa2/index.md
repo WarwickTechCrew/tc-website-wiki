@@ -26,9 +26,9 @@ follow the instructions to tell the wizards if you're using a mono or stereo spe
 desk into the LR inputs at the back of the PA2, then connect your PA to the "high" output. When you play audio out the
 desk, you should see metering in PA2 on the front display. Make sure the mute buttons are not engaged!
 
-## Feedback supression (AFS)
+## Feedback Suppression (AFS)
 
-The "Advanced Feedback Supression" (AFS) is probably the most important wizard and the one that will have the largest
+The "Advanced Feedback Suppression" (AFS) is probably the most important wizard and the one that will have the largest
 positive effect on mix quality. It lets you push radio mic vocals up to a reasonable level without worrying about
 feedback. It does this in two steps, first during soundcheck, where you purposely make the speakers feed back ("ringing
 them out") which lets the wizard figure out the initial problem frequencies, and notch them out using "fixed EQ
@@ -38,7 +38,7 @@ notches to destroy the feedback, often before it becomes audible.
 Select Wizard->Run AFS Wizard and follow the on screen instructions. You should begin to hear feedback at some
 frequency, the PA2 should then notch it out, and a different frequency will then begin to feed back, and the PA2 will
 destroy this and so on. This repeats until all the fixed filters are used up, and the remaining live filters will be
-saved for use during performance if it begins to feedback. These live filters will change depending on whats currently
+saved for use during performance if it begins to feedback. These live filters will change depending on what's currently
 causing feedback, whereas the fixed filters act more like a graphic EQ that you set and forget.
 
 ## Auto Room EQ (AEQ)

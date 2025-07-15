@@ -12,6 +12,7 @@ shortlinks:
 ## Green Flags
 
 - Is/has been/is open to being a Tech Crew (or associate) member  
+- Contirbutes to the TC Wiki
 - Wants to trade hoodies (or other clothes)  
 - Offers to wash up if you cook  
 - Gets on with your siblings  

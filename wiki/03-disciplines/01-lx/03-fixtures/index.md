@@ -32,6 +32,10 @@ PAR (parabolic aluminized reflector) lights have a reflector, lens and light sou
 fixture. Tech crew own [Prolights LumiPar 12HPro](https://www.prolights.it/en/product/LUMIPAR12HPRO), which have
 RGBWA+UV chips (Red, Green, Blue, White, Amber, UV). This means our PARs can make nice white colours.
 
+## Birdies
+
+These are small generics often used for lighting walkways backstage. Called birdies because "they are one under par".
+
 ## Batten
 
 Equinox RGB Power Batten.

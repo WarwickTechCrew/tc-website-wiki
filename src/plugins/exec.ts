@@ -1,7 +1,7 @@
 import { LoadContext, Plugin } from '@docusaurus/types';
 import { loadExecYears, YearExec } from '../lib/exec';
 
-export default function showsPlugin(context: LoadContext): Plugin<{
+export default function execPlugin(context: LoadContext): Plugin<{
   currentExecYear: YearExec;
 }> {
   return {

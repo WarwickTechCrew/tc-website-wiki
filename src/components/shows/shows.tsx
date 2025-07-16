@@ -2,6 +2,7 @@ import Layout from '@theme/Layout';
 import Introduction from '@site/src/components/shows/shows-introduction.md';
 import { ShowYearData } from '@site/src/lib/show';
 import { FiCamera, FiExternalLink, FiInstagram } from 'react-icons/fi';
+import ShowStats from '@site/src/components/stats/show-stats';
 
 export default function Shows({ showYears }: { showYears: ShowYearData[] }) {
   return (
@@ -13,7 +14,9 @@ export default function Shows({ showYears }: { showYears: ShowYearData[] }) {
         <div className="content-styling mb-4 px-4">
           <Introduction />
         </div>
+        <ShowStats showYears={showYears} />
         <div className="space-y-6 px-4 mb-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-6">List of Shows</h2>
           {showYears.map((showYear) => (
             <div key={showYear.year}>
               <div className="flex items-center gap-2">
@@ -49,8 +52,8 @@ export default function Shows({ showYears }: { showYears: ShowYearData[] }) {
                           )}
                           <ul className="text-sm">
                             {show.people.map((person) => (
-                              <li key={person.name}>
-                                {person.role}: {person.name}
+                              <li key={`${show.name}-${person.name}-${person.role}`}>
+                                {person.name} - {person.role}
                               </li>
                             ))}
                           </ul>

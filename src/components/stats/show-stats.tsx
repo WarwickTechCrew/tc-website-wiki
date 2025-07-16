@@ -21,17 +21,17 @@ const DistributionChart = ({ title, data, barColor }: DistributionProps) => {
   const maxCount = Math.max(...data.map(([, count]) => count));
 
   return (
-    <div className="bg-gray-50 rounded-lg border border-black-4">
-      <h3 className="text-lg sticky top-0 m-6 bg-gray-50 font-semibold text-gray-900">{title}</h3>
-      <div className="space-y-2 overflow-auto h-60 p-6">
+    <div className="bg-gray-50 rounded-lg border text-gray-800 border-black-4">
+      <h3 className="text-lg sticky top-0 m-6 mb-2 text-center bg-gray-50 text-black font-semibold ">{title}</h3>
+      <div className="space-y-2 overflow-auto h-60 p-4 pr-8 pt-2">
         {data.map(([label, count]) => (
           <div key={label} className="grid grid-cols-2 w-full">
-            <span className="text-sm font-medium text-gray-700 mr-4">{label}</span>
+            <span className="text-sm text-right font-medium  mr-4">{label}</span>
             <div className="flex items-center">
               <div className="bg-gray-200 rounded-full h-2 flex-1 min-w-0">
                 <div className={`${barColor} h-2 rounded-full`} style={{ width: `${(count / maxCount) * 100}%` }}></div>
               </div>
-              <span className="text-sm font-bold text-gray-900 ml-4 w-8 text-right">{count}</span>
+              <span className="text-sm font-bold ml-4 w-8 text-left">{count}</span>
             </div>
           </div>
         ))}

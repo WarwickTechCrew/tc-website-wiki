@@ -12,4 +12,5 @@ export const authorNames: Record<string, string> = {
   danaim123: 'Danai Muyambo',
   GeorgeP239: 'George Parrett',
   rowanm117: 'Rowan McAlpine',
+  trintrantron: 'Trin Balkwill',
 };

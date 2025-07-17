@@ -65,8 +65,12 @@ the front row audience, or the pit. We use the lift to move heavy instruments or
 only other access to the pit is through the narrow corridor and staircase. There is an info panel in the pit with the
 following stats:
 
-| Dynamic Load | 250 kg/m² | | Static Load | 750 kg/m² | | Point Load | 1000 kg | | Lifting Speed | 3 m/min or 50 mm/sec
-|
+| Specification   | Value                |
+|-----------------|----------------------|
+| Dynamic Load    | 250 kg/m²            |
+| Static Load     | 750 kg/m²            |
+| Point Load      | 1000 kg              |
+| Lifting Speed   | 3 m/min or 50 mm/sec |
 
 ### Lantern Stock
 

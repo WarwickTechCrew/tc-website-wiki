@@ -7,7 +7,7 @@ exec:
     roles:
       - President
 
-  - name: Ben McHugh
+  - name: Natalie McHugh
     roles:
       - Vice President
 

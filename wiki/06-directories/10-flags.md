@@ -40,8 +40,9 @@ shortlinks:
 - Grows mould in their room (not for the sake of science)  
 - Doesn't like cats  
 - Doesn't talk to Trin's mum  
-- Doesn't do ski pole ears  
-- Doesn't wave back at people who wave at them  
+- Doesn't do ski pole lears  
+- Doesn't wave back at people who wave at them 
+- Doesn't react to Josh's sad face 
 
 :::info
 Please note that these were created by Trin and Josh for absolutely no reason.  

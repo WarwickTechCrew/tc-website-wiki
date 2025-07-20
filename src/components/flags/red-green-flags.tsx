@@ -176,8 +176,8 @@ export default function RedGreenFlagsQuiz() {
     const pick = (arr: string[]) => arr[Math.floor(Math.random() * arr.length)];
     if (greenFlags === maxScore && redFlags === 0) {
       return pick([
-        "🌟 Perfect! You're basically the ideal person :D",
-        '🧼 100% squeaky clean and all green.',
+        "Perfect! You're basically the ideal person :D",
+        '100% squeaky clean and all green.',
         'you are green like the grinch. i feel like a who (from whoville)',
       ]);
     }
@@ -186,7 +186,7 @@ export default function RedGreenFlagsQuiz() {
     }
     if (greenFlags === maxScore && redFlags === maxScore) {
       return pick([
-        `💚💔 Woah, how did you get all the flags??? you didn't just spam the yes button did you ????`,
+        `how did you get all the flags??? you didn't just spam the yes button did you ????`,
         'please stop spamming the yes button',
         'you have all the flags.. but you also have all the red flags... how- how did you do that?',
         'it is not possible for ONE person to have ALL the flags',
@@ -195,8 +195,8 @@ export default function RedGreenFlagsQuiz() {
     }
     if (greenFlags === maxScore && redFlags > 0) {
       return pick([
-        `💚 Amazing green flags, you have them ALL, but hmmm ${redFlags} red flag${redFlags > 1 ? 's' : ''} to work on... can I tell you a secret? even the best people have flaws. It's what you do with them that counts.`,
-        `💚 Amazing green flags, you have them ALL, but hmmm ${redFlags} red flag${redFlags > 1 ? 's' : ''} to work on...`,
+        `Amazing green flags, you have them ALL, but hmmm ${redFlags} red flag${redFlags > 1 ? 's' : ''} to work on... can I tell you a secret? even the best people have flaws. It's what you do with them that counts.`,
+        `Amazing green flags, you have them ALL, but hmmm ${redFlags} red flag${redFlags > 1 ? 's' : ''} to work on...`,
       ]);
     }
     // some green flags but not all
@@ -205,7 +205,7 @@ export default function RedGreenFlagsQuiz() {
     }
     if (greenFlags >= maxScore * 0.8 && redFlags <= 1) {
       return pick([
-        '💚 Yippeee! Lots of green flags with minimal red ones! I think i can fix you',
+        'Yippeee! Lots of green flags with minimal red ones! I think i can fix you',
         `this is a secret message for people with ${greenFlags} green flags and EXACTLY ${redFlags} red flag${redFlags > 1 ? 's' : ''}: makka pakka`,
       ]);
     }
@@ -228,7 +228,7 @@ export default function RedGreenFlagsQuiz() {
     }
     if (redFlags > greenFlags && greenFlags > 0) {
       return pick([
-        `😬 Concerning... - ${redFlags} red flags vs ${greenFlags} green flag${greenFlags > 1 ? 's' : ''}. I'm not sure if we can be friends anymore... well unless you work on your red flags. and maybe pick up a few more green ones. or at least paint your red flags green. or if i became colour blind. or if the dictionary swapped the words red and green. then we could be friends`,
+        `${redFlags} red flags vs ${greenFlags} green flag${greenFlags > 1 ? 's' : ''}. I'm not sure if we can be friends anymore... well unless you work on your red flags. and maybe pick up a few more green ones. or at least paint your red flags green. or if i became colour blind. or if the dictionary swapped the words red and green. then we could be friends`,
         `if we were swimming and you put ${redFlags} stones in my pockets i would die`,
         "aww thats okay buddy. you have some green flags, and that's what matters.",
       ]);
@@ -248,7 +248,7 @@ export default function RedGreenFlagsQuiz() {
         'you poor flagless person..',
       ]);
     }
-    return '⚖️ Mixed results - room for improvement!';
+    return 'idk what happened here';
   };
 
   if (showResults) {

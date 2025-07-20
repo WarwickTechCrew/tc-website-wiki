@@ -36,6 +36,11 @@ const getResultMessage = (greenFlags, redFlags, maxScore) => {
       `this is a secret message for people with ${greenFlags} green flags and EXACTLY ${redFlags} red flag${redFlags > 1 ? 's' : ''}: makka pakka`,
     ]);
   }
+  if (redFlags === 1 && greenFlags > 1) {
+    return pick([
+      `your one red flag is like the ugly duckling in a sea of pure swans. but dont worry, with time, the ugly duckling grows into something beautiful.`,
+    ]);
+  }
   if (greenFlags > redFlags) {
     return pick([
       `${greenFlags} green flags outweigh ${redFlags} red flag${redFlags > 1 ? 's' : ''}! i mean you could do better. you can always do better. but you are doing well.`,
@@ -44,6 +49,7 @@ const getResultMessage = (greenFlags, redFlags, maxScore) => {
       `if we were in a boat and your green flags were air and your red flags were water then we would survive for a while. but not long. because of the water.`,
       `you have more green flags than red flags. which means your green flags are winning. which means you are winning.`,
       `you have ${greenFlags} green flags. which is good. because green flags are good. and you have more green flags than red flags. which is also good. which means you are good.`,
+      `if your green flags were in a battle with the red flags then the green flags would win. because there are more of them.`,
     ]);
   }
   if (greenFlags === redFlags && greenFlags > 0) {
@@ -66,6 +72,7 @@ const getResultMessage = (greenFlags, redFlags, maxScore) => {
       `if we were swimming and you put ${redFlags} stones in my pockets i would die`,
       "aww thats okay buddy. you have some green flags, and that's what matters.",
       `imagine i am reading your tarot cards. i see the ${redFlags} of wands and the ${greenFlags} of pentacles. the ${redFlags} of wands represents your red flags, and the ${greenFlags} of pentacles represents your green flags. i don't know what that means but it sounds bad.`,
+      `if your red flags waged war on your green flags then the red flags would win. because there are more of them.`,
     ]);
   }
   // no green flags

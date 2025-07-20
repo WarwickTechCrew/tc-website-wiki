@@ -212,7 +212,8 @@ export default function RedGreenFlagsQuiz() {
     if (greenFlags > redFlags) {
       return pick([
         `${greenFlags} green flags outweigh ${redFlags} red flag${redFlags > 1 ? 's' : ''}! i mean you could do better. you can always do better. but you are doing well.`,
-        `you are ${(100 * greenFlags) / greenFlags + redFlags}% green flag. thats pretty good. i hope that percentage is correct because i did it in my head. please forgive me.`,
+        `you are ${(100 * greenFlags) / greenFlags + redFlags}% green flag. thats pretty good. i hope that percentage is correct because i did it in my head. actually, looking at it, im quite sure that that percentage is wrong.`,
+        `you are ${(100 * greenFlags) / (greenFlags + redFlags)}% green flag. thats pretty good. i hope that percentage is correct because i did it in my head.`,
         `if we were in a boat and your green flags were air and your red flags were water then we would survive for a while. but not long. because of the water.`,
         `you have more green flags than red flags. which means your green flags are winning. which means you are winning.`,
         `you have ${greenFlags} green flags. which is good. because green flags are good. and you have more green flags than red flags. which is also good. which means you are good.`,

@@ -53,6 +53,13 @@ const getResultMessage = (greenFlags, redFlags, maxScore) => {
       'imagine two things that are the same. are you thinking of the same two things? because i am. and they are the same. like you and your red flags and green flags.',
     ]);
   }
+  if (redFlags > greenFlags && greenFlags == 1) {
+    return pick([
+      `i guess you have ONE redeeming quality`,
+      'your single green flag is like a ray of sunshine peeking through on a cloudy day.',
+      `${redFlags} red flags vs ${greenFlags} green flag${greenFlags > 1 ? 's' : ''}. I'm not sure if we can be friends anymore... well unless you work on your red flags. and maybe pick up a few more green ones. or at least paint your red flags green. or if i became colour blind. or if the dictionary swapped the words red and green. then we could be friends`,
+    ]);
+  }
   if (redFlags > greenFlags && greenFlags > 0) {
     return pick([
       `${redFlags} red flags vs ${greenFlags} green flag${greenFlags > 1 ? 's' : ''}. I'm not sure if we can be friends anymore... well unless you work on your red flags. and maybe pick up a few more green ones. or at least paint your red flags green. or if i became colour blind. or if the dictionary swapped the words red and green. then we could be friends`,

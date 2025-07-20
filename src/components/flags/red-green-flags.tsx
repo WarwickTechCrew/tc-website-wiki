@@ -114,26 +114,26 @@ export default function RedGreenFlagsQuiz() {
               {result.greenFlags.length > 0 && (
                 <div className="bg-green-50 p-4 rounded-lg">
                   <h3 className="text-lg font-semibold text-green-800 mb-3">💚 Your Green Flags</h3>
-                  <ul className="space-y-2">
+                  <ol className="space-y-2">
                     {result.greenFlags.map((flag, index) => (
                       <li key={index} className="text-green-700 text-sm">
                         {flag}
                       </li>
                     ))}
-                  </ul>
+                  </ol>
                 </div>
               )}
 
               {result.redFlags.length > 0 && (
                 <div className="bg-red-50 p-4 rounded-lg">
                   <h3 className="text-lg font-semibold text-red-800 mb-3">🚩 Your Red Flags</h3>
-                  <ul className="space-y-2">
+                  <ol className="space-y-2">
                     {result.redFlags.map((flag, index) => (
                       <li key={index} className="text-red-700 text-sm">
                         {flag}
                       </li>
                     ))}
-                  </ul>
+                  </ol>
                 </div>
               )}
             </div>

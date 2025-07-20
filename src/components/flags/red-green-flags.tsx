@@ -1,12 +1,11 @@
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 import allQuestions from './flags';
 import getResultMessage from './resultsMessage';
 
 const NUMBER_OF_QUESTIONS_ASKED = 5;
 
 export default function RedGreenFlagsQuiz() {
-  // Select random questions - NUMBER_OF_QUESTIONS_ASKED of each type
-  const [questions] = useState(() => {
+  const [questions, setQuestions] = useState(() => {
     const greenQuestions = allQuestions.filter((q) => q.colour === 'green');
     const redQuestions = allQuestions.filter((q) => q.colour === 'red');
 
@@ -32,7 +31,22 @@ export default function RedGreenFlagsQuiz() {
     }
   };
 
-  const calculateScore = () => {
+  const resetQuiz = () => {
+    setCurrentQuestion(0);
+    setAnswers({});
+    setShowResults(false);
+    setShowAllFlags(false);
+
+    const greenQuestions = allQuestions.filter((q) => q.colour === 'green');
+    const redQuestions = allQuestions.filter((q) => q.colour === 'red');
+
+    const selectedGreen = [...greenQuestions].sort(() => 0.5 - Math.random()).slice(0, NUMBER_OF_QUESTIONS_ASKED);
+    const selectedRed = [...redQuestions].sort(() => 0.5 - Math.random()).slice(0, NUMBER_OF_QUESTIONS_ASKED);
+
+    setQuestions([...selectedGreen, ...selectedRed].sort(() => 0.5 - Math.random()));
+  };
+
+  const result = useMemo(() => {
     let greenCorrect = 0;
     let redCorrect = 0;
     let greenFlags = [];
@@ -63,32 +77,18 @@ export default function RedGreenFlagsQuiz() {
       greenFlags,
       redFlags,
     };
-  };
+  }, [questions, answers]);
 
-  const resetQuiz = () => {
-    setCurrentQuestion(0);
-    setAnswers({});
-    setShowResults(false);
-    setShowAllFlags(false);
-    // Generate new random questions - NUMBER_OF_QUESTIONS_ASKED of each type
-    const greenQuestions = allQuestions.filter((q) => q.colour === 'green');
-    const redQuestions = allQuestions.filter((q) => q.colour === 'red');
-
-    const selectedGreen = [...greenQuestions].sort(() => 0.5 - Math.random()).slice(0, NUMBER_OF_QUESTIONS_ASKED);
-    const selectedRed = [...redQuestions].sort(() => 0.5 - Math.random()).slice(0, NUMBER_OF_QUESTIONS_ASKED);
-
-    const newQuestions = [...selectedGreen, ...selectedRed].sort(() => 0.5 - Math.random());
-    questions.splice(0, questions.length, ...newQuestions);
-  };
+  const resultMessage = useMemo(() => {
+    return getResultMessage(result.greenCorrect, result.redCorrect, result.maxPossibleScore);
+  }, [result.greenCorrect, result.redCorrect, result.maxPossibleScore]);
 
   if (showResults) {
-    const { greenCorrect, redCorrect, netScore, maxPossibleScore, greenFlags, redFlags } = calculateScore();
-
     const allGreenFlags = allQuestions.filter((q) => q.colour === 'green').map((q) => q.flag);
     const allRedFlags = allQuestions.filter((q) => q.colour === 'red').map((q) => q.flag);
 
     return (
-      <div className="max-w-4xl sm:px-6  space-y-6">
+      <div className="max-w-4xl sm:px-6 space-y-6">
         <div className="text-center">
           <h1 className="text-4xl font-bold mb-4">Quiz Results!</h1>
 
@@ -96,28 +96,26 @@ export default function RedGreenFlagsQuiz() {
             <div className="grid grid-cols-2 gap-4 mb-6">
               <div className="text-center p-4 bg-green-50 rounded-lg">
                 <div className="text-2xl font-bold text-green-600">
-                  {greenCorrect}/{maxPossibleScore}
+                  {result.greenCorrect}/{result.maxPossibleScore}
                 </div>
                 <div className="text-green-700 text-sm">Green Flags 💚</div>
               </div>
               <div className="text-center p-4 bg-red-50 rounded-lg">
                 <div className="text-2xl font-bold text-red-600">
-                  {redCorrect}/{maxPossibleScore}
+                  {result.redCorrect}/{result.maxPossibleScore}
                 </div>
                 <div className="text-red-700 text-sm">Red Flags 🚩</div>
               </div>
             </div>
 
-            <div className="text-lg font-medium text-center p-4 bg-gray-50 rounded-lg mb-4">
-              {getResultMessage(greenCorrect, redCorrect, maxPossibleScore)}
-            </div>
+            <div className="text-lg font-medium text-center p-4 bg-gray-50 rounded-lg mb-4">{resultMessage}</div>
 
             <div className="grid md:grid-cols-2 gap-4 mb-4 md:gap-6 text-left">
-              {greenFlags.length > 0 && (
+              {result.greenFlags.length > 0 && (
                 <div className="bg-green-50 p-4 rounded-lg">
                   <h3 className="text-lg font-semibold text-green-800 mb-3">💚 Your Green Flags</h3>
                   <ul className="space-y-2">
-                    {greenFlags.map((flag, index) => (
+                    {result.greenFlags.map((flag, index) => (
                       <li key={index} className="text-green-700 text-sm">
                         {flag}
                       </li>
@@ -126,11 +124,11 @@ export default function RedGreenFlagsQuiz() {
                 </div>
               )}
 
-              {redFlags.length > 0 && (
+              {result.redFlags.length > 0 && (
                 <div className="bg-red-50 p-4 rounded-lg">
                   <h3 className="text-lg font-semibold text-red-800 mb-3">🚩 Your Red Flags</h3>
                   <ul className="space-y-2">
-                    {redFlags.map((flag, index) => (
+                    {result.redFlags.map((flag, index) => (
                       <li key={index} className="text-red-700 text-sm">
                         {flag}
                       </li>

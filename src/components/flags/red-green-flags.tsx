@@ -231,6 +231,7 @@ export default function RedGreenFlagsQuiz() {
         `${redFlags} red flags vs ${greenFlags} green flag${greenFlags > 1 ? 's' : ''}. I'm not sure if we can be friends anymore... well unless you work on your red flags. and maybe pick up a few more green ones. or at least paint your red flags green. or if i became colour blind. or if the dictionary swapped the words red and green. then we could be friends`,
         `if we were swimming and you put ${redFlags} stones in my pockets i would die`,
         "aww thats okay buddy. you have some green flags, and that's what matters.",
+        `imagine i am reading your tarot cards. i see the ${redFlags} of wands and the ${greenFlags} of pentacles. the ${redFlags} of wands represents your red flags, and the ${greenFlags} of pentacles represents your green flags. i don't know what that means but it sounds bad.`,
       ]);
     }
     // no green flags
@@ -265,11 +266,15 @@ export default function RedGreenFlagsQuiz() {
           <div className="bg-white rounded-lg shadow-lg p-4 my-4">
             <div className="grid grid-cols-2 gap-4 mb-6">
               <div className="text-center p-4 bg-green-50 rounded-lg">
-                <div className="text-2xl font-bold text-green-600">{greenCorrect}</div>
+                <div className="text-2xl font-bold text-green-600">
+                  {greenCorrect}/{maxPossibleScore}
+                </div>
                 <div className="text-green-700 text-sm">Green Flags 💚</div>
               </div>
               <div className="text-center p-4 bg-red-50 rounded-lg">
-                <div className="text-2xl font-bold text-red-600">{redCorrect}</div>
+                <div className="text-2xl font-bold text-red-600">
+                  {redCorrect}/{maxPossibleScore}
+                </div>
                 <div className="text-red-700 text-sm">Red Flags 🚩</div>
               </div>
             </div>
@@ -318,23 +323,23 @@ export default function RedGreenFlagsQuiz() {
                 <div className="grid md:grid-cols-2 gap-6 text-left">
                   <div className="bg-green-50 p-4 rounded-lg">
                     <h3 className="text-lg font-semibold text-green-800 mb-3">💚 All Green Flags</h3>
-                    <ul className="space-y-1">
+                    <ol className="space-y-1">
                       {allGreenFlags.map((flag, index) => (
                         <li key={index} className="text-green-700 text-sm">
                           {flag}
                         </li>
                       ))}
-                    </ul>
+                    </ol>
                   </div>
                   <div className="bg-red-50 p-4 rounded-lg">
                     <h3 className="text-lg font-semibold text-red-800 mb-3">🚩 All Red Flags</h3>
-                    <ul className="space-y-1">
+                    <ol className="space-y-1">
                       {allRedFlags.map((flag, index) => (
                         <li key={index} className="text-red-700 text-sm">
                           {flag}
                         </li>
                       ))}
-                    </ul>
+                    </ol>
                   </div>
                 </div>
               )}

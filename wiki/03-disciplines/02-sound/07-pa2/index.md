@@ -20,6 +20,9 @@ resources:
 
 # DBX DriveRack PA2
 
+The PA2 is an audio processing until that can be inserted between a sound desk and the speakers to perform useful 
+operations on the sound just before it gets played out the speakers, such as feedback suppression.
+
 ## Setup
 
 To start, you need to inform the wizards of your speaker setup. Click the wizard button, then "Run Setup Wizard" and

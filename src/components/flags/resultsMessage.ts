@@ -55,7 +55,7 @@ const getResultMessage = (greenFlags, redFlags, maxScore) => {
   if (greenFlags === redFlags && greenFlags > 0) {
     return pick([
       "woah... Perfectly balanced - equal green and red flags. i- i don't know what to say. this has never happened before. you fall deeper in cosmic harmony with the universe every passing day. i- want to be you.",
-      'if green flags where XLR cables and red flags where DMX cables then i would have the same number of XLR cables as i would DMX cables.',
+      'if green flags were XLR cables and red flags were DMX cables then i would have the same number of XLR cables as i would DMX cables.',
       'imagine two things that are the same. are you thinking of the same two things? because i am. and they are the same. like you and your red flags and green flags.',
     ]);
   }

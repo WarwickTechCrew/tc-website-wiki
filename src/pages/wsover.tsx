@@ -1,6 +1,25 @@
 import Head from '@docusaurus/Head';
+import { useState } from 'react';
+
+export function RipEmoji({
+  bounce,
+  imageSrc,
+  setImage,
+}: {
+  bounce?: boolean;
+  imageSrc: string;
+  setImage: (src: string) => void;
+}) {
+  return (
+    <button className={`block ${bounce ? 'animate-spin' : 'animate-bounce'}`} onClick={() => setImage(imageSrc)}>
+      😭
+    </button>
+  );
+}
 
 export default function Wsover() {
+  const [currentImage, setCurrentImage] = useState('');
+
   return (
     <main className="flex h-screen w-full items-center justify-center p-2 bg-red-100">
       <Head>
@@ -20,13 +39,25 @@ export default function Wsover() {
           loading="lazy"
         ></iframe>
         <div className="flex justify-center mt-2 gap-4 text-2xl">
-          <div className="animate-spin">😭</div>
-          <div className="animate-bounce">😭</div>
-          <div className="animate-spin">😭</div>
-          <div className="animate-bounce">😭</div>
-          <div className="animate-spin">😭</div>
+          <RipEmoji imageSrc="josh.jpg" setImage={setCurrentImage} />
+          <RipEmoji bounce imageSrc="makkapakka.jpg" setImage={setCurrentImage} />
+          <RipEmoji imageSrc="kishan.jpg" setImage={setCurrentImage} />
+          <RipEmoji bounce imageSrc="plates.jpg" setImage={setCurrentImage} />
+          <RipEmoji imageSrc="danny.jpg" setImage={setCurrentImage} />
         </div>
       </div>
+      {currentImage && (
+        <div
+          className="fixed left-0 top-0 right-0 bottom-0 bg-black/30 z-10 flex p-4 items-center justify-center"
+          onClick={() => setCurrentImage('')}
+        >
+          <img
+            src={`/images/wsover/${currentImage}`}
+            alt="Wsover Image"
+            className="max-w-md w-full max-h-full rounded-lg shadow-lg"
+          />
+        </div>
+      )}
     </main>
   );
 }

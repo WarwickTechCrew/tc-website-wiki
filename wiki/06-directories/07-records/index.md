@@ -40,3 +40,5 @@ breaker somewhere.
 
 This Tech Crew wiki page was first created and committed 39,000 feet (11,887m) into the sky on a Singapore Airlines
 flight from London to Singapore. This flight featured free WiFi!
+
+The second highest and second ever aircraft tech crew wiki commit was made on 27/07/25 on a Air India A350-900 while the authors were hungrily waiting for free snacks and food. The wifi is really slow but also free. Actually none of this was free we paid £760 for this wifi and food. 37,001ft.

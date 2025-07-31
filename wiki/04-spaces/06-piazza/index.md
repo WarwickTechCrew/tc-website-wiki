@@ -77,13 +77,27 @@ One other method is to use a private WiFi router. This can be connected to any p
 then provide Line of Sight to a second router on the Piazza/Benefactors. WiFi!
 
 Potential port locations include:
+
 - Esports Centre (A-20, C-SD-R-6/2B)
 - Panorama Room (2-037, C-SO-R-6/2A)
 - Big Screen AV service
-(all are patched as of 16/06/2025)
+  (all are patched as of 16/06/2025)
 
 Note ITS are inconsistent about allowing subnets underneath eduroam. It is possible to do, especially if the port
 is patched into the BT network on campus (Warwick Guest). It is best to contact ITS if you are planning something.
+
+### Big Screen AV Cupboard
+
+<figure>
+<div class="img-gallery">
+![Big Screen AV Cupboard](./big-screen-cupboard-1.jpg)
+![Big Screen AV Cupboard](./big-screen-cupboard-2.jpg)
+</div>
+<figcaption>Big Screen AV Cupboard</figcaption>
+</figure>
+
+The Big Screen AV cupboard is a little corridor from next to Jidong to inside the Warwick SU Atrium. This is home to
+a communications room, where wired network access can be requested.
 
 ## Tables and Chairs
 

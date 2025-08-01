@@ -80,8 +80,9 @@ used as a marquee location for [Warwick CU's Hope Events Week](https://warwickcu
 </figure>
 
 The hope hole refers to a hole in the wall of Junction Hall 1, next to one of the fire exits, which was created to
-supply heavy duty power to an outdoor marquee for [Warwick CU's Hope Events Week](https://warwickcu.org/hope-2025/)
-in 2025. This also came in useful for supplying a wired network connection to the marquee for livestreaming.
+supply heavy duty power from Junction Hall 1's 63-3A supply to an outdoor marquee for
+[Warwick CU's Hope Events Week](https://warwickcu.org/hope-2025/) in 2025. This also came in useful for supplying a
+wired network connection to the marquee for livestreaming.
 
 ## [Junction Hall 2 (JX0.10)](https://campus.warwick.ac.uk/search/623c8927421e6f5928c0ef7a?projectId=warwick)
 

@@ -30,7 +30,7 @@ less harsh while still allowing musicians to read their sheet music.
 
 # Gobos
 
-Gobos are thin metal plates with designs cut into them. They are put in front of spotlights to project that image onto
+Gobos are thin metal or glass plates with designs cut into them. They are put in front of spotlights to project an image onto
 the set.
 
 [Tech crew gobo stock:](https://lx-catalogue.warwicktechcrew.co.uk/gobos/)

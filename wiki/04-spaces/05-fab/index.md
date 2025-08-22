@@ -18,10 +18,20 @@ additional_resources:
 
 # FAB
 
+:::warning
+
+Access to FAB studio and rehearsal room equipment is now permitted only upon completion of and induction and training to a satisfactory level within SCAPVC and to those listed on the SCAPVC Student Technician register.
+
+Any changes to patching or fixture personalities will only be allowed through discussion with the SCAPVC technical team.
+
+Make sure to do this early in advance, as the SCAPVC technical team is often particularly busy, e.g. when final year projects are due in Term 3. 
+
+:::
+
 Both studios come equipped with and ETC Ion Xe 20, a DiGiCo S21 and a Mac with QLab5.
 
 Note that the colour on the Mini-Bs is inconsistent between the fixtures as they are set with different dimming curves.
-This can be changed using non-RDM DMX though (consult DMX personality document), so could be fixed easily.
+In the past, this has been fixed by changing them using non-RDM DMX. (consult DMX personality document and SCAPVC technical team)
 
 ## FAB0.19
 

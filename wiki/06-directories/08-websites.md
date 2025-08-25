@@ -29,3 +29,7 @@ Contains random posts about lighting in general. There's sometimes some interest
 
 A much smaller group, sometimes has small opportunities which might be interesting. Kind of needs flexibility and
 transport though.
+
+### [The Stage Weight appreciation society](https://www.facebook.com/groups/381814165350561)
+
+The clue is pretty much in the name. Some lovely posts about stage weights 😍.

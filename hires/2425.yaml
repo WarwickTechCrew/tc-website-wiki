@@ -87,6 +87,14 @@ terms:
           - name: Crew
             url: https://wsaf.org.uk
             label: WSAF 2025 Website
+      - name: On the Twelfth Night of Panto
+        society: Warwick Pantomime Society
+        venue: G55 Milburn House
+        people:
+          - role: Lighting Designer
+            name: Danai Muyambo
+          - role: Sound Designer
+            name: Echo Vaughan
       - name: The Improv Musical at Fringe
         society: MTW
         venue: Gilded Balloon Patter Hoose, Edinburgh Fringe

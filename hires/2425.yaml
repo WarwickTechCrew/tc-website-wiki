@@ -87,3 +87,13 @@ terms:
           - name: Crew
             url: https://wsaf.org.uk
             label: WSAF 2025 Website
+      - name: The Improv Musical at Fringe
+        society: MTW
+        venue: Gilded Balloon Patter Hoose, Edinburgh Fringe
+        people:
+          - role: Technical Managers
+            name: Olly Murphy, George Parrett and Echo Vaughan
+          - role: Sound
+            name: Olly Murphy, George Parrett, Rowan McAlpine, and Echo Vaughan
+          - role: Lighting
+            name: Olly Murphy, Oliver Smith, Maximus Kaius Leighton, and Danai Muyambo

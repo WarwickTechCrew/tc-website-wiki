@@ -65,7 +65,7 @@ down the DC cupboard stairs.
 
 :::lore
 
-In 2024, Dave was used to transport many boxes of pizza to the Introduction to Tech Crew welcome talk.
+In 2024, Dave was used to transport many boxes of pizza to the Introduction to Tech Crew welcome talk. Dave was again used as a pizza transport for both the WSAF and Tech Crew welcome talks in 2025.
 ![Dave being used to transport Pizza in Welcome Week 2024](./dave-pizza-joshheng.jpg)
 
 :::

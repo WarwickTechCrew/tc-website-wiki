@@ -11,3 +11,17 @@ terms:
             name: Danai Muyambo
           - role: Lighting Operators
             name: Oliver Smith and Dae Pomeroy
+      - name: The Improv Musical W0
+        society: MTW
+        venue: FAB 0.20
+        people:
+          - role: Lighting Operator
+            name: Olly Murphy
+          - role: Sound Operator
+            name: Rowan McAlpine
+      - name: Open Day W1
+        society: Open Days
+        venue: Piazza / Benefactors Place
+        people:
+          - role: Sound Operator
+            name: Stanley Simmons

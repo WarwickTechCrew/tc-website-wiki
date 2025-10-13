@@ -11,7 +11,7 @@ independent productions and university departments. Payment is made after the ev
 completed via internal society transfer (or a Warwick SU invoice for external clients).
 
 We're always happy to help out where we can, so even if you're not sure please still get in touch through our
-<a href="https://docs.google.com/forms/d/1p_cGvZtoVNL5xJ9yXaJs-wrd0fuNlBrWHEuXL09UDns/edit" target="_blank">Hires
+<a href="https://forms.gle/sJ4PSmseBTwrKDK98" target="_blank">Hires
 Form</a> or by emailing hires@warwicktechcrew.co.uk. Please contact us as early as possible to ensure equipment and
 technician availability.
 

@@ -25,6 +25,10 @@ const config: Config = {
         },
       };
     },
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+      onBrokenMarkdownImages: 'throw',
+    },
   },
   themes: ['@docusaurus/theme-mermaid'],
 
@@ -37,7 +41,6 @@ const config: Config = {
   projectName: 'website', // repo name
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you

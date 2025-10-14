@@ -89,6 +89,7 @@ In addition, for our specific working environments, Tech Crew first aid kits sho
 - 1x plastic forceps
 - 1x instant ice pack
 - 2x pairs of earplugs
+- Assorted blister plasters
 
 Note that as these first aid kits are used, the quantities of the above items may vary. However, there should always be
 at least one of each item in each kit (enough to reasonably treat any injuries during the event).

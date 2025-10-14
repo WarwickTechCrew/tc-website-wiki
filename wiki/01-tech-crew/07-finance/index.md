@@ -5,7 +5,10 @@ sidebar_custom_props:
 resources:
   - name: Tech Crew MRF Dashboard
     url: https://www.warwicksu.com/sgf/4251
-    author: Warick SU
+    author: Warwick SU
+  - name: SU Master MRF Dashboard
+    url: https://www.warwicksu.com/sgf/Master
+    author: Warwick SU
   - name: Finance Forms
     url: https://www.warwicksu.com/societies-sports/exec-resources/finance/financeforms/
     author: Warwick SU
@@ -41,6 +44,12 @@ account. Large purchases above £2k also need to go through Manager approval.
 
 :::
 
+:::tip
+
+Warwick SU's finance system has an undocumented ['Master' dashboard](https://www.warwicksu.com/sgf/Master) which shows
+all MRFs that you have access to. This can be very useful, especially if you are part of multiple societies.
+:::
+
 ### Submitting an MRF
 
 :::info
@@ -62,17 +71,17 @@ cover submitting an MRF online.
    ![Submitting an MRF - Step 1](mrf-step-01.jpg)![Submitting an MRF - Step 2](mrf-step-02.jpg)
 2. Click _New Money Request_. ![Submitting an MRF - Step 3](mrf-step-03.jpg)
 3. Fill in the form with the details of the payment. This should include:
-   1. **Request Type**: Reimbursement
-   2. **Payable to**: Who is being reimbursed
-   3. **Payment method**: Bank transfer
-   4. **Bank Sort Code/Bank Account**: Payee bank details
-   5. **Brief Description**: What the reimbursement is for
-   6. **Justification**: A brief explanation of why the item/service was purchased
-   7. **Gross Amount**: How much to reimburse
-   8. **Account**: Which Tech Crew account to take the money from. Please ask the Treasurer if you are unsure.
-   9. **Upload Receipt**: Upload a receipt that proves the purchase. This can also be an invoice, as long as it clearly
-      says it has been paid. Otherwise, you can also upload a screenshot of a bank statement showing the transaction.
-      **Note:** you must click _Upload_ to actually upload the image.
+    1. **Request Type**: Reimbursement
+    2. **Payable to**: Who is being reimbursed
+    3. **Payment method**: Bank transfer
+    4. **Bank Sort Code/Bank Account**: Payee bank details
+    5. **Brief Description**: What the reimbursement is for
+    6. **Justification**: A brief explanation of why the item/service was purchased
+    7. **Gross Amount**: How much to reimburse
+    8. **Account**: Which Tech Crew account to take the money from. Please ask the Treasurer if you are unsure.
+    9. **Upload Receipt**: Upload a receipt that proves the purchase. This can also be an invoice, as long as it clearly
+       says it has been paid. Otherwise, you can also upload a screenshot of a bank statement showing the transaction.
+       **Note:** you must click _Upload_ to actually upload the image.
 4. Click on _Create_, **and then make sure to click _Submit_** to send your MRF to the Treasurer for approval.
 5. Notify the Treasurer that you have submitted the MRF.
 

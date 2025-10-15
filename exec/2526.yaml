@@ -25,12 +25,12 @@ exec:
       - Equal Opportunities
 
   - name: Lucas Gregory
-    image: 2526/Lucas.jpg
+    image: 2526/Lucas.JPG
     roles:
       - Welfare Officer
 
   - name: Danai Muyambo
-    image: 2526/danai.jpg
+    image: 2526/danai.JPG
     roles:
       - Hires Manager
 
@@ -54,3 +54,4 @@ exec:
       - Socials and Publicity
 
       - Safety Officer
+

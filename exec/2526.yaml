@@ -4,43 +4,53 @@ year: 2025/2026
 
 exec:
   - name: Stanley Simmons
+    image: 2526/Stan.jpg
     roles:
       - President
 
   - name: Maximus Kaius Leighton
+    image: 2526/Maximus.jpg
     roles:
       - Treasurer
 
   - name: Rowan McAlpine
+    image: 2526/Rowan.jpg
     roles:
       - Secretary
 
   - name: George Parrett
+    image: 2526/George.jpg
     roles:
       - Training Manager
       - Equal Opportunities
 
   - name: Lucas Gregory
+    image: 2526/Lucas.jpg
     roles:
       - Welfare Officer
 
   - name: Danai Muyambo
+    image: 2526/danai.jpg
     roles:
       - Hires Manager
 
   - name: Alex Spears
+    image: 2526/Alex.jpg
     roles:
       - Hires Manager
 
   - name: Olly Murphy
+    image: 2526/Olly.jpg
     roles:
       - Equipment Manager
 
   - name: Abi Lowrie
+    image: 2526/Abi.jpg
     roles:
       - Socials and Publicity
 
   - name: Matt Morris
     roles:
       - Socials and Publicity
+
       - Safety Officer

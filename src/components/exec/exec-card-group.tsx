@@ -13,7 +13,7 @@ function ExecCard({ member }: { member: ExecMember }) {
         <img
           src={`/exec/${member.image || 'blank.jpg'}`}
           alt={`Image of ${member.name}`}
-          className="mx-auto mb-2 w-28 h-auto"
+          className="mx-auto mb-2 w-48 h-auto aspect-[0.8] object-cover"
         />
         <ul className="text-center text-xs">
           {member.roles.map((role) => (

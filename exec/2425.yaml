@@ -46,3 +46,19 @@ exec:
     roles:
       - Socials & Publicity Secretary
       - Equal Opportunities Officer
+
+hires_assistants:
+  - term: Term 3
+    assistants:
+      - name: Echo Vaughan
+      - name: George Parrett
+
+  - term: Term 1
+    assistants:
+      - name: Abi Lowrie
+      - name: Alex Morrison
+
+  - term: Term 2
+    assistants:
+      - name: Danai Muyambo
+      - name: Sid Gurumurthy

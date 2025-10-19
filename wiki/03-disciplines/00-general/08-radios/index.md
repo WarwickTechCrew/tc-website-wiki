@@ -59,7 +59,7 @@ on the specific frequencies and channels used if required, as this can change.
 ### University Network
 
 :::note
-As our radios cannot communicate with University-network radios, if you need to liase with University staff during an
+As our radios cannot communicate with University-network radios, if you need to liaise with University staff during an
 event (e.g. the [Christmas Lights Switch-on](../../../07-case-studies/03-christmas-lights/index.md)) you will need to
 request to borrow one of theirs.
 :::
@@ -72,7 +72,7 @@ configurations
 and channels), and so that we can easily use them off-site without needing to reprogram. This also gives us more
 flexibility
 in how we use them and who we can hire them out to, and also allows us to hire in more radios (e.g.
-from [DCRS](../../../06-directories/01-services.md)) without needing to liase with Estates. The main downside to this,
+from [DCRS](../../../06-directories/01-services.md)) without needing to liaise with Estates. The main downside to this,
 however, is we aren't able to communicate directly with University staff (e.g. Community Safety or Estates), and we are
 subject to distance and signal limitations due to not being on the repeater network.
 

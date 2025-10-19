@@ -13,6 +13,16 @@ export type ExecMember = {
 export type YearExec = {
   year: string;
   exec: ExecMember[];
+  hiresAssistants?: HiresAssistantTerm[];
+};
+
+export type HiresAssistantTerm = {
+  term: string;
+  assistants: HiresAssistant[];
+};
+
+export type HiresAssistant = {
+  name: string;
 };
 
 function parseExecMember(data: any): ExecMember {
@@ -20,6 +30,19 @@ function parseExecMember(data: any): ExecMember {
     name: data.name.trim(),
     roles: data.roles.map((role: string) => role.trim()),
     image: data.image?.trim(),
+  };
+}
+
+function parseHiresAssistant(data: any): HiresAssistant {
+  return {
+    name: data.name.trim(),
+  };
+}
+
+function parseHiresAssistantTerm(data: any): HiresAssistantTerm {
+  return {
+    term: data.term.trim(),
+    assistants: data.assistants?.map(parseHiresAssistant) || [],
   };
 }
 
@@ -32,6 +55,7 @@ async function loadExecYear(directory: string, fileName: string): Promise<YearEx
   return {
     year: data.year,
     exec: data.exec.map(parseExecMember),
+    hiresAssistants: data.hires_assistants?.map(parseHiresAssistantTerm),
   };
 }
 

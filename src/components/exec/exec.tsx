@@ -2,6 +2,7 @@ import { YearExec } from '@site/src/lib/exec';
 import Layout from '@theme/Layout';
 import ExecCardGroup from '@site/src/components/exec/exec-card-group';
 import Introduction from '@site/src/components/exec/introduction.md';
+import HiresAssistants from '@site/src/components/exec/hires-assistants';
 
 export default function Exec({ execYears }: { execYears: YearExec[] }) {
   return (
@@ -23,6 +24,8 @@ export default function Exec({ execYears }: { execYears: YearExec[] }) {
               </div>
 
               <ExecCardGroup members={execYear.exec} />
+
+              {execYear.hiresAssistants?.length > 0 && <HiresAssistants hiresAssistants={execYear.hiresAssistants} />}
             </div>
           ))}
         </div>

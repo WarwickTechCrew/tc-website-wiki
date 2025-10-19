@@ -55,3 +55,13 @@ exec:
 
       - Safety Officer
 
+hires_assistants:
+  - term: Term 3
+    assistants:
+      - name: Adam Skrzymowski
+      - name: Sid Gurumurthy
+
+  - term: Term 1
+    assistants:
+      - name: Trin Balkwill
+      - name: Dae Pomeroy

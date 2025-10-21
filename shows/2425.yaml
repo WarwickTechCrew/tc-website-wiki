@@ -151,6 +151,23 @@ terms:
           name: Soraya Wagstaff
         - role: Deputy Stage Manager
           name: Theo Tomalin
+    - name: Spelling Bee
+      society: MTW
+      venue: Warwick Arts Centre Studio
+      instagram: spellingbee.mtw
+      people:
+        - role: Technical Manager
+          name: Ben Hammond
+        - role: Lighting Designer
+          name: Matthew Morris
+        - role: Sound Designer
+          name: Caleb Tan
+        - role: Set Designer
+          name: Martha Heald
+        - role: Stage Manager
+          name: Oliver Bigley
+        - role: Deputy Stage Manager
+          name: George Parrett
     - name: HMS Pinafore
       society: Warwick Opera
       venue: Warwick Arts Centre Studio

@@ -26,7 +26,7 @@ the final number. When the demon did travel outside its buzzing speaker home, it
 band pit. The demon was detected as electrical current running through those walls, which created a low hum feedback via
 interference with the bass guitar. This caused the whole band pit to shake during the climax of the louder numbers. This
 put the band members in great peril, as the pit was located up on 8ft high steeldeck poles. It is important to note here
-that the northern lights were visibe during this show week. Therefore, we place all blame on the Aurora Borealis for any
+that the northern lights were visible during this show week. Therefore, we place all blame on the Aurora Borealis for any
 mishappening or misfortune during MTW's Godspell (23/24), and not on the incompetencies of any co-sound designers.
 
 ## S21 Demon

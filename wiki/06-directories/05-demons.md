@@ -35,6 +35,8 @@ This creature made its home in WAC's DiGiCo S21 sound desk. During 23/24 Company
 200+ scenes into the main showfile. The S21 Demon did not approve of this approach to DCA management, and subsequently
 cast a delay curse on the S21's next scene button, causing a lag of about 5 seconds each time a scene needed to change.
 
+The S21 reappeared during 24/25 Queen of Spades. We very reasonably decided to turn on the sound desk for sound check. This angered the S21 demon who decided to curse us by inhabiting the PA causing an audible hum despite everything being muted. Many arts centre exorcists were brought in to fix the issue, with the only solution being to "turn it off and on, and pray"
+
 ## FLX Demon
 
 This spirit possesses the FLX lighting desk, turning the house lights on and off, and generally producing the exact

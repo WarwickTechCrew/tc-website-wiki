@@ -22,7 +22,6 @@ flowchart TD
         DC --> FB([WUPS])
         DC --> CP([Codpiece])
     end
-    TC --> WSAF{{WSAF}}
     FB --> FF{{Freshblood Festival}}
 ```
 
@@ -71,5 +70,4 @@ Formerly known as Freshblood New Writing Society (before their 2025 AGM), Warwic
 
 Tech crew has a [wiki](../) you should check out :D
 
-As of 2024, they also put on the [Warwick Student Arts Festival](/wiki/case-studies/wsaf-2024), although this may be
-made into its own society in future years.
+In 2024, they also put on the [Warwick Student Arts Festival](/wiki/case-studies/wsaf-2024), for 2025 [WSAF](/wiki/warwick-drama#wsaf) was made into its own society.

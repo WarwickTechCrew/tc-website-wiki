@@ -25,9 +25,43 @@ terms:
         people:
           - role: Sound Operator
             name: Stanley Simmons
-      - name: Open Day W1
+      - name: Open Day W3
         society: Open Days
         venue: Piazza / Benefactors Place
         people:
           - role: Sound Operator
             name: Olly Murphy
+      - name: Belonging Exhibition Tues W4
+        society: Creative Industries
+        venue: FAB Foyer
+        people:
+          - role: Sound Operator
+            name: Edmund Ng
+      - name: Jazz Jam
+        society: Creative Industries
+        venue: FAB 0.03
+        people:
+          - role: Sound Operator
+            name: Hayden Hawes
+      - name: Belonging Exhibition Thurs W4
+        society: Creative Industries
+        venue: FAB Foyer
+        people:
+          - role: Sound Operator
+            name: Henry Fisher
+      - name: Rocky Horror Shadowcast
+        society: Bad Film Soc x DragSoc
+        venue: Avon Drama Studio
+        people:
+          - role: Lighting Designer
+            name: Adam Skrzymowski
+      - name: Next To Normal
+        society: MTW
+        venue: Avon Drama Studio
+        people:
+          - role: Lighting Designer
+            name: Danai Muyambo
+          - role: Sound Designer
+            name: Sid Gurumurthy
+          - role: Stage Manager & Set Designer
+            name: Echo Vaughan

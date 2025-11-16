@@ -30,7 +30,7 @@ export default function Hires() {
               <iframe
                 width="640px"
                 height="480px"
-                src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__mfC2PNUMjRJTTRVOU5aQVBFTkZDN08zQ0hESUdSVy4u&embed=true"
+                src="https://docs.google.com/forms/d/e/1FAIpQLSdf0w-5j3cztJ0Dg0mW0tv1c4pSfmpN89QTfUumh6IewyjIig/viewform?embedded=true" 
                 className="border-0 w-full min-h-full h-[40rem] max-h-screen"
                 allowFullScreen
                 loading="eager"

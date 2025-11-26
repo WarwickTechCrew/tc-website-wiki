@@ -83,3 +83,11 @@ available to members.
 TSC is a Working Committee of the Sheffield Students' Union, run by students and supported by staff in its Technical
 Services department. They seem to run weekly training sessions on Wednesday and have a lot of cool equipment and
 software, including a dLive sound desk, Avolights lighting desks and Resolume Arena.
+
+## [Stage Technicians' Association (STA) (Bristol)](https://www.bristolsu.org.uk/groups/sta-stage-technicians-association-3e02)
+
+STA are the people behind the curtain of Bristol's performing arts, whose members design, construct and run productions throughout the year. 
+Their main venues are the Winston and Pegg Theatres, but they also support events in other Bristol theatres and locations such as the Anson 
+Rooms, Loco Klub, and the SU Welcome Fair on the Downs.
+
+

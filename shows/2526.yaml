@@ -26,3 +26,9 @@ terms:
           name: Rosie Davison, Venus Ng
         - role: Lighting Operators
           name: Isaac Godman, Laurie Daniels, Christopher Makin
+    - name: "Test Show"
+      society: WUDS
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Technical Manager
+          name: My Name

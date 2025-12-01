@@ -33,17 +33,17 @@ terms:
       people:
         - role: Technical Manager
           name: Rowan McAlpine
-          role: Lighting Designer
+        - role: Lighting Designer
           name: Danai Muyambo & Oliver Smith
-          role: Sound Designer
+        - role: Sound Designer
           name: Abi Lowrie
-          role: Set Designer
+        - role: Set Designer
           name: Rowan McAlpine
-          role: Stage Manager
+        - role: Stage Manager
           name: Lulu Smith
-          role: Deputy Stage Manager
+        - role: Deputy Stage Manager
           name: Dae Pomeroy
-          role: Shadow Deputy Stage Manager
+        - role: Shadow Deputy Stage Manager
           name: Venus Ng
-          role: Followspot Operator
+        - role: Followspot Operator
           name: Rebecca Smith, Daisy Russell

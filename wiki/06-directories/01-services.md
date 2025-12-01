@@ -177,13 +177,14 @@ are willing to collaborate on events too. Relevant equipment includes:
 
 ### CU (Christian Union)
 
-The CU have weekly meetings with live music and have assorted equipment to support this that can be useful:
+The CU have weekly meetings with live music and have assorted equipment to support this that can be useful. Equipment is
+stored in the SUHQ, and therefore subject to access availability (especially over weekends):
 
 - Music, instrument and mic stands
 - A pair of Sennheiser XSW handheld radio mics
-- Some other handheld and lapel radio mics of debatable quality
-- Spirit LX7 16-channel sound mixer
-- SRM 350v3 PA
+- Behringer X32 Compact digital mixer
+- Behringer SD8 stage box (8 in, 8 out) w/ 30m ethernet cable
+- 2x SRM 350v3 speakers
 - Roland cube street monitor
 - Amplifiers
 - Microphones (including those for a cajon) and DIs

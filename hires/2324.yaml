@@ -50,13 +50,13 @@ terms:
         - role: Lighting Designer
           name: Zhitong
     - name: Shrek The Pan-2-Mime
-        society: Warwick Pantomime Society
-        venue: G55 Milburn House
-        people:
-          - role: Lighting Designer
-            name: Echo Vaughan
-          - role: Sound Designer
-            name: George Parrett
+      society: Warwick Pantomime Society
+      venue: G55 Milburn House
+      people:
+        - role: Lighting Designer
+          name: Echo Vaughan
+        - role: Sound Designer
+          name: George Parrett
 - name: Term 3
   shows:
     - name: King Lear - Insolence of Office
@@ -76,13 +76,13 @@ terms:
           label: WSAF 2024 Website
       photos: https://gallery.warwickdrama.org.uk/index.php?/category/87
     - name: Cluedo
-        society: Warwick Pantomime Society
-        venue: Fab 0.19
-        people:
-          - role: Lighting Designer
-            name: Danny Turner
-          - role: Sound Designer
-            name: Danny Turner
+      society: Warwick Pantomime Society
+      venue: Fab 0.19
+      people:
+        - role: Lighting Designer
+          name: Danny Turner
+        - role: Sound Designer
+          name: Danny Turner
     - name: The Improv Musical at Fringe
       society: MTW
       venue: Gilded Balloon Patter Hoose, Edinburgh Fringe

@@ -6,7 +6,7 @@ terms:
     - name: "1984"
       society: WUDS
       venue: Warwick Arts Centre Studio
-      instagram: duchess_wuds
+      instagram: 1984_warwick 
       people:
         - role: Technical Manager
           name: Olly Murphy
@@ -26,4 +26,24 @@ terms:
           name: Rosie Davison, Venus Ng
         - role: Lighting Operators
           name: Isaac Godman, Laurie Daniels, Christopher Makin
-    
+     - name: "Peter Pan"
+      society: WUDS
+      venue: Warwick Arts Centre Studio
+      instagram: peter.pan_wuds 
+      people:
+        - role: Technical Manager
+          name: Rowan McAlpine
+        - role: Lighting Designer
+          name: Danai Muyambo & Oliver Smith
+        - role: Sound Designer
+          name: Abi Lowrie
+        - role: Set Designer
+          name: Rowan McAlpine
+        - role: Stage Manager
+          name: Lulu Smith
+        - role: Deputy Stage Manager
+          name: Dae Pomeroy
+        - role: Shadow Deputy Stage Manager
+          name: Venus Ng
+        - role: Followspot Operators
+          name: Rebecca Smith, Daisy Russell

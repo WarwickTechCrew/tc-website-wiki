@@ -31,19 +31,19 @@ terms:
     venue: Warwick Arts Centre Studio
     instagram: peter.pan_wuds 
     people:
-      - role: Technical Manager
-        name: Rowan McAlpine
-      - role: Lighting Designer
-        name: Danai Muyambo & Oliver Smith
-      - role: Sound Designer
-        name: Abi Lowrie
-      - role: Set Designer
-        name: Rowan McAlpine
-      - role: Stage Manager
-        name: Lulu Smith
-      - role: Deputy Stage Manager
-        name: Dae Pomeroy
-      - role: Shadow Deputy Stage Manager
-        name: Venus Ng
-      - role: Followspot Operators
-        name: Rebecca Smith, Daisy Russell
+    - role: Technical Manager
+      name: Rowan McAlpine
+    - role: Lighting Designer
+      name: Danai Muyambo & Oliver Smith
+    - role: Sound Designer
+      name: Abi Lowrie
+    - role: Set Designer
+      name: Rowan McAlpine
+    - role: Stage Manager
+      name: Lulu Smith
+    - role: Deputy Stage Manager
+      name: Dae Pomeroy
+    - role: Shadow Deputy Stage Manager
+      name: Venus Ng
+    - role: Followspot Operators
+      name: Rebecca Smith, Daisy Russell

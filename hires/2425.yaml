@@ -45,6 +45,14 @@ terms:
             name: Adam Skrzymowski
           - role: Drone Pilots
             name: Josh Heng and Maximus Kaius Leighton
+      - name: Peter Panto
+        society: Warwick Pantomime Society
+        venue: G55 Milburn House
+        people:
+          - role: Lighting Designer
+            name: Danny Turner
+          - role: Sound Designer
+            name: ????
   - name: Term 2
     shows:
       - name: Warwick Economics Summit 2025
@@ -78,6 +86,14 @@ terms:
             name: Oliver Smith and Joel Coulon
           - role: Video Assistants/Camera Operators
             name: Adam Skrzymowski, Caleb Tan, Jonathan Ord, Olivia Gielen and Tara Fahey
+      - name: Ratatouille
+        society: Warwick Pantomime Society
+        venue: Avon Drama Studio
+        people:
+          - role: Lighting Designer
+            name: Beck Sewart
+          - role: Sound Designer
+            name: Jess Birks-Kent
   - name: Term 3
     shows:
       - name: Warwick Student Arts Festival 2025

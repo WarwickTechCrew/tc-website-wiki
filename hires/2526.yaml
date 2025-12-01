@@ -65,3 +65,12 @@ terms:
             name: Sid Gurumurthy
           - role: Stage Manager & Set Designer
             name: Echo Vaughan
+      - name: Dick Whittington
+        society: Warwick Pantomime Society
+        venue: G55 Milburn House
+        people:
+          - role: Lighting Designer
+            name: Johannes Bishop-Weston
+          - role: Sound Designer
+            name: Echo Vaughan
+        

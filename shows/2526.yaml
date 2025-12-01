@@ -4,28 +4,28 @@ terms:
 - name: Term 1
   shows:
   - name: "1984"
-      society: WUDS
-      venue: Warwick Arts Centre Studio
-      instagram: 1984_warwick 
-      people:
-        - role: Technical Manager
-          name: Olly Murphy
-        - role: Lighting Designer
-          name: Dallon Costello
-        - role: Sound Designer
-          name: Matt Morris
-        - role: Creative Video Designer
-          name: George Parrett
-        - role: Production Video Designer
-          name: Olly Murphy
-        - role: Stage Manager
-          name: Charlotte Hitchin
-        - role: Deputy Stage Manager
-          name: Lulu Smith
-        - role: Assistamt Stage Manager
-          name: Rosie Davison, Venus Ng
-        - role: Lighting Operators
-          name: Isaac Godman, Laurie Daniels, and Christopher Makin
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    instagram: 1984_warwick 
+    people:
+      - role: Technical Manager
+        name: Olly Murphy
+      - role: Lighting Designer
+        name: Dallon Costello
+      - role: Sound Designer
+        name: Matt Morris
+      - role: Creative Video Designer
+        name: George Parrett
+      - role: Production Video Designer
+        name: Olly Murphy
+      - role: Stage Manager
+        name: Charlotte Hitchin
+      - role: Deputy Stage Manager
+        name: Lulu Smith
+      - role: Assistamt Stage Manager
+        name: Rosie Davison, Venus Ng
+      - role: Lighting Operators
+        name: Isaac Godman, Laurie Daniels, and Christopher Makin
     - name: Peter Pan
       society: WUDS
       venue: Warwick Arts Centre Studio

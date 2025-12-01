@@ -65,6 +65,18 @@ terms:
             name: Sid Gurumurthy
           - role: Stage Manager & Set Designer
             name: Echo Vaughan
+      - name: Christmas Lights Switch-On
+        society: Together @ Warwick
+        venue: Piazza
+        people:
+          - role: Technical Manager
+            name: Maximus Kaius Leighton
+          - role: Lighting Designer
+            name: Olly Murphy
+          - role: Sound Designer
+            name: Jonathan Ord
+          - role: Assistant Technical Manager
+            name: Hannah Hunt and Trin Balkwill
       - name: Dick Whittington
         society: Warwick Pantomime Society
         venue: G55 Milburn House

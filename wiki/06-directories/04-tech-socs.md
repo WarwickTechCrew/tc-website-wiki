@@ -41,6 +41,10 @@ nuclear reactor), but unfortunately its all being a login gate.
 Like many other drama societies, they have their own space in the Imperial Union Concert Hall, which they share with
 Imperial Cinema.
 
+## [Loughborough Stage](https://lsu.co.uk/societies/stage)
+
+Somehow functions as a society with 100+ members and only 3 committee members strong. They put on 3 shows each term
+and cover all areas of theatre including Performance, Directing, Technical, Stage Management, and Backstage.
 
 ## [Nottingham New Theatre](https://newtheatre.org.uk/)
 

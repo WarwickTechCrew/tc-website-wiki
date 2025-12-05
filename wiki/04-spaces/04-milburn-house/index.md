@@ -16,7 +16,7 @@ shortlinks:
 
 Formerly home to the [CAPITAL Centre](https://warwick.ac.uk/fac/cross_fac/capital/), then Theatre and Performance
 studies, Millburn House is one of the strangest buildings on campus. We fairly regularly use G55, as one of the two
-centrally timetabled drama studios (alongside [Avon](./03-avon.md)), with G56 and G57 providing nice white-walled
+centrally timetabled drama studios (alongside [Avon](/wiki/04-spaces/03-avon.md)), with G56 and G57 providing nice white-walled
 rehearsal/studio spaces.
 
 ## [G55](https://warwick.ac.uk/services/its/servicessupport/av/lecturerooms/roominformation/g55)

@@ -22,9 +22,9 @@ terms:
           name: Charlotte Hitchin
         - role: Deputy Stage Manager
           name: Lulu Smith
-        - role: Assistamt Stage Manager
+        - role: Assistant Stage Manager
           name: Rosie Davison, Venus Ng
-        - role: Lighting Operators
+        - role: Lighting Operator
           name: Isaac Godman, Laurie Daniels, Christopher Makin
     - name: "Peter Pan"
       society: WUDS
@@ -34,7 +34,7 @@ terms:
         - role: Technical Manager
           name: Rowan McAlpine
         - role: Lighting Designer
-          name: Danai Muyambo & Oliver Smith
+          name: Danai Muyambo, Oliver Smith
         - role: Sound Designer
           name: Abi Lowrie
         - role: Set Designer

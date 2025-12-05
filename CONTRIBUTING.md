@@ -28,7 +28,7 @@ git clone git@github.com:WarwickTechCrew/tc-website-wiki.git
 Change into cloned directory
 
 ```bash
-cd website
+cd tc-website-wiki
 ```
 
 Install npm modules

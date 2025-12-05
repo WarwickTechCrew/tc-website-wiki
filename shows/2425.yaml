@@ -18,10 +18,10 @@ terms:
           name: Neera Cheung
         - role: Deputy Stage Manager
           name: Hannah Bryne
-        - role: Lighting Operators
-          name: Danai Muyambo, Olly Murphy and Ellen Potts
-        - role: Sound Operators
-          name: Elijah Tan, Ali Aljishi and Tara Fahey
+        - role: Lighting Operator
+          name: Danai Muyambo, Olly Murphy, Ellen Potts
+        - role: Sound Operator
+          name: Elijah Tan, Ali Aljishi, Tara Fahey
     - name: Accidental Death of an Anarchist
       society: WUDS
       venue: Warwick Arts Centre Studio
@@ -35,7 +35,7 @@ terms:
           name: Kit Calvert
         - role: Sound Designer
           name: Alex Morrison
-        - role: LX Designer
+        - role: Lighting Designer
           name: Layah Rothen
         - role: Followspot Operator
           name: Keira Magee
@@ -179,7 +179,7 @@ terms:
           name: Stanley Simmons
         - role: Lighting Designer
           name: Trin Balkwill, Josh Heng
-        - role: Followspot
+        - role: Followspot Operator
           name: Oliver Smith, Alice Robson
         - role: Sound Designer
           name: Ali Aljishi
@@ -200,8 +200,10 @@ terms:
           name: Kishan Sharma
         - role: Lighting Designer
           name: Danny Turner
-        - role: Lighting Assistant/Followspot
-          name: Danai Muyambo, Adam Skrzymowski
+        - role: Lighting Assistant
+          name: Danai Muyambo
+        - role: Followspot Operator
+          name: Adam Skrzymowski
         - role: Sound Designer
           name: Kishan Sharma
         - role: Set Designer
